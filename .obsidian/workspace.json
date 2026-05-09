@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session_Sources/Spelling_Mistakes.md",
+                "file": "Claude_Project_Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spelling_Mistakes"
+              "title": "Claude_Project_Instructions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session_Sources/Spelling_Mistakes.md",
+                "file": "Claude_Project_Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spelling_Mistakes"
+              "title": "Backlinks for Claude_Project_Instructions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session_Sources/Spelling_Mistakes.md",
+                "file": "Claude_Project_Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spelling_Mistakes"
+              "title": "Outgoing links from Claude_Project_Instructions"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session_Sources/Spelling_Mistakes.md",
+                "file": "Claude_Project_Instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spelling_Mistakes"
+              "title": "Outline of Claude_Project_Instructions"
             }
           }
         ]
@@ -186,41 +186,42 @@
   },
   "active": "00469708df1633e9",
   "lastOpenFiles": [
-    "Session_Sources/Transcripts/Raw_Unedited/101226_Raw_Transcript.md",
-    "Session_Sources/Spelling_Mistakes.md",
-    "00-Campaign-Hub/Campaign Dashboard.md",
-    "Session_Sources/Recordings",
-    "Session_Sources",
-    "Session_Sources/Transcripts/Spelling_Corrected_Formatted",
-    "Session_Sources/Transcripts/Raw_Unedited",
-    "Session_Sources/Transcripts",
-    "Session 01.md",
-    "03-Characters/PCs/Blarg.md",
+    "README.md",
     "03-Characters/PCs/Kit Aluri.md",
     "03-Characters/PCs/Darby Stonefeather.md",
+    "03-Characters/PCs/Blarg.md",
+    "03-Characters/PCs/Binks Stonevein.md",
     "03-Characters/PCs/Aeolus.md",
+    "03-Characters/PCs/Darby.pdf",
+    "03-Characters/PCs/Blarg CS.pdf",
+    "03-Characters/PCs/Binks.pdf",
+    "03-Characters/PCs/Kit.pdf",
+    "DND_Sources/DnD_SpellLists_1.0.pdf",
+    "DND_Sources/Characters Associated with the Underdark.md",
+    "DND_Sources/Core Forgotten Realms Underdark Regions and Locations.md",
+    "DND_Sources/dnd_glossary_2022.pdf",
+    "DND_Sources/races.pdf",
+    "DND_Sources/DND 5e 2024 Players Handbook.pdf",
+    "DND_Sources/SRD_CC_v5.2.1.pdf",
+    "05-Media/Underdark_Map_-_Basic_Overlay.jpg",
+    "DND_Sources/Underdark.pdf",
+    "Session_Sources/Spelling_Mistakes.md",
+    "Session_Sources/Transcripts/Raw_Unedited/101226_Raw_Transcript.md",
+    "00-Campaign-Hub/Campaign Dashboard.md",
+    "Session 01.md",
     "03-Characters/NPCs/Topsy.md",
     "03-Characters/NPCs/Asha Vandree.md",
     "00-Campaign-Hub/Quote Board Master.md",
     "00-Campaign-Hub/Profanity Ledger.md",
     "00-Campaign-Hub/Loot Tracker.md",
     "00-Campaign-Hub/House Rules & Rulings.md",
-    "Test Note.md",
+    "Claude_Project_Instructions.md",
     "Templates/Session Notes Template.md",
     "Templates/NPC Template.md",
     "Templates/Location Template.md",
-    "Templates",
-    "05-Media",
-    "04-Mechanics",
-    "03-Characters/PCs/Binks Stonevein.md",
     "03-Characters/PCs/Amanita de'Champignon.md",
     "03-Characters/NPCs/Turvy.md",
     "03-Characters/NPCs/Stool.md",
-    "03-Characters/NPCs/Shuushar.md",
-    "03-Characters/NPCs/Shoor Vandree.md",
-    "03-Characters/NPCs/Sarith Kzekarit.md",
-    "03-Characters/NPCs/Roxy.md",
-    "03-Characters/PCs",
-    "03-Characters/NPCs"
+    "03-Characters/NPCs/Shuushar.md"
   ]
 }

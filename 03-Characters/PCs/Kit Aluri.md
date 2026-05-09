@@ -5,6 +5,7 @@
 > **Class:** Fighter (Battle Master) / Rogue (Assassin) multiclass
 > **Background:** Gladiator (Underdark-bred)
 > **DDB userId:** 107965379
+> Character Sheet: [[Kit.pdf]]
 
 ---
 

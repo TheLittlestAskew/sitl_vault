@@ -5,6 +5,7 @@
 > **Class:** Barbarian (Path of the Wild Heart), Level 4
 > **Background:** *[TBD]*
 > **DDB userId:** 123535156
+> Character Sheet: [[Darby.pdf]]
 
 ---
 
