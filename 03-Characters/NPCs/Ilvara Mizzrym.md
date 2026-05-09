@@ -1,14 +1,30 @@
-# Ilvara Mizzrym
-> **Type:** Antagonist
-> **Race:** Drow Priestess of Lolth
-> **Status:** Active threat
+---
+type: npc
+race: Drow
+class: Priestess
+affiliation: Lolth
+role: Outpost Commander
+status: Alive
+first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
+location: "[[Velkynvelve]]"
+---
 
-## Notes
-- Primary antagonist of the campaign
-- Commander of [[Velkynvelve]] outpost
-- Captured the party at campaign start
-- Lieutenants: [[Shoor Vandree]], [[Jorlan Duskryn]]
-- Associated: [[Asha Vandree]]
+# Ilvara Mizzrym
+
+Drow priestess and commander of [[Velkynvelve]]. Primary antagonist in the early campaign.
+
+## Description
+
+Leader of the outpost. Speaks halting Common to prisoners. Her words echo: "Accept your fate, learn to obey and you may survive."
+
+## Relationships
+
+- **[[Shoor Vandree]]** — Current lieutenant and lover
+- **[[Jorlan Duskryn]]** — Former lover; replaced by Shoor
+- **[[Asha Vandree]]** — Junior priestess serving under her
 
 ## Related
-[[Velkynvelve]] · [[Shoor Vandree]] · [[Jorlan Duskryn]] · [[Campaign Dashboard]]
+
+- [[Session 01 — Prisoners of the Underdark]]
+- [[Velkynvelve]]
+- [[Lolth]]
