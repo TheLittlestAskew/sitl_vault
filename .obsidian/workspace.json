@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Note"
+              "title": "Campaign Dashboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Note.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test Note"
+              "title": "Backlinks for Campaign Dashboard"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Note.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test Note"
+              "title": "Outgoing links from Campaign Dashboard"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Note.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Note"
+              "title": "Outline of Campaign Dashboard"
             }
           }
         ]
@@ -186,6 +186,41 @@
   },
   "active": "00469708df1633e9",
   "lastOpenFiles": [
-    "Test Note.md"
+    "Session 01.md",
+    "00-Campaign-Hub/Campaign Dashboard.md",
+    "03-Characters/PCs/Blarg.md",
+    "03-Characters/PCs/Kit Aluri.md",
+    "03-Characters/PCs/Darby Stonefeather.md",
+    "03-Characters/PCs/Aeolus.md",
+    "03-Characters/NPCs/Topsy.md",
+    "03-Characters/NPCs/Asha Vandree.md",
+    "00-Campaign-Hub/Quote Board Master.md",
+    "00-Campaign-Hub/Profanity Ledger.md",
+    "00-Campaign-Hub/Loot Tracker.md",
+    "00-Campaign-Hub/House Rules & Rulings.md",
+    "Test Note.md",
+    "Templates/Session Notes Template.md",
+    "Templates/NPC Template.md",
+    "Templates/Location Template.md",
+    "Templates",
+    "05-Media",
+    "04-Mechanics",
+    "03-Characters/PCs/Binks Stonevein.md",
+    "03-Characters/PCs/Amanita de'Champignon.md",
+    "03-Characters/NPCs/Turvy.md",
+    "03-Characters/NPCs/Stool.md",
+    "03-Characters/NPCs/Shuushar.md",
+    "03-Characters/NPCs/Shoor Vandree.md",
+    "03-Characters/NPCs/Sarith Kzekarit.md",
+    "03-Characters/NPCs/Roxy.md",
+    "03-Characters/NPCs/Ront.md",
+    "03-Characters/NPCs/Jorlan Duskryn.md",
+    "03-Characters/PCs",
+    "03-Characters/NPCs",
+    "03-Characters",
+    "02-World-Lore/Regions",
+    "02-World-Lore/Locations",
+    "02-World-Lore/Factions",
+    "02-World-Lore"
   ]
 }
