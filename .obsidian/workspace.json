@@ -184,8 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00469708df1633e9",
+  "active": "199b13cc89e8ac62",
   "lastOpenFiles": [
+    "Session_Sources/Recordings",
+    "Session_Sources",
+    "Session_Sources/Transcripts/Spelling_Corrected_Formatted",
+    "Session_Sources/Transcripts/Raw_Unedited",
+    "Session_Sources/Transcripts",
     "Session 01.md",
     "00-Campaign-Hub/Campaign Dashboard.md",
     "03-Characters/PCs/Blarg.md",
@@ -214,13 +219,8 @@
     "03-Characters/NPCs/Sarith Kzekarit.md",
     "03-Characters/NPCs/Roxy.md",
     "03-Characters/NPCs/Ront.md",
-    "03-Characters/NPCs/Jorlan Duskryn.md",
     "03-Characters/PCs",
     "03-Characters/NPCs",
-    "03-Characters",
-    "02-World-Lore/Regions",
-    "02-World-Lore/Locations",
-    "02-World-Lore/Factions",
-    "02-World-Lore"
+    "03-Characters"
   ]
 }
