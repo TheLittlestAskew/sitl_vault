@@ -11,12 +11,14 @@
             "id": "00469708df1633e9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "05-Media/Underdark_Map_-_Basic_Overlay.jpg"
+                "file": "Session_Sources/Transcripts/Raw_Unedited/010426_raw_transcript.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Underdark_Map_-_Basic_Overlay"
+              "icon": "lucide-file",
+              "title": "010426_raw_transcript"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Media/Underdark_Map_-_Basic_Overlay.jpg",
+                "file": "Session_Sources/Transcripts/Raw_Unedited/010426_raw_transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Underdark_Map_-_Basic_Overlay"
+              "title": "Backlinks for 010426_raw_transcript"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Media/Underdark_Map_-_Basic_Overlay.jpg",
+                "file": "Session_Sources/Transcripts/Raw_Unedited/010426_raw_transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Underdark_Map_-_Basic_Overlay"
+              "title": "Outgoing links from 010426_raw_transcript"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Media/Underdark_Map_-_Basic_Overlay.jpg",
+                "file": "Session_Sources/Transcripts/Raw_Unedited/010426_raw_transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Underdark_Map_-_Basic_Overlay"
+              "title": "Outline of 010426_raw_transcript"
             }
           }
         ]
@@ -184,6 +186,15 @@
   },
   "active": "00469708df1633e9",
   "lastOpenFiles": [
+    "Session_Sources/Transcripts/Raw_Unedited/122125_raw_transcript.md",
+    "Session_Sources/Transcripts/Raw_Unedited/010426_raw_transcript.md",
+    "Session_Sources/Transcripts/Raw_Unedited/120725_raw_transcript.md",
+    "Session_Sources/Transcripts/Spell_Check_Logs/101226_Spelling_Log.md",
+    "Session_Sources/Transcripts/Raw_Unedited/110915_raw_transcript.md",
+    "Session_Sources/Transcripts/Raw_Unedited/102625_raw_transcript.md",
+    "05-Media/Underdark_Map_-_Basic_Overlay.jpg",
+    "Session_Sources/Transcripts/Corrected",
+    "Session_Sources/Transcripts/Spell_Check_Logs",
     "03-Characters/PCs/Aeolus.pdf",
     "Session 01.md",
     "Claude_Project_Instructions.md",
@@ -202,10 +213,6 @@
     "DND_Sources/Core Forgotten Realms Underdark Regions and Locations.md",
     "DND_Sources/dnd_glossary_2022.pdf",
     "DND_Sources/races.pdf",
-    "DND_Sources/DND 5e 2024 Players Handbook.pdf",
-    "DND_Sources/SRD_CC_v5.2.1.pdf",
-    "05-Media/Underdark_Map_-_Basic_Overlay.jpg",
-    "DND_Sources/Underdark.pdf",
     "Session_Sources/Spelling_Mistakes.md",
     "Session_Sources/Transcripts/Raw_Unedited/101226_Raw_Transcript.md",
     "00-Campaign-Hub/Campaign Dashboard.md",
@@ -215,11 +222,6 @@
     "00-Campaign-Hub/Profanity Ledger.md",
     "00-Campaign-Hub/Loot Tracker.md",
     "00-Campaign-Hub/House Rules & Rulings.md",
-    "Templates/Session Notes Template.md",
-    "Templates/NPC Template.md",
-    "Templates/Location Template.md",
-    "03-Characters/PCs/Amanita de'Champignon.md",
-    "03-Characters/NPCs/Turvy.md",
-    "03-Characters/NPCs/Stool.md"
+    "Templates/Session Notes Template.md"
   ]
 }
