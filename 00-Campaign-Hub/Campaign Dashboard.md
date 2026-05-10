@@ -65,19 +65,19 @@
 
 ### Underdark Regions
 - [[Upperdark]] · [[Middledark]] · [[Lowerdark]]
-- [[The Northdark]] · [[The Darklake]]
+- [[The Northdark]] · [[03-World-Lore/Locations/The Darklake]]
 
 ### Key Campaign Locations
-- [[Velkynvelve]] — Drow outpost/prison; campaign starting location
-- [[Blingdenstone]] — Deep gnome city
-- [[Gracklstugh]] — Duergar city
-- [[Menzoberranzan]] — Iconic drow city
-- [[Neverlight Grove]] — Myconid settlement
-- [[Mantol-Derith]] — Trade enclave
-- [[The Silken Paths]] — Webbed travel route
+- [[03-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location
+- [[03-World-Lore/Locations/Blingdenstone]] — Deep gnome city
+- [[03-World-Lore/Locations/Gracklstugh]] — Duergar city
+- [[03-World-Lore/Locations/Menzoberranzan]] — Iconic drow city
+- [[03-World-Lore/Locations/Neverlight Grove]] — Myconid settlement
+- [[03-World-Lore/Locations/Mantol-Derith]] — Trade enclave
+- [[03-World-Lore/Locations/The Silken Paths]] — Webbed travel route
 
 ### Campaign-Specific Locations
-- [[The Feydark]] — Fey-touched Underdark region (party visited S08–S10)
+- [[03-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S08–S10)
 
 ---
 

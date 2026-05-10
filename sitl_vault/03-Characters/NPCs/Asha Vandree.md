@@ -4,7 +4,7 @@
 > **Status:** Active
 
 ## Notes
-- Associated with [[Ilvara Mizzrym]] at [[Velkynvelve]]
+- Associated with [[Ilvara Mizzrym]] at [[03-World-Lore/Locations/Velkynvelve]]
 
 ## Related
-[[Ilvara Mizzrym]] · [[Velkynvelve]] · [[Campaign Dashboard]]
+[[Ilvara Mizzrym]] · [[03-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]

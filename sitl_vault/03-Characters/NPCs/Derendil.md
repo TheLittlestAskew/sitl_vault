@@ -5,7 +5,7 @@
 
 ## Notes
 - Believes he is elven royalty
-- Caught up with other quaggoths at [[Velkynvelve]]
+- Caught up with other quaggoths at [[03-World-Lore/Locations/Velkynvelve]]
 
 ## Related
-[[Velkynvelve]] · [[Campaign Dashboard]]
+[[03-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]

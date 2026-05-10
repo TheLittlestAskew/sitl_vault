@@ -4,7 +4,7 @@
 > **Status:** See session notes
 
 ## Notes
-- Drow prisoner at [[Velkynvelve]]
+- Drow prisoner at [[03-World-Lore/Locations/Velkynvelve]]
 
 ## Related
-[[Velkynvelve]] · [[Campaign Dashboard]]
+[[03-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]

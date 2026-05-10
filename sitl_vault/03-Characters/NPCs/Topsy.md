@@ -5,10 +5,10 @@
 
 ## Notes
 - Sibling of [[Turvy]]
-- Former prisoner at [[Velkynvelve]]
+- Former prisoner at [[03-World-Lore/Locations/Velkynvelve]]
 - Taylor and Matt roll for Topsy and Turvy during combat
-- Reluctant to return to [[Blingdenstone]] — reason unknown
+- Reluctant to return to [[03-World-Lore/Locations/Blingdenstone]] — reason unknown
 - Revealed alive in S12 (surprise to players)
 
 ## Related
-[[Turvy]] · [[Campaign Dashboard]] · [[Velkynvelve]]
+[[Turvy]] · [[Campaign Dashboard]] · [[03-World-Lore/Locations/Velkynvelve]]

@@ -2,29 +2,51 @@
 type: npc
 race: Drow
 class: Priestess
-affiliation: Lolth
-role: Outpost Commander
+affiliation: Lolth; Velkynvelve commander
 status: Alive
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: "[[Velkynvelve]]"
+location: Velkynvelve (as of S02)
 ---
 
 # Ilvara Mizzrym
 
-Drow priestess and commander of [[Velkynvelve]]. Primary antagonist in the early campaign.
+Drow priestess and commander of [[03-World-Lore/Locations/Velkynvelve]]. Primary antagonist in the early campaign.
 
-## Description
+## Description / Appearance
 
-Leader of the outpost. Speaks halting Common to prisoners. Her words echo: "Accept your fate, learn to obey and you may survive."
+- Drow priestess — no detailed physical description beyond standard drow in S01–S02
+- Described as "very evil, very capricious" (S02 DM recap)
+- Bitter about being stationed at a backwater outpost; wants to get out
+
+## Personality
+
+- Cruel and controlling; speaks to prisoners with contempt
+- Capricious — punishes on whim
+- Ambitious — views Velkynvelve as beneath her station
 
 ## Relationships
 
-- **[[Shoor Vandree]]** — Current lieutenant and lover
-- **[[Jorlan Duskryn]]** — Former lover; replaced by Shoor
-- **[[Asha Vandree]]** — Junior priestess serving under her
+- **[[Shoor Vandree]]:** Current lieutenant and lover; replaced Jorlan
+- **[[Jorlan Duskryn]]:** Former lover; demoted and scarred. Jorlan's betrayal is driven by her rejection of him.
+- **[[Asha Vandree]]:** Junior priestess serving under her
+
+## Key Events
+
+- **[[Session 01 — Prisoners of the Underdark]]:** Her words to the prisoners: "Accept your fate, learn to obey and you may survive."
+- **[[Session 02 — Come Get Your Shit]]:** Voice heard shouting orders during the demon battle from the northern outpost. Led drow forces against the vrocks and chasmes. Did not directly confront the escaping party.
+
+## Key Quotes
+
+- "Accept your fate, learn to obey and you may survive." — S01 [Serious]
+
+---
 
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[Velkynvelve]]
+- [[Session 02 — Come Get Your Shit]]
+- [[03-World-Lore/Locations/Velkynvelve]]
+- [[Shoor Vandree]]
+- [[Jorlan Duskryn]]
+- [[Asha Vandree]]
 - [[Lolth]]

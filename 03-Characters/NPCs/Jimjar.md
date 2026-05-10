@@ -1,11 +1,28 @@
-# Jimjar
-> **Type:** NPC
-> **Race:** Deep Gnome
-> **Status:** See session notes
+---
+type: npc
+race: Deep Gnome (Svirfneblin)
+affiliation: Gambler
+status: Missing (disappeared overnight)
+first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
+location: Unknown
+---
 
-## Notes
-- Only met by [[Amanita de'Champignon]]
-- Taken by drow before Kit and Binks arrived
+# Jimjar
+
+Deep gnome prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Gambler who disappeared overnight.
+
+## Personality
+
+- Gambling deep gnome; talkative, charismatic
+- Different energy than Buppido — less chaotic, more charming
+
+## Key Events
+
+- **[[Session 01 — Prisoners of the Underdark]]:** Disappeared overnight before [[Darby Stonefeather]]'s arrival (Day 4 of captivity). No explanation given by DM. Only met by [[Amanita de'Champignon]] (who had been there the longest).
+
+---
 
 ## Related
-[[Velkynvelve]] · [[Campaign Dashboard]]
+
+- [[Session 01 — Prisoners of the Underdark]]
+- [[03-World-Lore/Locations/Velkynvelve]]

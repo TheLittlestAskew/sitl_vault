@@ -1,7 +1,7 @@
 ---
 session: 2
 date: 2025-10-26
-title: "The Leap of Faith"
+title: "Come Get Your Shit"
 start_location: "Velkynvelve — Various work locations"
 end_location: "Velkynvelve — Pool at base of cavern"
 party_present: ["Kit Aluri", "Amanita de'Champignon", "Darby Stonefeather", "Aeolus", "Blarg", "Binks Stonevein"]
@@ -10,7 +10,7 @@ level: "2 → 3"
 spelling_checked: true
 ---
 
-# Session 02 — The Leap of Faith
+# Session 02 — Come Get Your Shit
 
 **Session Date:** 10/26/2025
 **Campaign:** Sky Is The Limit
@@ -20,13 +20,13 @@ spelling_checked: true
 
 ## Summary
 
-The party escapes [[Velkynvelve]] during a vrock/chasme demon incursion. [[Binks Stonevein]] is formally introduced. [[Sarith Kzekarit]] has a breakdown, says "They're coming" and "Find me in [[Neverlight Grove]]," kills drow guards, and plunges into the pool. [[Kit Aluri]] reaches the armory, recovers all party gear, breaks [[Binks Stonevein]]'s shackles using Tactical Mind, and rallies the party with "Come get your shit!" [[Amanita de'Champignon]] loots the elite barracks clean. [[Darby Stonefeather]] shoves [[Asha Vandree]] off a cliff (athletics 24 vs 5). [[Blarg]] wild shapes into a wolf for the first time. The party jumps through burned webbing into the pool. [[Derendil]] is captured by quaggoths. Party levels up to Level 3. Kit selects Battle Master subclass.
+The party escapes [[03-World-Lore/Locations/Velkynvelve]] during a vrock/chasme demon incursion. [[Binks Stonevein]] is formally introduced. [[Sarith Kzekarit]] has a breakdown, says "They're coming" and "Find me in [[03-World-Lore/Locations/Neverlight Grove]]," kills drow guards, and plunges into the pool. [[Kit Aluri]] reaches the armory, recovers all party gear, breaks [[Binks Stonevein]]'s shackles using Tactical Mind, and rallies the party with "Come get your shit!" [[Amanita de'Champignon]] loots the elite barracks clean. [[Darby Stonefeather]] shoves [[Asha Vandree]] off a cliff (athletics 24 vs 5). [[Blarg]] wild shapes into a wolf for the first time. The party jumps through burned webbing into the pool. [[Derendil]] is captured by quaggoths. Party levels up to Level 3. Kit selects Battle Master subclass.
 
 ## Key Events
 
 - [[Binks Stonevein]] formally introduced — bald stone-skinned deep gnome with white goatee
 - Morning scavenging montage — all PCs roll skill checks for work duty loot
-- [[Sarith Kzekarit]] breaks away from Kit, cryptically references [[Neverlight Grove]], escapes into pool
+- [[Sarith Kzekarit]] breaks away from Kit, cryptically references [[03-World-Lore/Locations/Neverlight Grove]], escapes into pool
 - [[Kit Aluri]] first combat action: greatsword attack on quaggoth (19 to hit, 11 damage)
 - [[Darby Stonefeather]] shoves [[Asha Vandree]] off cliff path (contested athletics 24 vs 5)
 - [[Blarg]] first Wild Shape (wolf form); 2024 rules allow speech in beast form
@@ -49,9 +49,9 @@ The party escapes [[Velkynvelve]] during a vrock/chasme demon incursion. [[Binks
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 03]] (next)
-- [[Velkynvelve]]
+- [[03-World-Lore/Locations/Velkynvelve]]
 - [[Sarith Kzekarit]]
-- [[Neverlight Grove]]
+- [[03-World-Lore/Locations/Neverlight Grove]]
 - [[Eldeth]]
 - [[Asha Vandree]]
 - [[Derendil]]

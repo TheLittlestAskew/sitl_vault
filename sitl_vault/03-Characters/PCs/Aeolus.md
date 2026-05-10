@@ -18,4 +18,4 @@
 
 ## Related
 - [[Campaign Dashboard]]
-- [[The Feydark]] — Aeolus's patron connection makes him central to the Feydark arc
+- [[03-World-Lore/Locations/The Feydark]] — Aeolus's patron connection makes him central to the Feydark arc

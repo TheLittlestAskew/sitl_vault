@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Characters/PCs/Aeolus.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aeolus"
+              "title": "Campaign Dashboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Characters/PCs/Aeolus.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aeolus"
+              "title": "Backlinks for Campaign Dashboard"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Characters/PCs/Aeolus.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aeolus"
+              "title": "Outgoing links from Campaign Dashboard"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Characters/PCs/Aeolus.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aeolus"
+              "title": "Outline of Campaign Dashboard"
             }
           }
         ]
@@ -186,6 +186,29 @@
   },
   "active": "35fb547cd9fe44d1",
   "lastOpenFiles": [
+    "01-Sessions/Session 03 — Into the Dark.md",
+    "03-Characters/PCs/Kit Aluri.md",
+    "03-Characters/PCs/Binks Stonevein.md",
+    "06-Media/112326 img.png",
+    "06-Media/Buppido Derendil Eldeth.png",
+    "06-Media/jimjar ront sarith.png",
+    "06-Media/Shushar stool topsy turvy.png",
+    "06-Media/Ilvara.png",
+    "06-Media/topsy_and_turvy.png",
+    "06-Media/stool.png",
+    "06-Media/eldeth.png",
+    "06-Media/112225 img.png",
+    "06-Media/120725 img.png",
+    "03-Characters/PCs/Kit.pdf",
+    "03-Characters/PCs/Aeolus.md",
+    "DND_Sources/Notes from Addison.md",
+    "Claude_Project_Instructions.md",
+    "07-Flora_Fauna/Plants_Fungi",
+    "07-Flora_Fauna/Creatures",
+    "07-Flora_Fauna",
+    "06-Media/Untitled",
+    "03-Characters/PCs/Aeolus.pdf",
+    "01-Sessions/Session 02 — Come Get Your Shit.md",
     "01-Sessions/Session 02 — The Leap of Faith.md",
     "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "Session_Sources/Transcripts/Corrected/02 - 102625_corrected.md",
@@ -199,29 +222,15 @@
     "Session_Sources/Transcripts/Corrected/04 - 120725_corrected.md",
     "Session_Sources/Transcripts/Corrected/03 - 110925_corrected.md",
     "Session_Sources/Transcripts/Corrected/01 - 101225_corrected.md",
-    "06-Character_Journal",
+    "02-Character_Journal",
     "Untitled.md",
     "Session_Sources/Spelling_Mistakes.md",
     "Session_Sources/Transcripts/Raw_Unedited/010426_raw_transcript.md",
     "Session_Sources/Transcripts/Raw_Unedited/050326_raw_transcript.md",
     "Session_Sources/Transcripts/Raw_Unedited/Untitled.md",
     "Session_Sources/Transcripts/Raw_Unedited/041226_raw_transcript.md",
-    "Session_Sources/Transcripts/Raw_Unedited/041126_raw_transcript.md",
-    "Session_Sources/Transcripts/Raw_Unedited/101226_Raw_Transcript.md",
-    "Session_Sources/Transcripts/Spell_Check_Logs/101226_Spelling_Log.md",
-    "Session_Sources/Transcripts/Spell_Check_Logs/101226_Spell_Check_Log.md",
-    "Session_Sources/Transcripts/Raw_Unedited/032926_raw_transcript.md",
-    "Session_Sources/Transcripts/Raw_Unedited/030126_raw_transcript.md",
-    "Session_Sources/Transcripts/Raw_Unedited/021526_raw_transcript.md",
-    "05-Media/Underdark_Map_-_Basic_Overlay.jpg",
     "Session_Sources/Transcripts/Corrected",
     "Session_Sources/Transcripts/Spell_Check_Logs",
-    "03-Characters/PCs/Aeolus.pdf",
-    "03-Characters/PCs/Darby.pdf",
-    "03-Characters/PCs/Blarg CS.pdf",
-    "03-Characters/PCs/Binks.pdf",
-    "03-Characters/PCs/Kit.pdf",
-    "DND_Sources/DnD_SpellLists_1.0.pdf",
-    "DND_Sources/dnd_glossary_2022.pdf"
+    "03-Characters/PCs/Darby.pdf"
   ]
 }

@@ -4,8 +4,8 @@
 > **Status:** Active
 
 ## Notes
-- Scarred drow warrior at [[Velkynvelve]]
+- Scarred drow warrior at [[03-World-Lore/Locations/Velkynvelve]]
 - Serves under [[Ilvara Mizzrym]]
 
 ## Related
-[[Ilvara Mizzrym]] · [[Velkynvelve]] · [[Campaign Dashboard]]
+[[Ilvara Mizzrym]] · [[03-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]

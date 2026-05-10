@@ -5,8 +5,8 @@
 
 ## Notes
 - Sibling of [[Topsy]]
-- Former prisoner at [[Velkynvelve]]
-- Reluctant to return to [[Blingdenstone]] — reason unknown
+- Former prisoner at [[03-World-Lore/Locations/Velkynvelve]]
+- Reluctant to return to [[03-World-Lore/Locations/Blingdenstone]] — reason unknown
 
 ## Related
-[[Topsy]] · [[Campaign Dashboard]] · [[Velkynvelve]]
+[[Topsy]] · [[Campaign Dashboard]] · [[03-World-Lore/Locations/Velkynvelve]]

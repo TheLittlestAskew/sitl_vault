@@ -454,7 +454,7 @@ Backlink Conventions
 All Obsidian files use [[double bracket]] wiki-links to connect related content. When writing vault files:
 
 Character names link to their page: [[Kit Aluri]], [[Binks Stonevein]], [[Ilvara Mizzrym]]
-Locations link to their page: [[Velkynvelve]], [[The Feydark]], [[Blingdenstone]]
+Locations link to their page: [[03-World-Lore/Locations/Velkynvelve]], [[03-World-Lore/Locations/The Feydark]], [[03-World-Lore/Locations/Blingdenstone]]
 Session references link to their note: [[Session 01]], [[Session 12]]
 The Campaign Dashboard links to everything and is the central hub
 Every page includes a ## Related section at the bottom with relevant backlinks

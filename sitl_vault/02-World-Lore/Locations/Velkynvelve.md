@@ -18,4 +18,4 @@ Drow military outpost where the party was held prisoner at the start of the camp
 - **S11–S13:** Party returns armed, linked via spore communication
 
 ## Related
-[[Campaign Dashboard]] · [[The Silken Paths]]
+[[Campaign Dashboard]] · [[sitl_vault/02-World-Lore/Locations/The Silken Paths]]

@@ -8,8 +8,8 @@ Fey-influenced Underdark pocket where time is non-linear. ~2 subjective days = ~
 ## Campaign Events
 - [[Stool]] empowered here
 - Party trinkets began absorbing chaotic magic
-- Psilofyr's portal used to exit to [[Velkynvelve]] western passage
+- Psilofyr's portal used to exit to [[03-World-Lore/Locations/Velkynvelve]] western passage
 - Silithyr granted the party a boon
 
 ## Related
-[[Campaign Dashboard]] · [[Aeolus]] · [[Stool]] · [[Velkynvelve]]
+[[Campaign Dashboard]] · [[Aeolus]] · [[Stool]] · [[03-World-Lore/Locations/Velkynvelve]]

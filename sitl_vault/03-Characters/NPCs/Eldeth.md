@@ -4,9 +4,9 @@
 > **Status:** Alive, traveling with party
 
 ## Notes
-- Former prisoner at [[Velkynvelve]]
+- Former prisoner at [[03-World-Lore/Locations/Velkynvelve]]
 - Unfamiliar with this region of the Underdark
 - Can assist with survival checks
 
 ## Related
-[[Campaign Dashboard]] · [[Velkynvelve]]
+[[Campaign Dashboard]] · [[03-World-Lore/Locations/Velkynvelve]]

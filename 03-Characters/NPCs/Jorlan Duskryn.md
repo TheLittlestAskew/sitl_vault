@@ -2,31 +2,59 @@
 type: npc
 race: Drow
 class: Elite Warrior
-affiliation: Velkynvelve (grudge against Ilvara)
-status: Alive
+affiliation: Velkynvelve (betraying Ilvara out of personal vendetta)
+status: Alive (remained at Velkynvelve)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: "[[Velkynvelve]]"
+location: Velkynvelve (as of S02)
 ---
 
 # Jorlan Duskryn
 
-Scarred drow elite warrior stationed at [[Velkynvelve]]. Former lover of [[Ilvara Mizzrym]], replaced by [[Shoor Vandree]].
+Scarred drow elite warrior stationed at [[03-World-Lore/Locations/Velkynvelve]]. Former lover of [[Ilvara Mizzrym]], replaced by [[Shoor Vandree]].
 
-## Description
+## Description / Appearance
 
-Half his face is melted and scarred, making his expressions difficult to read. He can inflict pain on prisoners but carries his own wounds. Moves like a man burdened by more than physical weight.
+- Half his face is melted and scarred — acidic burn (S01–S02; DM notes "if you're medically inclined, might be able to guess as acidic kind of burn")
+- Expressions difficult to read due to scarring: "the scars make everything look like pain" (S01 Kit's POV)
+- Moves like a man carrying more weight than his body (S01)
+
+## Backstory
+
+- Former lover of [[Ilvara Mizzrym]]; replaced by [[Shoor Vandree]] as Ilvara's lieutenant (Kit's nat 20 history, S01)
+- Demoted from Ilvara's favor; scar may be related to whatever caused his fall from grace
+- Male drow inherently show deference to females in drow matriarchal society; Jorlan chose Kit as his contact partly because of this (S02 DM explanation)
+
+## Personality
+
+- Bitter, strategic, dangerous
+- Speaks in whispers; direct and transactional
+- "You either take what I offer or you rot here." (S01)
+- Kit could not read his motives (insight 5, S01), but his actions in S02 proved reliable
 
 ## Key Events
 
-- **[[Session 01 — Prisoners of the Underdark]]:** Approached [[Kit Aluri]] at night and whispered an offer to leave the cell unlocked during the next guard shift. Motives unclear — Kit's insight check (5) revealed nothing, but a nat 20 history check revealed his backstory as Ilvara's displaced lover.
+- **[[Session 01 — Prisoners of the Underdark]]:** Approached Kit at night and whispered an offer to leave the cell unlocked during the next guard shift. Kit's nat 20 history revealed his backstory. Insight 5 gave no read on motives.
+- **[[Session 02 — Come Get Your Shit]]:** Unlocked the cell early when demon chaos created an opportunity (instead of waiting for his night shift). Stood aside during the escape. Directed party with information about the armory and jumping into the pool. Let [[Derendil]] leap past him. Said something like "Looks like luck came early." Remained behind at Velkynvelve.
 
 ## Relationships
 
-- **[[Ilvara Mizzrym]]** — Former lover; was replaced by Shoor Vandree
-- **[[Shoor Vandree]]** — Rival who took his position
-- **[[Kit Aluri]]** — Offered escape; transactional relationship
+- **[[Ilvara Mizzrym]]:** Former lover; deep personal grudge. His betrayal is motivated by her rejection.
+- **[[Shoor Vandree]]:** Rival who took his position and Ilvara's favor.
+- **[[Kit Aluri]]:** Offered escape; transactional relationship. Proved reliable.
+
+## Key Quotes
+
+- "If I could give you a means to escape from here, would you take it?" — S01 [Serious]
+- "Does it matter?" — S01, when Kit asks why [Serious]
+- "That's fair. I have my reasons. You either take what I offer or you rot here." — S01 [Serious]
+
+---
 
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[Velkynvelve]]
+- [[Session 02 — Come Get Your Shit]]
+- [[03-World-Lore/Locations/Velkynvelve]]
+- [[Ilvara Mizzrym]]
+- [[Shoor Vandree]]
+- [[Kit Aluri]]
