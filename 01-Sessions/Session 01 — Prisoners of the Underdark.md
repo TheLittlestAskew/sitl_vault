@@ -79,38 +79,38 @@ The session ends as a vrock bursts from the northern passage chased by chasmes, 
 
 ## NPCs
 
-| Name | Race/Class | Status | Notes |
-|---|---|---|---|
-| [[Stool]] | Myconid Sprout | Alive | Telepathic bond with Amanita and Darby via rapport spores |
-| [[Topsy]] | Svirfneblin | Alive | Comedic duo with Turvy; plays pranks |
-| [[Turvy]] | Svirfneblin | Alive | Comedic duo with Topsy |
-| [[Sarith Kzekarit]] | Drow (prisoner) | Alive | Paired with Kit for guard duty |
-| [[Ilvara Mizzrym]] | Drow Priestess | Alive | Outpost commander |
-| [[Jorlan Duskryn]] | Drow Elite Warrior | Alive | Offered escape to Kit; former lover of Ilvara |
-| [[Shoor Vandree]] | Drow Captain | Alive | Ilvara's current lieutenant/lover |
-| [[Asha Vandree]] | Drow Priestess (Junior) | Alive | Ilvara's subordinate |
-| [[Ront]] | Orc | Dead | Second sacrifice; wrapped in spider webs |
-| [[Shuushar]] | Kuo-toa | Missing | Fell from bridge into pool |
-| [[Jimjar]] | Svirfneblin | Missing | Disappeared overnight |
-| [[Buppido]] | Derro | Presumed Dead | First sacrifice; ritually murdered another prisoner |
-| [[Binks Stonevein]] | Gnome Cleric/Rogue | Alive | Absent this session; confirmed for S02 |
-| Prince [[Derendil]] | Quaggoth | Alive | Non-hostile; claims to be elven royalty |
+| Name                | Race/Class              | Status        | Notes                                                     |
+| ------------------- | ----------------------- | ------------- | --------------------------------------------------------- |
+| [[Stool]]           | Myconid Sprout          | Alive         | Telepathic bond with Amanita and Darby via rapport spores |
+| [[Topsy]]           | Svirfneblin             | Alive         | Comedic duo with Turvy; plays pranks                      |
+| [[Turvy]]           | Svirfneblin             | Alive         | Comedic duo with Topsy                                    |
+| [[Sarith Kzekarit]] | Drow (prisoner)         | Alive         | Paired with Kit for guard duty                            |
+| [[Ilvara Mizzrym]]  | Drow Priestess          | Alive         | Outpost commander                                         |
+| [[Jorlan Duskryn]]  | Drow Elite Warrior      | Alive         | Offered escape to Kit; former lover of Ilvara             |
+| [[Shoor Vandree]]   | Drow Captain            | Alive         | Ilvara's current lieutenant/lover                         |
+| [[Asha Vandree]]    | Drow Priestess (Junior) | Alive         | Ilvara's subordinate                                      |
+| [[Ront]]            | Orc                     | Dead          | Second sacrifice; wrapped in spider webs                  |
+| [[Shuushar]]        | Kuo-toa                 | Missing       | Fell from bridge into pool                                |
+| [[Jimjar]]          | Svirfneblin             | Missing       | Disappeared overnight                                     |
+| [[Buppido]]         | Derro                   | Presumed Dead | First sacrifice; ritually murdered another prisoner       |
+| [[Binks Stonevein]] | Gnome Cleric/Rogue      | Alive         | Absent this session; confirmed for S02                    |
+| Prince [[Derendil]] | Quaggoth                | Alive         | Non-hostile; claims to be elven royalty                   |
 
 ---
 
 ## Loot & Items
 
-| Owner | Item | Notes |
-|---|---|---|
-| [[Kit Aluri]] | Flawed Carnelian (~10 gp) | Scavenging roll (dirty 20) |
-| [[Kit Aluri]] | Small trinket (TBD) | Hidden; sleight of hand 22 |
-| [[Darby Stonefeather]] | Small trinket (TBD) | Hidden; sleight of hand 17 |
-| [[Amanita de'Champignon]] | 5-foot silken rope | Scavenging roll (18) |
-| [[Amanita de'Champignon]] | Hand crossbow + bolts | Stolen from barracks |
-| [[Amanita de'Champignon]] | Flask of drow poison | Stolen; incapacitating agent |
-| [[Amanita de'Champignon]] | Set of drow clothes | Stolen; worn under robes |
-| [[Amanita de'Champignon]] | 4 additional items (unspecified) | D4 roll of 4; DM never listed items |
-| [[Aeolus]] | Cursed Lolth gemstone | Triggers spider attacks; requires Remove Curse |
+| Owner                     | Item                             | Notes                                          |
+| ------------------------- | -------------------------------- | ---------------------------------------------- |
+| [[Kit Aluri]]             | Flawed Carnelian (~10 gp)        | Scavenging roll (dirty 20)                     |
+| [[Kit Aluri]]             | Small trinket (TBD)              | Hidden; sleight of hand 22                     |
+| [[Darby Stonefeather]]    | Small trinket (TBD)              | Hidden; sleight of hand 17                     |
+| [[Amanita de'Champignon]] | 5-foot silken rope               | Scavenging roll (18)                           |
+| [[Amanita de'Champignon]] | Hand crossbow + bolts            | Stolen from barracks                           |
+| [[Amanita de'Champignon]] | Flask of drow poison             | Stolen; incapacitating agent                   |
+| [[Amanita de'Champignon]] | Set of drow clothes              | Stolen; worn under robes                       |
+| [[Amanita de'Champignon]] | 4 additional items (unspecified) | D4 roll of 4; DM never listed items            |
+| [[Aeolus]]                | Cursed Lolth gemstone            | Triggers spider attacks; requires Remove Curse |
 
 ---
 

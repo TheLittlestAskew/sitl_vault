@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "00-Campaign-Hub/Loot Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Dashboard"
+              "title": "Loot Tracker"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "00-Campaign-Hub/Loot Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign Dashboard"
+              "title": "Backlinks for Loot Tracker"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "00-Campaign-Hub/Loot Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campaign Dashboard"
+              "title": "Outgoing links from Loot Tracker"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "00-Campaign-Hub/Loot Tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Campaign Dashboard"
+              "title": "Outline of Loot Tracker"
             }
           }
         ]
@@ -186,6 +186,13 @@
   },
   "active": "35fb547cd9fe44d1",
   "lastOpenFiles": [
+    "00-Campaign-Hub/House Rules & Rulings.md",
+    "00-Campaign-Hub/Campaign Dashboard.md",
+    "Session 01.md",
+    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
+    "00-Campaign-Hub/Quote Board Master.md",
+    "00-Campaign-Hub/Loot Tracker.md",
+    "00-Campaign-Hub/Profanity Ledger.md",
     "01-Sessions/Session 03 — Into the Dark.md",
     "03-Characters/PCs/Kit Aluri.md",
     "03-Characters/PCs/Binks Stonevein.md",
@@ -210,7 +217,6 @@
     "03-Characters/PCs/Aeolus.pdf",
     "01-Sessions/Session 02 — Come Get Your Shit.md",
     "01-Sessions/Session 02 — The Leap of Faith.md",
-    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "Session_Sources/Transcripts/Corrected/02 - 102625_corrected.md",
     "Session_Sources/Transcripts/Corrected/11 - 032926_corrected.md",
     "Session_Sources/Transcripts/Corrected/10 - 030126_corrected.md",
@@ -223,12 +229,6 @@
     "Session_Sources/Transcripts/Corrected/03 - 110925_corrected.md",
     "Session_Sources/Transcripts/Corrected/01 - 101225_corrected.md",
     "02-Character_Journal",
-    "Untitled.md",
-    "Session_Sources/Spelling_Mistakes.md",
-    "Session_Sources/Transcripts/Raw_Unedited/010426_raw_transcript.md",
-    "Session_Sources/Transcripts/Raw_Unedited/050326_raw_transcript.md",
-    "Session_Sources/Transcripts/Raw_Unedited/Untitled.md",
-    "Session_Sources/Transcripts/Raw_Unedited/041226_raw_transcript.md",
     "Session_Sources/Transcripts/Corrected",
     "Session_Sources/Transcripts/Spell_Check_Logs",
     "03-Characters/PCs/Darby.pdf"
