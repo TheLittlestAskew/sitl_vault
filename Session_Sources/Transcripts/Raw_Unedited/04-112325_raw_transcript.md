@@ -1,0 +1,21 @@
+112325 Sky Is the Limit
+
+**Taylor was at the airport on her way home from PAX so she wasn’t able to do a session recording. **
+
+Session 4: “Life isn’t Faer-zress” - 11/23/025
+
+Last time, on “Sky is the Limit”....
+
+Deep in a winding Underdark rainforest of mosses, lichens, and fungi, the party discovered a secret door hidden in the stone wall. With the help of Eldeth the Dwarven scout, they were able to open the secret door, which led through a small passageway into two small chambers. It seemed like the party had found an ancient Dwarven or Duergar Safehouse containing equipment, supplies, and even stone cots to rest, all preserved despite being untouched for untold decades, perhaps even centuries. Not only that, but the party became aware that this place was infused with Faerzress, an ancient natural energy permeating throughout the Underdark, casting dim magical light through both rooms.
+
+At least, most of it had been untouched. Binks, Aeolus, and Blarg noticed that in the second, larger room, outfitted as a small cooking and dining area, the large table had been moved…recently.
+
+The party was unable to investigate their temporary home any further, being too exhausted from their escape. But, feeling hidden and relatively safe for the first time in several hours, Topsy and Turvy agreed to take the first watch as the party lay down for a much needed rest.
+
+Unfortunately, the rest was short-lived. Binks suddenly awoke from a nightmare to find Topsy and Turvy in the throws of lycanthropic transformation. Still groggy and exhausted, Binks could only watch, shocked and horrified, as the two Wererats, convulsing in pain and not in their right minds, blindly attacked him. Binks recovered quickly to put up magical defenses, and the scuffle awoke Kit sleeping in the next bed over. Binks shouted that the beasts were Topsy and Turvy and called for Kit not to kill them. Kit managed to pin Topsy down, but not before taking a bite from the crazed wererat. Her cry of pain and indignation awoke most of the rest of the party in the next room.
+
+Blarg, first to act after being abruptly awoken by Kit’s shout, ran to wake up Darby before running into the entrance chamber to find two “rat-like” humanoids fighting Kit and Binks. He quickly sent a Hold Person spell into the nearest were-rat (Turvy) , paralyzing him. Aeolus was not far behind and followed up with a crackling Eldritch blast that struck Turvy hard. Amanita tried to send a spore-riddled Blindness spell on Turvy from behind Aeolus but wasn’t able to get a good vantage point in the narrow doorway. Darby took a different tack, sleepily stumbling right through her allies to get through and see the commotion. Aeolus leapt out of the way, but Blarg was knocked aside and Darby nearly fell over.
+
+Binks  summoned his spiritual weapon, a giant glowing lute pick, and was able to finally incapacitate Turvy with a sturdy smack to the side of the head. Kit however, enraged from being bitten by the small were-rat, groped for a crowbar in her pack and cracked Topsy over the head, the hook of the crowbar becoming wedged behind Topsy’s neck. Running on fury and instinctual self-preservation, Kit snapped the crowbar to the side, breaking Topsy’s neck.
+
+As the fight came to an abrupt and violent end, the party took stock of their situation. Turvy unconscious, Topsy dead, and the revelation that both had been hiding their lycanthropic curse from the rest of the group. The walls around the party, only a couple hours ago providing a sense of safety and secrecy, now vaguely seemed to be closing in on all sides. The glow of the room seems to shift to match the dark mood of the escaped prisoners, as they realize that the natural power of the Faerzress may not be so natural anymore, and their recently discovered safehouse was not as safe as they first believed. What will they do now? Can they rally their morale and press on, if not for the betterment of the whole, then for the sake of their own survival? Anything can happen when only the Sky is the Limit.

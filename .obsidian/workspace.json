@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "Session_Sources/Transcripts/Raw_Unedited/06-122125_raw_transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Dashboard"
+              "title": "06-122125_raw_transcript"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "Session_Sources/Transcripts/Raw_Unedited/06-122125_raw_transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign Dashboard"
+              "title": "Backlinks for 06-122125_raw_transcript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "Session_Sources/Transcripts/Raw_Unedited/06-122125_raw_transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campaign Dashboard"
+              "title": "Outgoing links from 06-122125_raw_transcript"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "Session_Sources/Transcripts/Raw_Unedited/06-122125_raw_transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Campaign Dashboard"
+              "title": "Outline of 06-122125_raw_transcript"
             }
           }
         ]
@@ -201,8 +201,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "35fb547cd9fe44d1",
+  "active": "199b13cc89e8ac62",
   "lastOpenFiles": [
+    "Session_Sources/Transcripts/Raw_Unedited/04-112325_raw_transcript.md",
+    "Session_Sources/Transcripts/Raw_Unedited/02-102625_raw_transcript.md",
+    "Session_Sources/Transcripts/Raw_Unedited/01-101226_Raw_Transcript.md",
+    "00-Campaign-Hub/Campaign Dashboard.md",
     "01-Sessions/Session 04 — [Title Pending].md",
     "03-Characters/PCs/Kit Aluri.md",
     "03-Characters/PCs/Kit.pdf",
@@ -210,7 +214,6 @@
     "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "00-Campaign-Hub/Loot Tracker.md",
     "00-Campaign-Hub/House Rules & Rulings.md",
-    "00-Campaign-Hub/Campaign Dashboard.md",
     "Session 01.md",
     "00-Campaign-Hub/Quote Board Master.md",
     "00-Campaign-Hub/Profanity Ledger.md",
@@ -242,9 +245,6 @@
     "Session_Sources/Transcripts/Corrected/09 - 021526_corrected.md",
     "Session_Sources/Transcripts/Corrected/08 - 020126_corrected.md",
     "Session_Sources/Transcripts/Corrected/07 - 011826_corrected.md",
-    "Session_Sources/Transcripts/Corrected/06 - 010426_corrected.md",
-    "Session_Sources/Transcripts/Corrected/05 - 122125_corrected.md",
-    "Session_Sources/Transcripts/Corrected/04 - 120725_corrected.md",
     "02-Character_Journal",
     "Session_Sources/Transcripts/Corrected",
     "Session_Sources/Transcripts/Spell_Check_Logs",

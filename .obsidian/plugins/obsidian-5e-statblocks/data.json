@@ -13,7 +13,9 @@
     "patch": 3
   },
   "paths": [
-    "/"
+    "/",
+    "07-Flora_Fauna/Creatures",
+    "sitl_vault/03-Characters/NPCs"
   ],
   "autoParse": true,
   "disableSRD": false,
