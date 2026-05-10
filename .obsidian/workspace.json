@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Campaign-Hub/Loot Tracker.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loot Tracker"
+              "title": "Campaign Dashboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Campaign-Hub/Loot Tracker.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Loot Tracker"
+              "title": "Backlinks for Campaign Dashboard"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Campaign-Hub/Loot Tracker.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Loot Tracker"
+              "title": "Outgoing links from Campaign Dashboard"
             }
           },
           {
@@ -156,13 +156,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Campaign-Hub/Loot Tracker.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Loot Tracker"
+              "title": "Outline of Campaign Dashboard"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd29a3394de5990d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d173406d7c04f04",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -181,20 +197,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "35fb547cd9fe44d1",
   "lastOpenFiles": [
+    "01-Sessions/Session 04 — [Title Pending].md",
+    "03-Characters/PCs/Kit Aluri.md",
+    "03-Characters/PCs/Kit.pdf",
+    "03-Characters/NPCs/Asha Vandree.md",
+    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
+    "00-Campaign-Hub/Loot Tracker.md",
     "00-Campaign-Hub/House Rules & Rulings.md",
     "00-Campaign-Hub/Campaign Dashboard.md",
     "Session 01.md",
-    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "00-Campaign-Hub/Quote Board Master.md",
-    "00-Campaign-Hub/Loot Tracker.md",
     "00-Campaign-Hub/Profanity Ledger.md",
     "01-Sessions/Session 03 — Into the Dark.md",
-    "03-Characters/PCs/Kit Aluri.md",
     "03-Characters/PCs/Binks Stonevein.md",
     "06-Media/112326 img.png",
     "06-Media/Buppido Derendil Eldeth.png",
@@ -206,7 +226,6 @@
     "06-Media/eldeth.png",
     "06-Media/112225 img.png",
     "06-Media/120725 img.png",
-    "03-Characters/PCs/Kit.pdf",
     "03-Characters/PCs/Aeolus.md",
     "DND_Sources/Notes from Addison.md",
     "Claude_Project_Instructions.md",
@@ -226,8 +245,6 @@
     "Session_Sources/Transcripts/Corrected/06 - 010426_corrected.md",
     "Session_Sources/Transcripts/Corrected/05 - 122125_corrected.md",
     "Session_Sources/Transcripts/Corrected/04 - 120725_corrected.md",
-    "Session_Sources/Transcripts/Corrected/03 - 110925_corrected.md",
-    "Session_Sources/Transcripts/Corrected/01 - 101225_corrected.md",
     "02-Character_Journal",
     "Session_Sources/Transcripts/Corrected",
     "Session_Sources/Transcripts/Spell_Check_Logs",
