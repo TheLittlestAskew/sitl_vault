@@ -1,6 +1,7 @@
 ---
 session_number: 5
 session_date: 2025-12-07
+session_title: "Silvered"
 start_location: "Ancient Dwarvish Safe House — aftermath of wererat attack"
 end_location: "Underground tunnels beneath safe house (Binks separated below)"
 party_present:
@@ -16,11 +17,11 @@ party_present:
 party_level: 3
 pursuit_level: 3
 total_rolls: 66
-title_status: "Pending confirmation"
+title_status: "Confirmed"
 spelling_checked: true
 ---
 
-# Session 05 — [Title Pending]
+# Session 05 — Silvered
 **Date:** 12/07/2025 | **Party Level:** 3 | **Pursuit Level:** 3/5
 
 ---
@@ -32,6 +33,7 @@ spelling_checked: true
 | Campaign Name | Sky Is The Limit |
 | Session Number | 05 |
 | Session Date | 12/07/2025 |
+| Session Title | Silvered |
 | Start Location | Ancient Dwarvish safe house ([[faerzress]]-suffused waystation), Underdark passage north of [[Velkynvelve]] |
 | End Location | Underground tunnels beneath the safe house floor; [[Binks Stonevein]] fallen down a slide into lower passages |
 | Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Aeolus]], [[Blarg]], [[Amanita de'Champignon]], [[Darby Stonefeather]], [[Eldeth]] (NPC), [[Stool]] (NPC), [[Turvy]] (NPC — incapacitated/injured) |
@@ -295,7 +297,7 @@ Session 5 was a social, exploration, and investigation session with no combat en
 | Tone/humor | "Bad, But Could Be Fun" |
 | Poetic | "What the Crowbar Remembers" |
 
-**Final Chosen Title:** [Pending confirmation]
+**Final Chosen Title:** Silvered
 
 ---
 
@@ -328,6 +330,7 @@ Session 5 was a social, exploration, and investigation session with no combat en
 ## Related
 
 - [[Session 03 — Into the Dark]]
+- [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 06]]
 - [[Kit Aluri]]
 - [[Binks Stonevein]]
