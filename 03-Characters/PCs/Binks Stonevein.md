@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Matt (MattOli)
 first_appearance: "[[Session 02 — Come Get Your Shit]]"
-location: Underground tunnels — fell down slide below safe house (as of S05)
+location: Oozing Temple (flooding, as of S06)
 ---
 
 # Binks Stonevein
@@ -43,19 +43,23 @@ location: Underground tunnels — fell down slide below safe house (as of S05)
 - Blends in and uses his small size to his advantage
 - Pragmatic survivalist — picks up "stuff that people usually just don't pay attention to" (S02)
 - Quick decision-maker under pressure: "I'd rather jump, so that's what I'm gonna do." (S02)
-- When approaching danger: runs immediately from the quaggoth growl (S02, wise retreat)
+- Emerging combat identity as the party's ooze slayer — 3 gray ooze kills in S06 alone
 - Deep faith in [[Garl Glittergold]]; lets trickster-god instincts guide tactical decisions (S05 Augury)
 
 ## Abilities & Class Features
 
-- **Invoke Duplicity** (Channel Divinity)
+- **Invoke Duplicity** (Channel Divinity): Used on Glabbagool to test its nature (S06)
 - **Sneak Attack** (1d6)
-- **Blessing of the Trickster**
-- **Prestidigitation:** Attempted to ignite spider webbing (S02, rolled 17 vs DC 20, failed — needs combustion source)
-- **Pass Without Trace:** Cast during S03 travel through Underdark passages; provided stealth bonus to full party
+- **Blessing of the Trickster:** Grants advantage on stealth. Given to Turvy for scouting (S06).
+- **Prestidigitation:** Attempted to ignite spider webbing (S02, rolled 17 vs DC 20, failed)
+- **Pass Without Trace:** Cast during S03 travel
 - **Healing Word:** Used to wake Turvy (9 HP, S05)
-- **Augury:** Ritual cast using DM Inspiration and Garl Glittergold talisman (S05). Slide = "bad, but could be fun." Dwarven path = safe, boring.
+- **Augury:** Ritual cast using DM Inspiration and Garl Glittergold talisman (S05)
+- **Guiding Bolt:** Primary offensive spell. Devastating against oozes — 3 kills in S06.
+- **Invisibility:** Used to scout ahead and set up ambush on gray ooze (S06 Combat 2).
+- **Thaumaturgy:** Used through Invoke Duplicity to test Glabbagool (S06).
 - **Spiritual Weapon:** Giant glowing lute pick. Used to KO Turvy non-lethally (S04).
+- **Toll the Dead:** Attempted on ooze (S06 Combat 3, wisdom 14 vs ooze save 16 — failed).
 - **Weapon Mastery:** Hand Crossbow (Vex), Shortsword (Vex)
 - **Fey Touched (Wisdom)**
 - Darkvision (deep gnome)
@@ -73,21 +77,27 @@ location: Underground tunnels — fell down slide below safe house (as of S05)
 ## Relationships
 
 - **[[Kit Aluri]]:** Most trusted ally. Arrived together. Kit broke his shackles (S02). Kit rescued him from drowning (S03).
-- **[[Topsy]] & [[Turvy]]:** Matt rolls for Topsy and Turvy during combat alongside Taylor. Binks advocated for Turvy's survival (S05); healed him with Healing Word.
-- **[[Garl Glittergold]]:** Deepening active relationship with his trickster deity. Augury ritual in S05 directly influenced tactical decisions.
+- **[[Topsy]] & [[Turvy]]:** Matt rolls for Topsy and Turvy during combat alongside Taylor. Binks advocated for Turvy's survival (S05); healed him with Healing Word. Granted Turvy Blessing of the Trickster for scouting (S06).
+- **[[Blarg]]:** Blarg diagnosed and healed Binks after his fall (S06). Close working relationship.
+- **[[Darby Stonefeather]]:** Accidentally hit Darby with Guiding Bolt (S06 Combat 3, 8 damage after Stone's Endurance). Darby barely flinched.
+- **[[Glabbagool]]:** First contact via Invoke Duplicity + Thaumaturgy (S06). Glabbagool said "That tickles."
+- **[[Garl Glittergold]]:** Deepening active relationship with his trickster deity.
 
 ## Key Events
 
 - **[[Session 02 — Come Get Your Shit]]:** Formally introduced. Sleight of hand 21 retained trinket. Survival 22 for guard post scavenge. Stealth dirty 20 approaching shrine. Dashed to armory. Kit broke his shackles. Leveled to 3.
 - **[[Session 03 — Into the Dark]]:** Nearly drowned in pool; rescued by Kit (athletics 17). Cast Healing Word on Aeolus. Cast Pass Without Trace for party stealth through mushroom cavern. Spotted hidden dwarven door outline.
 - **[[Session 04 — Life Isn't Faer-zress]]:** Woke first during wererat attack. Shouted warning to Kit not to kill them. Summoned Spiritual Weapon (giant glowing lute pick). KO'd Turvy non-lethally.
-- **[[Session 05 — Silvered]]:** Provided historical context about Blingdenstone wererats. Healed Turvy (Healing Word 9 HP). Punched Amanita out of madness stun (unarmed strike 23 to hit, 2 damage). Investigated table post-rest (Investigation 5). Cast Augury on tunnel paths. Fell/slid down the deeper tunnel — session ends with party split. **Currently separated from party.**
+- **[[Session 05 — Silvered]]:** Provided historical context about Blingdenstone wererats. Healed Turvy (Healing Word 9 HP). Punched Amanita out of madness stun (unarmed strike 23 to hit, 2 damage). Cast Augury on tunnel paths. Fell/slid down the deeper tunnel — session ends with party split.
+- **[[Session 06 — The Long Way Down]]:** Found at bottom of shaft — 8 fall damage, deaf, vision impaired. CON save 16 (DC 15) to regain consciousness. Shouted for help (CON 16). Diagnosed by Blarg (medicine 25 — TBI, burst eardrums). Healed by Blarg (Cure Wounds, 15 HP — restored hearing and vision). Used Invoke Duplicity + Thaumaturgy on [[Glabbagool]]. Granted [[Turvy]] Blessing of the Trickster for scouting. **Combat 1:** Guiding Bolt killed ceiling gray ooze (22 to hit, 14 radiant). **Combat 2:** Cast Invisibility, scouted ahead, detected gray ooze. Guiding Bolt with advantage from stealth — 22 radiant damage, instant kill. **Combat 3:** Toll the Dead failed (ooze passed save). Guiding Bolt missed ooze C, accidentally hit [[Darby Stonefeather]] (9 radiant, reduced to 8 by Stone's Endurance). **Three gray ooze kills in one session — emerging "ooze slayer" identity.**
 
 ## Key Quotes
 
 - "Can you break me out my shackles first?" — S02 [Funny]
 - "I'd rather jump, so that's what I'm gonna do." — S02 [Funny/Decisive]
 - "Bad, but could be fun." — S05, Augury result for the slide tunnel [Funny/DM Quip]
+- "I guess I'm made to kill slimes. It's pretty good." — S06 [Funny]
+- "Oh, hey, guys. Thanks for coming." — S06, after being healed at bottom of shaft [Funny]
 
 ---
 
@@ -97,7 +107,10 @@ location: Underground tunnels — fell down slide below safe house (as of S05)
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
+- [[Session 06 — The Long Way Down]]
 - [[03-World-Lore/Locations/Velkynvelve]]
+- [[Oozing Temple]]
+- [[Glabbagool]]
 - [[Kit Aluri]]
 - [[Topsy]]
 - [[Turvy]]

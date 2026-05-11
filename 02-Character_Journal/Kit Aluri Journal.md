@@ -28,7 +28,7 @@ The tiefling, Aeolus, arrived two days ago in a flash of magic—just appeared o
 
 The dwarf, Blarg, came in with the last prisoner exchange. He is a strange one. Cheerful. Content. Humming tunes in the corner of a prison cell like he is waiting for a carriage. He fell through a sinkhole in the Evermoors and the drow scooped him up. Somehow he identified the wood-like material the platforms are made from—Zurkhwood, an edible mushroom—and seemed genuinely delighted by this information.
 
-Then last night, the scarred one came. Jorlan. Half his face is melted and he moves like a man carrying more weight than his body. He sent the other guard away and leaned close to the bars. He whispered. I whispered back. He offered an escape. I asked why. He said it did not matter. I told him it mattered if I was going to believe him. He said I could take what he offered or rot. I took it. I could not read his face—the scars make everything look like pain—but I know from the guards that he used to share the priestess Ilvara’s bed until a younger captain named Shoor Vandree replaced him. Whether his offer comes from spite, strategy, or something else entirely, I do not know. My insight told me nothing. But my history told me enough. A scorned drow with a ruined face and a grudge is dangerous, but he may be the most honest person in this place.
+Then last night, the scarred one came. Jorlan. Half his face is melted and he moves like a man carrying more weight than his body. He sent the other guard away and leaned close to the bars. He whispered. I whispered back. He offered an escape. I asked why. He said it did not matter. I told him it mattered if I was going to believe him. He said I could take what he offered or rot. I took it. I could not read his face—the scars make everything look like pain—but I know from the guards that he used to share the priestess Ilvara's bed until a younger captain named Shoor Vandree replaced him. Whether his offer comes from spite, strategy, or something else entirely, I do not know. My insight told me nothing. But my history told me enough. A scorned drow with a ruined face and a grudge is dangerous, but he may be the most honest person in this place.
 
 Tomorrow night. He will leave the cell unlocked during the guard shift. Between now and then, we have a day of forced labor ahead. I need to learn the layout, find our gear, and figure out which of these prisoners will fight when the moment comes.
 
@@ -58,11 +58,11 @@ The night before, I told the others what they needed to know. Not everything. Ju
 
 The morning came and they put us back to work. I went to the barracks this time, paired again with Sarith, the silent drow with the murder charge. Binks took the guard post. Amanita and Darby were in the main hall. Aeolus and Blarg stayed tangled up in the shrine, still fighting that damned spider from yesterday.
 
-I kept my head down and my eyes open. Found a few more useful things. Everybody did—Darby especially. She faked a fumble on the lift and swiped gear right out from under a guard’s nose. That girl is learning faster than she lets on.
+I kept my head down and my eyes open. Found a few more useful things. Everybody did—Darby especially. She faked a fumble on the lift and swiped gear right out from under a guard's nose. That girl is learning faster than she lets on.
 
 Then it all happened at once. The buzzing came first. This deep, thrumming drone that made the air vibrate in my teeth. Then the shrieking—a sound like a vulture being torn apart from the inside. I could not see it. My head was somewhere else entirely, stuck in this thick, muffled fog. And then Sarith started laughing.
 
-He laughed and buckled and said, “They’re coming. They’re coming.” I asked who. He said, “Find me in Neverlight Grove if you wish to speak again.” I tried to grab him. Got my arms around him and felt him slip through like smoke. He pulled out two makeshift daggers, dropped down into the outpost below me, and I heard shouts, a crash, then water. Gone.
+He laughed and buckled and said, "They're coming. They're coming." I asked who. He said, "Find me in Neverlight Grove if you wish to speak again." I tried to grab him. Got my arms around him and felt him slip through like smoke. He pulled out two makeshift daggers, dropped down into the outpost below me, and I heard shouts, a crash, then water. Gone.
 
 I did not have time to think about it. I ran straight for the armory, climbed the ladder, and started ripping chests open. I found our gear—all of it. Packs, weapons, armor, shoved into Zurkhwood crates like garbage. I put my own armor on first. I know what that sounds like. But a soldier who is not armored is not useful to anyone, and I had people counting on me. Binks came up behind me—I almost swung on him before I recognized those small footsteps. He held up his shackles and I broke them. Tactical Mind. You feel the leverage before you see it, and then you just push.
 
@@ -91,25 +91,25 @@ As we plunged into the dark, I felt something shift inside me. Like a door openi
 
 Day 7:
 
-We hit the water and the water hit back. The pool was deeper than it looked. I went under and came up kicking, spitting waste water that the drow had been dumping their garbage into for who knows how long. Immediately, three problems: Binks could not swim. Aeolus was fading. And Darby had already sunk to the bottom chasing two chests of gear like a woman who had never been told the word ‘no.’
+We hit the water and the water hit back. The pool was deeper than it looked. I went under and came up kicking, spitting waste water that the drow had been dumping their garbage into for who knows how long. Immediately, three problems: Binks could not swim. Aeolus was fading. And Darby had already sunk to the bottom chasing two chests of gear like a woman who had never been told the word 'no.'
 
-I grabbed Binks first. He was flailing like a fish on a dock, all limbs and no technique. I got my arms under his and dragged him to the surface while my legs screamed from carrying two people. Blarg paddled over and between us we kept the gnome’s head above water. Then Binks rolled a natural twenty and suddenly he could swim. Just like that. I do not understand how this world works.
+I grabbed Binks first. He was flailing like a fish on a dock, all limbs and no technique. I got my arms under his and dragged him to the surface while my legs screamed from carrying two people. Blarg paddled over and between us we kept the gnome's head above water. Then Binks rolled a natural twenty and suddenly he could swim. Just like that. I do not understand how this world works.
 
 Darby breached the surface carrying both chests like they weighed nothing. She stepped onto the shallows and her hands sank into something gray and slick. The thing reared up—a gray ooze, ten feet of it, and I heard something inside my skull: Flesh for the Faceless Lord. My blood went cold.
 
-Amanita reached into the thing with her bare hand and hit it with some kind of dark energy. Then she coughed and spores burst from her mouth, surprising her as much as the ooze. She said something like, “Oh my god, I can produce spores. I’m a mushroom.” Seven damage on her first turn as a full-fledged druid and she did not even know she could do it.
+Amanita reached into the thing with her bare hand and hit it with some kind of dark energy. Then she coughed and spores burst from her mouth, surprising her as much as the ooze. She said something like, "Oh my god, I can produce spores. I'm a mushroom." Seven damage on her first turn as a full-fledged druid and she did not even know she could do it.
 
 The ooze hit Amanita back. Hard. Fourteen damage on a critical hit—four bludgeoning and ten acid. She went pale. Blarg swam to her and put his hands on her shoulders and channeled something divine. Twenty-three points of healing in a single touch. I have never seen anything like it. She went from half-dead to standing in the space of a breath.
 
-I pulled Darby out of the slime’s reach. Used Adrenaline Rush to dash fifteen feet with her weight on my shoulder. The ooze swung at me and missed. Darby whipped it with her actual whip—nine damage—and it started to lose consistency. Blarg finished it off with a bolt of radiant light. Guiding Bolt. Thirteen damage. The thing just melted.
+I pulled Darby out of the slime's reach. Used Adrenaline Rush to dash fifteen feet with her weight on my shoulder. The ooze swung at me and missed. Darby whipped it with her actual whip—nine damage—and it started to lose consistency. Blarg finished it off with a bolt of radiant light. Guiding Bolt. Thirteen damage. The thing just melted.
 
 We ran. Two hours through tunnels and passages, fast pace, no looking back. The adrenaline burned off eventually and we found a spot to rest. One point of exhaustion for everyone. Short rest. Hit dice. A moment to breathe.
 
 While we rested, Binks talked to Topsy and Turvy in Gnomish. He said Blingdenstone—the deep gnome city—was the safest option, maybe two weeks away. He knows the terrain heading north. But we also remembered something Shuushar had said about his hometown, Sloobludop, on the Darklake. Ten days or less. Closer, but off the path we were taking. The decision was made: north toward Blingdenstone, with the option to divert toward the Darklake if we needed to.
 
-Aeolus’s eyes are sharper than mine in the dark. Some warlock ability. He spotted two passages when the rest of us saw one. History checks reminded us: the north passage leads eventually to Menzoberranzan and then to Blingdenstone. The west leads to the Darklake. The south leads toward the duergar city of Gracklstugh. We picked north.
+Aeolus's eyes are sharper than mine in the dark. Some warlock ability. He spotted two passages when the rest of us saw one. History checks reminded us: the north passage leads eventually to Menzoberranzan and then to Blingdenstone. The west leads to the Darklake. The south leads toward the duergar city of Gracklstugh. We picked north.
 
-We came to a cavern with a stream running through it. Mushrooms—poisonous ones, devil’s mushroom, Amanita called them Timmask—and a colony of fire beetles feeding on them. The beetles glow. We snuck past with Binks’s magic dampening our sound. Every roll was twenty or higher. Then Aeolus spotted something in the wall that none of us would have seen without his vision: a hidden door, five feet high, dwarven engravings. Eldeth spoke a word in Dwarvish and the stone dropped open.
+We came to a cavern with a stream running through it. Mushrooms—poisonous ones, devil's mushroom, Amanita called them Timmask—and a colony of fire beetles feeding on them. The beetles glow. We snuck past with Binks's magic dampening our sound. Every roll was twenty or higher. Then Aeolus spotted something in the wall that none of us would have seen without his vision: a hidden door, five feet high, dwarven engravings. Eldeth spoke a word in Dwarvish and the stone dropped open.
 
 A passageway. Possibly shelter. We will see.
 
@@ -184,6 +184,54 @@ Binks cast some kind of ritual — his trickster god answering questions about w
 The floor gave way further. Binks went down. The rest of us scrambled back from the edge. He's somewhere below us now, in the dark, and we're standing above a hole in the ground trying to figure out whether to follow the gnome who just dove headfirst into the worst possible option because his god thought it would be funny.
 
 I held to that and I do not regret it. The tunnels below are elf-sized so I hung back. Yanked Amanita out when the floor started going. That part I can do.
+
+---
+
+## Session 06 — The Long Way Down
+
+Day ???:
+
+The gnome fell. That is the short version.
+
+The longer version is that the floor gave out again and Binks went down with it — stone, rubble, and all — sliding into the dark like the earth itself had swallowed him. We heard nothing for a long, terrible moment. Not a shout, not a groan. Just the settling of dust and the faint sound of my own pulse hammering in my ears.
+
+Aeolus moved first. He touched the wall and simply walked down it, straight down the shaft like gravity was a suggestion. I have never been jealous of magic before, but watching him stroll vertically into the dark while the rest of us strung rope and hammered pitons into crumbling stone — I felt something close to it.
+
+Darby set up the gear. I have to give her credit: she works rope and grappling hooks like she was born to it. The drow make excellent climbing equipment, I will admit that much. Within minutes we had three lines anchored and the way down was as safe as it was going to get. I went down hard and fast. No hesitation. Controlled descent, hands burning on the silk, stone scraping past my shoulders in the narrow places. A soldier does not pause at the mouth of a hole when a comrade is at the bottom of it.
+
+Blarg was not so lucky. He slipped on the second stretch where the tunnel narrows and the stone gets jagged. I heard the scrape and the grunt before I saw him sliding. Darby and I caught him before he could land on Binks. Could have been worse.
+
+Binks was alive. Deaf, bleeding from the ears, vision scrambled — but alive. He was lying on a pile of old bones and rubble at the bottom of a cavern that smelled like wet stone and something oily. Blarg knelt beside him, checked his ears, wrapped his head, and laid hands on him with healing magic. Within minutes Binks could hear again, see again.
+
+Turvy came with us. I asked him directly: what are you going to do? His sister was dead on a bed upstairs, and Eldeth had offered to watch over the body. Turvy said gnomes protect gnomes. He looked me in the eye and told me he could control the curse — that wererats in their right minds never bite their own kind. I told him the party comes first in every situation, and I meant it. If he turns on us, I will not hesitate. But he seemed to understand that, and he shifted into his rat form and scurried down the shaft like it was nothing.
+
+The cavern below was wrong. Bones everywhere — goblin, gnoll, drow, beast. Some ancient. An oily black substance seeping from the stone. Blarg stood still and felt the earth with some dwarven sense I did not know he had. He said there were two things moving at the edge of his range, barely registering. We sent Turvy to scout. He did not come back right away.
+
+Then we heard the squeak.
+
+Another gray ooze had him. This one was on the ceiling, smothering him in that same foul slime. Blarg hit it with something radiant, Aeolus blasted it, and Binks — Binks, who ten minutes ago could not hear his own name — put a guiding bolt straight through it and splattered it across the ceiling like paint. The gnome is made to kill slimes, apparently.
+
+Past the dead ooze, through a crack in the wall, we found something extraordinary. A gelatinous cube. Translucent, enormous, filling a corridor. With an eyeball. And a voice in our heads. It said its name was Glabbagool, and it seemed genuinely delighted to see us.
+
+Amanita, of course, immediately became its best friend. They traded — a mushroom for fourteen gold coins and a mace. I watched a druid feed a mushroom to a sentient cube and receive currency in return, and I thought: this is my life now.
+
+Darby reached into the cube and pulled the mace free. It flared with green fire when she spoke, and suddenly the goliath who had been stumbling blind through every dark passage had a torch. A weapon that burns. I could see the change in her posture. She locked in.
+
+The descent continued. Blarg turned into a giant spider — I will never get used to that — and Binks rode on his back while the rest of us navigated an increasingly acidic, flooded slope. Aeolus slipped and burned. Amanita got stuck in Blarg's web. Darby went back up to pull her free. We were not graceful, but we were alive.
+
+Binks went invisible and scouted ahead. Found another gray ooze lurking in the next chamber. Killed it in a single shot from the dark. No one else even drew a weapon.
+
+Then we found the temple. Four hallways with weakened stones over deep pits. I watched Amanita misjudge a jump and nearly fall into a pit that had something black and hungry at the bottom. I caught her wrist and hauled her up. Blarg laid web across the gap. We all made it through.
+
+The fountain room was beautiful in a ruined way. Seven niches in the walls, a crumbling statue on a pedestal, brackish water in a basin. Four of the niches held what looked like formless sculptures. They were not sculptures. They were four more gray oozes, and they attacked.
+
+The fight was quick and ugly. I cut one nearly in half and watched the remains seep into the stone and reform into the statue on the pedestal. Darby raged for the first time since I have known her — quiet, focused, not a roar but a settling — and crushed another with her new mace. Binks accidentally sent a bolt of light into Darby instead of the ooze he was aiming for. She barely flinched. Blarg called down moonlight. Amanita finished the last one with her spores.
+
+The statue reformed as we fought. Clawed feet became legs, became a body with a tail. A dragon, or something like one. When the last ooze died, the statue's eyes lit up and the fountain basin opened, revealing treasure beneath: silver, gold, bracelets, a drow dagger with a spider on the hilt, a healing potion, and a vial of something slippery.
+
+Then the wall cracked. Water poured in. The fountain began to overflow. Within seconds we were ankle-deep and rising.
+
+We are always running. We are always one step ahead of drowning. But at least this time we are running together, and some of us have new weapons.
 
 ---
 

@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
+location: Oozing Temple (flooding, as of S06)
 ---
 
 # Images
@@ -28,7 +28,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 
 ## Description / Appearance
 
-- No detailed physical description given in S01-S05 beyond being an orc
+- No detailed physical description given in S01-S06 beyond being an orc
 - 120ft darkvision (noted S01 — used to spot Ront's body in webs from the cell)
 - Wears armor recovered from the Velkynvelve armory (donned during S02 escape)
 - Carries a greatsword (found on armory rack, S02)
@@ -51,6 +51,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - Observant and calculating even under stress, though can get "stuck in her head" (S02: perception 7 during demon arrival because she was dissociating)
 - Unapologetic about violent pragmatism — killed Topsy without hesitation, openly wanted to kill Turvy (S04-S05)
 - Capable of raw honesty even when it's ugly: "I killed your sister because she tried to kill me... I'm a fucking orc." (S05)
+- S06: Evolving into a conditional diplomat — negotiated terms with Turvy rather than simply threatening. Still pragmatic, but capable of giving people a chance.
 
 ## Abilities & Class Features
 
@@ -60,9 +61,10 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - **Adrenaline Rush** (orc trait — mentioned S02)
 - **Tactical Mind:** Expend a superiority die to add to an ability check. First used S02 to break Binks's shackles (strength 18 + D6 roll of 4 = 22, beating DC 20)
 - **Battle Master subclass:** Selected at Level 3 (end of S02). Three maneuvers to be chosen.
-- **Action Surge:** Available but not used in S01-S02 ("I only have one action surge so I will not do that just now")
+- **Savage Attacker:** Reroll melee damage once per turn. Used S06 Combat 3 on ooze B (rerolled to 11).
+- **Action Surge:** Available but not used in S01-S02
 - **Second Wind:** Available; not used in S01-S02
-- **Dungeon Delver feat:** Grants advantage on Investigation checks for traps and hidden features. DM acknowledged this was overlooked during S05 play; should be applied going forward.
+- **Dungeon Delver feat:** Grants advantage on Investigation checks for traps and hidden features.
 
 ## Inventory / Loot
 
@@ -78,12 +80,12 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 ## Relationships
 
 - **[[Binks Stonevein]]:** Most trusted party member. Arrived in the same caravan. Kit broke his shackles using Tactical Mind (S02). Kit trusts Binks implicitly.
-- **[[Jorlan Duskryn]]:** Transactional. Jorlan approached Kit with the escape offer (S01). Kit could not read his motives (insight 5). Jorlan proved reliable in S02. Confirmed dead per Addison's notes.
-- **[[Sarith Kzekarit]]:** Paired for guard duty (S01). Kit failed to stop his escape (grapple 7, S02). Sarith told her to find him at Neverlight Grove.
+- **[[Jorlan Duskryn]]:** Transactional. Jorlan approached Kit with the escape offer (S01). Confirmed dead per Addison's notes.
+- **[[Sarith Kzekarit]]:** Paired for guard duty (S01). Sarith told her to find him at Neverlight Grove.
 - **[[Ilvara Mizzrym]]:** Primary captor. Kit has studied her command structure and mapped the outpost around her.
-- **[[Turvy]]:** Tense. Kit wanted him dead, settled for knocking him out, failed, and ultimately allowed his release. Delivered the defining "I'm a fucking orc" speech directly to his face (S05).
-- **[[Aeolus]]:** Trusts Aeolus to stay awake on watch. Aeolus sided with Kit during Turvy debate (S05).
-- **[[Binks Stonevein]]:** Pulled Binks from drowning (athletics 17, S03).
+- **[[Turvy]]:** Evolved from hostile to conditional alliance (S06). Kit killed Topsy and openly wanted to kill Turvy. In S06, Kit set clear terms: "The what's best for the party will come first in every situation." Turvy accepted. Kit internally acknowledged Turvy's wererat form is "really convenient sometimes."
+- **[[Aeolus]]:** Trusts Aeolus to stay awake on watch.
+- **[[Amanita de'Champignon]]:** Caught Amanita when she fell into pit trap (S06). Protective.
 
 ## Key Events
 
@@ -91,7 +93,8 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - **[[Session 02 — Come Get Your Shit]]:** Reached armory, recovered all party gear. Broke Binks's shackles with Tactical Mind. Shouted "Come get your shit!" to rally the party. First combat: greatsword vs quaggoth (19 to hit, 11 damage). Jumped into pool. Leveled to 3, selected Battle Master.
 - **[[Session 03 — Into the Dark]]:** Rescued Binks from drowning (athletics 17). Pulled Darby from gray ooze.
 - **[[Session 04 — Life Isn't Faer-zress]]:** Bitten by Topsy during involuntary wererat attack. Killed Topsy with crowbar — hook behind neck, snapped sideways. Defining moment of the campaign so far.
-- **[[Session 05 — Silvered]]:** Discovered crowbar tip is silvered (transmutation magic, source unknown). Led the Turvy debate from the kill-him side. Delivered defining speech to Turvy. Attempted to knock Turvy out (multiple failed rolls). Investigated tunnel system — identified dual-purpose Duergar escape/trap design (Investigation 18). Yanked Amanita to safety during floor collapse.
+- **[[Session 05 — Silvered]]:** Discovered crowbar tip is silvered (transmutation magic, source unknown). Led the Turvy debate from the kill-him side. Delivered defining speech to Turvy. Investigated tunnel system. Yanked Amanita to safety during floor collapse.
+- **[[Session 06 — The Long Way Down]]:** Descended shaft to rescue Binks (athletics 24 — clean descent). Caught Blarg during his slip (with Darby). Negotiated conditional terms with Turvy: party first, no tolerance for losing control. Initiated tactical command during rescue operation. Combat 3: nat 20 initiative (23). Slashed ooze A for 13 damage, noticed ooze remains reforming into statue (perception 16). Slashed ooze B for 11 (Savage Attacker reroll). Took 9 acid damage from ooze (-1 AC). Caught Amanita when she fell into flagstone pit trap. Dragged Darby and Amanita forward when Darby couldn't see in the dark.
 
 ## Key Quotes
 
@@ -102,6 +105,8 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - "Come get your shit." — S02, rallying the party [Funny/Action]
 - "Oh, shit. I thought I was the only one here." — S02, when Binks appears in armory [Funny]
 - "I killed your sister because she tried to kill me... I'm a fucking orc. I don't want to hear it." — S05, to Turvy [Serious/Defining]
+- "The what's best for the party will come first in every situation." — S06, to Turvy [Serious]
+- "God damn it. I bet that's really convenient sometimes." — S06, re: Turvy's wererat form [Funny]
 
 ## POV Journal
 
@@ -116,7 +121,9 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
+- [[Session 06 — The Long Way Down]]
 - [[03-World-Lore/Locations/Velkynvelve]]
+- [[Oozing Temple]]
 - [[Binks Stonevein]]
 - [[Jorlan Duskryn]]
 - [[Topsy]]
