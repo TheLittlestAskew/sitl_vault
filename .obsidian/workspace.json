@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "Session_Sources/Transcripts/Corrected/12 - 032926_corrected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Dashboard"
+              "title": "12 - 032926_corrected"
             }
           }
         ]
@@ -203,6 +203,11 @@
   },
   "active": "199b13cc89e8ac62",
   "lastOpenFiles": [
+    "Session_Sources/Transcripts/Corrected/07 - 010426_corrected.md",
+    "Session_Sources/Transcripts/Corrected/06 - 122125_corrected.md",
+    "02-Character_Journal/Kit Aluri Journal.md",
+    "Session_Sources/Transcripts/Corrected/122125 SKY IS THE LIMIT TRANSCRIPT - corrected spellings v2.docx",
+    "00-Campaign-Hub/Campaign Dashboard.md",
     "01-Sessions/Session 06 — Escape from the Oozing Temple.md",
     "07-Flora_Fauna/Plants_Fungi/Underdark Bioluminescent Fungi.md",
     "07-Flora_Fauna/Plants_Fungi/Timmask.md",
@@ -219,16 +224,12 @@
     "00-Campaign-Hub/Profanity Ledger.md",
     "00-Campaign-Hub/Quote Board Master.md",
     "01-Sessions/Session 05 — Silvered.md",
-    "02-Character_Journal/Kit Aluri Journal.md",
     "Templates/Session Notes Template.md",
     "Templates/NPC Template.md",
     "Templates/Location Template.md",
-    "00-Campaign-Hub/Campaign Dashboard.md",
     "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "01-Sessions/Session 02 — Come Get Your Shit.md",
     "01-Sessions/Session 03 — Into the Dark.md",
-    "01-Sessions/Session 04 — Life Isn't Faer-zress.md",
-    "Session_Sources/Transcripts/Raw_Unedited/06-122125_raw_transcript.md",
     "03-Characters/PCs/Kit.pdf",
     "06-Media/112326 img.png",
     "06-Media/Buppido Derendil Eldeth.png",
@@ -247,7 +248,6 @@
     "03-Characters/PCs/Aeolus.pdf",
     "02-Character_Journal",
     "Session_Sources/Transcripts/Corrected",
-    "Session_Sources/Transcripts/Spell_Check_Logs",
-    "03-Characters/PCs/Darby.pdf"
+    "Session_Sources/Transcripts/Spell_Check_Logs"
   ]
 }
