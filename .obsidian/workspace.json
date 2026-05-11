@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "Templates/Session Notes Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Dashboard"
+              "title": "Session Notes Template"
             }
           }
         ]
@@ -203,6 +203,9 @@
   },
   "active": "35fb547cd9fe44d1",
   "lastOpenFiles": [
+    "Templates/NPC Template.md",
+    "Templates/Location Template.md",
+    "00-Campaign-Hub/Campaign Dashboard.md",
     "00-Campaign-Hub/House Rules & Rulings.md",
     "00-Campaign-Hub/Profanity Ledger.md",
     "00-Campaign-Hub/Quote Board Master.md",
@@ -217,7 +220,6 @@
     "Session_Sources/Transcripts/Raw_Unedited/04-112325_raw_transcript.md",
     "Session_Sources/Transcripts/Raw_Unedited/02-102625_raw_transcript.md",
     "Session_Sources/Transcripts/Raw_Unedited/01-101226_Raw_Transcript.md",
-    "00-Campaign-Hub/Campaign Dashboard.md",
     "01-Sessions/Session 04 — [Title Pending].md",
     "03-Characters/PCs/Kit Aluri.md",
     "03-Characters/PCs/Kit.pdf",
@@ -243,8 +245,6 @@
     "07-Flora_Fauna",
     "06-Media/Untitled",
     "03-Characters/PCs/Aeolus.pdf",
-    "01-Sessions/Session 02 — The Leap of Faith.md",
-    "Session_Sources/Transcripts/Corrected/02 - 102625_corrected.md",
     "02-Character_Journal",
     "Session_Sources/Transcripts/Corrected",
     "Session_Sources/Transcripts/Spell_Check_Logs",
