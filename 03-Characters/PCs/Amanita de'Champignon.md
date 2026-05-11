@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
+location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
 ---
 
 # Amanita de'Champignon
@@ -47,6 +47,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - **Halo of Spores:** First used in combat during S03 gray ooze encounter
 - **Chill Touch:** Used vs gray ooze (S03)
 - **Detect Magic:** Cast on corrupted faerzress (S05). Failed Wisdom save (9), triggered d100 madness roll (81) — short-term madness (madness level 1). Stunned by hallucination of dark fungal tendrils. Binks punched her to break the stun.
+- **Longstrider:** Cast on [[Darby Stonefeather]] (+10ft movement, 1 hour) and [[Blarg]] during S07 flooding escape. First observed use of this spell.
 - **Entangle:** Readied but not cast during S02 escape
 - **Movement speed:** 35ft (wood elf)
 
@@ -71,9 +72,10 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 ## Relationships
 
 - **[[Stool]]:** Deep telepathic bond via rapport spores. Communicated from S01 onward.
-- **[[Darby Stonefeather]]:** Developing close partnership. Worked together in barracks (S01) and elite barracks (S02).
+- **[[Darby Stonefeather]]:** Developing close partnership. Worked together in barracks (S01) and elite barracks (S02). Darby carried Amanita during S07 flooding.
 - **[[Eldeth]]:** Allied during escape and travel.
 - **[[Turvy]]:** Curious/sympathetic. Wanted to interrogate rather than kill. Patted his head (S05).
+- **[[Blarg]]:** Received Longstrider from Amanita (S07). Healed Amanita 23 HP (S03).
 
 ## Key Events
 
@@ -82,6 +84,8 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - **[[Session 03 — Into the Dark]]:** First use of Halo of Spores in combat (vs gray ooze). Hit hard by ooze retaliation. Healed 23 HP by Blarg. Senses [[04-World-Lore/Locations/Neverlight Grove]] direction via spore network.
 - **[[Session 04 — Life Isn't Faer-zress]]:** Failed Blindness spell on Turvy through narrow doorway during wererat fight.
 - **[[Session 05 — Silvered]]:** Cast Detect Magic on crowbar (confirmed transmutation). Cast Detect Magic on faerzress — failed WIS save (9), d100 roll 81 = short-term madness. Stunned; Binks punched her out of it. Detected mycelial network beneath floor (Investigation 19). Struck floor with mithral pickaxe, revealing tunnel system. Perception 24 examining tunnel openings. Yanked to safety by Kit during floor collapse.
+- **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Got stuck in Blarg's web. Freed by Darby. Used Halo of Spores to finish last ooze in Combat 3. Additional S06 details pending transcript audit.*
+- **[[Session 07 — Escape from the Oozing Temple]]:** Cast [[Longstrider]] on [[Darby Stonefeather]] (+10ft movement) and [[Blarg]] — first observed use of this spell. Carried by Darby during the flooding escape. Took 2 bludgeoning damage when Darby kneed her while jumping a gap (athletics 12). Offered mushrooms to the party with characteristic enthusiasm.
 
 ## Key Quotes
 
@@ -90,6 +94,9 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - "This does not look like the good smoke, man." — S02, re: vrock spores [Serious]
 - "Oh man, my pipe. Oh, I missed it so much. I'm gonna smoke everything." — S02 [Funny]
 - "Oh, spider dude, we are rich. Man, look at this." — S02, in elite barracks [Funny]
+- "It will be delicious. And only have a small chance of completely changing your perspective on the universe." — S07 [Banter]
+- "Would you like a mushroom to wash it down with?" — S07 [Funny]
+- "Technically you don't actually have to swallow it, but it's kind of nice to like, taste the terroir of the place you're at." — S07 [Funny]
 
 ---
 
@@ -100,8 +107,13 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
+- [[Session 06 — The Long Way Down]]
+- [[Session 07 — Escape from the Oozing Temple]]
 - [[04-World-Lore/Locations/Velkynvelve]]
+- [[Oozing Temple]]
 - [[Stool]]
 - [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Darby Stonefeather]]
+- [[Blarg]]
 - [[Campaign Dashboard]]
+#pc 

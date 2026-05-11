@@ -235,6 +235,38 @@ We are always running. We are always one step ahead of drowning. But at least th
 
 ---
 
+## Session 07 — Escape from the Oozing Temple
+
+Day ???:
+
+The water came faster than any of us expected.
+
+We had just pulled the last of the treasure from that strange fountain — coins, bracelets, a vial of something slippery, a dagger that caught the light wrong — when the ground groaned beneath us and the eastern wall split open like a wound. Water poured through the crack in sheets, ankle-deep before I could even sheathe my blade.
+
+The gnome moved first. Binks launched himself over the nearest trapdoor pit like he had springs in his boots and disappeared around the corner to scout. Smart. Darby scooped Amanita under one arm like a sack of flour — Amanita did not seem to mind, honestly — and hauled them both toward the tunnel we had come through. The rest of us scrambled.
+
+Blarg tried to leap the trapdoor and nearly went in. I watched him catch the edge with his fingers, water rushing into his face, and for a heartbeat I thought we were about to lose him. But the dwarf hauled himself up by sheer stubbornness and rolled across, gasping.
+
+I found something in myself I had not used in a while. Not rage — that is always close. Something calmer. Something from before. I felt the old instincts kick in: assess the route, identify the choke points, figure out who is where and what they need. I rolled over the trapdoor without even thinking about it and pushed ahead to see what lay below us. The lower tunnel was already half-submerged. Water rushed toward us from the depths, cold and dark, and I turned around immediately. That way was death.
+
+So I went back to the group and did something I have not done since before I was captured. I took command. Not loudly. Not with threats. Just clearly, with authority, the way you do when lives depend on people understanding their role. I moved through the line, squeezing past Darby and Blarg and Aeolus in the narrow tunnel, handing off a length of rope as I went. Everyone grabbed hold. If someone slipped in the rising water, the rest would catch them. It was the simplest thing in the world and it felt like the most important decision I had made since the escape.
+
+Aeolus blinked through the air with that fey magic of his — stepped into nothing and appeared thirty feet ahead. Amanita sprinkled dirt on Darby and suddenly the big one was faster, longer-striding. Every bit of speed mattered now.
+
+The water rose to my waist. To my chest. Binks, small as he is, was practically swimming, clinging to the rope with both hands. The tunnel was barely five feet wide and we were lined up like fish in a chute.
+
+I tried something desperate. I climbed on top of Darby to get over the bottleneck — just stepped up onto her shoulders and tried to leap from person to person like stepping stones. Darby buckled. I slid back into the water. It was not my finest moment, but at least nobody drowned.
+
+Then something worse happened. Behind us, where the trapdoor pits had been, the water rose high enough that the black thing — the pudding, the ooze, whatever it was — rose with it. A pseudopod lashed out at Darby. Missed her by a hair. That thing is acid and hunger given shape, and it was right behind us.
+
+But then, from up ahead, something else. A voice in my head — not threatening, almost cheerful: "Hey, you guys need some help down here? I told you guys it was going to flood." A green glow bloomed around the corner, and the gelatinous cube — Glabbagool, the friendly one — was spreading itself across the tunnel, forming a wall. Blocking the water.
+
+We are trapped between a corrosive nightmare and a sentient wall of jelly that seems to think it is doing us a favor. The water is still rising. The acid-thing is still behind us. And I am holding a rope connected to five other people in the dark, telling them it is going to be fine.
+
+I have no idea if that is true. But I said it with enough conviction that I think they believed me. I think I almost believed me, too.
+
+---
+
 ## Related
 - [[Kit Aluri]]
 - [[Campaign Dashboard]]

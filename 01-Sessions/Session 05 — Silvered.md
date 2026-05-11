@@ -347,3 +347,6 @@ Session 5 was a social, exploration, and investigation session with no combat en
 - [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Garl Glittergold]]
 - [[faerzress]]
+
+# Tags
+#session-notes 

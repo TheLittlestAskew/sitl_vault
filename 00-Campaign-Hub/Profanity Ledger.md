@@ -4,11 +4,11 @@ Campaign-wide profanity tracking by speaker.
 
 ---
 
-## Running Totals (Through Session 06)
+## Running Totals (Through Session 07)
 
 | Speaker | Total Count | Most Common |
 |---|---|---|
-| Kit Aluri (Taylor) | 6+ | "damn", "fucking", "shit" |
+| Kit Aluri (Taylor) | 10+ | "damn", "fucking", "shit", "hell" |
 | Darby Stonefeather (Austin) | 1+ | "shit" |
 | Other PCs | Pending audit | — |
 
@@ -61,6 +61,15 @@ Campaign-wide profanity tracking by speaker.
 | Kit Aluri (Taylor) | "fuck shit" | 1 | Warning to Turvy: "The second some fuck shit happens, I'm not hesitating to end this." |
 | Darby Stonefeather (Austin) | "shit" | 1 | "Oh, shit" — reacting in bone cavern |
 | Kit Aluri (Taylor) | "damn" | 1 | "God damn" — reacting to Binks's guiding bolt damage |
+
+---
+
+## Session 07 — Escape from the Oozing Temple
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "hell" | 2 | "sure as hell going into the war water"; "Hell yeah" (re: sign language) |
+| Kit Aluri (Taylor) | "damn" | 2 | Re: Darby failing strength check; re: maneuvers not applying |
 
 ---
 

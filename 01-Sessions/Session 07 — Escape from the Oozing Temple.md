@@ -28,7 +28,7 @@ spelling_checked: true
 | Field | Detail |
 |---|---|
 | Campaign Name | Sky Is The Limit |
-| Session Number | 06 |
+| Session Number | 07 |
 | Session Date | 01/04/2026 |
 | Session Title | Escape from the Oozing Temple |
 | Start Location | Oozing temple — central fountain chamber (underground, beneath ancient dwarvish safe house) |
@@ -77,7 +77,7 @@ I have no idea if that is true. But I said it with enough conviction that I thin
 
 ## Narrative Summary
 
-Session 06 picks up immediately after the party's defeat of the gray ooze sculptures in the oozing temple's central fountain chamber (concluded in [[Session 05 — Silvered|Session 05]]). The DM recaps the previous session's events and loot recovery (112sp, 41gp, three gold bracelets worth 25gp each, a +1 drow-make spider dagger, a Potion of Greater Healing, and an Oil of Slipperiness).
+Session 07 picks up immediately after the party's defeat of the gray ooze sculptures in the oozing temple's central fountain chamber (concluded in [[Session 06 — The Long Way Down|Session 06]]). The DM recaps the previous session's events and loot recovery (112sp, 41gp, three gold bracelets worth 25gp each, a +1 drow-make spider dagger, a Potion of Greater Healing, and an Oil of Slipperiness).
 
 The session's primary action is an environmental escape encounter. The fountain overflows and a massive crack in the eastern wall floods the temple. Addison structures this as an initiative-based skill challenge rather than traditional combat: the party has a limited number of rounds to escape before the tunnels are fully submerged.
 
@@ -180,7 +180,7 @@ The session takes place in the oozing temple's central fountain chamber and esca
 | Party (S05 fountain) | Oil of Slipperiness | 10 min to apply; Freedom of Movement 8hrs OR Grease 10ft sq 8hrs |
 | [[Kit Aluri]] | Rope (50ft) | Distributed among party as safety line during escape |
 
-No new loot acquired in Session 06.
+No new loot acquired in Session 07.
 
 ---
 
@@ -277,10 +277,14 @@ The flooding temple escape is a multi-round skill challenge using initiative. Ro
 
 ## Related
 
-- [[Session 05 — Silvered]] (previous session)
-- [[Session 07]] (next session)
+- [[Session 06 — The Long Way Down]] (previous session)
+- [[Session 08]] (next session)
 - [[Glabbagool]]
 - [[Black Pudding]]
 - [[Kit Aluri]]
 - [[Longstrider]]
 - [[04-World-Lore/Locations/Velkynvelve]]
+
+
+# Tags
+#session-notes 

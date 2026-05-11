@@ -11,14 +11,10 @@
             "id": "35fb547cd9fe44d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Characters/PCs/Kit Aluri.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kit Aluri"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -203,6 +199,22 @@
   },
   "active": "35fb547cd9fe44d1",
   "lastOpenFiles": [
+    "01-Sessions/Session 07 — Escape from the Oozing Temple.md",
+    "01-Sessions/Session 06 — The Long Way Down.md",
+    "01-Sessions/Session 05 — Silvered.md",
+    "01-Sessions/Session 04 — Life Isn't Faer-zress.md",
+    "01-Sessions/Session 03 — Into the Dark.md",
+    "01-Sessions/Session 02 — Come Get Your Shit.md",
+    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
+    "03-Characters/PCs/Amanita de'Champignon.md",
+    "03-Characters/PCs/Blarg.md",
+    "03-Characters/PCs/Blarg CS.pdf",
+    "03-Characters/PCs/Binks Stonevein.md",
+    "03-Characters/PCs/Aeolus.md",
+    "03-Characters/PCs/Kit Aluri.md",
+    "03-Characters/PCs/Darby Stonefeather.md",
+    "03-Characters/PCs/Darby.pdf",
+    "07-Flora_Fauna/Creatures/Black Pudding.md",
     "02-Character_Journal/Kit Aluri Journal_temp_header.md",
     "Screenshot 2025-09-28 133542 1.png",
     "Screenshot 2025-09-28 133542.png",
@@ -210,29 +222,15 @@
     "07-Flora_Fauna/Creatures/Chasme.md",
     "04-World-Lore/Locations/Oozing Temple.md",
     "00-Campaign-Hub/Campaign Dashboard.md",
-    "01-Sessions/Session 02 — Come Get Your Shit.md",
     "02-Character_Journal/Kit Aluri Journal.md",
-    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "07-Flora_Fauna/Creatures/Fire Beetle.md",
-    "01-Sessions/Session 06 — The Long Way Down.md",
     "Session_Sources/Transcripts/Corrected/07 - 010426_corrected.md",
-    "01-Sessions/Session 07 — Escape from the Oozing Temple.md",
     "Session_Sources/Transcripts/Corrected/12 - 032926_corrected.md",
     "Session_Sources/Transcripts/Corrected/06 - 122125_corrected.md",
     "Session_Sources/Transcripts/Corrected/122125 SKY IS THE LIMIT TRANSCRIPT - corrected spellings v2.docx",
     "07-Flora_Fauna/Plants_Fungi/Underdark Bioluminescent Fungi.md",
     "07-Flora_Fauna/Plants_Fungi/Timmask.md",
     "07-Flora_Fauna/Plants_Fungi/Rapport Spores.md",
-    "07-Flora_Fauna/Plants_Fungi/Zurkhwood.md",
-    "07-Flora_Fauna/Creatures/Quaggoth.md",
-    "07-Flora_Fauna/Creatures/Vrock.md",
-    "07-Flora_Fauna/Creatures/Gray Ooze.md",
-    "07-Flora_Fauna/Creatures/Giant Spider.md",
-    "00-Campaign-Hub/House Rules & Rulings.md",
-    "00-Campaign-Hub/Loot Tracker.md",
-    "00-Campaign-Hub/Profanity Ledger.md",
-    "00-Campaign-Hub/Quote Board Master.md",
-    "01-Sessions/Session 05 — Silvered.md",
     "03-Characters/PCs/Kit.pdf",
     "06-Media/112326 img.png",
     "06-Media/Buppido Derendil Eldeth.png",
@@ -246,8 +244,6 @@
     "07-Flora_Fauna",
     "06-Media/Untitled",
     "03-Characters/PCs/Aeolus.pdf",
-    "02-Character_Journal",
-    "Session_Sources/Transcripts/Corrected",
-    "Session_Sources/Transcripts/Spell_Check_Logs"
+    "02-Character_Journal"
   ]
 }

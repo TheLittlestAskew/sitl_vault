@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Austin (aus10england)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Oozing Temple (flooding, as of S06)
+location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
 ---
 
 # Darby Stonefeather
@@ -72,12 +72,12 @@ location: Oozing Temple (flooding, as of S06)
 
 ## Relationships
 
-- **[[Amanita de'Champignon]]:** Closest ally. Follows Amanita instinctively.
+- **[[Amanita de'Champignon]]:** Closest ally. Follows Amanita instinctively. Carried Amanita during S07 flooding escape.
 - **[[Stool]]:** First telepathic contact via rapport spores (S01). Rescued Stool with Amanita during floor collapse (S05).
 - **[[Eldeth]]:** Allied; gave Eldeth a chest of equipment (S02).
 - **[[Asha Vandree]]:** Personal enemy. Darby shoved Asha off a cliff path (contested athletics 24 vs 5, S02).
 - **[[Turvy]]:** Pacifist. Opposed killing Turvy (S05).
-- **[[Aeolus]]:** Aeolus granted Darby temporary hit points twice via Steps of the Fey (S06).
+- **[[Aeolus]]:** Aeolus granted Darby temporary hit points twice via Steps of the Fey (S06). Aeolus granted Blarg 6 temp HP in S07.
 - **Clementine (pet tarantula):** Named in S06. Clementine emerged when Blarg wild shaped into a giant spider. Blarg saluted Clementine with one of his spider legs.
 
 ## Key Events
@@ -88,12 +88,17 @@ location: Oozing Temple (flooding, as of S06)
 - **[[Session 04 — Life Isn't Faer-zress]]:** Stumbled through allies during wererat fight.
 - **[[Session 05 — Silvered]]:** Opposed killing Turvy (pacifist stance). Rescued Stool with Amanita during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** Nat 20 survival to set up spelunking gear (3 lines in 10 min). Caught Blarg during descent (athletics 25). Retrieved green flame mace from [[Glabbagool]] (STR 22, DEX dirty 20). Quick attunement (arcana dirty 20). Named pet tarantula "Clementine." Freed Amanita from Blarg's web. **First rage** in Combat 3 — described as subdued, focused. Hit ooze D for 10, then crit for 20 (killing blow). Used Stone's Endurance to reduce Binks's friendly fire. Aeolus granted temp HP (10) via Steps of the Fey. Received Sap weapon mastery (target has disadvantage on next attack).
+- **[[Session 07 — Escape from the Oozing Temple]]:** Carried [[Amanita de'Champignon|Amanita]] during flooding escape. Tossed Amanita across gap (athletics 12), then leapt and accidentally kneed Amanita (2 bludgeoning damage). Failed support check when Kit tried to climb over party. Targeted by [[Black Pudding]] pseudopod attack (15 vs AC 16 — missed by 1; would have been 18 acid damage). Received [[Longstrider]] from Amanita (+10ft movement, 1 hour).
 
 ## Key Quotes
 
 - "This is too much." — S01 [Funny/Poignant]
 - "My bad. Didn't mean to let go of the thing." — S02, faking a fumble on the lift [Funny/Poignant]
 - "It's way better than the stuff they got at the farm." — S06, re: drow climbing gear [Funny]
+- "I got two arms." — S07 [Funny]
+- "There is a road less traveled we could take." — S07 [Banter]
+- "I can dry swallow." — S07 [Banter]
+- "Kids going crowd surfing." — S07 [Funny]
 
 ---
 
@@ -105,10 +110,13 @@ location: Oozing Temple (flooding, as of S06)
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
+- [[Session 07 — Escape from the Oozing Temple]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Amanita de'Champignon]]
 - [[Asha Vandree]]
 - [[Stool]]
+- [[Black Pudding]]
 - [[Campaign Dashboard]]
+#pc

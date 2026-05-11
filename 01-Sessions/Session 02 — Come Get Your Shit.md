@@ -55,3 +55,6 @@ The party escapes [[04-World-Lore/Locations/Velkynvelve]] during a vrock/chasme 
 - [[Eldeth]]
 - [[Asha Vandree]]
 - [[Derendil]]
+
+# Tags
+#session-notes 

@@ -159,5 +159,57 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
+## Session 07 — Escape from the Oozing Temple
+
+**[[Amanita de'Champignon]] · [Banter]**
+"It will be delicious. And only have a small chance of completely changing your perspective on the universe."
+
+**[[Blarg]] · [Funny]**
+"The question is, is someone gonna eat Amanita's food?"
+
+**[[Kit Aluri]] · [Funny]**
+"I just see a lot of mushrooms."
+
+**[[Darby Stonefeather]] · [Funny]**
+"I got two arms."
+
+**[[Kit Aluri]] · [Funny]**
+"Let's do what the bear in that little children's rhyme does."
+
+**[[Kit Aluri]] · [Poignant]**
+"Over the mountain to see what he could see."
+
+**[[Kit Aluri]] · [Serious]**
+"Well, we're sure as hell going into the war water if there are people trying to catch up with us."
+
+**[[Darby Stonefeather]] · [Banter]**
+"There is a road less traveled we could take."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Would you like a mushroom to wash it down with?"
+
+**[[Darby Stonefeather]] · [Banter]**
+"I can dry swallow."
+
+**[[Kit Aluri]] · [Funny]**
+"Listen. Okay, Lou, you're. You're. I'll accept that. Because you're a big guy or girl. Dry swallowing anything is hard."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Technically you don't actually have to swallow it, but it's kind of nice to like, taste the terroir of the place you're at."
+
+**[[Kit Aluri]] · [Serious]**
+"Girl, that is interesting. Incredibly useful."
+
+**[[Glabbagool]] (Addison) · [DM Quip]**
+"Hey, you guys need some help down here? I told you guys it was going to flood."
+
+**[[Darby Stonefeather]] · [Funny]**
+"Kids going crowd surfing."
+
+**[[Blarg]] · [Funny]**
+"Could you maybe throw me over as well?"
+
+---
+
 ## Related
 [[Campaign Dashboard]]

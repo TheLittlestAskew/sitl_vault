@@ -78,3 +78,6 @@ Session ends: Topsy dead, Turvy unconscious and restrained, party shaken by the 
 - [[Darby Stonefeather]]
 - [[Eldeth]]
 - [[04-World-Lore/Locations/Velkynvelve]]
+
+# Tags
+#session-notes 

@@ -237,3 +237,7 @@ Beneath the ancient Dwarvish/Duergar safe house first discovered in [[Session 03
 - [[Kit Aluri]] · [[Binks Stonevein]] · [[Aeolus]] · [[Blarg]] · [[Amanita de'Champignon]] · [[Darby Stonefeather]]
 - [[Turvy]] · [[Eldeth]] · [[Glabbagool]] · [[Topsy]] · [[Stool]]
 - [[Oozing Temple]] · [[04-World-Lore/Locations/Velkynvelve]] · [[04-World-Lore/Locations/Blingdenstone]]
+
+
+# Tags
+#session-notes 

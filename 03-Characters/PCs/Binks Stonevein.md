@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Matt (MattOli)
 first_appearance: "[[Session 02 — Come Get Your Shit]]"
-location: Oozing Temple (flooding, as of S06)
+location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
 ---
 
 # Binks Stonevein
@@ -90,6 +90,7 @@ location: Oozing Temple (flooding, as of S06)
 - **[[Session 04 — Life Isn't Faer-zress]]:** Woke first during wererat attack. Shouted warning to Kit not to kill them. Summoned Spiritual Weapon (giant glowing lute pick). KO'd Turvy non-lethally.
 - **[[Session 05 — Silvered]]:** Provided historical context about Blingdenstone wererats. Healed Turvy (Healing Word 9 HP). Punched Amanita out of madness stun (unarmed strike 23 to hit, 2 damage). Cast Augury on tunnel paths. Fell/slid down the deeper tunnel — session ends with party split.
 - **[[Session 06 — The Long Way Down]]:** Found at bottom of shaft — 8 fall damage, deaf, vision impaired. CON save 16 (DC 15) to regain consciousness. Shouted for help (CON 16). Diagnosed by Blarg (medicine 25 — TBI, burst eardrums). Healed by Blarg (Cure Wounds, 15 HP — restored hearing and vision). Used Invoke Duplicity + Thaumaturgy on [[Glabbagool]]. Granted [[Turvy]] Blessing of the Trickster for scouting. **Combat 1:** Guiding Bolt killed ceiling gray ooze (22 to hit, 14 radiant). **Combat 2:** Cast Invisibility, scouted ahead, detected gray ooze. Guiding Bolt with advantage from stealth — 22 radiant damage, instant kill. **Combat 3:** Toll the Dead failed (ooze passed save). Guiding Bolt missed ooze C, accidentally hit [[Darby Stonefeather]] (9 radiant, reduced to 8 by Stone's Endurance). **Three gray ooze kills in one session — emerging "ooze slayer" identity.**
+- **[[Session 07 — Escape from the Oozing Temple]]:** Rolled highest initiative (23). Dashed and leapt trapdoor pit (Athletics 17), scouted ahead. Got pushed back by water flow in Round 2. Practically swimming at chest-deep water due to small size — clung to rope with both hands.
 
 ## Key Quotes
 
@@ -108,6 +109,7 @@ location: Oozing Temple (flooding, as of S06)
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
+- [[Session 07 — Escape from the Oozing Temple]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
@@ -117,3 +119,4 @@ location: Oozing Temple (flooding, as of S06)
 - [[Garl Glittergold]]
 - [[04-World-Lore/Locations/Blingdenstone]]
 - [[Campaign Dashboard]]
+#pc

@@ -80,7 +80,18 @@ Master list of all items, artifacts, and loot acquired by the party, organized b
 | Party (unassigned) | 3 green gold bracelets (25 gp each) | [[Oozing Temple]] fountain treasure | Carried |
 | Party (unassigned) | +1 Dagger (drow design, spider hilt) | [[Oozing Temple]] fountain treasure | Carried |
 | Party (unassigned) | Potion of Greater Healing | [[Oozing Temple]] fountain treasure | Carried |
-| Party (unassigned) | Oil of Slipperiness (vial) | [[Oozing Temple]] fountain treasure. Full mechanics not yet stated by DM. | Carried |
+| Party (unassigned) | Oil of Slipperiness (vial) | [[Oozing Temple]] fountain treasure. Full mechanics stated in DM recap: 10 min to apply; Freedom of Movement 8hrs OR Grease 10ft sq 8hrs. | Carried |
+
+---
+
+## Session 07 — Escape from the Oozing Temple
+
+| Character | Item | Properties / Notes | Status |
+|---|---|---|---|
+| No new loot acquired | — | Session focused on environmental escape encounter (~30-40 min session) | — |
+| [[Kit Aluri]] | Rope (50ft) | Distributed among party as safety line during flooding escape | In use |
+
+*Note: Oil of Slipperiness full mechanics clarified in DM's S07 recap (see S06 entry above).*
 
 ---
 

@@ -53,3 +53,6 @@ The party lands in the pool, recovers gear, fights a gray ooze that broadcasts "
 - [[Sloobludop]]
 - [[Eldeth]]
 - [[04-World-Lore/Locations/Gracklstugh]]
+
+# Tags
+#session-notes 

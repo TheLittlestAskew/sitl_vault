@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
+location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
 ---
 
 # Aeolus
@@ -25,7 +25,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 
 ## Description / Appearance
 
-- Tiefling — no detailed physical description given in S01-S05
+- Tiefling — no detailed physical description given in S01-S07
 - Movement speed: 30ft (S02)
 - Shell-shocked demeanor during captivity; sits by himself, doesn't sleep, keeps eyes moving (S01)
 
@@ -51,6 +51,8 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - **Find Familiar:** Cast in S01 shrine. Summoned a bat. Bat retrieved gemstone before being destroyed.
 - **Shocking Grasp:** Melee spell attack. Used S02 (14, just hit spider's AC of 14; 4 lightning damage). Prevents opportunity attacks.
 - **Purify Food and Water:** Available; can mitigate poisonous food in the Underdark (noted S03).
+- **Misty Step:** Fey teleportation, 30ft. Used twice during S07 flooding escape — second use was his final remaining spell slot.
+- **Steps of the Fey:** Grants temporary hit points to allies. Used to grant Darby 10 temp HP (S06), Blarg 6 temp HP (S07).
 - **Fey Touched (Intelligence)**
 - **Skilled feat**
 
@@ -76,6 +78,8 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - **[[Session 03 — Into the Dark]]:** Athletics 7 (struggled in pool). Perception nat 20 with Devil's Sight — first to spot hidden dwarven door at 120ft. Identified two escape passages. Noted Purify Food and Water as party resource.
 - **[[Session 04 — Life Isn't Faer-zress]]:** Hit Turvy with Eldritch Blast during wererat fight.
 - **[[Session 05 — Silvered]]:** Took watch with Amanita during long rest. Perception 15 listening at tunnels. Sided with Kit during Turvy debate.
+- **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Granted Darby 10 temp HP via Steps of the Fey. Used Misty Step to walk down vertical shaft (first in party to reach Binks). Additional S06 details pending transcript audit.*
+- **[[Session 07 — Escape from the Oozing Temple]]:** Used Misty Step twice during flooding escape to teleport ahead through the tunnel. Granted [[Blarg]] 6 temp HP via Steps of the Fey. Used his final Misty Step — all 4 daily spell slots spent by end of session. Party resource management concern going forward.
 
 ## Key Quotes
 
@@ -95,7 +99,11 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
+- [[Session 06 — The Long Way Down]]
+- [[Session 07 — Escape from the Oozing Temple]]
 - [[04-World-Lore/Locations/Velkynvelve]]
+- [[Oozing Temple]]
 - [[Blarg]]
 - [[Lolth]]
 - [[Campaign Dashboard]]
+#pc

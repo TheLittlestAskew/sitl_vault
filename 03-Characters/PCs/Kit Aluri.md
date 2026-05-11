@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Oozing Temple (flooding, as of S06)
+location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
 ---
 
 # Images
@@ -28,7 +28,7 @@ location: Oozing Temple (flooding, as of S06)
 
 ## Description / Appearance
 
-- No detailed physical description given in S01-S06 beyond being an orc
+- No detailed physical description given in S01-S07 beyond being an orc
 - 120ft darkvision (noted S01 — used to spot Ront's body in webs from the cell)
 - Wears armor recovered from the Velkynvelve armory (donned during S02 escape)
 - Carries a greatsword (found on armory rack, S02)
@@ -52,13 +52,14 @@ location: Oozing Temple (flooding, as of S06)
 - Unapologetic about violent pragmatism — killed Topsy without hesitation, openly wanted to kill Turvy (S04-S05)
 - Capable of raw honesty even when it's ugly: "I killed your sister because she tried to kill me... I'm a fucking orc." (S05)
 - S06: Evolving into a conditional diplomat — negotiated terms with Turvy rather than simply threatening. Still pragmatic, but capable of giving people a chance.
+- S07: First explicit tactical command in crisis. Distributed rope, called out instructions "with authority and confidence." Soldier instincts resurfacing — not rage, but calm, trained leadership.
 
 ## Abilities & Class Features
 
 - **Darkvision:** 120ft (S01)
 - **Relentless Endurance** (orc trait)
 - **Powerful Build** (orc trait)
-- **Adrenaline Rush** (orc trait — mentioned S02)
+- **Adrenaline Rush** (orc trait — used S02, S07 for triple movement to scout lower tunnel)
 - **Tactical Mind:** Expend a superiority die to add to an ability check. First used S02 to break Binks's shackles (strength 18 + D6 roll of 4 = 22, beating DC 20)
 - **Battle Master subclass:** Selected at Level 3 (end of S02). Three maneuvers to be chosen.
 - **Savage Attacker:** Reroll melee damage once per turn. Used S06 Combat 3 on ooze B (rerolled to 11).
@@ -76,6 +77,7 @@ location: Oozing Temple (flooding, as of S06)
 | Full starting gear + dungeoneer's pack | S02 (armory recovery) | Equipped |
 | Silvered Crowbar | Pre-campaign | **Iconic item.** Tip spontaneously silvered during/before killing Topsy (S04). Transmutation magic confirmed by Amanita (Arcana 16, S05). Kit confirmed via History 17 it was NOT silver before. Source of silvering unknown. |
 | D4 (2) trinket table items | S02 (barracks morning scavenge) | TBD — DM to roll |
+| Rope (50ft) | Pre-campaign (standard gear) | Distributed as safety line during S07 flooding escape |
 
 ## Relationships
 
@@ -86,6 +88,7 @@ location: Oozing Temple (flooding, as of S06)
 - **[[Turvy]]:** Evolved from hostile to conditional alliance (S06). Kit killed Topsy and openly wanted to kill Turvy. In S06, Kit set clear terms: "The what's best for the party will come first in every situation." Turvy accepted. Kit internally acknowledged Turvy's wererat form is "really convenient sometimes."
 - **[[Aeolus]]:** Trusts Aeolus to stay awake on watch.
 - **[[Amanita de'Champignon]]:** Caught Amanita when she fell into pit trap (S06). Protective.
+- **[[Glabbagool]]:** Cautiously receptive to its help (S07).
 
 ## Key Events
 
@@ -95,6 +98,7 @@ location: Oozing Temple (flooding, as of S06)
 - **[[Session 04 — Life Isn't Faer-zress]]:** Bitten by Topsy during involuntary wererat attack. Killed Topsy with crowbar — hook behind neck, snapped sideways. Defining moment of the campaign so far.
 - **[[Session 05 — Silvered]]:** Discovered crowbar tip is silvered (transmutation magic, source unknown). Led the Turvy debate from the kill-him side. Delivered defining speech to Turvy. Investigated tunnel system. Yanked Amanita to safety during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** Descended shaft to rescue Binks (athletics 24 — clean descent). Caught Blarg during his slip (with Darby). Negotiated conditional terms with Turvy: party first, no tolerance for losing control. Initiated tactical command during rescue operation. Combat 3: nat 20 initiative (23). Slashed ooze A for 13 damage, noticed ooze remains reforming into statue (perception 16). Slashed ooze B for 11 (Savage Attacker reroll). Took 9 acid damage from ooze (-1 AC). Caught Amanita when she fell into flagstone pit trap. Dragged Darby and Amanita forward when Darby couldn't see in the dark.
+- **[[Session 07 — Escape from the Oozing Temple]]:** Used Adrenaline Rush for triple movement to scout lower tunnel (impassable). **First explicit tactical command in crisis** — distributed rope as safety line, moved through party giving instructions with calm authority. Athletics 16 to climb over party (succeeded, but Darby failed support check — Kit fell back). Squeezed through friendly spaces instead. Session ended with Kit holding the rope line, party trapped between [[Black Pudding]] and [[Glabbagool]].
 
 ## Key Quotes
 
@@ -107,6 +111,8 @@ location: Oozing Temple (flooding, as of S06)
 - "I killed your sister because she tried to kill me... I'm a fucking orc. I don't want to hear it." — S05, to Turvy [Serious/Defining]
 - "The what's best for the party will come first in every situation." — S06, to Turvy [Serious]
 - "God damn it. I bet that's really convenient sometimes." — S06, re: Turvy's wererat form [Funny]
+- "Well, we're sure as hell going into the war water if there are people trying to catch up with us." — S07 [Serious]
+- "Girl, that is interesting. Incredibly useful." — S07, re: Longstrider [Serious]
 
 ## POV Journal
 
@@ -122,10 +128,13 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
+- [[Session 07 — Escape from the Oozing Temple]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Binks Stonevein]]
 - [[Jorlan Duskryn]]
 - [[Topsy]]
 - [[Turvy]]
+- [[Glabbagool]]
 - [[Campaign Dashboard]]
+#pc
