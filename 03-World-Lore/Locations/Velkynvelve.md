@@ -18,22 +18,57 @@ The outpost consists of multiple stalactite platforms connected by bridges made 
 - **Armory / Central Guard Tower** — Directly across from prison cell; confiscated prisoner gear stored here
 - **Shrine to Lolth** — Circular chamber atop highest stalactite; 10ft Zurkhwood spider statue with 8 gemstone eyes; trapdoor to Ilvara's quarters below
 - **Barracks** — Drow warrior sleeping quarters with pallets and Zurkhwood chests
-- **Elite Barracks** — Separate quarters for drow elite
+- **Elite Barracks** — Separate quarters for drow elite; contained confiscated trinkets on display
 - **Main Hall / Kitchen** — Large cavern with kitchen; magical heat sources (drow avoid fire)
 - **Quaggoth Den** — Northern area; worst duty assignment for prisoners
 - **Guard Posts** — North, South, and Central positions; two guards per post with three sets of gear (two worn, one spare)
 - **Platform Lift** — Crank-operated basket elevator to cavern floor/pool
+- **Pool** — Deep pool at the cavern floor fed by the waterfall. Contains an undercurrent. Party landed here during escape (S02). A gray ooze inhabited the pool (S03).
+
+## Campaign Events
+
+### [[Session 01 — Prisoners of the Underdark]]
+- PCs introduced during captivity (Day 6-9 depending on character)
+- [[Ront]] sacrificed to spiders. [[Shuushar]] fell into pool. [[Buppido]] sacrificed but escaped. [[Jimjar]] taken away overnight.
+- [[Jorlan Duskryn]] offered [[Kit Aluri]] the escape plan (leave cell unlocked)
+- [[Aeolus]] triggered the Lolth gemstone curse at the shrine; giant spider encounter began
+- A vrock burst from the northern passage chased by chasmes, ending the session in chaos
+
+### [[Session 02 — Come Get Your Shit]]
+- Demon incursion (vrock + chasmes) created escape opportunity
+- [[Jorlan Duskryn]] unlocked the cell early; stood aside during escape
+- [[Sarith Kzekarit]] broke down ("They're coming"), killed guards, escaped into pool separately toward [[Neverlight Grove]]
+- [[Kit Aluri]] reached armory, recovered all party gear, rallied the party with "Come get your shit!"
+- [[Binks Stonevein]] formally introduced; Kit broke his shackles with Tactical Mind
+- [[Amanita de'Champignon]] looted the elite barracks clean (perception 25)
+- [[Darby Stonefeather]] shoved [[Asha Vandree]] off a cliff path (athletics 24 vs 5)
+- [[Blarg]] wild shaped into wolf for the first time; dropped torch into webbing to open escape path
+- [[Derendil]] captured by quaggoths during escape
+- Party jumped through burned webbing into pool; all survived
+- Party leveled to Level 3
+
+### [[Session 03 — Into the Dark]]
+- Party landed in pool; recovered gear
+- Gray ooze encounter — telepathic broadcast "Flesh for the Faceless Lord" (first Juiblex reference)
+- [[Amanita de'Champignon]] used Halo of Spores for the first time; hit hard by ooze retaliation
+- [[Darby Stonefeather]] dove for chests (athletics nat 20+6), attacked ooze with whip (9 damage)
+- [[Kit Aluri]] rescued [[Binks Stonevein]] from drowning (athletics 17); pulled Darby from ooze
+- [[Blarg]] killed the gray ooze with a bolt of radiant light
+- Party escaped through northern passage, ran for nearly two hours, then continued with Pass Without Trace
 
 ## Command Structure
 
 - **[[Ilvara Mizzrym]]** — Drow Priestess, outpost commander
 - **[[Shoor Vandree]]** — Drow Captain, current lieutenant and lover of Ilvara
-- **[[Asha Vandree]]** — Junior Drow Priestess, Ilvara's subordinate
-- **[[Jorlan Duskryn]]** — Drow Elite Warrior, scarred former lover of Ilvara
+- **[[Asha Vandree]]** — Junior Drow Priestess, Ilvara's subordinate; shoved off cliff during S02 escape (fate unknown)
+- **[[Jorlan Duskryn]]** — Drow Elite Warrior, scarred former lover of Ilvara; aided party's escape; confirmed dead per Addison's notes
 
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
+- [[Session 02 — Come Get Your Shit]]
+- [[Session 03 — Into the Dark]]
 - [[Ilvara Mizzrym]]
 - [[Jorlan Duskryn]]
 - [[Lolth]]
+- [[Campaign Dashboard]]

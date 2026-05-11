@@ -67,7 +67,7 @@ Session ends: Topsy dead, Turvy unconscious and restrained, party shaken by the 
 ## Related
 
 - [[Session 03 — Into the Dark]]
-- [[Session 05 — [Title Pending]]]
+- [[Session 05 — Silvered]]
 - [[Kit Aluri]]
 - [[Binks Stonevein]]
 - [[Topsy]]

@@ -1,6 +1,6 @@
 ---
 session: 1
-date: 2026-10-12
+date: 2025-10-12
 title: "Prisoners of the Underdark"
 start_location: "Velkynvelve — Prison Cell"
 end_location: "Velkynvelve — Various locations across outpost"
@@ -12,7 +12,7 @@ spelling_checked: true
 
 # Session 01 — Prisoners of the Underdark
 
-**Session Date:** 10/12/2026
+**Session Date:** 10/12/2025
 **Campaign:** Sky Is The Limit
 **Module:** Out of the Abyss
 
@@ -23,7 +23,7 @@ spelling_checked: true
 | Field | Detail |
 |---|---|
 | Session Number | 01 |
-| Session Date | 10/12/2026 |
+| Session Date | 10/12/2025 |
 | Start Location | [[03-World-Lore/Locations/Velkynvelve]] — Prison Cell |
 | End Location | [[03-World-Lore/Locations/Velkynvelve]] — Various locations across outpost |
 | Party Present | [[Kit Aluri]], [[Amanita de'Champignon]], [[Darby Stonefeather]], [[Aeolus]], [[Blarg]] |
