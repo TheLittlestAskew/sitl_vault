@@ -26,7 +26,7 @@
 - [[Turvy]] — Deep gnome, wererat (injured, separated from party at safe house)
 - [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores
 - [[Eldeth]] — Shield dwarf scout from Gauntlgrym
-- [[Glabbagool]] — Awakened gelatinous cube
+- [[Glabbagool]] — Awakened gelatinous cube; appeared to block water in flooding temple (S06)
 - [[Roxy]] — Acquired companion (details TBD)
 
 ### Former / Lost Companions
@@ -54,7 +54,7 @@
 | 03 | 11/09/2025 | Into the Dark | [[Session 03 — Into the Dark]] |
 | 04 | 11/23/2025 | Life Isn't Faer-zress | [[Session 04 — Life Isn't Faer-zress]] |
 | 05 | 12/07/2025 | Silvered | [[Session 05 — Silvered]] |
-| 06 | 01/04/2026 | — | [[Session 06]] |
+| 06 | 01/04/2026 | Escape from the Oozing Temple | [[Session 06 — Escape from the Oozing Temple]] |
 | 07 | 01/18/2026 | — | [[Session 07]] |
 | 08 | 02/01/2026 | — | [[Session 08]] |
 | 09 | 02/15/2026 | — | [[Session 09]] |
@@ -84,6 +84,7 @@
 ### Campaign-Specific Locations
 - [[03-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S08-S10)
 - Ancient Dwarvish/Duergar Safe House — Hidden waystation in northern passage, faerzress-suffused (S03-S05)
+- Oozing Temple — Underground temple beneath safe house; overrun with sentient oozes (S05-S06)
 
 ---
 
@@ -104,13 +105,15 @@
 - [ ] Amanita's Corruption Dreams — Increasingly bad dreams of Neverlight Grove being corrupted by dark, oily presence (S01-S02)
 - [ ] Purple Eyes — A drow guard's eyes briefly turned from red to purple during Amanita's barracks interaction (S01); possible early sign of demonic corruption
 - [ ] Stool's Empowerment Arc — Sprout developing toward adult transition
-- [ ] Binks Separated Below — Fell/slid down tunnel at end of S05; party split
+- [ ] Escape the Flooding Temple — Party caught between Black Pudding (behind) and Glabbagool (ahead), water chest-deep and rising (S06)
+- [ ] Level-Up to 4 — DM introduced player-chosen level-up timing; starts next session (S06 above-table discussion)
 
 ### Completed
 - [x] Escape Velkynvelve — Completed (S02). Party jumped into pool during vrock/chasme chaos
 - [x] Recover Confiscated Gear — Completed (S02). Kit reached armory, distributed all gear
 - [x] Deal with Turvy — Completed (S05). Party debated, interrogated, healed, and released Turvy with moon flask
 - [x] Topsy & Turvy Lycanthropy Revealed — Revealed (S04). Involuntary transformation triggered by corrupted faerzress
+- [x] Binks Separated Below — Fell/slid down tunnel at end of S05; reunited with party by S06 start (reunion not narrated)
 
 ---
 
@@ -122,6 +125,7 @@
 | S01-S02: Final captivity day + escape | S01-S02 | ~1 day |
 | S03: Pool landing, gray ooze, 2hr run, mushroom cavern, dwarven door | S03 | Several hours |
 | S04-S05: Safe house, wererat attack, rests, tunnel discovery | S04-S05 | ~1 day (first long rest achieved S05) |
+| S06: Oozing temple escape (flooding, environmental skill challenge) | S06 | Minutes (immediate continuation from S05 temple) |
 | Safe house → mushroom caverns | S04-S08 | ~1 day |
 | Feydark interlude | S08-S10 | ~2 days subjective / ~1 hr Underdark time |
 | Return combat at Velkynvelve + rests | S11-S13 | ~4-5 hours |
