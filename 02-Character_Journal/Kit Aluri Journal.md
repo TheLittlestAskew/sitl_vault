@@ -8,27 +8,140 @@ Kit's first-person memoir entries from each session, pasted exactly as they appe
 
 ## Session 01 — Prisoners of the Underdark
 
-*See full journal entry in .docx session notes. Summary: Kit has been imprisoned for six days at Velkynvelve. She observes her fellow prisoners, maps the outpost during guard post duty, and receives a whispered offer from Jorlan Duskryn to escape. The session ends as a vrock and chasmes burst into the cavern, creating chaos.*
+**
 
-*Note: Full POV journal text for S01 pending — the session note in the vault contains a summary only. Full text exists in the .docx session notes.*
+Day 6:
+
+  
+
+Another night of bad dreams in this place. The dark presses in from every direction and there is no sunrise to break it—just the sickly purple glow of whatever magic the drow have woven into these walls and the faint phosphorescence of the rock itself. I have stopped counting the hours. There are only the shifts: when they put us to work, when they feed us, and when they leave us to rot.
+
+The elf beside me—Amanita, she calls herself—woke from a dream today. I watched her reach for the little mushroom sprout that has been following her around like a lost dog and start communing with it through some kind of body language I cannot read. No words that I could hear. Just the two of them, locked in whatever silent conversation passes between a wood elf hermit and a sentient fungus. I tried not to stare. I tried not to think the obvious thought. She is either touched by something I do not understand, or she is simply gone in the head. Six days in here will do that to a person.
+
+I leaned forward against the bars and looked out past the guard. My eyes can see farther than most in this darkness—120 feet of clear sight where others see only shadow—and I used every foot of it. High up in the webs beyond the stalactites, I could see a large shape wrapped tight and still. Ront. The orc who used to shove everyone around until I shoved back. We had come to something like an understanding after that. Not friendship. Something more practical. He watched my back. I watched his. And then last night he lost his temper at the wrong moment, tried to rush a guard on the bridge, and knocked the kuo-toa—Shuushar—over the edge into the pool below. Ront was the second sacrifice I have seen the drow make to their spiders. The first was the derro, Buppido, who turned out to be something worse than a bully. He had killed another prisoner in some kind of ritual and called it his path as the spiders took him.
+
+I found a gemstone today. A carnelian, flawed but real, maybe worth ten gold to someone who trades in such things. Not useful for breaking chains, but I tucked it away. In a place like this, anything you can hold onto matters.
+
+The Goliath—Darby—has been here five days. She is enormous and terrified in equal measure. I have watched her huddle in the back of the cell, taking in a world she has clearly never seen before. Today she finally waved at Amanita. The mushroom sprout sent its spore cloud her way and I saw her face change. First contact with someone outside her family, maybe ever. She ended up talking to the thing through whatever telepathic trick it uses. Strange times.
+
+The tiefling, Aeolus, arrived two days ago in a flash of magic—just appeared out of nothing in the open cavern below with every guard watching. He has been shell-shocked since. Sits by himself, does not sleep, keeps his eyes moving. I know that look. I have worn it.
+
+The dwarf, Blarg, came in with the last prisoner exchange. He is a strange one. Cheerful. Content. Humming tunes in the corner of a prison cell like he is waiting for a carriage. He fell through a sinkhole in the Evermoors and the drow scooped him up. Somehow he identified the wood-like material the platforms are made from—Zurkhwood, an edible mushroom—and seemed genuinely delighted by this information.
+
+Then last night, the scarred one came. Jorlan. Half his face is melted and he moves like a man carrying more weight than his body. He sent the other guard away and leaned close to the bars. He whispered. I whispered back. He offered an escape. I asked why. He said it did not matter. I told him it mattered if I was going to believe him. He said I could take what he offered or rot. I took it. I could not read his face—the scars make everything look like pain—but I know from the guards that he used to share the priestess Ilvara’s bed until a younger captain named Shoor Vandree replaced him. Whether his offer comes from spite, strategy, or something else entirely, I do not know. My insight told me nothing. But my history told me enough. A scorned drow with a ruined face and a grudge is dangerous, but he may be the most honest person in this place.
+
+Tomorrow night. He will leave the cell unlocked during the guard shift. Between now and then, we have a day of forced labor ahead. I need to learn the layout, find our gear, and figure out which of these prisoners will fight when the moment comes.
+
+So today I watched. They paired me with Sarith—a drow prisoner, quiet, careful—and sent us to the guard posts. Menial work: coiling ropes, carrying water, doing whatever the guards barked at us. But the guard posts gave me a view. I mapped the outpost in my head. The armory is directly across from our cell in the central guard tower. The shrine to their spider goddess sits at the top of the highest stalactite. The main hall has a kitchen. The quaggoth den is to the north. I counted the guards, noted their gear: three sets per outpost, two worn, one spare. Two guards at each post. A drow elite in the central tower with the armory.
+
+Amanita and Darby were sent to clean the barracks. Amanita apparently managed to steal a hand crossbow, a flask of drow poison, bolts, a set of clothes, and a coil of rope—all from under the nose of a meditating drow. She used some cantrip to fill the room with nature sounds and the dark elf never stirred. When the drow finally woke and caught her polishing the crossbow, she lied her way out of it so smoothly that the guard thanked her for the cleaning. I am revising my assessment of the elf. She may be touched, but she is not stupid.
+
+Darby had less luck. Got caught trying to open a chest, was sent to crank the platform lift instead. She muscled through it like it was nothing—quaggoths twice her weight and she handled the crank alone.
+
+Aeolus and Blarg were assigned to the shrine. An empty shrine to a spider goddess, because the universe has a sense of humor. Aeolus summoned a familiar—a bat—and sent it to pry a gemstone from the eye of the giant spider statue. The bat got the gem free and then vanished. A real spider—a giant one—uncoiled from behind the statue and attacked. Blarg sprayed it with poison. It did nothing. Aeolus hit it with a blast of purple-blue energy. Then the spider bit Aeolus and he learned what he already suspected: he had been cursed. Every spider and spider-like creature will attack him on sight until the curse is lifted. In the Underdark. Where everything has eight legs.
+
+I was heading back from the southern guard post when the chaos started. A shrieking from the north. A massive undead vulture—a vrock—came screaming out of the northern passage, chased by something that sounded like a swarm of enormous insects. The guards started shouting. Another shape came flying through, caught in the webs. Everything erupted at once.
+
+I do not know what is coming. But I know opportunity when I see it.
+
+**
 
 ---
 
-## Session 02 — Come Get Your Shit
+## Session 02 — "Come Get Your Shit"
 
-*Full POV journal text for S02 pending — the session note in the vault contains a summary only. Full text exists in the .docx session notes.*
+**
+
+Day 6, evening:
+
+The night before, I told the others what they needed to know. Not everything. Just enough. I told Binks first because I trust him the most—we arrived in the same caravan, and trust in this place is measured by proximity and shared misery. The rest of them got the broad strokes: the cell will be unlocked. The armory is across the bridge. When the moment comes, move fast and do not look back.
+
+The morning came and they put us back to work. I went to the barracks this time, paired again with Sarith, the silent drow with the murder charge. Binks took the guard post. Amanita and Darby were in the main hall. Aeolus and Blarg stayed tangled up in the shrine, still fighting that damned spider from yesterday.
+
+I kept my head down and my eyes open. Found a few more useful things. Everybody did—Darby especially. She faked a fumble on the lift and swiped gear right out from under a guard’s nose. That girl is learning faster than she lets on.
+
+Then it all happened at once. The buzzing came first. This deep, thrumming drone that made the air vibrate in my teeth. Then the shrieking—a sound like a vulture being torn apart from the inside. I could not see it. My head was somewhere else entirely, stuck in this thick, muffled fog. And then Sarith started laughing.
+
+He laughed and buckled and said, “They’re coming. They’re coming.” I asked who. He said, “Find me in Neverlight Grove if you wish to speak again.” I tried to grab him. Got my arms around him and felt him slip through like smoke. He pulled out two makeshift daggers, dropped down into the outpost below me, and I heard shouts, a crash, then water. Gone.
+
+I did not have time to think about it. I ran straight for the armory, climbed the ladder, and started ripping chests open. I found our gear—all of it. Packs, weapons, armor, shoved into Zurkhwood crates like garbage. I put my own armor on first. I know what that sounds like. But a soldier who is not armored is not useful to anyone, and I had people counting on me. Binks came up behind me—I almost swung on him before I recognized those small footsteps. He held up his shackles and I broke them. Tactical Mind. You feel the leverage before you see it, and then you just push.
+
+Outside, the world was ending. A massive undead vulture—a vrock—had crashed into a stalactite and brought down half the webbing, the giant spider from the shrine, and a pile of drow guards with it. Two giant mosquito-demons—chasmes—were tearing through the outpost. The drow were fighting on three fronts. Ilvara was screaming orders from somewhere to the north. It was the most beautiful disaster I have ever seen.
+
+I threw packs and weapons down from the armory and shouted the only thing that mattered: Come get your shit. And they came. Blarg, still half-wolf from whatever druid trick he does, came bounding in and went back to his own shape to gear up. Aeolus followed, dragging himself away from the curse-spider that was still hunting him. Amanita had somehow found the elite barracks, looted it clean, and dipped a quaggoth fang in poison for a weapon. Darby charged through Asha Vandree—the junior priestess—like the woman was a door that needed opening, and knocked her clean off the cliff into the webbing.
+
+There was a quaggoth between us and the exit. I stepped in front of the others and put my greatsword through it. Eleven damage. First real swing since they took my weapons. It felt like coming home.
+
+Binks tried to burn through the webbing below with cantrip magic. It did not quite catch, but he hacked at it with his blade and opened a hole. Blarg remembered he had a torch—lit it from one of the purple faerie lights and dropped it. The webbing went up. The spider and chasme caught in it burned. The path to the pool opened.
+
+We jumped. All of us. Topsy, Turvy, Stool, Eldeth. Derendil tried to follow but the quaggoths caught him. I saw it happen and there was nothing I could do. We were already falling.
+
+The water hit like a wall. And then it swallowed us.
+
+As we plunged into the dark, I felt something shift inside me. Like a door opening. Like a second wind. Like everything I have been holding back since they locked me in that cell was finally being given permission to exist.
+
+
+**
 
 ---
 
 ## Session 03 — Into the Dark
 
-*Full POV journal text for S03 pending — the session note in the vault contains a summary only. Full text exists in the .docx session notes.*
+**
+
+Day 7:
+
+We hit the water and the water hit back. The pool was deeper than it looked. I went under and came up kicking, spitting waste water that the drow had been dumping their garbage into for who knows how long. Immediately, three problems: Binks could not swim. Aeolus was fading. And Darby had already sunk to the bottom chasing two chests of gear like a woman who had never been told the word ‘no.’
+
+I grabbed Binks first. He was flailing like a fish on a dock, all limbs and no technique. I got my arms under his and dragged him to the surface while my legs screamed from carrying two people. Blarg paddled over and between us we kept the gnome’s head above water. Then Binks rolled a natural twenty and suddenly he could swim. Just like that. I do not understand how this world works.
+
+Darby breached the surface carrying both chests like they weighed nothing. She stepped onto the shallows and her hands sank into something gray and slick. The thing reared up—a gray ooze, ten feet of it, and I heard something inside my skull: Flesh for the Faceless Lord. My blood went cold.
+
+Amanita reached into the thing with her bare hand and hit it with some kind of dark energy. Then she coughed and spores burst from her mouth, surprising her as much as the ooze. She said something like, “Oh my god, I can produce spores. I’m a mushroom.” Seven damage on her first turn as a full-fledged druid and she did not even know she could do it.
+
+The ooze hit Amanita back. Hard. Fourteen damage on a critical hit—four bludgeoning and ten acid. She went pale. Blarg swam to her and put his hands on her shoulders and channeled something divine. Twenty-three points of healing in a single touch. I have never seen anything like it. She went from half-dead to standing in the space of a breath.
+
+I pulled Darby out of the slime’s reach. Used Adrenaline Rush to dash fifteen feet with her weight on my shoulder. The ooze swung at me and missed. Darby whipped it with her actual whip—nine damage—and it started to lose consistency. Blarg finished it off with a bolt of radiant light. Guiding Bolt. Thirteen damage. The thing just melted.
+
+We ran. Two hours through tunnels and passages, fast pace, no looking back. The adrenaline burned off eventually and we found a spot to rest. One point of exhaustion for everyone. Short rest. Hit dice. A moment to breathe.
+
+While we rested, Binks talked to Topsy and Turvy in Gnomish. He said Blingdenstone—the deep gnome city—was the safest option, maybe two weeks away. He knows the terrain heading north. But we also remembered something Shuushar had said about his hometown, Sloobludop, on the Darklake. Ten days or less. Closer, but off the path we were taking. The decision was made: north toward Blingdenstone, with the option to divert toward the Darklake if we needed to.
+
+Aeolus’s eyes are sharper than mine in the dark. Some warlock ability. He spotted two passages when the rest of us saw one. History checks reminded us: the north passage leads eventually to Menzoberranzan and then to Blingdenstone. The west leads to the Darklake. The south leads toward the duergar city of Gracklstugh. We picked north.
+
+We came to a cavern with a stream running through it. Mushrooms—poisonous ones, devil’s mushroom, Amanita called them Timmask—and a colony of fire beetles feeding on them. The beetles glow. We snuck past with Binks’s magic dampening our sound. Every roll was twenty or higher. Then Aeolus spotted something in the wall that none of us would have seen without his vision: a hidden door, five feet high, dwarven engravings. Eldeth spoke a word in Dwarvish and the stone dropped open.
+
+A passageway. Possibly shelter. We will see.
+
+**
 
 ---
 
 ## Session 04 — Life Isn't Faer-zress
 
-*No audio recording for this session (Taylor at PAX). No POV journal was generated for S04 — sourced from DM written recap only.*
+**
+
+Day ___:
+
+We found the safe house. Eldeth opened it—her people built it, or people like hers, centuries ago. Stone cots, tools, a cooking area. The walls hummed with a faint light that seemed to come from the rock itself. For a few hours it almost felt like the dark had given us something instead of just taking.
+
+We were too spent to think. Too many hours running, too many close calls. Topsy and Turvy offered to take first watch. I remember thinking that was decent of them. I remember closing my eyes and feeling something close to safe for the first time since the cells.
+
+I woke to screaming. Not words—just raw sound, wet and wrong. Binks was already up, shouting that the things in the room were Topsy and Turvy. They were changing. Bones cracking, fur splitting through skin, their faces stretching into something between gnome and rat and nightmare. They were not in control. They did not choose this.
+
+Binks told me not to kill them. I heard him. I want that on the record—I heard him.
+
+Topsy bit me. Small teeth, but deep, and the pain was sharp enough to burn through whatever fog was left in my head. After that it was not a decision. It was the thing my body knows how to do when something with teeth gets too close. I grabbed the crowbar from my pack and I cracked her across the skull. The hook caught behind her neck. I pulled it sideways. The sound it made was final.
+
+Binks put Turvy down with that glowing pick of his—like a lute pick the size of a short sword, made of light. Blarg had already locked Turvy in place with some kind of binding magic. The warlock hit him with those crackling bolts. Even Darby came stumbling in from the other room, half-asleep, nearly bowling over Blarg like a cart through a market stall.
+
+And then it was over. Topsy was dead on the floor. Turvy was unconscious. And I was standing there with a bloody crowbar and a bite mark and the knowledge that two people I had been sleeping ten feet from were hiding something that could have killed all of us.
+
+The light in the walls shifted after that. Darker. Wrong. Like the stone was watching what we had done and did not approve. Or maybe it approved too much. Something is rotting underneath the glow of this place.
+
+I killed Topsy. I would do it again. That does not mean I feel nothing about it. It means I am still alive to feel anything at all.
+
+**
 
 ---
 

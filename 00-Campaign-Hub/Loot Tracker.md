@@ -69,5 +69,20 @@ Master list of all items, artifacts, and loot acquired by the party, organized b
 
 ---
 
+## Session 06 — The Long Way Down
+
+| Character | Item | Properties / Notes | Status |
+|---|---|---|---|
+| Party (unassigned) | 14 gold pieces | Traded from [[Glabbagool]] in exchange for a mushroom | Carried |
+| [[Darby Stonefeather]] | Green Flame Mace (common magical) | Retrieved from inside [[Glabbagool]]. Attuned (arcana dirty 20). Action to light/extinguish. Bright light. +1 fire damage on hit ("for now" per DM — may improve). Sap weapon mastery. | **Attuned** — Equipped |
+| Party (unassigned) | 112 silver pieces | [[Oozing Temple]] fountain treasure (revealed after dragon statue reformed) | Carried |
+| Party (unassigned) | 41 gold pieces | [[Oozing Temple]] fountain treasure | Carried |
+| Party (unassigned) | 3 green gold bracelets (25 gp each) | [[Oozing Temple]] fountain treasure | Carried |
+| Party (unassigned) | +1 Dagger (drow design, spider hilt) | [[Oozing Temple]] fountain treasure | Carried |
+| Party (unassigned) | Potion of Greater Healing | [[Oozing Temple]] fountain treasure | Carried |
+| Party (unassigned) | Oil of Slipperiness (vial) | [[Oozing Temple]] fountain treasure. Full mechanics not yet stated by DM. | Carried |
+
+---
+
 ## Related
 [[Campaign Dashboard]]

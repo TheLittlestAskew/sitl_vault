@@ -116,5 +116,48 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
+## Session 06 — The Long Way Down
+
+**[[Turvy]] (Addison) · [Poignant]**
+"B needs help. Gnomes protect gnomes. At least that's what they should. Top would want that."
+
+**[[Turvy]] (Addison) · [Serious]**
+"I think I got a handle on this. Now, I know turning was what got my sister killed, but she wasn't in her mind. And we can be in her mind. It is a curse, but it's one I can use. Won't use it if you tell me no."
+
+**[[Kit Aluri]] · [Serious]**
+"The what's best for the party will come first in every situation."
+
+**[[Kit Aluri]] · [Funny]**
+"God damn it. I bet that's really convenient sometimes."
+
+**[[Glabbagool]] (Addison) · [DM Quip]**
+"That tickles. Hi. Are you here to see me? Did you come for a visit?"
+
+**[[Glabbagool]] (Addison) · [DM Quip]**
+"Curious. Interesting. Tasty. Earthy. What's earthy? This is earthy. Oh. Oh, man. Little bitter poison. No, but some. Wow. Interesting. Curious. Thank you."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Oh, Kit, you could just let go of Blarg there and Blarg would go right through because it lets things like Blarg and I guess us and the mushrooms and everything through. It's like. It's a filter. It's so cool. Should we all filter ourselves?"
+
+**[[Blarg]] · [Banter]**
+"Remind me to never to never piss you off, man. I just witnessed you like eviscerating two of these things."
+
+**[[Binks Stonevein]] · [Funny]**
+"I guess I'm made to kill slimes. It's pretty good."
+
+**[[Glabbagool]] (Addison) · [DM Quip]**
+"I'm glad you're friends, man."
+
+**[[Blarg]] · [Banter]**
+"So the furthest away from the sky we've ever been yet. Which is the limit."
+
+**[[Kit Aluri]] · [Banter]**
+"This guy is just the top limit. There's also a bottom limit. We just don't know what it is."
+
+**Addison (DM) · [DM Quip]**
+"Could be another sky."
+
+---
+
 ## Related
 [[Campaign Dashboard]]

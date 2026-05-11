@@ -23,10 +23,10 @@
 
 ## NPC Companions (Current Party)
 
-- [[Turvy]] — Deep gnome, wererat (injured, separated from party at safe house)
+- [[Turvy]] — Deep gnome, wererat. Pledged to control lycanthropy, conditional terms set by Kit (S06). Traveling with party.
 - [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores
-- [[Eldeth]] — Shield dwarf scout from Gauntlgrym
-- [[Glabbagool]] — Awakened gelatinous cube; appeared to block water in flooding temple (S06)
+- [[Eldeth]] — Shield dwarf scout from Gauntlgrym. Stayed at safe house with Topsy's body (S06).
+- [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Sentience possibly from chaotic fiendish energy. Located in corridor above Oozing Temple. Appeared to block water in flooding temple (S07).
 - [[Roxy]] — Acquired companion (details TBD)
 
 ### Former / Lost Companions
@@ -47,21 +47,22 @@
 
 ## Sessions
 
-| # | Date | Title | Notes |
-|---|---|---|---|
-| 01 | 10/12/2025 | Prisoners of the Underdark | [[Session 01 — Prisoners of the Underdark]] |
-| 02 | 10/26/2025 | Come Get Your Shit | [[Session 02 — Come Get Your Shit]] |
-| 03 | 11/09/2025 | Into the Dark | [[Session 03 — Into the Dark]] |
-| 04 | 11/23/2025 | Life Isn't Faer-zress | [[Session 04 — Life Isn't Faer-zress]] |
-| 05 | 12/07/2025 | Silvered | [[Session 05 — Silvered]] |
-| 06 | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]] |
-| 07 | 01/18/2026 | — | [[Session 07]] |
-| 08 | 02/01/2026 | — | [[Session 08]] |
-| 09 | 02/15/2026 | — | [[Session 09]] |
-| 10 | 03/01/2026 | — | [[Session 10]] |
-| 11 | 03/29/2026 | Return to Velkynvelve | [[Session 11]] |
-| 12 | 04/11/2026 | — | [[Session 12]] |
-| 13 | 04/12/2026 | — | [[Session 13]] |
+| #   | Date       | Title                         | Notes                                          |
+| --- | ---------- | ----------------------------- | ---------------------------------------------- |
+| 01  | 10/12/2025 | Prisoners of the Underdark    | [[Session 01 — Prisoners of the Underdark]]    |
+| 02  | 10/26/2025 | "Come Get Your Shit"          | [[Session 02 — Come Get Your Shit]]            |
+| 03  | 11/09/2025 | Into the Dark                 | [[Session 03 — Into the Dark]]                 |
+| 04  | 11/23/2025 | Life Isn't Faer-zress         | [[Session 04 — Life Isn't Faer-zress]]         |
+| 05  | 12/07/2025 | Silvered                      | [[Session 05 — Silvered]]                      |
+| 06  | 12/21/2025 | The Long Way Down             | [[Session 06 — The Long Way Down]]             |
+| 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]] |
+| 08  | 01/18/2026 | —                             | [[Session 08]]                                 |
+| 09  | 02/01/2026 | —                             | [[Session 09]]                                 |
+| 10  | 02/15/2026 | —                             | [[Session 10]]                                 |
+| 11  | 03/01/2026 | —                             | [[Session 11]]                                 |
+| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12]]                                 |
+| 13  | 04/11/2026 | —                             | [[Session 13]]                                 |
+| 14  | 04/12/2026 | —                             | [[Session 14]]                                 |
 
 ---
 
@@ -83,8 +84,10 @@
 
 ### Campaign-Specific Locations
 - [[03-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S08-S10)
-- Ancient Dwarvish/Duergar Safe House — Hidden waystation in northern passage, faerzress-suffused (S03-S05)
-- Oozing Temple — Underground temple beneath safe house; overrun with sentient oozes (S05-S06)
+- Ancient Dwarvish/Duergar Safe House — Hidden waystation in northern passage, faerzress-suffused (S03-S05). Eldeth guarding as of S06.
+- Bone Cavern — Below safe house shaft. Ancient bones, oily substance, gray ooze (S06)
+- Glabbagool's Corridor — Corridor occupied by awakened gelatinous cube, below bone cavern (S06)
+- [[Oozing Temple]] — Underground temple beneath safe house. Dragon statue, fountain treasure, tentacle/wave reliefs. Gray oozes, flooding (S06-S07)
 
 ---
 
@@ -100,20 +103,25 @@
 - [ ] Amanita's D4 Loot — Rolled 4 additional items from barracks chest (S01); DM never specified what they were
 - [ ] Kit's Crowbar Silvering — Crowbar tip spontaneously silvered during/before Topsy's death (S04-S05). Transmutation magic confirmed; source unknown
 - [ ] Faerzress Corruption — The ambient magical energy in the Underdark appears corrupted by chaotic/fiendish influence. Caused involuntary wererat transformation (S04). Shifted ominously after violence
-- [ ] Demon Lords in the Underdark — Gray ooze telepathically broadcast "Flesh for the Faceless Lord" (first Juiblex reference, S03). Vrock and chasmes appeared at Velkynvelve (S01-S02)
+- [ ] Demon Lords in the Underdark — Gray ooze telepathically broadcast "Flesh for the Faceless Lord" (first Juiblex reference, S03). Vrock and chasmes appeared at Velkynvelve (S01-S02). Dragon statue in Oozing Temple may be connected (S06).
 - [ ] Topsy & Turvy's Reluctance — Both twins were reluctant to return to Blingdenstone; reason unknown
 - [ ] Amanita's Corruption Dreams — Increasingly bad dreams of Neverlight Grove being corrupted by dark, oily presence (S01-S02)
 - [ ] Purple Eyes — A drow guard's eyes briefly turned from red to purple during Amanita's barracks interaction (S01); possible early sign of demonic corruption
 - [ ] Stool's Empowerment Arc — Sprout developing toward adult transition
-- [ ] Escape the Flooding Temple — Party caught between Black Pudding (behind) and Glabbagool (ahead), water chest-deep and rising (S06)
-- [ ] Level-Up to 4 — DM introduced player-chosen level-up timing; starts next session (S06 above-table discussion)
+- [ ] Escape the Flooding Temple — Water rising rapidly in Oozing Temple (S06 end). Party caught between rising water and unknown depths (continues S07).
+- [ ] Level-Up to 4 — DM announced planning for future session (S06 above-table discussion)
+- [ ] Northern Fungal Tunnel — Amanita (nat 20) detected powerful life/space-time magic. Aeolus heard faint raven call (possible Archfey patron contact). Not yet explored. (S06)
+- [ ] Dragon Statue Mystery — Ooze remains reformed into dragon statue in Oozing Temple. Eyes lit up when last ooze died. Identity/purpose unknown. (S06)
+- [ ] Blarg's Moon Flask — Flask with moon shard that brightens/dims. Found in safe house. Mechanics not yet established. (S05-S06)
+- [ ] Darby's Green Flame Mace — Common magical mace. DM said "for now" it deals +1 fire; may improve. (S06)
+- [ ] Turvy's Conditional Terms — Pledged to control lycanthropy. Kit set terms: party comes first. If he loses control, Kit won't hesitate. (S06)
 
 ### Completed
 - [x] Escape Velkynvelve — Completed (S02). Party jumped into pool during vrock/chasme chaos
 - [x] Recover Confiscated Gear — Completed (S02). Kit reached armory, distributed all gear
 - [x] Deal with Turvy — Completed (S05). Party debated, interrogated, healed, and released Turvy with moon flask
 - [x] Topsy & Turvy Lycanthropy Revealed — Revealed (S04). Involuntary transformation triggered by corrupted faerzress
-- [x] Binks Separated Below — Fell/slid down tunnel at end of S05; reunited with party by S06 start (reunion not narrated)
+- [x] Binks Separated Below — Fell/slid down tunnel at end of S05; rescued by party at start of S06. Blarg healed (medicine 25, Cure Wounds 15 HP).
 
 ---
 
@@ -125,7 +133,8 @@
 | S01-S02: Final captivity day + escape | S01-S02 | ~1 day |
 | S03: Pool landing, gray ooze, 2hr run, mushroom cavern, dwarven door | S03 | Several hours |
 | S04-S05: Safe house, wererat attack, rests, tunnel discovery | S04-S05 | ~1 day (first long rest achieved S05) |
-| S06: Oozing temple escape (flooding, environmental skill challenge) | S06 | Minutes (immediate continuation from S05 temple) |
+| S06: Descent from safe house, bone cavern, Glabbagool, Oozing Temple | S06 | ~1-2 hours (immediate continuation from S05) |
+| S07: Oozing temple flooding escape, environmental skill challenge | S07 | Minutes (immediate continuation from S06) |
 | Safe house → mushroom caverns | S04-S08 | ~1 day |
 | Feydark interlude | S08-S10 | ~2 days subjective / ~1 hr Underdark time |
 | Return combat at Velkynvelve + rests | S11-S13 | ~4-5 hours |

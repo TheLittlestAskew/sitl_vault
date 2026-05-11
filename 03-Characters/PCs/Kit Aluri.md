@@ -9,6 +9,11 @@ first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
 location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 ---
 
+# Images
+
+![[Screenshot 2025-09-28 133542 1.png|236]]
+
+![[64c0b0d558d359190728b88b1f32abb3.png|230]]
 # Kit Aluri
 
 > **Player:** Taylor (OnceAndFutureQueen)
