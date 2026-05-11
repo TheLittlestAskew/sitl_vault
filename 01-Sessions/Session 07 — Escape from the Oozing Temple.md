@@ -1,9 +1,9 @@
 ---
-session_number: 6
+session_number: 7
 session_date: 2026-01-04
-session_title: "Escape from the Oozing Temple"
-start_location: "Oozing temple — central fountain chamber"
-end_location: "Oozing temple exit tunnels — Black Pudding behind, Glabbagool ahead, water rising"
+session_title: Escape from the Oozing Temple
+start_location: Oozing temple — central fountain chamber
+end_location: Oozing temple exit tunnels — Black Pudding behind, Glabbagool ahead, water rising
 party_present:
   - "[[Kit Aluri]]"
   - "[[Binks Stonevein]]"
@@ -13,12 +13,12 @@ party_present:
   - "[[Darby Stonefeather]]"
   - "[[Glabbagool]]"
 party_level: 3
-total_rolls: "Transcript-only (DDB not synced)"
-title_status: "Pending confirmation"
+total_rolls: Transcript-only (DDB not synced)
+title_status: Pending confirmation
 spelling_checked: true
 ---
 
-# Session 06 — Escape from the Oozing Temple
+# Session 07 — Escape from the Oozing Temple
 **Date:** 01/04/2026 | **Party Level:** 3
 
 ---
