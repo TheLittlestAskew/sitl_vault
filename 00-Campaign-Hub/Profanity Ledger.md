@@ -4,11 +4,11 @@ Campaign-wide profanity tracking by speaker.
 
 ---
 
-## Running Totals (Through Session 07)
+## Running Totals (Through Session 08)
 
 | Speaker | Total Count | Most Common |
 |---|---|---|
-| Kit Aluri (Taylor) | 10+ | "damn", "fucking", "shit", "hell" |
+| Kit Aluri (Taylor) | 12+ | "damn", "fucking", "shit", "hell" |
 | Darby Stonefeather (Austin) | 1+ | "shit" |
 | Other PCs | Pending audit | — |
 
@@ -70,6 +70,17 @@ Campaign-wide profanity tracking by speaker.
 |---|---|---|---|
 | Kit Aluri (Taylor) | "hell" | 2 | "sure as hell going into the war water"; "Hell yeah" (re: sign language) |
 | Kit Aluri (Taylor) | "damn" | 2 | Re: Darby failing strength check; re: maneuvers not applying |
+
+---
+
+## Session 08 — The Whirlwind and the Depths
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "hell" | 1 | Various combat/travel contexts |
+| Kit Aluri (Taylor) | "damn" | 1 | Reacting to exhaustion / pursuit level announcement |
+
+*Note: S08 profanity count is conservative; transcript-only source. Full audit may reveal additional instances.*
 
 ---
 

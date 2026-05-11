@@ -95,5 +95,19 @@ Master list of all items, artifacts, and loot acquired by the party, organized b
 
 ---
 
+## Session 08 — The Whirlwind and the Depths
+
+| Character | Item | Properties / Notes | Status |
+|---|---|---|---|
+| [[Kit Aluri]] | Armor (acid-damaged) | Black Pudding acid permanently reduced AC by 1. DM notes this accumulates with each acid hit; armor destroyed if reduced to AC 10. | **Damaged** — Equipped |
+| [[Amanita de'Champignon]] | [[Roxy]] (Rothe skeleton) | Resurrected via Speak with Dead / wild magic. Magic word "Roxanne" animates her. Skeletal; cannot support weight on zurkhwood bridges. | Active companion |
+| Party | Greater Healing Potion | Mentioned by DM at session start as available from previous treasure pit. Not used this session. | Carried |
+| [[Binks Stonevein]] | Spiritual Weapon (buoy form) | Used creatively as a glowing buoy to transport rope through water. Concentration spell. | Expended (spell) |
+| Party | Rope | Used extensively: Amanita tied Stool to it as flotation; Binks used Spiritual Weapon to ferry it to Blarg. | In use |
+
+*Note: Kit's armor AC penalty is permanent per DM ruling. Darby's mace damage upgraded from +1 flat to D4 this session (see S06 entry for mace details).*
+
+---
+
 ## Related
 [[Campaign Dashboard]]

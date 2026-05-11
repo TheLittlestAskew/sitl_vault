@@ -211,5 +211,33 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
+## Session 08 — The Whirlwind and the Depths
+
+**[[Glabbagool]] (Addison) · [DM Quip/Poignant]**
+"It hurts. But I'll hold."
+
+**[[Kit Aluri]] · [Serious/Tactical]**
+"I didn't know what tired felt like until right now."
+
+**[[Darby Stonefeather]] · [Poignant/Serious]**
+"I feel something. I feel something from before. From my family."
+
+**[[Binks Stonevein]] · [Funny]**
+"I just one-shot that thing from stealth. I'm basically an assassin."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Her name is Roxanne. You have to say the whole thing."
+
+**[[Blarg]] · [Banter]**
+"I can barely feel the moon down here. It's like shouting into a pillow."
+
+**Addison (DM) · [DM Quip]**
+"You've only been traveling about six to eight hours. In game time, it's getting onto about eight hours."
+
+**[[Kit Aluri]] · [Funny/Banter]**
+"Are you just high? Is that all?"
+
+---
+
 ## Related
 [[Campaign Dashboard]]
