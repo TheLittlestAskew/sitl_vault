@@ -54,7 +54,7 @@
 | 03 | 11/09/2025 | Into the Dark | [[Session 03 — Into the Dark]] |
 | 04 | 11/23/2025 | Life Isn't Faer-zress | [[Session 04 — Life Isn't Faer-zress]] |
 | 05 | 12/07/2025 | Silvered | [[Session 05 — Silvered]] |
-| 06 | 01/04/2026 | Escape from the Oozing Temple | [[Session 06 — Escape from the Oozing Temple]] |
+| 06 | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]] |
 | 07 | 01/18/2026 | — | [[Session 07]] |
 | 08 | 02/01/2026 | — | [[Session 08]] |
 | 09 | 02/15/2026 | — | [[Session 09]] |
