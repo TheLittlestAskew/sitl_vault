@@ -93,7 +93,7 @@ Session ends mid-encounter: party between Black Pudding (behind) and Glabbagool 
 
 ## Session Setting
 
-The session takes place in the oozing temple's central fountain chamber and escape tunnels, approximately 30+ feet below the ancient dwarvish safe house. In-game time: approximately Day 2-3 post-escape from [[Velkynvelve]]. Session ended early (~30-40 minutes) due to DM time constraints.
+The session takes place in the oozing temple's central fountain chamber and escape tunnels, approximately 30+ feet below the ancient dwarvish safe house. In-game time: approximately Day 2-3 post-escape from [[04-World-Lore/Locations/Velkynvelve]]. Session ended early (~30-40 minutes) due to DM time constraints.
 
 ---
 
@@ -283,4 +283,4 @@ The flooding temple escape is a multi-round skill challenge using initiative. Ro
 - [[Black Pudding]]
 - [[Kit Aluri]]
 - [[Longstrider]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]

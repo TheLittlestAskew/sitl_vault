@@ -28,9 +28,9 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 
 ## Backstory
 
-- Has been imprisoned at [[03-World-Lore/Locations/Velkynvelve]] for 9 days as of S01 — the longest of any PC
+- Has been imprisoned at [[04-World-Lore/Locations/Velkynvelve]] for 9 days as of S01 — the longest of any PC
 - Increasingly bad dreams during captivity (S02: DM notes this has been "starting to be a challenge")
-- S01 dream: Vision of [[03-World-Lore/Locations/Neverlight Grove]], a sprawling underground mushroom city of bioluminescence and mycetes, before a dark, oily corruption creeps across the landscape. Passed WIS save (12) and D100 madness roll (50).
+- S01 dream: Vision of [[04-World-Lore/Locations/Neverlight Grove]], a sprawling underground mushroom city of bioluminescence and mycetes, before a dark, oily corruption creeps across the landscape. Passed WIS save (12) and D100 madness roll (50).
 
 ## Personality
 
@@ -79,7 +79,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Dream of Neverlight Grove corrupted. Used Druidcraft to lull a drow guard (nat 1 perception). Stole hand crossbow, bolts, poison, clothes from barracks (deception 22). Noticed drow guard's eyes briefly turn purple.
 - **[[Session 02 — Come Get Your Shit]]:** Looted elite barracks clean (perception 25). Pulled quaggoth fang, dipped in poison. Recovered all confiscated trinkets.
-- **[[Session 03 — Into the Dark]]:** First use of Halo of Spores in combat (vs gray ooze). Hit hard by ooze retaliation. Healed 23 HP by Blarg. Senses [[Neverlight Grove]] direction via spore network.
+- **[[Session 03 — Into the Dark]]:** First use of Halo of Spores in combat (vs gray ooze). Hit hard by ooze retaliation. Healed 23 HP by Blarg. Senses [[04-World-Lore/Locations/Neverlight Grove]] direction via spore network.
 - **[[Session 04 — Life Isn't Faer-zress]]:** Failed Blindness spell on Turvy through narrow doorway during wererat fight.
 - **[[Session 05 — Silvered]]:** Cast Detect Magic on crowbar (confirmed transmutation). Cast Detect Magic on faerzress — failed WIS save (9), d100 roll 81 = short-term madness. Stunned; Binks punched her out of it. Detected mycelial network beneath floor (Investigation 19). Struck floor with mithral pickaxe, revealing tunnel system. Perception 24 examining tunnel openings. Yanked to safety by Kit during floor collapse.
 
@@ -100,8 +100,8 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Stool]]
-- [[03-World-Lore/Locations/Neverlight Grove]]
+- [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Darby Stonefeather]]
 - [[Campaign Dashboard]]

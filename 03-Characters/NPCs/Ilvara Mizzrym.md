@@ -10,7 +10,7 @@ location: Velkynvelve (as of S02)
 
 # Ilvara Mizzrym
 
-Drow priestess and commander of [[03-World-Lore/Locations/Velkynvelve]]. Primary antagonist in the early campaign.
+Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary antagonist in the early campaign.
 
 ## Description / Appearance
 
@@ -45,7 +45,7 @@ Drow priestess and commander of [[03-World-Lore/Locations/Velkynvelve]]. Primary
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Shoor Vandree]]
 - [[Jorlan Duskryn]]
 - [[Asha Vandree]]

@@ -30,12 +30,12 @@ location: Oozing Temple (flooding, as of S06)
 
 ## Backstory
 
-- Arrived at [[03-World-Lore/Locations/Velkynvelve]] in the same caravan as [[Kit Aluri]] — they have the longest-established bond (S02)
+- Arrived at [[04-World-Lore/Locations/Velkynvelve]] in the same caravan as [[Kit Aluri]] — they have the longest-established bond (S02)
 - Has been imprisoned for 6 days as of S01 (same as Kit)
 - Absent from S01 (player Matt was not present); formally introduced in S02
 - Has been mingling, trading food, and making deals with other prisoners during captivity (S02)
 - Long-time Underdark resident — survival check of 22 reflects deep knowledge of Underdark materials and resources
-- Knowledgeable about [[Blingdenstone]] and the wererat community there; provided historical context about svirfneblin politics (S05)
+- Knowledgeable about [[04-World-Lore/Locations/Blingdenstone]] and the wererat community there; provided historical context about svirfneblin politics (S05)
 
 ## Personality
 
@@ -108,12 +108,12 @@ location: Oozing Temple (flooding, as of S06)
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Kit Aluri]]
 - [[Topsy]]
 - [[Turvy]]
 - [[Garl Glittergold]]
-- [[Blingdenstone]]
+- [[04-World-Lore/Locations/Blingdenstone]]
 - [[Campaign Dashboard]]

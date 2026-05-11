@@ -8,7 +8,7 @@ location: Mushroom cavern, northern passage from Velkynvelve
 # Fire Beetle
 
 ## Description
-Giant fire beetles encountered in a mushroom cavern along the northern passage from [[Velkynvelve]]. Bioluminescent; their glow contributed to the cavern's illumination.
+Giant fire beetles encountered in a mushroom cavern along the northern passage from [[04-World-Lore/Locations/Velkynvelve]]. Bioluminescent; their glow contributed to the cavern's illumination.
 
 ## Behavior
 - Docile; calmly munching on the buffet of mushrooms in the cavern (per Addison's notes)
@@ -18,7 +18,7 @@ Giant fire beetles encountered in a mushroom cavern along the northern passage f
 ## Encounters
 
 ### [[Session 03 — Into the Dark]]
-- Encountered in the mushroom cavern as the party traveled north toward [[Blingdenstone]]
+- Encountered in the mushroom cavern as the party traveled north toward [[04-World-Lore/Locations/Blingdenstone]]
 - Party used [[Binks Stonevein]]'s Pass Without Trace to sneak past them
 - No combat; the beetles were docile and focused on eating
 - The swarm was described as "brightly lit" — their bioluminescence illuminated the area
@@ -28,5 +28,5 @@ Giant fire beetles encountered in a mushroom cavern along the northern passage f
 
 ## Related
 - [[Session 03 — Into the Dark]]
-- [[Velkynvelve]]
-- [[Blingdenstone]]
+- [[04-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Blingdenstone]]

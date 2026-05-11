@@ -21,7 +21,7 @@ Amorphous ooze creatures found throughout the deep Underdark. Translucent gray, 
 ## Encounters
 
 ### [[Session 03 — Into the Dark]]
-- Pool beneath [[Velkynvelve]]. Triggered when Darby slipped on it.
+- Pool beneath [[04-World-Lore/Locations/Velkynvelve]]. Triggered when Darby slipped on it.
 - Telepathically broadcast "Flesh for the Faceless Lord"
 - Killed by [[Blarg]] (radiant bolt to central mass)
 
@@ -58,6 +58,6 @@ Amorphous ooze creatures found throughout the deep Underdark. Translucent gray, 
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Oozing Temple]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Binks Stonevein]]
 - [[Glabbagool]]

@@ -30,7 +30,7 @@ location: Oozing Temple (flooding, as of S06)
 
 ## Backstory
 
-- Arrived at [[03-World-Lore/Locations/Velkynvelve]] 2 days before S01
+- Arrived at [[04-World-Lore/Locations/Velkynvelve]] 2 days before S01
 - Fell through a sinkhole in the [[Evermoors]] (a surface region) and was captured by drow below (S01)
 - Arrived with a drow prisoner exchange (S01)
 - Does NOT speak Dwarvish despite being a dwarf — "I haven't been raised by my family" (S03)
@@ -104,7 +104,7 @@ location: Oozing Temple (flooding, as of S06)
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Aeolus]]

@@ -10,7 +10,7 @@ first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
 Giant mushroom wood native to the Underdark. Zurkhwood is used as a primary building material throughout the Underdark, serving the same role that timber does on the surface. It is edible.
 
 ## Properties
-- **Structural material:** Used to build platforms, bridges, furniture, chests, and the spider statue at [[Velkynvelve]]
+- **Structural material:** Used to build platforms, bridges, furniture, chests, and the spider statue at [[04-World-Lore/Locations/Velkynvelve]]
 - **Edible:** Identified as edible by [[Blarg]] (Nature check 26, S01)
 - **Appearance:** Woody mushroom material; strong enough for construction
 
@@ -34,5 +34,5 @@ DM Addison verbally spelled it "C-U-R-K-H wood" in S01. Canonical spelling per p
 
 ## Related
 - [[Session 01 — Prisoners of the Underdark]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Blarg]]

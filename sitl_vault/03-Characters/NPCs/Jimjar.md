@@ -8,4 +8,4 @@
 - Taken by drow before Kit and Binks arrived
 
 ## Related
-[[03-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]
+[[04-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]

@@ -9,7 +9,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 
 # Stool
 
-Myconid sprout prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Companion to [[Amanita de'Champignon]].
+Myconid sprout prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Companion to [[Amanita de'Champignon]].
 
 ## Description / Appearance
 
@@ -19,7 +19,7 @@ Myconid sprout prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Companion to
 
 ## Backstory
 
-- Home is [[03-World-Lore/Locations/Neverlight Grove]], a sprawling underground mushroom city of bioluminescence and mycetes
+- Home is [[04-World-Lore/Locations/Neverlight Grove]], a sprawling underground mushroom city of bioluminescence and mycetes
 - Identified the city in Amanita's dream as his home (S01)
 - Wants to go home
 
@@ -61,6 +61,6 @@ Myconid sprout prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Companion to
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 05 — Silvered]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
-- [[03-World-Lore/Locations/Neverlight Grove]]
+- [[04-World-Lore/Locations/Neverlight Grove]]

@@ -8,7 +8,7 @@ location: "[[Velkynvelve]] — burst from northern passage"
 # Vrock
 
 ## Description
-Large vulture-like demon. Burst from the northern passage of [[Velkynvelve]] chased by chasmes, triggering the chaos that enabled the party's escape.
+Large vulture-like demon. Burst from the northern passage of [[04-World-Lore/Locations/Velkynvelve]] chased by chasmes, triggering the chaos that enabled the party's escape.
 
 ## Abilities Observed
 - Spore cloud: [[Amanita de'Champignon]] sensed the vrock's spores through her rapport spore connection as fiendish/demonic. She identified them as dangerous: "This does not look like the good smoke, man." (S02)
@@ -18,7 +18,7 @@ Large vulture-like demon. Burst from the northern passage of [[Velkynvelve]] cha
 
 ### [[Session 01 — Prisoners of the Underdark]]
 - Burst from the northern passage chased by chasmes
-- [[Velkynvelve]] erupted into chaos; session ended on this moment
+- [[04-World-Lore/Locations/Velkynvelve]] erupted into chaos; session ended on this moment
 
 ### [[Session 02 — Come Get Your Shit]]
 - Vrock and chasmes continued fighting drow guards on the outpost
@@ -33,5 +33,5 @@ Large vulture-like demon. Burst from the northern passage of [[Velkynvelve]] cha
 ## Related
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Chasme]]

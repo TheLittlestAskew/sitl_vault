@@ -10,7 +10,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 
 # Eldeth
 
-Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[Velkynvelve]]; joined the party during the S02 escape.
+Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[04-World-Lore/Locations/Velkynvelve]]; joined the party during the S02 escape.
 
 ## Description / Appearance
 
@@ -51,7 +51,7 @@ Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[Velkynvelve]
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Darby Stonefeather]]
 - [[Amanita de'Champignon]]
 - [[Gauntlgrym]]

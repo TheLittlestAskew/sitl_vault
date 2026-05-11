@@ -4,7 +4,7 @@
 > **Status:** Active
 
 ## Notes
-- Ilvara's lieutenant at [[03-World-Lore/Locations/Velkynvelve]]
+- Ilvara's lieutenant at [[04-World-Lore/Locations/Velkynvelve]]
 
 ## Related
-[[Ilvara Mizzrym]] · [[03-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]
+[[Ilvara Mizzrym]] · [[04-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]

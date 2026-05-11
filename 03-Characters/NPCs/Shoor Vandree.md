@@ -10,7 +10,7 @@ location: Velkynvelve (as of S02)
 
 # Shoor Vandree
 
-Drow warrior and current lieutenant/lover of [[Ilvara Mizzrym]] at [[03-World-Lore/Locations/Velkynvelve]].
+Drow warrior and current lieutenant/lover of [[Ilvara Mizzrym]] at [[04-World-Lore/Locations/Velkynvelve]].
 
 ## Backstory
 
@@ -32,6 +32,6 @@ Drow warrior and current lieutenant/lover of [[Ilvara Mizzrym]] at [[03-World-Lo
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Ilvara Mizzrym]]
 - [[Jorlan Duskryn]]

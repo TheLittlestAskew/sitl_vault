@@ -10,7 +10,7 @@ location: Velkynvelve (as of S02)
 
 # Asha Vandree
 
-Junior drow priestess at [[03-World-Lore/Locations/Velkynvelve]], subordinate to [[Ilvara Mizzrym]].
+Junior drow priestess at [[04-World-Lore/Locations/Velkynvelve]], subordinate to [[Ilvara Mizzrym]].
 
 ## Description / Appearance
 
@@ -32,6 +32,6 @@ Junior drow priestess at [[03-World-Lore/Locations/Velkynvelve]], subordinate to
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Ilvara Mizzrym]]
 - [[Darby Stonefeather]]

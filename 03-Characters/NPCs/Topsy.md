@@ -9,7 +9,7 @@ location: Ancient Dwarvish Safe House (body covered with blanket)
 
 # Topsy
 
-Deep gnome prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Twin sibling of [[Turvy]]. Killed by [[Kit Aluri]] during an involuntary lycanthropic transformation in [[Session 04 — Life Isn't Faer-zress]].
+Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of [[Turvy]]. Killed by [[Kit Aluri]] during an involuntary lycanthropic transformation in [[Session 04 — Life Isn't Faer-zress]].
 
 ## Description / Appearance
 
@@ -27,7 +27,7 @@ Deep gnome prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - Natural-born wererat (not infected); hid lycanthropy from the party
 - Used a substance called "jam" to maintain control of transformations
 - Orphan along with [[Turvy]]; "We used to take bets on who would go first"
-- From the [[Blingdenstone]] area; reluctant to return there
+- From the [[04-World-Lore/Locations/Blingdenstone]] area; reluctant to return there
 
 ## Key Events
 
@@ -54,6 +54,6 @@ Killed by [[Kit Aluri]] with silvered crowbar during involuntary lycanthropic at
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 04 — Life Isn't Faer-zress]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Aeolus]]
-- [[Blingdenstone]]
+- [[04-World-Lore/Locations/Blingdenstone]]

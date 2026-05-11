@@ -36,7 +36,7 @@ location: Oozing Temple (flooding, as of S06)
 
 ## Backstory
 
-- Arrived at [[03-World-Lore/Locations/Velkynvelve]] in a caravan with [[Binks Stonevein]] — they are the longest-established bond in the party (S02)
+- Arrived at [[04-World-Lore/Locations/Velkynvelve]] in a caravan with [[Binks Stonevein]] — they are the longest-established bond in the party (S02)
 - Has been imprisoned for 6 days as of S01
 - Underdark-bred; Deep Delver background feature (navigation and survival specialist)
 - Gladiator background
@@ -122,7 +122,7 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Binks Stonevein]]
 - [[Jorlan Duskryn]]

@@ -31,7 +31,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 
 ## Backstory
 
-- Arrived at [[Velkynvelve]] 2 days before S01, appearing via a flash of magic in the open cavern below with every guard watching (S01)
+- Arrived at [[04-World-Lore/Locations/Velkynvelve]] 2 days before S01, appearing via a flash of magic in the open cavern below with every guard watching (S01)
 - No explanation for the magical arrival has been given
 - Noble background
 - Most knowledgeable about fey/Feydark lore in the party
@@ -95,7 +95,7 @@ location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Blarg]]
 - [[Lolth]]
 - [[Campaign Dashboard]]

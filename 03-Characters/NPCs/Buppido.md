@@ -10,7 +10,7 @@ location: Unknown — escaped into pool beneath Velkynvelve
 
 # Buppido
 
-Derro prisoner at [[03-World-Lore/Locations/Velkynvelve]]. First sacrifice — but survived.
+Derro prisoner at [[04-World-Lore/Locations/Velkynvelve]]. First sacrifice — but survived.
 
 ## Backstory
 
@@ -41,4 +41,4 @@ Status updated from "Presumed Dead" to "Alive" based on DM confirmation. Current
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]

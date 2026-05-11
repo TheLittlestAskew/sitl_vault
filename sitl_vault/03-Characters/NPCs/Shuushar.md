@@ -9,4 +9,4 @@
 - May have had knowledge of surrounding Underdark area
 
 ## Related
-[[03-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]
+[[04-World-Lore/Locations/Velkynvelve]] · [[Campaign Dashboard]]

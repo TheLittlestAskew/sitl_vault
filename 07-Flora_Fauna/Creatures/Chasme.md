@@ -8,7 +8,7 @@ location: "[[Velkynvelve]] — chasing the vrock"
 # Chasme
 
 ## Description
-Fly-like demons that chased the [[Vrock]] into [[Velkynvelve]]. Multiple chasmes were present during the demon incursion.
+Fly-like demons that chased the [[Vrock]] into [[04-World-Lore/Locations/Velkynvelve]]. Multiple chasmes were present during the demon incursion.
 
 ## Abilities Observed
 - No direct combat with the party observed; fought drow guards on the outpost platforms
@@ -27,5 +27,5 @@ Fly-like demons that chased the [[Vrock]] into [[Velkynvelve]]. Multiple chasmes
 ## Related
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Vrock]]

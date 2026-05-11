@@ -8,7 +8,7 @@ location: "[[Velkynvelve]] — Shrine to Lolth"
 # Giant Spider
 
 ## Description
-Large spider inhabiting the Shrine to [[Lolth]] at [[Velkynvelve]]. Served as a guardian of the spider statue and its gemstone eyes.
+Large spider inhabiting the Shrine to [[Lolth]] at [[04-World-Lore/Locations/Velkynvelve]]. Served as a guardian of the spider statue and its gemstone eyes.
 
 ## Abilities Observed
 - Bite attack: 2 piercing + 9 poison damage (dealt to [[Aeolus]], S01)
@@ -38,7 +38,7 @@ Large spider inhabiting the Shrine to [[Lolth]] at [[Velkynvelve]]. Served as a 
 - Giant spiders are sacred to Lolth and commonly found in drow settlements
 
 ## Related
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Aeolus]]
 - [[Blarg]]
 - [[Lolth]]

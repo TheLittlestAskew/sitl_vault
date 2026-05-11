@@ -34,7 +34,7 @@ spelling_checked: true
 | Session Number | 05 |
 | Session Date | 12/07/2025 |
 | Session Title | Silvered |
-| Start Location | Ancient Dwarvish safe house ([[faerzress]]-suffused waystation), Underdark passage north of [[Velkynvelve]] |
+| Start Location | Ancient Dwarvish safe house ([[faerzress]]-suffused waystation), Underdark passage north of [[04-World-Lore/Locations/Velkynvelve]] |
 | End Location | Underground tunnels beneath the safe house floor; [[Binks Stonevein]] fallen down a slide into lower passages |
 | Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Aeolus]], [[Blarg]], [[Amanita de'Champignon]], [[Darby Stonefeather]], [[Eldeth]] (NPC), [[Stool]] (NPC), [[Turvy]] (NPC — incapacitated/injured) |
 | Total Rolls Logged | 66 |
@@ -94,13 +94,13 @@ I held to that and I do not regret it. The tunnels below are elf-sized so I hung
 
 Session 5 picks up in the immediate aftermath of the wererat attack from [[Session 03 — Into the Dark]]. [[Topsy]] is dead, killed by [[Kit Aluri]] with her crowbar during the fight. [[Turvy]] is unconscious at zero HP. The party is exhausted, emotionally raw, and still in a corrupted safe house with drow in pursuit.
 
-The session unfolds in two major movements. The first is the moral and emotional reckoning with Turvy — the debate over whether to kill, exile, or spare him; the revelation that wererats typically have much more control over their changes and something forced the shift; [[Amanita de'Champignon]]'s near-madness from casting Detect Magic on the corrupted [[faerzress]]; and ultimately the party choosing a short rest, a long rest, and allowing Turvy to grieve and survive. [[Blarg]] discovers a moon-linked gemstone flask in the party's inventory from the previous session's [[Velkynvelve]] loot, which he passes to Turvy to help him manage future changes.
+The session unfolds in two major movements. The first is the moral and emotional reckoning with Turvy — the debate over whether to kill, exile, or spare him; the revelation that wererats typically have much more control over their changes and something forced the shift; [[Amanita de'Champignon]]'s near-madness from casting Detect Magic on the corrupted [[faerzress]]; and ultimately the party choosing a short rest, a long rest, and allowing Turvy to grieve and survive. [[Blarg]] discovers a moon-linked gemstone flask in the party's inventory from the previous session's [[04-World-Lore/Locations/Velkynvelve]] loot, which he passes to Turvy to help him manage future changes.
 
 The second movement begins after the long rest, when the party investigates an unusual table position noted in [[Session 03 — Into the Dark|Session 3]]. Amanita senses a mycelial network beneath the floor and strikes the stone with a mithral pickaxe, opening an escape tunnel system — ancient Duergar construction designed as both egress and a collapse trap for intruders. Three tunnel passages are revealed: north (dwarf-sized, described as "safe but boring" by [[Binks Stonevein]]'s Augury), west (via stone ladder), and deeper (slide — bad omen with trickster curiosity). The session ends with Binks sliding down after the floor becomes unstable, the rest of the party scrambling, and a cliffhanger.
 
 ### Session Setting
 
-**Location:** Ancient Dwarvish/Duergar safe house, Underdark passage north of [[Velkynvelve]]. A two-room chamber carved from solid stone, originally built as a sheltered waystation. Suffused with [[faerzress]] — ambient Underdark magical energy — that has been corrupted by a chaotic, fiendish influence of unknown origin. Sourceless dim light glows in pale golds, blues, greens, and purples.
+**Location:** Ancient Dwarvish/Duergar safe house, Underdark passage north of [[04-World-Lore/Locations/Velkynvelve]]. A two-room chamber carved from solid stone, originally built as a sheltered waystation. Suffused with [[faerzress]] — ambient Underdark magical energy — that has been corrupted by a chaotic, fiendish influence of unknown origin. Sourceless dim light glows in pale golds, blues, greens, and purples.
 
 **In-Game Time:** Approximately Day 3–4 since escaping Velkynvelve. First long rest achieved this session.
 
@@ -117,19 +117,19 @@ The second movement begins after the long rest, when the party investigates an u
 - **Escape the Underdark** — (In Progress) Party continues descent through newly discovered tunnel system beneath the safe house.
 - **Deal with Turvy** — (Completed This Session) After extended debate, party wakes Turvy, hears his testimony, provides healing and the moon flask, and releases him. Turvy departs grief-stricken but alive.
 - **Investigate the Crowbar** — (Ongoing) Kit's crowbar tip has silvered through unknown means. Transmutation magic confirmed. Origin still unknown.
-- **Reach Blingdenstone** — (In Progress) Binks has provided context about [[Blingdenstone]] as a potential destination. Party now descending toward unknown territory.
+- **Reach Blingdenstone** — (In Progress) Binks has provided context about [[04-World-Lore/Locations/Blingdenstone]] as a potential destination. Party now descending toward unknown territory.
 - **Avoid Drow Pursuit** — (In Progress) Pursuit level holds at 3. Long rest taken; DM notes pursuit would normally escalate but prior session actions held it steady.
 
 ### Scene / Timeline Breakdown
 
 - **Scene 1: Aftermath & Crowbar Mystery.** Kit examines her crowbar, discovers the silvered tip. Amanita casts Detect Magic — transmutation confirmed. Kit recalls via History check it was NOT silvered before the fight.
-- **Scene 2: The Turvy Debate.** Extended moral argument. Kit wants Turvy dead. Darby opposes. Aeolus sides with Kit. Amanita wants to interrogate. Binks provides historical context about [[Blingdenstone]] and wererats. DM corrects Session 3 ruling: wererats normally control their transformations; this attack was involuntary and abnormal.
+- **Scene 2: The Turvy Debate.** Extended moral argument. Kit wants Turvy dead. Darby opposes. Aeolus sides with Kit. Amanita wants to interrogate. Binks provides historical context about [[04-World-Lore/Locations/Blingdenstone]] and wererats. DM corrects Session 3 ruling: wererats normally control their transformations; this attack was involuntary and abnormal.
 - **Scene 3: Turvy Woken.** Binks casts Healing Word (9 HP). Topsy's body hastily covered — arm visible. Turvy wakes, sees it, breaks down. Claims faerzress light changed and he blacked out. Blarg rolls Insight on his account.
 - **Scene 4: Amanita's Detect Magic / Madness.** Amanita casts Detect Magic on faerzress-saturated space. Senses chaotic mix of transmutation, divination, illusion, abjuration. Fails Wisdom save (9). d100 madness roll: 81. Short-term madness (madness level 1). Stunned by hallucination of dark fungal tendrils. Binks punches her to break the stun (2 damage).
 - **Scene 5: Kit Attempts to Knock Out Turvy.** Binks's Persuasion on Turvy fails. Asks Kit to knock him out. Kit delivers defining speech — crouches, eye contact, hand at throat. Multiple failed crowbar/unarmed attempts. Blarg steps in.
 - **Scene 6: Blarg & Turvy.** [Retconned to before floor collapse.] Blarg finds moon gem flask in supplies. Perception/Arcana/Religion checks — lunar cycle enchantment identified. Channels lunar energy; moonlight visible from north window. Gives flask + Cure Wounds (8 HP) to Turvy. Comforts him about shared loss.
 - **Scene 7: Long Rest.** Kit requests Aeolus take watch with Amanita. Turvy cries himself to sleep. Blarg speaks to him, then sleeps. Full long rest — first of campaign. No incidents. Faerzress stable.
-- **Scene 8: Table Investigation.** Post-rest. Binks moves the oddly-positioned table. Investigation checks: Binks 5, Amanita 19, Aeolus 13, Kit 17. Amanita detects circular mycelial network below floor. Kit senses something off. [[Stool]] communicates about mushrooms below and [[Neverlight Grove]].
+- **Scene 8: Table Investigation.** Post-rest. Binks moves the oddly-positioned table. Investigation checks: Binks 5, Amanita 19, Aeolus 13, Kit 17. Amanita detects circular mycelial network below floor. Kit senses something off. [[Stool]] communicates about mushrooms below and [[04-World-Lore/Locations/Neverlight Grove]].
 - **Scene 9: Pickaxe Strike / Floor Collapse.** Amanita takes mithral pickaxe (magical conduit). Strikes floor. Stone peels back; spores erupt. Amanita and Binks Dex saves — both save. Amanita caught in mycelium net ~8–10 ft down. Three tunnels visible.
 - **Scene 10: Sub-Floor Investigation.** Kit investigates — dual-purpose escape tunnel/trap (Duergar design). Dungeon Delver advantage noted as oversight by DM. Binks descends ladder, slips, saves. Perception checks — no noise heard.
 - **Scene 11: Augury Ritual.** Binks performs Augury using DM Inspiration and [[Garl Glittergold]] talisman. Slide = "bad, but could be fun." Dwarven path = safe, boring. Kit reads Binks with Insight — not manipulated, just following his god.
@@ -163,13 +163,13 @@ The second movement begins after the long rest, when the party investigates an u
 | [[Turvy]] | Deep Gnome / Wererat | [[Topsy]] (sister, deceased); formerly party companion | Blarg spoke to him, healed him (Cure Wounds 8 HP). Grief-stricken, cried himself to sleep. Released with moon flask. | Dwarvish safe house (above collapsed floor) | Alive — Injured (~9 HP) |
 | [[Topsy]] | Deep Gnome / Wererat | Turvy (sibling) | Killed by Kit with crowbar during wererat attack ([[Session 03 — Into the Dark|S03]]) | Dwarvish safe house — body covered with blanket | Dead |
 | [[Eldeth]] | Dwarf / Fighter | Party companion; dwarven heritage | Took watch with Amanita during long rest. Commented that the passage down the ladder likely leads somewhere safe. | Dwarvish safe house (above collapsed floor) | Alive |
-| [[Stool]] | Myconid Sprout | Amanita's companion; originally from [[Neverlight Grove]] | Gave Turvy a slimy hug. Senses Neverlight Grove is far but there's fungal presence below. Rescued by Darby with Amanita during floor collapse. | With Amanita (above collapsed floor) | Alive |
+| [[Stool]] | Myconid Sprout | Amanita's companion; originally from [[04-World-Lore/Locations/Neverlight Grove]] | Gave Turvy a slimy hug. Senses Neverlight Grove is far but there's fungal presence below. Rescued by Darby with Amanita during floor collapse. | With Amanita (above collapsed floor) | Alive |
 
 ### Reputation & Relationships
 
 - **Kit → Turvy:** Tense. Kit wanted him dead, settled for knocking him out, failed, and ultimately allowed his release. Delivered the defining "I'm a fucking orc" speech directly to his face.
 - **Blarg → Turvy:** Compassionate. Blarg spoke privately to Turvy about loss, healed him, and gave him the moon flask.
-- **Binks → Turvy / Blingdenstone:** Binks provided critical historical context about wererats in [[Blingdenstone]] — complicated political history. Healed Turvy with Healing Word.
+- **Binks → Turvy / Blingdenstone:** Binks provided critical historical context about wererats in [[04-World-Lore/Locations/Blingdenstone]] — complicated political history. Healed Turvy with Healing Word.
 - **Turvy → Party:** Released rather than killed. Final interactions shaped by grief. Given moon flask to aid lycanthropic control. Could resurface as ally, threat, or be lost to the Underdark.
 - **Drow Pursuit:** Pursuit level holds at 3. No direct contact this session.
 - **[[Garl Glittergold]] → Binks:** Binks's Augury ritual deepened his active relationship with Garl. Trickster energy described as influencing Binks's decision-making around the slide tunnel.
@@ -306,7 +306,7 @@ Session 5 was a social, exploration, and investigation session with no combat en
 ### Patterns, Progress & Future Implications
 
 - Kit's crowbar silvering remains unexplained and is a significant open thread. The transmutation source is unknown — could be faerzress, could be something else.
-- Turvy's release creates an open NPC thread. He left with the moon flask but injured and alone in the Underdark. He could resurface at [[Blingdenstone]] or elsewhere.
+- Turvy's release creates an open NPC thread. He left with the moon flask but injured and alone in the Underdark. He could resurface at [[04-World-Lore/Locations/Blingdenstone]] or elsewhere.
 - Amanita's madness level is now 1. This is a persistent condition that should be tracked going forward.
 - Binks's deepening relationship with [[Garl Glittergold]] is driving tactical decisions (Augury, trickster instincts).
 - The Duergar tunnel system suggests this safe house was built with intentional escape routes — and traps for intruders following. This is consistent with Duergar defensive architecture.
@@ -342,8 +342,8 @@ Session 5 was a social, exploration, and investigation session with no combat en
 - [[Turvy]]
 - [[Eldeth]]
 - [[Stool]]
-- [[Velkynvelve]]
-- [[Blingdenstone]]
-- [[Neverlight Grove]]
+- [[04-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Blingdenstone]]
+- [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Garl Glittergold]]
 - [[faerzress]]

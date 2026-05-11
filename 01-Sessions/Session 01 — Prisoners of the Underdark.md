@@ -24,8 +24,8 @@ spelling_checked: true
 |---|---|
 | Session Number | 01 |
 | Session Date | 10/12/2025 |
-| Start Location | [[03-World-Lore/Locations/Velkynvelve]] — Prison Cell |
-| End Location | [[03-World-Lore/Locations/Velkynvelve]] — Various locations across outpost |
+| Start Location | [[04-World-Lore/Locations/Velkynvelve]] — Prison Cell |
+| End Location | [[04-World-Lore/Locations/Velkynvelve]] — Various locations across outpost |
 | Party Present | [[Kit Aluri]], [[Amanita de'Champignon]], [[Darby Stonefeather]], [[Aeolus]], [[Blarg]] |
 | Absent | [[Binks Stonevein]] |
 | Party Level | 2 |
@@ -41,7 +41,7 @@ spelling_checked: true
 
 ## Narrative Summary
 
-Session 01 opens with [[Amanita de'Champignon]]'s dream of [[03-World-Lore/Locations/Neverlight Grove]] being corrupted by a dark, oily presence. She wakes and communes with [[Stool]] via rapport spores. Each PC is introduced: [[Kit Aluri]] (6 days imprisoned), [[Darby Stonefeather]] (5 days), [[Aeolus]] (2 days, arrived via magical flash), and [[Blarg]] (2 days, fell through sinkhole in the Evermoors).
+Session 01 opens with [[Amanita de'Champignon]]'s dream of [[04-World-Lore/Locations/Neverlight Grove]] being corrupted by a dark, oily presence. She wakes and communes with [[Stool]] via rapport spores. Each PC is introduced: [[Kit Aluri]] (6 days imprisoned), [[Darby Stonefeather]] (5 days), [[Aeolus]] (2 days, arrived via magical flash), and [[Blarg]] (2 days, fell through sinkhole in the Evermoors).
 
 The DM establishes prior events: [[Jimjar]] disappeared overnight; [[Buppido]] was the first sacrifice after ritually murdering another prisoner; [[Ront]] was the second sacrifice after a rage incident that also knocked [[Shuushar]] into the pool below.
 
@@ -49,20 +49,20 @@ The DM establishes prior events: [[Jimjar]] disappeared overnight; [[Buppido]] w
 
 During a montage work-duty sequence, [[Amanita de'Champignon]] steals a hand crossbow, bolts, drow poison, clothes, and rope from the barracks using Druidcraft and a deception of 22. [[Darby Stonefeather]] is caught trying to open a chest and reassigned to the platform lift. [[Aeolus]] and [[Blarg]] are sent to the [[Lolth]] shrine, where Aeolus extracts a gemstone from the spider statue's eye using Find Familiar, triggering a giant spider encounter and a curse from Lolth.
 
-The session ends as a vrock bursts from the northern passage chased by chasmes, and [[03-World-Lore/Locations/Velkynvelve]] erupts into chaos.
+The session ends as a vrock bursts from the northern passage chased by chasmes, and [[04-World-Lore/Locations/Velkynvelve]] erupts into chaos.
 
 ---
 
 ## Locations Visited
 
-- [[03-World-Lore/Locations/Velkynvelve]] — Prison Cell (anti-magic field)
-- [[03-World-Lore/Locations/Velkynvelve]] — Guard Posts (North, South, Central)
-- [[03-World-Lore/Locations/Velkynvelve]] — Barracks
-- [[03-World-Lore/Locations/Velkynvelve]] — Shrine to [[Lolth]]
-- [[03-World-Lore/Locations/Velkynvelve]] — Main Hall / Kitchen
-- [[03-World-Lore/Locations/Velkynvelve]] — Armory (Central Guard Tower)
-- [[03-World-Lore/Locations/Velkynvelve]] — Quaggoth Den (referenced)
-- [[03-World-Lore/Locations/Velkynvelve]] — Platform Lift
+- [[04-World-Lore/Locations/Velkynvelve]] — Prison Cell (anti-magic field)
+- [[04-World-Lore/Locations/Velkynvelve]] — Guard Posts (North, South, Central)
+- [[04-World-Lore/Locations/Velkynvelve]] — Barracks
+- [[04-World-Lore/Locations/Velkynvelve]] — Shrine to [[Lolth]]
+- [[04-World-Lore/Locations/Velkynvelve]] — Main Hall / Kitchen
+- [[04-World-Lore/Locations/Velkynvelve]] — Armory (Central Guard Tower)
+- [[04-World-Lore/Locations/Velkynvelve]] — Quaggoth Den (referenced)
+- [[04-World-Lore/Locations/Velkynvelve]] — Platform Lift
 
 ---
 
@@ -139,7 +139,7 @@ The session ends as a vrock bursts from the northern passage chased by chasmes, 
 ## Related
 
 - [[Session 02]] (next session)
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Kit Aluri]]
 - [[Jorlan Duskryn]]
 - [[Ilvara Mizzrym]]

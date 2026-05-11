@@ -37,7 +37,7 @@ The outpost consists of multiple stalactite platforms connected by bridges made 
 ### [[Session 02 — Come Get Your Shit]]
 - Demon incursion (vrock + chasmes) created escape opportunity
 - [[Jorlan Duskryn]] unlocked the cell early; stood aside during escape
-- [[Sarith Kzekarit]] broke down ("They're coming"), killed guards, escaped into pool separately toward [[Neverlight Grove]]
+- [[Sarith Kzekarit]] broke down ("They're coming"), killed guards, escaped into pool separately toward [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Kit Aluri]] reached armory, recovered all party gear, rallied the party with "Come get your shit!"
 - [[Binks Stonevein]] formally introduced; Kit broke his shackles with Tactical Mind
 - [[Amanita de'Champignon]] looted the elite barracks clean (perception 25)

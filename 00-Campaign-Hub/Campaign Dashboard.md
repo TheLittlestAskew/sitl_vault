@@ -32,7 +32,7 @@
 ### Former / Lost Companions
 - [[Topsy]] — Deep gnome, wererat. Killed by [[Kit Aluri]] with silvered crowbar during involuntary lycanthropic attack (S04)
 - [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Captured by quaggoths during S02 escape
-- [[Sarith Kzekarit]] — Drow prisoner. Escaped into pool during S02; told Kit to find him at [[Neverlight Grove]]
+- [[Sarith Kzekarit]] — Drow prisoner. Escaped into pool during S02; told Kit to find him at [[04-World-Lore/Locations/Neverlight Grove]]
 
 ---
 
@@ -70,20 +70,20 @@
 
 ### Underdark Regions
 - [[Upperdark]] · [[Middledark]] · [[Lowerdark]]
-- [[The Northdark]] · [[03-World-Lore/Locations/The Darklake]]
+- [[The Northdark]] · [[04-World-Lore/Locations/The Darklake]]
 
 ### Key Campaign Locations
-- [[03-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03)
-- [[03-World-Lore/Locations/Blingdenstone]] — Deep gnome city; party's intended destination as of S03
-- [[03-World-Lore/Locations/Gracklstugh]] — Duergar city
-- [[03-World-Lore/Locations/Menzoberranzan]] — Iconic drow city
-- [[03-World-Lore/Locations/Neverlight Grove]] — Myconid settlement; Stool's home; Sarith's destination
-- [[03-World-Lore/Locations/Mantol-Derith]] — Trade enclave
-- [[03-World-Lore/Locations/The Silken Paths]] — Webbed travel route
+- [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03)
+- [[04-World-Lore/Locations/Blingdenstone]] — Deep gnome city; party's intended destination as of S03
+- [[04-World-Lore/Locations/Gracklstugh]] — Duergar city
+- [[04-World-Lore/Locations/Menzoberranzan]] — Iconic drow city
+- [[04-World-Lore/Locations/Neverlight Grove]] — Myconid settlement; Stool's home; Sarith's destination
+- [[04-World-Lore/Locations/Mantol-Derith]] — Trade enclave
+- [[04-World-Lore/Locations/The Silken Paths]] — Webbed travel route
 - [[Sloobludop]] — Kuo-toa settlement; identified as closer option (~10 days) but off-path (S03)
 
 ### Campaign-Specific Locations
-- [[03-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S08-S10)
+- [[04-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S08-S10)
 - Ancient Dwarvish/Duergar Safe House — Hidden waystation in northern passage, faerzress-suffused (S03-S05). Eldeth guarding as of S06.
 - Bone Cavern — Below safe house shaft. Ancient bones, oily substance, gray ooze (S06)
 - Glabbagool's Corridor — Corridor occupied by awakened gelatinous cube, below bone cavern (S06)

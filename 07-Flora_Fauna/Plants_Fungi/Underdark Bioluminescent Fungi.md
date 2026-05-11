@@ -18,7 +18,7 @@ The Underdark is home to vast ecosystems of bioluminescent fungi, mosses, lichen
 ## Campaign Appearances
 
 ### [[Session 01 — Prisoners of the Underdark]]
-- Faint purple phosphorescence and bioluminescent veins in the rock at [[Velkynvelve]]
+- Faint purple phosphorescence and bioluminescent veins in the rock at [[04-World-Lore/Locations/Velkynvelve]]
 
 ### [[Session 03 — Into the Dark]]
 - After escaping through the northern passage, the party emerged into wider passages teeming with Underdark vegetation
@@ -43,4 +43,4 @@ The Underdark is home to vast ecosystems of bioluminescent fungi, mosses, lichen
 - [[Session 05 — Silvered]]
 - [[Amanita de'Champignon]]
 - [[Stool]]
-- [[Neverlight Grove]]
+- [[04-World-Lore/Locations/Neverlight Grove]]

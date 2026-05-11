@@ -48,7 +48,7 @@ The defeated oozes' remains reform into a dragon statue whose eyes light up, rev
 
 ## Session Setting
 
-Beneath the ancient Dwarvish/Duergar safe house first discovered in [[Session 03 — Into the Dark|Session 03]]. Day 2 post-[[Velkynvelve]] escape. The party descends through natural stone shafts, past a mithril-enchanted iron grate, through bone-littered caverns, [[Glabbagool]]'s corridor, and acidic flooded tunnels to reach the [[Oozing Temple]].
+Beneath the ancient Dwarvish/Duergar safe house first discovered in [[Session 03 — Into the Dark|Session 03]]. Day 2 post-[[04-World-Lore/Locations/Velkynvelve]] escape. The party descends through natural stone shafts, past a mithril-enchanted iron grate, through bone-littered caverns, [[Glabbagool]]'s corridor, and acidic flooded tunnels to reach the [[Oozing Temple]].
 
 ## Locations Visited
 
@@ -64,7 +64,7 @@ Beneath the ancient Dwarvish/Duergar safe house first discovered in [[Session 03
 
 - **Rescue Binks from shaft collapse** — Completed (this session).
 - **Navigate underground tunnels** — In progress. Reached Oozing Temple.
-- **Reach [[Blingdenstone]]** — Ongoing. Heading generally northward.
+- **Reach [[04-World-Lore/Locations/Blingdenstone]]** — Ongoing. Heading generally northward.
 - **[[Turvy]]'s lycanthropy management** — Active. Kit set conditional terms.
 - **[[Aeolus]]'s Spider Curse** — Active (dormant this session).
 - **Escape the flooding [[Oozing Temple]]** — NEW. Water rising at session end.
@@ -236,4 +236,4 @@ Beneath the ancient Dwarvish/Duergar safe house first discovered in [[Session 03
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Kit Aluri]] · [[Binks Stonevein]] · [[Aeolus]] · [[Blarg]] · [[Amanita de'Champignon]] · [[Darby Stonefeather]]
 - [[Turvy]] · [[Eldeth]] · [[Glabbagool]] · [[Topsy]] · [[Stool]]
-- [[Oozing Temple]] · [[Velkynvelve]] · [[Blingdenstone]]
+- [[Oozing Temple]] · [[04-World-Lore/Locations/Velkynvelve]] · [[04-World-Lore/Locations/Blingdenstone]]

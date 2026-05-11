@@ -10,7 +10,7 @@ location: Mushroom cavern, northern passage from Velkynvelve
 Also known as **Devil's Mushroom**.
 
 ## Description
-A dangerous Underdark fungus found in the mushroom cavern the party traveled through after escaping [[Velkynvelve]]. Known for its hallucinogenic and potentially poisonous properties.
+A dangerous Underdark fungus found in the mushroom cavern the party traveled through after escaping [[04-World-Lore/Locations/Velkynvelve]]. Known for its hallucinogenic and potentially poisonous properties.
 
 ## Properties
 - **Poisonous/Hallucinogenic:** Dangerous to interact with or inhale spores from
@@ -29,4 +29,4 @@ A dangerous Underdark fungus found in the mushroom cavern the party traveled thr
 
 ## Related
 - [[Session 03 — Into the Dark]]
-- [[Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]

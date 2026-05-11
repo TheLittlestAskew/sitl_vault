@@ -50,4 +50,4 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Campaign Dashboard]]
 - [[Binks Stonevein]] — frequent tactical partner
 - [[Topsy]] / [[Turvy]] — Taylor rolls for these NPCs in combat
-- [[03-World-Lore/Locations/Velkynvelve]] — starting prison location
+- [[04-World-Lore/Locations/Velkynvelve]] — starting prison location

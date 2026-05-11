@@ -19,4 +19,4 @@
 ## Related
 - [[Campaign Dashboard]]
 - [[Stool]] — bonded companion
-- [[03-World-Lore/Locations/Neverlight Grove]] — myconid homeland
+- [[04-World-Lore/Locations/Neverlight Grove]] — myconid homeland

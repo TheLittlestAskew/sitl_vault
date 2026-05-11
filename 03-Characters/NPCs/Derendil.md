@@ -9,7 +9,7 @@ location: Velkynvelve area (captured during S02 escape)
 
 # Prince Derendil
 
-Quaggoth prisoner at [[03-World-Lore/Locations/Velkynvelve]] who claims to be a polymorphed elven prince. Speaks Elvish. Wearing clothing — unusual for a quaggoth.
+Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a polymorphed elven prince. Speaks Elvish. Wearing clothing — unusual for a quaggoth.
 
 ## Description / Appearance
 
@@ -43,6 +43,6 @@ Quaggoth prisoner at [[03-World-Lore/Locations/Velkynvelve]] who claims to be a 
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Topsy]]
 - [[Turvy]]

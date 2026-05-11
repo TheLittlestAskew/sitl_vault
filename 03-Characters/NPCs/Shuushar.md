@@ -9,7 +9,7 @@ location: Unknown — likely heading toward [[Sloobludop]] if alive (per Addison
 
 # Shuushar
 
-Kuo-toa prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Pacifist who sought meditation.
+Kuo-toa prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Pacifist who sought meditation.
 
 ## Personality
 
@@ -32,6 +32,6 @@ Kuo-toa are amphibious; Shuushar's ability to breathe underwater makes survival 
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Ront]]
 - [[Sloobludop]]

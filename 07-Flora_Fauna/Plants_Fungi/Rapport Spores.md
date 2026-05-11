@@ -20,7 +20,7 @@ Telepathic spore clouds produced by myconids. When released, rapport spores crea
 ### [[Session 01 — Prisoners of the Underdark]]
 - [[Stool]] used rapport spores to commune with [[Amanita de'Champignon]] in the prison cell
 - Bridged [[Darby Stonefeather]]'s first telepathic conversation — Darby waved at Amanita, and Stool sent spores to Darby to connect them
-- Stool identified [[Neverlight Grove]] in Amanita's dream through the spore link
+- Stool identified [[04-World-Lore/Locations/Neverlight Grove]] in Amanita's dream through the spore link
 
 ### [[Session 02 — Come Get Your Shit]]
 - Amanita's spore-sensing extended across the cavern via lichen/fungus colonial relationship
@@ -37,5 +37,5 @@ Telepathic spore clouds produced by myconids. When released, rapport spores crea
 ## Related
 - [[Stool]]
 - [[Amanita de'Champignon]]
-- [[Neverlight Grove]]
+- [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Session 01 — Prisoners of the Underdark]]

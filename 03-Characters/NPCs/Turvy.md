@@ -16,8 +16,8 @@ Deep gnome. Young by gnomish standards (younger than Binks). In wererat hybrid f
 ## Backstory
 - Born with lycanthropy (natural-born wererat, not infected)
 - Orphan — "Orphans are not. We used to take bets on who would go first? Because we just knew. Supposed to be me." ([[Session 05 — Silvered]])
-- From the [[Blingdenstone]] area (implied by connection to the svirfneblin wererat community)
-- Was captured by the drow and imprisoned at [[Velkynvelve]] along with the party
+- From the [[04-World-Lore/Locations/Blingdenstone]] area (implied by connection to the svirfneblin wererat community)
+- Was captured by the drow and imprisoned at [[04-World-Lore/Locations/Velkynvelve]] along with the party
 
 ## Personality
 - Grief-stricken but resolving after Topsy's death
@@ -84,7 +84,7 @@ Deep gnome. Young by gnomish standards (younger than Binks). In wererat hybrid f
 
 ## Related
 - [[Topsy]]
-- [[Blingdenstone]]
+- [[04-World-Lore/Locations/Blingdenstone]]
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 04 — Life Isn't Faer-zress]]

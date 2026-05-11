@@ -8,7 +8,7 @@ location: Webbing above Velkynvelve cavern (body)
 
 # Ront
 
-Orc prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Second sacrifice.
+Orc prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Second sacrifice.
 
 ## Personality
 
@@ -23,6 +23,6 @@ Orc prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Second sacrifice.
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Shuushar]]
 - [[Kit Aluri]]

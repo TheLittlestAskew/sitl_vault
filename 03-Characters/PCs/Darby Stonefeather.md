@@ -31,7 +31,7 @@ location: Oozing Temple (flooding, as of S06)
 
 ## Backstory
 
-- Imprisoned at [[03-World-Lore/Locations/Velkynvelve]] for 5 days as of S01
+- Imprisoned at [[04-World-Lore/Locations/Velkynvelve]] for 5 days as of S01
 - Socially inexperienced — a sheltered farmer who has never left her family's farm (the Stonefeather Roost, a multigenerational axebeak farm)
 - Overwhelmed by the diversity of people and creatures around her; everything is a first
 - S01 marks her first wave to another person, first telepathic conversation (via Stool's rapport spores), and first failed social deception
@@ -105,7 +105,7 @@ location: Oozing Temple (flooding, as of S06)
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Amanita de'Champignon]]

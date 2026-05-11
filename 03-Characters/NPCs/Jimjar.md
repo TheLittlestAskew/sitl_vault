@@ -9,7 +9,7 @@ location: Unknown
 
 # Jimjar
 
-Deep gnome prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Gambler who disappeared overnight.
+Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Gambler who disappeared overnight.
 
 ## Personality
 
@@ -25,4 +25,4 @@ Deep gnome prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Gambler who disa
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]

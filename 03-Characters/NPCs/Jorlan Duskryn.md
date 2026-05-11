@@ -10,7 +10,7 @@ location: Velkynvelve (confirmed dead per Addison's notes)
 
 # Jorlan Duskryn
 
-Scarred drow elite warrior stationed at [[03-World-Lore/Locations/Velkynvelve]]. Former lover of [[Ilvara Mizzrym]], replaced by [[Shoor Vandree]]. Aided the party's escape (S01-S02). Confirmed dead per DM Addison's notes.
+Scarred drow elite warrior stationed at [[04-World-Lore/Locations/Velkynvelve]]. Former lover of [[Ilvara Mizzrym]], replaced by [[Shoor Vandree]]. Aided the party's escape (S01-S02). Confirmed dead per DM Addison's notes.
 
 ## Description / Appearance
 
@@ -57,7 +57,7 @@ Per Addison's notes (11/22/25): Jorlan is listed as an "Older drow who helped th
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Ilvara Mizzrym]]
 - [[Shoor Vandree]]
 - [[Kit Aluri]]

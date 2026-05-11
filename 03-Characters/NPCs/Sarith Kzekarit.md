@@ -10,7 +10,7 @@ location: Unknown — last seen escaping into pool (S02). Heading toward [[Never
 
 # Sarith Kzekarit
 
-Disgraced drow prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Wanted for murder in [[03-World-Lore/Locations/Menzoberranzan]]. Often holds his head as if in pain and mutters to himself.
+Disgraced drow prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Wanted for murder in [[04-World-Lore/Locations/Menzoberranzan]]. Often holds his head as if in pain and mutters to himself.
 
 ## Description / Appearance
 
@@ -21,7 +21,7 @@ Disgraced drow prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Wanted for m
 
 ## Backstory
 
-- Wanted for murder in [[03-World-Lore/Locations/Menzoberranzan]], the largest drow city. Kit learned this from overhearing drow guards (S02).
+- Wanted for murder in [[04-World-Lore/Locations/Menzoberranzan]], the largest drow city. Kit learned this from overhearing drow guards (S02).
 - Imprisoned at Velkynvelve as a disgraced prisoner, not a guard
 - "A quiet and grim Drow accused of murdering another drow" (Addison's notes)
 
@@ -33,7 +33,7 @@ Disgraced drow prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Wanted for m
 ## Key Events
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Paired with Kit for guard post duty. Quiet and cooperative but distant.
-- **[[Session 02 — Come Get Your Shit]]:** Had a sudden breakdown during the demon chaos. Laughed maniacally, buckled, and said "They're coming. They're coming." Told Kit "Find me in [[03-World-Lore/Locations/Neverlight Grove]] if you wish to speak again." Pulled out two makeshift daggers. Kit tried to grapple him (failed, 7 with disadvantage). Sarith dropped into the outpost below, dispatched two drow guards, and plunged into the pool. Escaped separately from the party.
+- **[[Session 02 — Come Get Your Shit]]:** Had a sudden breakdown during the demon chaos. Laughed maniacally, buckled, and said "They're coming. They're coming." Told Kit "Find me in [[04-World-Lore/Locations/Neverlight Grove]] if you wish to speak again." Pulled out two makeshift daggers. Kit tried to grapple him (failed, 7 with disadvantage). Sarith dropped into the outpost below, dispatched two drow guards, and plunged into the pool. Escaped separately from the party.
 
 ## DM Notes (Addison, 11/22/25)
 
@@ -42,7 +42,7 @@ Disgraced drow prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Wanted for m
 ## Relationships
 
 - **[[Kit Aluri]]:** Paired for guard duty. Kit could not stop his escape. He invited her to find him at Neverlight Grove.
-- **[[03-World-Lore/Locations/Neverlight Grove]]:** Referenced it as a meeting point — the same location Amanita dreamed about being corrupted (S01) and Stool's home.
+- **[[04-World-Lore/Locations/Neverlight Grove]]:** Referenced it as a meeting point — the same location Amanita dreamed about being corrupted (S01) and Stool's home.
 
 ## Key Quotes
 
@@ -55,7 +55,7 @@ Disgraced drow prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Wanted for m
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[03-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/Velkynvelve]]
 - [[Kit Aluri]]
-- [[03-World-Lore/Locations/Neverlight Grove]]
-- [[03-World-Lore/Locations/Menzoberranzan]]
+- [[04-World-Lore/Locations/Neverlight Grove]]
+- [[04-World-Lore/Locations/Menzoberranzan]]
