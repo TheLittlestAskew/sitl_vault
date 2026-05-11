@@ -2,19 +2,19 @@
 type: npc
 race: Drow
 class: Elite Warrior
-affiliation: Velkynvelve (betraying Ilvara out of personal vendetta)
-status: Alive (remained at Velkynvelve)
+affiliation: Velkynvelve (betrayed Ilvara to aid party's escape)
+status: Dead
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (as of S02)
+location: Velkynvelve (confirmed dead per Addison's notes)
 ---
 
 # Jorlan Duskryn
 
-Scarred drow elite warrior stationed at [[03-World-Lore/Locations/Velkynvelve]]. Former lover of [[Ilvara Mizzrym]], replaced by [[Shoor Vandree]].
+Scarred drow elite warrior stationed at [[03-World-Lore/Locations/Velkynvelve]]. Former lover of [[Ilvara Mizzrym]], replaced by [[Shoor Vandree]]. Aided the party's escape (S01-S02). Confirmed dead per DM Addison's notes.
 
 ## Description / Appearance
 
-- Half his face is melted and scarred — acidic burn (S01–S02; DM notes "if you're medically inclined, might be able to guess as acidic kind of burn")
+- Half his face is melted and scarred — acidic burn (S01-S02; DM notes "if you're medically inclined, might be able to guess as acidic kind of burn")
 - Expressions difficult to read due to scarring: "the scars make everything look like pain" (S01 Kit's POV)
 - Moves like a man carrying more weight than his body (S01)
 
@@ -34,11 +34,14 @@ Scarred drow elite warrior stationed at [[03-World-Lore/Locations/Velkynvelve]].
 ## Key Events
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Approached Kit at night and whispered an offer to leave the cell unlocked during the next guard shift. Kit's nat 20 history revealed his backstory. Insight 5 gave no read on motives.
-- **[[Session 02 — Come Get Your Shit]]:** Unlocked the cell early when demon chaos created an opportunity (instead of waiting for his night shift). Stood aside during the escape. Directed party with information about the armory and jumping into the pool. Let [[Derendil]] leap past him. Said something like "Looks like luck came early." Remained behind at Velkynvelve.
+- **[[Session 02 — Come Get Your Shit]]:** Unlocked the cell early when demon chaos created an opportunity. Stood aside during the escape. Directed party with information about the armory and jumping into the pool. Let [[Derendil]] leap past him. Said something like "Looks like luck came early." Remained behind at Velkynvelve.
+
+## Status: Dead
+Per Addison's notes (11/22/25): Jorlan is listed as an "Older drow who helped the party and died." Cause of death not specified in available sources; presumably killed at Velkynvelve after aiding the escape.
 
 ## Relationships
 
-- **[[Ilvara Mizzrym]]:** Former lover; deep personal grudge. His betrayal is motivated by her rejection.
+- **[[Ilvara Mizzrym]]:** Former lover; deep personal grudge. His betrayal was motivated by her rejection.
 - **[[Shoor Vandree]]:** Rival who took his position and Ilvara's favor.
 - **[[Kit Aluri]]:** Offered escape; transactional relationship. Proved reliable.
 

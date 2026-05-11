@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session Notes Template.md",
+                "file": "00-Campaign-Hub/Campaign Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Notes Template"
+              "title": "Campaign Dashboard"
             }
           }
         ]
@@ -203,13 +203,16 @@
   },
   "active": "35fb547cd9fe44d1",
   "lastOpenFiles": [
-    "Templates/NPC Template.md",
-    "Templates/Location Template.md",
-    "00-Campaign-Hub/Campaign Dashboard.md",
     "00-Campaign-Hub/House Rules & Rulings.md",
+    "00-Campaign-Hub/Loot Tracker.md",
     "00-Campaign-Hub/Profanity Ledger.md",
     "00-Campaign-Hub/Quote Board Master.md",
     "01-Sessions/Session 05 — Silvered.md",
+    "02-Character_Journal/Kit Aluri Journal.md",
+    "Templates/Session Notes Template.md",
+    "Templates/NPC Template.md",
+    "Templates/Location Template.md",
+    "00-Campaign-Hub/Campaign Dashboard.md",
     "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "01-Sessions/Session 02 — Come Get Your Shit.md",
     "01-Sessions/Session 03 — Into the Dark.md",
@@ -224,7 +227,6 @@
     "03-Characters/PCs/Kit Aluri.md",
     "03-Characters/PCs/Kit.pdf",
     "03-Characters/NPCs/Asha Vandree.md",
-    "00-Campaign-Hub/Loot Tracker.md",
     "Session 01.md",
     "03-Characters/PCs/Binks Stonevein.md",
     "06-Media/112326 img.png",
@@ -238,8 +240,6 @@
     "06-Media/112225 img.png",
     "06-Media/120725 img.png",
     "03-Characters/PCs/Aeolus.md",
-    "DND_Sources/Notes from Addison.md",
-    "Claude_Project_Instructions.md",
     "07-Flora_Fauna/Plants_Fungi",
     "07-Flora_Fauna/Creatures",
     "07-Flora_Fauna",

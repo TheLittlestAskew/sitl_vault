@@ -1,10 +1,10 @@
 ---
 type: npc
 race: Myconid Sprout
-affiliation: Neverlight Grove
+affiliation: Neverlight Grove; party companion
 status: Alive
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Pool beneath Velkynvelve (as of S02)
+location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 ---
 
 # Stool
@@ -28,10 +28,11 @@ Myconid sprout prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Companion to
 - Naive, innocent, earnest
 - "I'm just a mushroom. I don't know much about using appropriate pronouns." (S01)
 - Often forgotten by everyone — "the one creature that doesn't really have any [threat]" (S02)
+- Gave Turvy a slimy hug after Topsy's death (S05) — empathetic despite simplicity
 
 ## Abilities & Class Features
 
-- **Rapport Spores:** Telepathic communication cloud. Allows others within range to communicate silently. Used to bridge Amanita, Darby, and other party members.
+- **Rapport Spores:** Telepathic communication cloud. Allows others within range to communicate silently.
 - **Spore Cloud:** Released during S02 escape chaos — small defensive spore burst
 - Later development: Pacifying Spores, Dissonant Whispers, Misty Step (via empowerment in later sessions)
 - Movement: 15ft (boosted later)
@@ -39,13 +40,15 @@ Myconid sprout prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Companion to
 ## Relationships
 
 - **[[Amanita de'Champignon]]:** Primary bond. Telepathic communication from S01 onward.
-- **[[Darby Stonefeather]]:** Bridged first telepathic contact between Darby and the world (S01). Darby waved at Amanita; Stool sent spores to Darby.
-- **[[Turvy]]:** Latched onto Turvy's back during S02 escape.
+- **[[Darby Stonefeather]]:** Bridged first telepathic contact between Darby and the world (S01). Rescued by Darby during floor collapse (S05).
+- **[[Turvy]]:** Latched onto Turvy's back during S02 escape. Gave him a slimy hug after Topsy's death (S05).
 
 ## Key Events
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Communed with Amanita via rapport spores. Identified Neverlight Grove in her dream. Bridged Darby's first telepathic contact.
-- **[[Session 02 — Come Get Your Shit]]:** Latched onto [[Turvy]] during escape. Released spore cloud. Escaped into pool with party.
+- **[[Session 02 — Come Get Your Shit]]:** Latched onto Turvy during escape. Released spore cloud. Escaped into pool with party.
+- **[[Session 03 — Into the Dark]]:** Traveled with party through northern passage.
+- **[[Session 05 — Silvered]]:** Senses fungal presence below safe house floor. Communicates about Neverlight Grove being far but connected via mycelial network. Gave Turvy a slimy hug. DEX save 17 during floor collapse. Rescued by Darby and Amanita.
 
 ## Key Quotes
 
@@ -57,6 +60,7 @@ Myconid sprout prisoner at [[03-World-Lore/Locations/Velkynvelve]]. Companion to
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
+- [[Session 05 — Silvered]]
 - [[03-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
 - [[03-World-Lore/Locations/Neverlight Grove]]

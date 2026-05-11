@@ -3,10 +3,10 @@ type: pc
 race: Wood Elf
 class: Druid (Circle of Spores, Tasha's)
 affiliation: Party
-status: Alive
+status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Pool beneath Velkynvelve (as of S02)
+location: Ancient Dwarvish Safe House — above collapsed floor (as of S05)
 ---
 
 # Amanita de'Champignon
@@ -35,7 +35,7 @@ location: Pool beneath Velkynvelve (as of S02)
 ## Personality
 
 - Eccentric, curious, hippie-mystic energy — talks like a laid-back naturalist
-- Surprisingly cunning beneath the surface — executed the session's most successful stealth operation in S01 and looted the elite barracks clean in S02
+- Surprisingly cunning beneath the surface — executed the session's most successful stealth operations in S01-S02
 - Deeply connected to the fungal/spore world; identifies with mushrooms and lichen on an intuitive level
 - Refers to companions affectionately as "spider dude," "man"
 - First instinct in the elite barracks upon finding her pipe: "Oh man, my pipe. Oh, I missed it so much. I'm gonna smoke everything." (S02)
@@ -43,7 +43,10 @@ location: Pool beneath Velkynvelve (as of S02)
 ## Abilities & Class Features
 
 - **Druidcraft:** Used S01 to create nature sounds in a 5ft cube, lulling a meditating drow (DM rolled nat 1 perception for the drow)
-- **Rapport Spores (via Stool connection):** Telepathic communication with party members within range; Amanita's spore-sensing extends across the cavern via lichen/fungus colonial relationship (S02: she senses the vrocks/chasmes as fiendish/demonic through this connection)
+- **Rapport Spores (via Stool connection):** Telepathic communication with party members within range
+- **Halo of Spores:** First used in combat during S03 gray ooze encounter
+- **Chill Touch:** Used vs gray ooze (S03)
+- **Detect Magic:** Cast on corrupted faerzress (S05). Failed Wisdom save (9), triggered d100 madness roll (81) — short-term madness (madness level 1). Stunned by hallucination of dark fungal tendrils. Binks punched her to break the stun.
 - **Entangle:** Readied but not cast during S02 escape
 - **Movement speed:** 35ft (wood elf)
 
@@ -53,26 +56,32 @@ location: Pool beneath Velkynvelve (as of S02)
 |---|---|---|
 | 5-foot strand of silken rope | S01 (scavenging, roll 18) | Carried |
 | Hand crossbow + bolt case | S01 (stolen from barracks) | Carried |
-| Flask of drow poison | S01 (stolen from barracks; investigation 16 identified it) | Carried |
+| Flask of drow poison | S01 (stolen from barracks) | Carried |
 | Set of drow clothes | S01 (stolen; worn under robes) | Worn |
-| Coil of rope with grappling hook | S01 (observed in barracks; unclear if taken) | [Ambiguous] |
-| 4 additional items (D4=4) | S01 (DM never specified) | [Unresolved] |
+| 4 additional items (D4=4) | S01 (DM never specified) | **Unresolved** |
 | Poisoned quaggoth fang (improvised weapon) | S02 (pulled from quaggoth's back; dipped in drow poison) | Carried |
 | Personal pipe (trinket) | S02 (recovered from elite barracks display) | Carried |
-| Elite barracks haul: chain shirt, rope, grappling hooks, crossbow bolts, poison, bags of gold/silver | S02 (perception 25 in elite barracks) | Carried |
+| Elite barracks haul | S02 (chain shirt, rope, grappling hooks, bolts, poison, gold/silver) | Carried |
+| Everyone's confiscated trinkets | S02 (recovered from elite barracks display) | Distributed |
 | Full starting gear + pack | S02 (armory recovery) | Equipped |
-| Everyone's confiscated trinkets | S02 (recovered from elite barracks display) | Distributed to party |
+
+## Conditions
+- **Madness Level 1** (short-term) — Triggered S05 by casting Detect Magic on corrupted faerzress. Persistent condition; should be tracked going forward.
 
 ## Relationships
 
-- **[[Stool]]:** Deep telepathic bond via rapport spores. Communicated with Stool from S01 onward. Stool identifies the city in her dream as his home (Neverlight Grove).
-- **[[Darby Stonefeather]]:** Developing close partnership. Worked together in barracks (S01) and elite barracks (S02). Amanita ran to Darby at the lift first when chaos erupted.
-- **[[Eldeth]]:** Allied during escape; Eldeth stayed with Amanita and Darby.
+- **[[Stool]]:** Deep telepathic bond via rapport spores. Communicated from S01 onward.
+- **[[Darby Stonefeather]]:** Developing close partnership. Worked together in barracks (S01) and elite barracks (S02).
+- **[[Eldeth]]:** Allied during escape and travel.
+- **[[Turvy]]:** Curious/sympathetic. Wanted to interrogate rather than kill. Patted his head (S05).
 
 ## Key Events
 
-- **[[Session 01 — Prisoners of the Underdark]]:** Dream of Neverlight Grove corrupted. Communed with Stool. Used Druidcraft to lull a drow guard (nat 1 perception). Stole hand crossbow, bolts, poison, clothes, rope from barracks (deception 22). Noticed drow guard's eyes briefly turn purple (insight 21).
-- **[[Session 02 — Come Get Your Shit]]:** Snuck into elite barracks during escape chaos. Pulled quaggoth fang from a guard's back. Perception 25 found everything in elite barracks. Dipped fang in drow poison. Recovered all confiscated trinkets. Escaped into pool.
+- **[[Session 01 — Prisoners of the Underdark]]:** Dream of Neverlight Grove corrupted. Used Druidcraft to lull a drow guard (nat 1 perception). Stole hand crossbow, bolts, poison, clothes from barracks (deception 22). Noticed drow guard's eyes briefly turn purple.
+- **[[Session 02 — Come Get Your Shit]]:** Looted elite barracks clean (perception 25). Pulled quaggoth fang, dipped in poison. Recovered all confiscated trinkets.
+- **[[Session 03 — Into the Dark]]:** First use of Halo of Spores in combat (vs gray ooze). Hit hard by ooze retaliation. Healed 23 HP by Blarg. Senses [[Neverlight Grove]] direction via spore network.
+- **[[Session 04 — Life Isn't Faer-zress]]:** Failed Blindness spell on Turvy through narrow doorway during wererat fight.
+- **[[Session 05 — Silvered]]:** Cast Detect Magic on crowbar (confirmed transmutation). Cast Detect Magic on faerzress — failed WIS save (9), d100 roll 81 = short-term madness. Stunned; Binks punched her out of it. Detected mycelial network beneath floor (Investigation 19). Struck floor with mithral pickaxe, revealing tunnel system. Perception 24 examining tunnel openings. Yanked to safety by Kit during floor collapse.
 
 ## Key Quotes
 
@@ -88,6 +97,9 @@ location: Pool beneath Velkynvelve (as of S02)
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
+- [[Session 03 — Into the Dark]]
+- [[Session 04 — Life Isn't Faer-zress]]
+- [[Session 05 — Silvered]]
 - [[03-World-Lore/Locations/Velkynvelve]]
 - [[Stool]]
 - [[03-World-Lore/Locations/Neverlight Grove]]
