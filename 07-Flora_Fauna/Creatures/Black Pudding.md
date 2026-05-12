@@ -12,7 +12,7 @@ status: Destroyed (S08)
 > **Classification:** Large ooze
 > **Threat Level:** High (at party level 3)
 > **First Appeared:** [[Session 07 — Escape from the Oozing Temple]]
-> **Defeated:** [[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]
+> **Defeated:** [[Session 08 - The Whirlwind and the Depths|Session 08]]
 
 ---
 
@@ -43,7 +43,7 @@ A massive black ooze that rose from the flooded trapdoor pits in the [[Oozing Te
 ## Encounters
 
 - **S07 — Flooding Escape:** Rose from flooded pit. Attacked Darby (pseudopod, 15 vs AC 16 — miss). Session ended with the Black Pudding pursuing the party from behind while [[Glabbagool]] blocked water from ahead. Encounter unresolved.
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|S08]] — Final Battle:** Combat continued from S07. Kit used Trip Attack to knock it prone (first Battle Master maneuver use). Kit's greatsword (slashing) caused pudding to split — DM confirmed slashing is ineffective, mass reforms. Pudding hit Kit for 25 total damage (8 bludgeoning + 17 acid), dropping her to 0 HP; Kit returned to 1 HP via Relentless Endurance. Blarg's Moonbeam dealt 30 total radiant damage across two failed Con saves. Darby's first spectral rage (whirlwind) parted the floodwater. Amanita's Poison Spray dealt 9 damage. **Half 1** destroyed by combined opportunity attacks from Kit (Nat 20 crit, 19 damage) and Darby (13 damage with Religion-granted D6 radiant bonus). **Half 2** destroyed by Darby's killing blow (12 damage with rage bonus). Both halves defeated; encounter resolved.
+- **[[Session 08 - The Whirlwind and the Depths|S08]] — Final Battle:** Combat continued from S07. Kit used Trip Attack to knock it prone (first Battle Master maneuver use). Kit's greatsword (slashing) caused pudding to split — DM confirmed slashing is ineffective, mass reforms. Pudding hit Kit for 25 total damage (8 bludgeoning + 17 acid), dropping her to 0 HP; Kit returned to 1 HP via Relentless Endurance. Blarg's Moonbeam dealt 30 total radiant damage across two failed Con saves. Darby's first spectral rage (whirlwind) parted the floodwater. Amanita's Poison Spray dealt 9 damage. **Half 1** destroyed by combined opportunity attacks from Kit (Nat 20 crit, 19 damage) and Darby (13 damage with Religion-granted D6 radiant bonus). **Half 2** destroyed by Darby's killing blow (12 damage with rage bonus). Both halves defeated; encounter resolved.
 
 ---
 
@@ -68,7 +68,7 @@ A massive black ooze that rose from the flooded trapdoor pits in the [[Oozing Te
 ## Related
 
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Gray Ooze]]

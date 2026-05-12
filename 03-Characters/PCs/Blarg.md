@@ -87,7 +87,7 @@ location: Upper Cavern (as of S08)
 - **[[Session 05 — Silvered]]:** Found moon-linked gemstone flask. Gave flask to Turvy. Spoke privately about loss. Healed Turvy 8 HP.
 - **[[Session 06 — The Long Way Down]]:** Discussed Topsy burial with Turvy (retcon). Assisted with spelunking gear (survival 21). Slipped during descent (DEX save 6, 3 bludgeoning). Caught by Kit and Darby. Diagnosed Binks (medicine 25 — TBI, burst eardrums). Healed Binks (Cure Wounds 15 HP — restored hearing/vision). Activated Tremorsense (60 ft, 10 min) — detected 2 faint signatures. Combat 1: Starry Wisp on ceiling ooze (22 hit, 3 radiant). Arcana 22 on [[Glabbagool]] — sentience from chaotic fiendish energy. Wild shaped to giant spider twice for tunnel descent. Made web to help party descend (wisdom 10 — functional but sticky; Amanita got stuck). Saluted Clementine. Combat 3: Moonbeam 2nd level on oozes B+C (B passed save, C failed). Dropped wild shape to cast. Perception 18 noticed dragon statue reforming. **Florian awarded heroic inspiration by DM for checking on Taylor when she was muted.**
 - **[[Session 07 — Escape from the Oozing Temple]]:** Nearly fell into trapdoor pit (Acrobatics 4 — failed, Dex save 11 — failed, Athletics 16 — caught the edge and pulled himself up). DM confirmed Blarg's earlier webbing across pits was still intact (DM roll 18), which saved him. Received [[Longstrider]] from [[Amanita de'Champignon|Amanita]] (+10ft movement, 1 hour). Received 6 temp HP from [[Aeolus]] via Steps of the Fey.
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** Cast Moonbeam (2nd level, last slot) on Black Pudding — pudding failed Con save DC 14 twice, taking 15 radiant damage per hit (30 total). Religion check 9: sensed impeded connection to the moon at this depth — DM narration about lunar signal weakening underground. Healed Kit for 19 HP (Cure Wounds, restored to full) after Relentless Endurance. Perception with advantage: 6 (rolled 2 and 1, +4) — missed Binks's Spiritual Weapon buoy.
+- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Cast Moonbeam (2nd level, last slot) on Black Pudding — pudding failed Con save DC 14 twice, taking 15 radiant damage per hit (30 total). Religion check 9: sensed impeded connection to the moon at this depth — DM narration about lunar signal weakening underground. Healed Kit for 19 HP (Cure Wounds, restored to full) after Relentless Endurance. Perception with advantage: 6 (rolled 2 and 1, +4) — missed Binks's Spiritual Weapon buoy.
 
 ## Key Quotes
 
@@ -111,7 +111,7 @@ location: Upper Cavern (as of S08)
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

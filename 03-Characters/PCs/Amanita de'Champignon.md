@@ -90,7 +90,7 @@ location: Upper Cavern (as of S08)
 - **[[Session 05 — Silvered]]:** Cast Detect Magic on crowbar (confirmed transmutation). Cast Detect Magic on faerzress — failed WIS save (9), d100 roll 81 = short-term madness. Stunned; Binks punched her out of it. Detected mycelial network beneath floor (Investigation 19). Struck floor with mithral pickaxe, revealing tunnel system. Perception 24 examining tunnel openings. Yanked to safety by Kit during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Got stuck in Blarg's web. Freed by Darby. Used Halo of Spores to finish last ooze in Combat 3. Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Cast [[Longstrider]] on [[Darby Stonefeather]] (+10ft movement) and [[Blarg]] — first observed use of this spell. Carried by Darby during the flooding escape. Took 2 bludgeoning damage when Darby kneed her while jumping a gap (athletics 12). Offered mushrooms to the party with characteristic enthusiasm.
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Resurrected [[Roxy]] the rothe skeleton via Speak with Dead / wild magic; magic word "Roxanne" animates her. Longstrider active on Darby and Blarg from previous session.
+- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Resurrected [[Roxy]] the rothe skeleton via Speak with Dead / wild magic; magic word "Roxanne" animates her. Longstrider active on Darby and Blarg from previous session.
 
 ## Key Quotes
 
@@ -115,7 +115,7 @@ location: Upper Cavern (as of S08)
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

@@ -77,10 +77,10 @@ Starting in the flooded parallel tunnels beneath the ancient Dwarvish safe house
 
 - **Escape the Flooded Tunnels** — Completed (This Session). Party defeated two [[Black Pudding]] halves and one [[Gray Ooze]], navigated rising waters, and exited through a sealed Dwarvish door.
 - **Survive the Black Pudding Encounter** — Completed (This Session). [[Kit Aluri]] dropped to 0 HP but used Relentless Endurance. Full party survived.
-- **Find a Route Forward** — Ongoing. Party has emerged in the upper cavern. One known exit to the south. Unexplored area to the north/upper-left. [[Amanita de'Champignon]] senses fungi/mycelium ahead.
+- **Find a Route Forward** — Ongoing. Party has emerged in the [[Upper Cavern]]. One known exit to the south. Unexplored area to the north/upper-left. [[Amanita de'Champignon]] senses fungi/mycelium ahead.
 - **Evade Drow Pursuers** — Ongoing. Party estimates their former captors have likely left [[04-World-Lore/Locations/Velkynvelve]] to search for them. No direct contact this session. Pursuit level raised to 4.
 - **Glabbagool's Sentience** — Open thread. [[Glabbagool]] demonstrated selfless behavior, holding back water. Mentioned a dead drow (bones). Expressed exhaustion and retreated into a wall to rest.
-- **Sealed Dwarvish Doors / Ancient Safe House** — Open thread. Second door unsealed this session. Stones from the trapdoor reformed magically (reported by [[Turvy]] and [[Eldeth]]). Ancient abjuration magic still active.
+- **Sealed Dwarvish Doors / Ancient Safe House** — Open thread. Second door unsealed this session. Stones from the trapdoor reformed magically (reported by [[Turvy]] and [[Eldeth]]). Ancient #abjuration magic still active.
 - **Darby's Ancestral Awakening** — New thread. First rage in the campaign manifested spectral ax beak feathers, a whirlwind, and radiant energy. DM prompted [[Darby Stonefeather]] to identify a deity. Darby described generational connection to ax beak farming ancestors.
 - **Darby's Mace Properties** — Open thread. Mace normally does fire damage, dealt radiant during this encounter. DM upgraded extra damage from 1 flat to D4. May alternate between fire and radiant.
 
@@ -88,19 +88,19 @@ Starting in the flooded parallel tunnels beneath the ancient Dwarvish safe house
 
 ## Scene / Timeline Breakdown
 
-- **Scene 1:** Recap and Setup. DM recaps previous session: trapped floor, Black Pudding, rising water, [[Glabbagool]]'s arrival. Amanita confirms Longstrider is active on Darby and Blarg. Party is roped together except Aeolus.
-- **Scene 2:** Binks Pushes Forward. Binks makes an Athletics check (22) and moves up the tunnel. Kit assists (DM offers help action ruling).
+- **Scene 1:** Recap and Setup. DM recaps previous session: trapped floor, [[Black Pudding]], rising water, [[Glabbagool]]'s arrival. Amanita confirms Longstrider is active on [[sitl_vault/03-Characters/PCs/Darby Stonefeather|Darby Stonefeather]] and [[03-Characters/PCs/Blarg|Blarg]]. Party is roped together except Aeolus.
+- **Scene 2:** [[03-Characters/PCs/Binks Stonevein|Binks Stonevein]] Pushes Forward. Binks makes an #Athletics check (22) and moves up the tunnel. Kit assists (DM offers help action ruling).
 - **Scene 3:** Darby's First Strike. Darby attacks the Black Pudding with the glowing mace. 16 to hit, 9 bludgeoning damage. DM confirms bludgeoning works.
-- **Scene 4:** Blarg's Moonbeam. Blarg casts Moonbeam (2nd level, last slot) on the Black Pudding. Con save DC 14 — pudding fails, takes 15 radiant damage. Religion check (9) reveals impeded connection to the moon at this depth.
+- **Scene 4:** Blarg's #Moonbeam. Blarg casts #Moonbeam (2nd level, last slot) on the Black Pudding. Con save DC 14 — pudding fails, takes 15 radiant damage. #Religion check (9) reveals impeded connection to the moon at this depth.
 - **Scene 5:** Kit's Action Surge. Kit dashes through difficult terrain and Action Surges to attack. 25 to hit with greatsword — DM reveals slashing does no damage (mass reforms). Kit uses Trip Attack (first maneuver use): pudding fails Str save, goes prone, takes 3 damage.
-- **Scene 6:** Aeolus Through Glabbagool. Aeolus passes through [[Glabbagool]], taking 5 acid damage (halved, friendly). Binks hears a shout (Perception 22).
-- **Scene 7:** Amanita's Poison and the Split. Amanita hits with Poison Spray (9 damage). Amanita grabs [[Stool]] and swims, tossing rope back. DM reveals Kit's earlier greatsword strike split the Black Pudding into two.
-- **Scene 8:** Kit Goes Down, Comes Back. Black Pudding attacks Kit: 17 hits, 8 bludgeoning + 17 acid. Permanent -1 AC to armor. Kit drops to 0, Relentless Endurance brings her to 1 HP. Both Kit (Nat 20, 19 damage) and Darby (24 to hit, 13 damage with radiant D6) land opportunity attacks, destroying Pudding Half 1. Moonbeam deals another 15 to Pudding Half 2.
-- **Scene 9:** Darby's Rage and the Whirlwind. Darby enters Rage for first time, strikes remaining pudding for 12 damage, destroying it. Spectral ax beak feathers erupt, parting the water into a whirlwind of dry ground. Party rides in Darby's vortex.
+- **Scene 6:** Aeolus Through Glabbagool. Aeolus passes through [[Glabbagool]], taking 5 acid damage (halved, friendly). Binks hears a shout ( #Perception 22).
+- **Scene 7:** Amanita's Poison and the Split. Amanita hits with Poison Spray (9 damage). Amanita grabs [[Stool]] and swims, tossing rope back. DM reveals Kit's earlier #greatsword strike split the Black Pudding into two.
+- **Scene 8:** Kit Goes Down, Comes Back. Black Pudding attacks Kit: 17 hits, 8 bludgeoning + 17 acid. Permanent -1 AC to armor. Kit drops to 0, #RelentlessEndurance brings her to 1 HP. Both Kit (Nat 20, 19 damage) and Darby (24 to hit, 13 damage with radiant D6) land opportunity attacks, destroying Pudding Half 1. Moonbeam deals another 15 to Pudding Half 2.
+- **Scene 9:** Darby's Rage and the Whirlwind. Darby enters #Rage for first time, strikes remaining pudding for 12 damage, destroying it. Spectral ax beak feathers erupt, parting the water into a whirlwind of dry ground. Party rides in Darby's vortex.
 - **Scene 10:** Rescue and Retreat. Blarg heals Kit for 19 (Cure Wounds, full HP). Binks sends Spiritual Weapon buoy with rope. Amanita anchors with Stool as flotation. Darby's Con saves (23, then 15 — effect drops) carry party to dry ground. [[Glabbagool]] retreats into wall, exhausted.
-- **Scene 11:** Reunion and Discovery. Party reunites in the upper tunnel. Binks scouts ahead with Nat 20 Perception, discovers gray ooze and sealed Dwarvish door. Stealth-kills the gray ooze (Nat 20 Guiding Bolt, 27 damage, one-shot).
-- **Scene 12:** Short Rest and Level-Up. Party takes a short rest. DM raises pursuit level to 4, retcons exhaustion. Kit and Darby level up to 4.
-- **Scene 13:** Mushroom Caverns and Roxy. Party enters vast mushroom caverns. Amanita discovers and resurrects a rothe skeleton — [[Roxy]], activated by "Roxanne." Party continues toward fey-touched territory.
+- **Scene 11:** Reunion and Discovery. Party reunites in the [[upper tunnel]]. Binks scouts ahead with #Nat20 Perception, discovers gray ooze and sealed Dwarvish door. Stealth-kills the gray ooze (Nat 20 Guiding Bolt, 27 damage, #one-shot).
+- **Scene 12:** Short Rest and Level-Up. Party takes a short rest. DM raises pursuit level to 4, retcons exhaustion. [[03-Characters/PCs/Kit Aluri|Kit Aluri]] and [[03-Characters/PCs/Darby Stonefeather|Darby Stonefeather]] #levelup to 4.
+- **Scene 13:** Mushroom Caverns and Roxy. Party enters vast mushroom caverns. [[03-Characters/PCs/Amanita de'Champignon|Amanita de'Champignon]] discovers and resurrects a [[rothe]] skeleton — [[Roxy]], activated by "Roxanne." Party continues toward fey-touched territory.
 
 ---
 
@@ -110,7 +110,7 @@ Starting in the flooded parallel tunnels beneath the ancient Dwarvish safe house
 - **Ancestral Connection:** Darby's rage manifestation — spectral ax beak feathers, ancestral weight, radiant energy — establishes her spiritual identity. The DM explicitly encouraged this direction for Path of the Wild Heart.
 - **Resilience Under Pressure:** Kit dropping to 0 HP and returning via Relentless Endurance, then landing a Nat 20 opportunity attack, captures the campaign's survivor theme. The party keeps nearly dying and keeps fighting.
 - **Teamwork in Extremis:** The rope system, Spiritual Weapon buoy, Glabbagool's sacrifice, Darby's whirlwind taxi — this session showcases the party working as a unit more than any previous session.
-- **Depth and Isolation:** Blarg's impeded moon connection, the DM's exhaustion retcon, and the pursuit level raise all reinforce how far from safety the party has traveled. They are deeper than they have ever been.
+- **Depth and Isolation:** Blarg's impeded moon connection, the DM's exhaustion #retcon, and the pursuit level raise all reinforce how far from safety the party has traveled. They are deeper than they have ever been.
 
 ---
 

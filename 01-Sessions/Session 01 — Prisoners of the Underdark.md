@@ -118,19 +118,19 @@ The session ends as a vrock bursts from the northern passage chased by chasmes, 
 
 ### Combat 1 — Shrine to Lolth (Giant Spider)
 - **Trigger:** Aeolus's bat familiar extracted a gemstone from the spider statue
-- **Enemies:** 1 Giant Spider
+- **Enemies:** 1 [[Giant Spider]]
 - **Party:** [[Aeolus]], [[Blarg]]
 - **Initiative:** Blarg (18) → Aeolus (17) → Spider
-- **Result:** In progress at session end. Spider bloodied. Aeolus took 11 damage (2 piercing + 9 poison), approximately half HP. Aeolus cursed by Lolth.
+- **Result:** In progress at session end. Spider #bloodied. Aeolus took 11 damage (2 piercing + 9 poison), approximately half HP. Aeolus cursed by [[Lolth]].
 - **Key Moments:** Blarg's Poison Spray did 1 damage (spider appears immune to poison). Aeolus's Eldritch Blast did 7 force damage. DM noted ranged spell attacks should have disadvantage within 5ft — waived for S01.
 
 ---
 
 ## Archivist Notes
 
-- **Purple Eyes:** A drow guard's eyes briefly turned from red to purple during Amanita's barracks interaction. Possible early sign of demonic corruption.
+- **Purple Eyes:** A [[drow]] guard's eyes briefly turned from red to purple during Amanita's barracks interaction. Possible early sign of demonic corruption.
 - **Unresolved D4 Loot:** Amanita rolled a 4 on a D4 for additional items from a barracks chest. DM never specified. Surface at S02.
-- **Binks absent:** Will appear S02. DM noted he is a cleric.
+- **Binks #absent:** Will appear S02. DM noted he is a cleric.
 - **Zurkhwood spelling:** DM verbally spelled it "C-U-R-K-H wood." Canonical: Zurkhwood.
 - **Ranged attacks in melee:** DM will enforce disadvantage from S02 onward.
 

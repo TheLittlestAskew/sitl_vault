@@ -20,11 +20,11 @@ spelling_checked: true
 
 ## Summary
 
-The party lands in the pool, recovers gear, fights a gray ooze that broadcasts "Flesh for the Faceless Lord" telepathically, runs for two hours through the Underdark, takes a short rest, debates route options, navigates a mushroom cavern with fire beetles using [[Binks Stonevein]]'s Pass Without Trace, and discovers a hidden dwarven door opened by [[Eldeth]] speaking Dwarvish. [[Aeolus]]'s Devil's Sight (120ft, pierces magical darkness) is discovered. [[Amanita de'Champignon]] uses Halo of Spores for the first time. [[Blarg]] heals Amanita for 23 HP with Cure Wounds 2nd level.
+The party lands in the pool, recovers gear, fights a gray ooze that broadcasts "Flesh for the Faceless Lord" telepathically, runs for two hours through the Underdark, takes a short rest, debates route options, navigates a mushroom cavern with fire beetles using [[Binks Stonevein]]'s Pass Without Trace, and discovers a hidden dwarven door opened by [[Eldeth]] speaking Dwarvish. [[Aeolus]]'s Devil's Sight (120ft, pierces magical darkness) is discovered. [[Amanita de'Champignon]] uses #HaloofSpores for the first time. [[Blarg]] heals Amanita for 23 HP with #CureWounds 2nd level.
 
 ## Key Events
 
-- Gray ooze encounter — telepathic message "Flesh for the Faceless Lord" (first Juiblex reference)
+- [[Gray Ooze]] encounter — telepathic message "Flesh for the Faceless Lord" (first Juiblex reference)
 - [[Amanita de'Champignon]] discovers Halo of Spores mid-combat
 - [[Blarg]] Cure Wounds 2nd level: 23 HP healed on Amanita (most impactful heal so far)
 - [[Darby Stonefeather]] dives for chests (athletics nat 20+6); attacks ooze with whip (9 damage)

@@ -4,7 +4,7 @@ race: Rothe (Skeletal / Undead)
 class: N/A
 affiliation: Party companion (Amanita's)
 status: Active (animated skeleton)
-first_appearance: "[[SITL_08_011826_The_Whirlwind_and_the_Depths]]"
+first_appearance: "[[Session 08 - The Whirlwind and the Depths]]"
 location: Upper Cavern (as of S08)
 ---
 
@@ -45,7 +45,7 @@ Found as a rothe skeleton in the mushroom caverns below the upper cavern (S08). 
 
 ## Key Events
 
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|S08]]:** Resurrected by Amanita in the mushroom caverns. Named "Roxanne" — "You have to say the whole thing."
+- **[[Session 08 - The Whirlwind and the Depths|S08]]:** Resurrected by Amanita in the mushroom caverns. Named "Roxanne" — "You have to say the whole thing."
 
 ---
 
@@ -57,6 +57,6 @@ Found as a rothe skeleton in the mushroom caverns below the upper cavern (S08). 
 
 ## Related
 
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[Amanita de'Champignon]]
 - [[Campaign Dashboard]]

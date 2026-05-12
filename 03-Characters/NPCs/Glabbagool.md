@@ -58,7 +58,7 @@ Friendly, curious, childlike. Uses words like "curious" and "interesting" repeat
 
 - **S06 — First Encounter:** Party discovered Glabbagool in a corridor below the bone cavern, above the [[Oozing Temple]]. Contained drow remains, 14 gp, and a magical mace. Amanita befriended it. Darby retrieved the mace. Glabbagool warned about flooding and let the party pass.
 - **S07 — Flooding Rescue:** Glabbagool telepathically contacted the party during the flooding escape. Appeared in the upper webbed tunnel ahead of the party, spreading itself across the passage to form a wall blocking the rising water. Session ended with Glabbagool holding position — party trapped between Glabbagool (ahead, blocking water) and [[Black Pudding]] (behind, pursuing).
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|S08]] — Exhaustion and Retreat:** Added to combat initiative (Nat 1). DM ruled voluntary passage through Glabbagool deals half acid damage (5 instead of 10). [[Aeolus]] passed through, taking 5 acid. Glabbagool held back the floodwater for the party. Communicated telepathically: expressed exhaustion, mentioned carrying a dead drow's bones (identity unknown). Retreated into tunnel wall to rest after the party escaped. May not follow the party deeper.
+- **[[Session 08 - The Whirlwind and the Depths|S08]] — Exhaustion and Retreat:** Added to combat initiative (Nat 1). DM ruled voluntary passage through Glabbagool deals half acid damage (5 instead of 10). [[Aeolus]] passed through, taking 5 acid. Glabbagool held back the floodwater for the party. Communicated telepathically: expressed exhaustion, mentioned carrying a dead drow's bones (identity unknown). Retreated into tunnel wall to rest after the party escaped. May not follow the party deeper.
 
 ---
 
@@ -76,7 +76,7 @@ Friendly, curious, childlike. Uses words like "curious" and "interesting" repeat
 
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[Amanita de'Champignon]]
 - [[Aeolus]]
 - [[Binks Stonevein]]

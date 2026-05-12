@@ -102,7 +102,7 @@ location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 - **[[Session 05 — Silvered]]:** Discovered crowbar tip is silvered (transmutation magic, source unknown). Led the Turvy debate from the kill-him side. Delivered defining speech to Turvy. Investigated tunnel system. Yanked Amanita to safety during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** Descended shaft to rescue Binks (athletics 24 — clean descent). Caught Blarg during his slip (with Darby). Negotiated conditional terms with Turvy: party first, no tolerance for losing control. Initiated tactical command during rescue operation. Combat 3: nat 20 initiative (23). Slashed ooze A for 13 damage, noticed ooze remains reforming into statue (perception 16). Slashed ooze B for 11 (Savage Attacker reroll). Took 9 acid damage from ooze (-1 AC). Caught Amanita when she fell into flagstone pit trap. Dragged Darby and Amanita forward when Darby couldn't see in the dark.
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Adrenaline Rush for triple movement to scout lower tunnel (impassable). **First explicit tactical command in crisis** — distributed rope as safety line, moved through party giving instructions with calm authority. Athletics 16 to climb over party (succeeded, but Darby failed support check — Kit fell back). Squeezed through friendly spaces instead. Session ended with Kit holding the rope line, party trapped between [[Black Pudding]] and [[Glabbagool]].
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
+- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
 
 ## Key Quotes
 
@@ -134,7 +134,7 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Binks Stonevein]]

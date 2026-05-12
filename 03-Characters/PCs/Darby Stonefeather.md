@@ -91,7 +91,7 @@ location: Upper Cavern (as of S08)
 - **[[Session 05 — Silvered]]:** Opposed killing Turvy (pacifist stance). Rescued Stool with Amanita during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** Nat 20 survival to set up spelunking gear (3 lines in 10 min). Caught Blarg during descent (athletics 25). Retrieved green flame mace from [[Glabbagool]] (STR 22, DEX dirty 20). Quick attunement (arcana dirty 20). Named pet tarantula "Clementine." Freed Amanita from Blarg's web. **First rage** in Combat 3 — described as subdued, focused. Hit ooze D for 10, then crit for 20 (killing blow). Used Stone's Endurance to reduce Binks's friendly fire. Aeolus granted temp HP (10) via Steps of the Fey. Received Sap weapon mastery (target has disadvantage on next attack).
 - **[[Session 07 — Escape from the Oozing Temple]]:** Carried [[Amanita de'Champignon|Amanita]] during flooding escape. Tossed Amanita across gap (athletics 12), then leapt and accidentally kneed Amanita (2 bludgeoning damage). Failed support check when Kit tried to climb over party. Targeted by [[Black Pudding]] pseudopod attack (15 vs AC 16 — missed by 1; would have been 18 acid damage). Received [[Longstrider]] from Amanita (+10ft movement, 1 hour).
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** First rage with spectral manifestation — ax beak feathers erupted, creating a whirlwind that parted floodwater. DM prompted divine connection; Darby described generational weight from ax beak farming ancestors. Whirlwind required Con saves to maintain (23 success, 15 drops). Struck killing blow on Black Pudding Half 2 (12 damage, rage bonus). Landed opportunity attack with Religion check 18 earning D6 radiant bonus (13 total damage on Half 1). Green Flame Mace extra damage upgraded from +1 flat to D4; dealt radiant this session instead of fire. Leveled to 4.
+- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** First rage with spectral manifestation — ax beak feathers erupted, creating a whirlwind that parted floodwater. DM prompted divine connection; Darby described generational weight from ax beak farming ancestors. Whirlwind required Con saves to maintain (23 success, 15 drops). Struck killing blow on Black Pudding Half 2 (12 damage, rage bonus). Landed opportunity attack with Religion check 18 earning D6 radiant bonus (13 total damage on Half 1). Green Flame Mace extra damage upgraded from +1 flat to D4; dealt radiant this session instead of fire. Leveled to 4.
 
 ## Key Quotes
 
@@ -115,7 +115,7 @@ location: Upper Cavern (as of S08)
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

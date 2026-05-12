@@ -53,10 +53,10 @@ Master list of all items, artifacts, and loot acquired by the party, organized b
 
 ## Session 04 — Life Isn't Faer-zress
 
-| Character | Item | Properties / Notes | Status |
-|---|---|---|---|
-| Party | Safe house supplies | Stone cots, cooking area, mining equipment; no rations | Used |
-| [[Kit Aluri]] | Silvered Crowbar | Tip discovered to be silvered after killing Topsy; transmutation magic confirmed (S05) | **Iconic item** — Carried |
+| Character     | Item                | Properties / Notes                                                                                                    | Status                    |
+| ------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Party         | Safe house supplies | Stone cots, cooking area, mining equipment; no rations                                                                | Used                      |
+| [[Kit Aluri]] | Silvered Crowbar    | Tip discovered to be silvered after killing [[03-Characters/NPCs/Topsy\|Topsy]]; #transmutation magic confirmed (S05) | **Iconic item** — Carried |
 
 ---
 

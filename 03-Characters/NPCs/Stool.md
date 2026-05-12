@@ -49,7 +49,7 @@ Myconid sprout prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Companion to
 - **[[Session 02 — Come Get Your Shit]]:** Latched onto Turvy during escape. Released spore cloud. Escaped into pool with party.
 - **[[Session 03 — Into the Dark]]:** Traveled with party through northern passage.
 - **[[Session 05 — Silvered]]:** Senses fungal presence below safe house floor. Communicates about Neverlight Grove being far but connected via mycelial network. Gave Turvy a slimy hug. DEX save 17 during floor collapse. Rescued by Darby and Amanita.
-- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** Tied to rope by [[Amanita de'Champignon|Amanita]] as a flotation device during the flooding escape. Carried by Amanita through the flood. Survived the encounter unharmed.
+- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Tied to rope by [[Amanita de'Champignon|Amanita]] as a flotation device during the flooding escape. Carried by Amanita through the flood. Survived the encounter unharmed.
 
 ## Key Quotes
 
@@ -62,7 +62,7 @@ Myconid sprout prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Companion to
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 05 — Silvered]]
-- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
+- [[Session 08 - The Whirlwind and the Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
 - [[04-World-Lore/Locations/Neverlight Grove]]

@@ -56,7 +56,7 @@
 | 05  | 12/07/2025 | Silvered                      | [[Session 05 — Silvered]]                      |
 | 06  | 12/21/2025 | The Long Way Down             | [[Session 06 — The Long Way Down]]             |
 | 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]] |
-| 08  | 01/18/2026 | The Whirlwind and the Depths  | [[SITL_08_011826_The_Whirlwind_and_the_Depths]] |
+| 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 - The Whirlwind and the Depths]] |
 | 09  | 02/01/2026 | —                             | [[Session 09]]                                 |
 | 10  | 02/15/2026 | —                             | [[Session 10]]                                 |
 | 11  | 03/01/2026 | —                             | [[Session 11]]                                 |
