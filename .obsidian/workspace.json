@@ -11,10 +11,14 @@
             "id": "35fb547cd9fe44d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02-Character_Journal/Kit Aluri Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kit Aluri Journal"
             }
           }
         ]
@@ -197,8 +201,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "199b13cc89e8ac62",
+  "active": "35fb547cd9fe44d1",
   "lastOpenFiles": [
+    "02-Character_Journal/Kit Aluri Journal_temp_header.md",
     "04-World-Lore/Locations/Upper Cavern.md",
     "01-Sessions/SITL_08_011826_The_Whirlwind_and_the_Depths.md",
     "01-Sessions/Session 07 — Escape from the Oozing Temple.md",
@@ -217,7 +222,6 @@
     "03-Characters/PCs/Darby Stonefeather.md",
     "03-Characters/PCs/Darby.pdf",
     "07-Flora_Fauna/Creatures/Black Pudding.md",
-    "02-Character_Journal/Kit Aluri Journal_temp_header.md",
     "Screenshot 2025-09-28 133542 1.png",
     "Screenshot 2025-09-28 133542.png",
     "64c0b0d558d359190728b88b1f32abb3.png",
