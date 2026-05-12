@@ -180,12 +180,12 @@ The second movement begins after the long rest, when the party investigates an u
 
 ### Loot & Items
 
-| Character / Owner | Item / Artifact | State / Context |
-|---|---|---|
-| [[Kit Aluri]] | Silvered Crowbar | Tip silvered during/before killing [[Topsy]] — mechanism unknown. Transmutation energy confirmed (Arcana 16). Blood sizzles on tip. Not previously silvered (History 17 confirms). |
-| Given to [[Turvy]] | Moon-Linked Gemstone Flask | Lunar cycle enchantment — brightens at full moon, dims at new moon. Not functioning properly in Underdark. Blarg channeled lunar energy; now corrected per DM. Intended to help Turvy control lycanthropic changes. |
-| [[Amanita de'Champignon]] (used) | Mithral Pickaxe | Used to strike floor — mithral-laced magical conduit that channels Amanita's druidic magic. Triggered floor collapse. Current possession unclear — likely left in situ. |
-| Party (general) | Supplies from safe house | Various provisions found in the Duergar safe house. Distributed among party. |
+| Character / Owner                | Item / Artifact                | State / Context                                                                                                                                                                                                     |
+| -------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Kit Aluri]]                    | [[Silvered Crowbar]]           | Tip silvered during/before killing [[Topsy]] — mechanism unknown. Transmutation energy confirmed (Arcana 16). Blood sizzles on tip. Not previously silvered (History 17 confirms).                                  |
+| Given to [[Turvy]]               | [[moon-linked gemstone flask]] | Lunar cycle enchantment — brightens at full moon, dims at new moon. Not functioning properly in Underdark. Blarg channeled lunar energy; now corrected per DM. Intended to help Turvy control lycanthropic changes. |
+| [[Amanita de'Champignon]] (used) | [[mithral pickaxe]]            | Used to strike floor — mithral-laced magical conduit that channels Amanita's druidic magic. Triggered floor collapse. Current possession unclear — likely left in situ.                                             |
+| Party (general)                  | Supplies from [[safe house]]   | Various provisions found in the Duergar safe house. Distributed among party.                                                                                                                                        |
 
 ---
 
@@ -193,9 +193,9 @@ The second movement begins after the long rest, when the party investigates an u
 
 ### Encounters
 
-| Enemies | Location | Party / Allies | Trigger | Outcome |
-|---|---|---|---|---|
-| None (social/exploration session) | Dwarvish Safe House & tunnels below | Full party + NPCs | N/A — aftermath of S03 combat | No combat this session. Turvy debate resolved through roleplay. Floor collapse was environmental hazard. |
+| Enemies                           | Location                                | Party / Allies    | Trigger                       | Outcome                                                                                                  |
+| --------------------------------- | --------------------------------------- | ----------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------- |
+| None (social/exploration session) | [Dwarvish Safe House]() & tunnels below | Full party + NPCs | N/A — aftermath of S03 combat | No combat this session. Turvy debate resolved through roleplay. Floor collapse was environmental hazard. |
 
 ### Initiative
 

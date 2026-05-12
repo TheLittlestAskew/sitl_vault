@@ -33,7 +33,7 @@ Session 8 picks up mid-combat in the flooded parallel tunnels beneath the ancien
 
 [[Binks Stonevein]] uses an athletics check (22) to push further up the tunnel. [[Darby Stonefeather]] attacks the Black Pudding with her glowing mace, dealing 9 bludgeoning damage — confirmed effective. [[Blarg]] casts Moonbeam (his last 2nd-level slot) on the pudding, forcing a Constitution save (DC 14) which it fails, dealing 15 radiant damage. Blarg also makes a Religion check (9) and senses that his connection to the moon is impeded at this depth.
 
-[[Kit Aluri]] uses Dash plus Action Surge to close distance and attack with her greatsword, rolling 25 to hit. The DM reveals slashing damage has no effect — the mass reforms. Kit then uses her Trip Attack maneuver (superiority die D8, rolled 3), her first Battle Master maneuver use in the campaign. The pudding fails its Strength save, is knocked prone, and takes 3 damage.
+[[Kit Aluri]] uses #Dash plus #ActionSurge to close distance and attack with her #greatsword, rolling 25 to hit. The DM reveals slashing damage has no effect — the mass reforms. Kit then uses her #TripAttack maneuver (superiority die D8, rolled 3), her first Battle Master maneuver use in the campaign. The pudding fails its Strength save, is knocked prone, and takes 3 damage.
 
 [[Aeolus]] passes through [[Glabbagool]] (the sentient Gelatinous Cube), taking 5 acid damage (halved from 10 due to DM ruling for friendly passage). Glabbagool telepathically warns about the pain.
 
