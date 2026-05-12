@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
+location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 ---
 
 # Images
@@ -20,7 +20,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 > **Race:** Orc (Half-Orc flavored)
 > **Class:** Fighter (Battle Master) / Rogue (Assassin) multiclass
 > **Background:** Gladiator (Underdark-bred)
-> **Level:** 3 (as of S02)
+> **Level:** 4 (as of S08)
 > **DDB userId:** 107965379
 > Character Sheet: [[Kit.pdf]]
 
@@ -28,9 +28,9 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 
 ## Description / Appearance
 
-- No detailed physical description given in S01-S07 beyond being an orc
+- No detailed physical description given in S01-S08 beyond being an orc
 - 120ft darkvision (noted S01 — used to spot Ront's body in webs from the cell)
-- Wears armor recovered from the Velkynvelve armory (donned during S02 escape)
+- Wears armor recovered from the Velkynvelve armory (donned during S02 escape). **Armor permanently degraded by -1 AC from Black Pudding acid (S08).** DM: accumulates with each acid hit; destroyed at AC 10.
 - Carries a greatsword (found on armory rack, S02)
 - Bitten by Topsy during wererat attack (S04); bite closed fast due to orc constitution. No lycanthropy infection (confirmed S05)
 
@@ -57,14 +57,15 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 ## Abilities & Class Features
 
 - **Darkvision:** 120ft (S01)
-- **Relentless Endurance** (orc trait)
+- **Relentless Endurance** (orc trait) — First use S08: dropped to 0 HP from Black Pudding pseudopod (8 bludgeoning + 17 acid), returned to 1 HP
 - **Powerful Build** (orc trait)
 - **Adrenaline Rush** (orc trait — used S02, S07 for triple movement to scout lower tunnel)
 - **Tactical Mind:** Expend a superiority die to add to an ability check. First used S02 to break Binks's shackles (strength 18 + D6 roll of 4 = 22, beating DC 20)
 - **Battle Master subclass:** Selected at Level 3 (end of S02). Three maneuvers to be chosen.
+- **Trip Attack:** First maneuver use S08 — knocked Black Pudding prone (superiority die D8, rolled 3). Forced Str save, pudding failed (12 vs. Kit's DC).
 - **Savage Attacker:** Reroll melee damage once per turn. Used S06 Combat 3 on ooze B (rerolled to 11).
-- **Action Surge:** Available but not used in S01-S02
-- **Second Wind:** Available; not used in S01-S02
+- **Action Surge:** First use S08 — dashed through difficult terrain and attacked in same turn
+- **Second Wind:** Available; not used in S01-S08
 - **Dungeon Delver feat:** Grants advantage on Investigation checks for traps and hidden features.
 
 ## Inventory / Loot
@@ -78,17 +79,19 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 | Silvered Crowbar | Pre-campaign | **Iconic item.** Tip spontaneously silvered during/before killing Topsy (S04). Transmutation magic confirmed by Amanita (Arcana 16, S05). Kit confirmed via History 17 it was NOT silver before. Source of silvering unknown. |
 | D4 (2) trinket table items | S02 (barracks morning scavenge) | TBD — DM to roll |
 | Rope (50ft) | Pre-campaign (standard gear) | Distributed as safety line during S07 flooding escape |
+| Armor (acid-damaged) | S02 (armory recovery) | **Degraded -1 AC (S08).** Permanent acid damage from Black Pudding. Accumulates per hit; destroyed at AC 10. |
 
 ## Relationships
 
 - **[[Binks Stonevein]]:** Most trusted party member. Arrived in the same caravan. Kit broke his shackles using Tactical Mind (S02). Kit trusts Binks implicitly.
+- **[[Darby Stonefeather]]:** Deepened respect (S08). Kit witnessed Darby's first rage and the whirlwind that saved the party. They fought side by side and landed the killing blow together on Black Pudding Half 1.
 - **[[Jorlan Duskryn]]:** Transactional. Jorlan approached Kit with the escape offer (S01). Confirmed dead per Addison's notes.
 - **[[Sarith Kzekarit]]:** Paired for guard duty (S01). Sarith told her to find him at Neverlight Grove.
 - **[[Ilvara Mizzrym]]:** Primary captor. Kit has studied her command structure and mapped the outpost around her.
 - **[[Turvy]]:** Evolved from hostile to conditional alliance (S06). Kit killed Topsy and openly wanted to kill Turvy. In S06, Kit set clear terms: "The what's best for the party will come first in every situation." Turvy accepted. Kit internally acknowledged Turvy's wererat form is "really convenient sometimes."
 - **[[Aeolus]]:** Trusts Aeolus to stay awake on watch.
 - **[[Amanita de'Champignon]]:** Caught Amanita when she fell into pit trap (S06). Protective.
-- **[[Glabbagool]]:** Cautiously receptive to its help (S07).
+- **[[Glabbagool]]:** Cautiously receptive to its help (S07). Witnessed Glabbagool's selfless sacrifice blocking the floodwater (S08).
 
 ## Key Events
 
@@ -99,6 +102,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - **[[Session 05 — Silvered]]:** Discovered crowbar tip is silvered (transmutation magic, source unknown). Led the Turvy debate from the kill-him side. Delivered defining speech to Turvy. Investigated tunnel system. Yanked Amanita to safety during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** Descended shaft to rescue Binks (athletics 24 — clean descent). Caught Blarg during his slip (with Darby). Negotiated conditional terms with Turvy: party first, no tolerance for losing control. Initiated tactical command during rescue operation. Combat 3: nat 20 initiative (23). Slashed ooze A for 13 damage, noticed ooze remains reforming into statue (perception 16). Slashed ooze B for 11 (Savage Attacker reroll). Took 9 acid damage from ooze (-1 AC). Caught Amanita when she fell into flagstone pit trap. Dragged Darby and Amanita forward when Darby couldn't see in the dark.
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Adrenaline Rush for triple movement to scout lower tunnel (impassable). **First explicit tactical command in crisis** — distributed rope as safety line, moved through party giving instructions with calm authority. Athletics 16 to climb over party (succeeded, but Darby failed support check — Kit fell back). Squeezed through friendly spaces instead. Session ended with Kit holding the rope line, party trapped between [[Black Pudding]] and [[Glabbagool]].
+- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
 
 ## Key Quotes
 
@@ -113,6 +117,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - "God damn it. I bet that's really convenient sometimes." — S06, re: Turvy's wererat form [Funny]
 - "Well, we're sure as hell going into the war water if there are people trying to catch up with us." — S07 [Serious]
 - "Girl, that is interesting. Incredibly useful." — S07, re: Longstrider [Serious]
+- "I didn't know what tired felt like until right now." — S08 [Serious]
 
 ## POV Journal
 
@@ -129,9 +134,11 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
+- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Binks Stonevein]]
+- [[Darby Stonefeather]]
 - [[Jorlan Duskryn]]
 - [[Topsy]]
 - [[Turvy]]

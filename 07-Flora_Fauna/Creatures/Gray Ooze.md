@@ -2,7 +2,7 @@
 type: creature
 classification: Ooze
 first_appearance: "[[Session 03 — Into the Dark]]"
-location: Various (pool beneath Velkynvelve, bone caverns, Oozing Temple)
+location: Various (pool beneath Velkynvelve, bone caverns, Oozing Temple, upper tunnels)
 ---
 
 # Gray Ooze
@@ -17,6 +17,7 @@ Amorphous ooze creatures found throughout the deep Underdark. Translucent gray, 
 - **Grapple/Engulf:** Can grab and smother creatures (grabbed Turvy on ceiling, S06)
 - **Disguise:** In the Oozing Temple, 4 gray oozes perfectly mimicked "formless sculptures" in wall niches (S06)
 - **Reforming:** When killed in the Oozing Temple, their remains seeped into the stone floor and reformed into a dragon statue on the central pedestal (S06)
+- **Low Passive Perception:** Binks's Stealth 12 exceeded gray ooze's passive Perception (S08)
 
 ## Encounters
 
@@ -46,17 +47,26 @@ Amorphous ooze creatures found throughout the deep Underdark. Translucent gray, 
 - Ooze A hit Kit for 9 acid (-1 AC). Ooze hit Amanita for 5 acid (-1 AC).
 - All defeated ooze remains reformed into dragon statue. Eyes lit when last ooze died.
 
+### [[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]
+
+**Northern Side Chamber (Solo Ooze):**
+- Detected by [[Binks Stonevein]] during scouting run (Nat 20 Perception). Found in a chamber with a sealed Dwarvish stone door.
+- Binks's Stealth 12 exceeded ooze's passive Perception — approached undetected.
+- **Killed by [[Binks Stonevein]]** — Nat 20 Guiding Bolt (8d6 crit, 27 radiant damage). One-shot kill (gray ooze has ~22 HP).
+- **Double Nat 20 scouting run** (Perception + attack). Binks's 4th total gray ooze kill across S06-S08.
+
 ## Significance
 - First indication of Juiblex's influence in the Underdark (S03)
 - "Faceless Lord" = Juiblex, demon lord of oozes and slimes
 - The reforming dragon statue in the Oozing Temple (S06) is an unresolved mystery — oozes serving as components of a larger construct or entity
 - Fire resistance means Darby's green flame mace is less effective (+1 fire halved)
-- Binks has emerged as the party's most effective gray ooze killer (3 kills in S06)
+- Binks has emerged as the party's most effective gray ooze killer (4 kills across S06-S08)
 
 ## Related
 - [[Session 03 — Into the Dark]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
+- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
 - [[Oozing Temple]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Binks Stonevein]]

@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
+location: Upper Cavern (as of S08)
 ---
 
 # Aeolus
@@ -25,7 +25,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 
 ## Description / Appearance
 
-- Tiefling — no detailed physical description given in S01-S07
+- Tiefling — no detailed physical description given in S01-S08
 - Movement speed: 30ft (S02)
 - Shell-shocked demeanor during captivity; sits by himself, doesn't sleep, keeps eyes moving (S01)
 
@@ -80,6 +80,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - **[[Session 05 — Silvered]]:** Took watch with Amanita during long rest. Perception 15 listening at tunnels. Sided with Kit during Turvy debate.
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Granted Darby 10 temp HP via Steps of the Fey. Used Misty Step to walk down vertical shaft (first in party to reach Binks). Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Misty Step twice during flooding escape to teleport ahead through the tunnel. Granted [[Blarg]] 6 temp HP via Steps of the Fey. Used his final Misty Step — all 4 daily spell slots spent by end of session. Party resource management concern going forward.
+- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** Voluntarily passed through [[Glabbagool]], taking 5 acid damage (halved from 10 per DM friendly-passage ruling). Dashed to continue moving up tunnel ahead of combat. Moved farthest ahead via fey magic from previous session.
 
 ## Key Quotes
 
@@ -101,8 +102,10 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
+- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
+- [[Glabbagool]]
 - [[Blarg]]
 - [[Lolth]]
 - [[Campaign Dashboard]]

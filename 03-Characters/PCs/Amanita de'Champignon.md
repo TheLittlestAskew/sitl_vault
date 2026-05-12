@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
+location: Upper Cavern (as of S08)
 ---
 
 # Amanita de'Champignon
@@ -46,8 +46,10 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - **Rapport Spores (via Stool connection):** Telepathic communication with party members within range
 - **Halo of Spores:** First used in combat during S03 gray ooze encounter
 - **Chill Touch:** Used vs gray ooze (S03)
+- **Poison Spray:** Used S08 on Black Pudding (9 poison damage). Described as pale blue-green phosphorescence.
 - **Detect Magic:** Cast on corrupted faerzress (S05). Failed Wisdom save (9), triggered d100 madness roll (81) — short-term madness (madness level 1). Stunned by hallucination of dark fungal tendrils. Binks punched her to break the stun.
-- **Longstrider:** Cast on [[Darby Stonefeather]] (+10ft movement, 1 hour) and [[Blarg]] during S07 flooding escape. First observed use of this spell.
+- **Longstrider:** Cast on [[Darby Stonefeather]] (+10ft movement, 1 hour) and [[Blarg]] during S07 flooding escape. Active on both at S08 start.
+- **Speak with Dead / Wild Magic:** Used to resurrect [[Roxy]] the rothe skeleton (S08). Magic word "Roxanne" animates her.
 - **Entangle:** Readied but not cast during S02 escape
 - **Movement speed:** 35ft (wood elf)
 
@@ -65,13 +67,15 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 | Elite barracks haul | S02 (chain shirt, rope, grappling hooks, bolts, poison, gold/silver) | Carried |
 | Everyone's confiscated trinkets | S02 (recovered from elite barracks display) | Distributed |
 | Full starting gear + pack | S02 (armory recovery) | Equipped |
+| [[Roxy]] (rothe skeleton companion) | S08 (resurrected via Speak with Dead / wild magic) | Active companion. Magic word "Roxanne." Cannot support weight on zurkhwood bridges. |
 
 ## Conditions
 - **Madness Level 1** (short-term) — Triggered S05 by casting Detect Magic on corrupted faerzress. Persistent condition; should be tracked going forward.
 
 ## Relationships
 
-- **[[Stool]]:** Deep telepathic bond via rapport spores. Communicated from S01 onward.
+- **[[Stool]]:** Deep telepathic bond via rapport spores. Communicated from S01 onward. Tied Stool to rope as flotation device during S08 flooding.
+- **[[Roxy]]:** Resurrected rothe skeleton. Amanita treats Roxy as a pet/companion. "Her name is Roxanne. You have to say the whole thing." (S08)
 - **[[Darby Stonefeather]]:** Developing close partnership. Worked together in barracks (S01) and elite barracks (S02). Darby carried Amanita during S07 flooding.
 - **[[Eldeth]]:** Allied during escape and travel.
 - **[[Turvy]]:** Curious/sympathetic. Wanted to interrogate rather than kill. Patted his head (S05).
@@ -86,6 +90,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - **[[Session 05 — Silvered]]:** Cast Detect Magic on crowbar (confirmed transmutation). Cast Detect Magic on faerzress — failed WIS save (9), d100 roll 81 = short-term madness. Stunned; Binks punched her out of it. Detected mycelial network beneath floor (Investigation 19). Struck floor with mithral pickaxe, revealing tunnel system. Perception 24 examining tunnel openings. Yanked to safety by Kit during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Got stuck in Blarg's web. Freed by Darby. Used Halo of Spores to finish last ooze in Combat 3. Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Cast [[Longstrider]] on [[Darby Stonefeather]] (+10ft movement) and [[Blarg]] — first observed use of this spell. Carried by Darby during the flooding escape. Took 2 bludgeoning damage when Darby kneed her while jumping a gap (athletics 12). Offered mushrooms to the party with characteristic enthusiasm.
+- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Resurrected [[Roxy]] the rothe skeleton via Speak with Dead / wild magic; magic word "Roxanne" animates her. Longstrider active on Darby and Blarg from previous session.
 
 ## Key Quotes
 
@@ -97,6 +102,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - "It will be delicious. And only have a small chance of completely changing your perspective on the universe." — S07 [Banter]
 - "Would you like a mushroom to wash it down with?" — S07 [Funny]
 - "Technically you don't actually have to swallow it, but it's kind of nice to like, taste the terroir of the place you're at." — S07 [Funny]
+- "Her name is Roxanne. You have to say the whole thing." — S08 [Funny]
 
 ---
 
@@ -109,11 +115,13 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
+- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]
+- [[Roxy]]
 - [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Darby Stonefeather]]
 - [[Blarg]]
 - [[Campaign Dashboard]]
-#pc 
+#pc

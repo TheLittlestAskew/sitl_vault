@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Matt (MattOli)
 first_appearance: "[[Session 02 — Come Get Your Shit]]"
-location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (as of S07)
+location: Upper Cavern (as of S08)
 ---
 
 # Binks Stonevein
@@ -43,7 +43,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - Blends in and uses his small size to his advantage
 - Pragmatic survivalist — picks up "stuff that people usually just don't pay attention to" (S02)
 - Quick decision-maker under pressure: "I'd rather jump, so that's what I'm gonna do." (S02)
-- Emerging combat identity as the party's ooze slayer — 3 gray ooze kills in S06 alone
+- Emerging combat identity as the party's ooze slayer — 3 gray ooze kills in S06, plus gray ooze one-shot in S08 (double Nat 20 scouting run)
 - Deep faith in [[Garl Glittergold]]; lets trickster-god instincts guide tactical decisions (S05 Augury)
 
 ## Abilities & Class Features
@@ -55,10 +55,10 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - **Pass Without Trace:** Cast during S03 travel
 - **Healing Word:** Used to wake Turvy (9 HP, S05)
 - **Augury:** Ritual cast using DM Inspiration and Garl Glittergold talisman (S05)
-- **Guiding Bolt:** Primary offensive spell. Devastating against oozes — 3 kills in S06.
+- **Guiding Bolt:** Primary offensive spell. Devastating against oozes — 3 kills in S06, plus double Nat 20 one-shot in S08 (27 radiant damage on gray ooze, crit).
 - **Invisibility:** Used to scout ahead and set up ambush on gray ooze (S06 Combat 2).
 - **Thaumaturgy:** Used through Invoke Duplicity to test Glabbagool (S06).
-- **Spiritual Weapon:** Giant glowing lute pick. Used to KO Turvy non-lethally (S04).
+- **Spiritual Weapon:** Giant glowing lute pick. Used to KO Turvy non-lethally (S04). Used creatively as a glowing buoy to transport rope through water (S08).
 - **Toll the Dead:** Attempted on ooze (S06 Combat 3, wisdom 14 vs ooze save 16 — failed).
 - **Weapon Mastery:** Hand Crossbow (Vex), Shortsword (Vex)
 - **Fey Touched (Wisdom)**
@@ -91,6 +91,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - **[[Session 05 — Silvered]]:** Provided historical context about Blingdenstone wererats. Healed Turvy (Healing Word 9 HP). Punched Amanita out of madness stun (unarmed strike 23 to hit, 2 damage). Cast Augury on tunnel paths. Fell/slid down the deeper tunnel — session ends with party split.
 - **[[Session 06 — The Long Way Down]]:** Found at bottom of shaft — 8 fall damage, deaf, vision impaired. CON save 16 (DC 15) to regain consciousness. Shouted for help (CON 16). Diagnosed by Blarg (medicine 25 — TBI, burst eardrums). Healed by Blarg (Cure Wounds, 15 HP — restored hearing and vision). Used Invoke Duplicity + Thaumaturgy on [[Glabbagool]]. Granted [[Turvy]] Blessing of the Trickster for scouting. **Combat 1:** Guiding Bolt killed ceiling gray ooze (22 to hit, 14 radiant). **Combat 2:** Cast Invisibility, scouted ahead, detected gray ooze. Guiding Bolt with advantage from stealth — 22 radiant damage, instant kill. **Combat 3:** Toll the Dead failed (ooze passed save). Guiding Bolt missed ooze C, accidentally hit [[Darby Stonefeather]] (9 radiant, reduced to 8 by Stone's Endurance). **Three gray ooze kills in one session — emerging "ooze slayer" identity.**
 - **[[Session 07 — Escape from the Oozing Temple]]:** Rolled highest initiative (23). Dashed and leapt trapdoor pit (Athletics 17), scouted ahead. Got pushed back by water flow in Round 2. Practically swimming at chest-deep water due to small size — clung to rope with both hands.
+- **[[SITL_08_011826_The_Whirlwind_and_the_Depths|Session 08]]:** Athletics 22 to push further up flooded tunnel. Used Spiritual Weapon creatively as a glowing buoy to transport rope through water (Concentration save 19 maintained through Glabbagool's acid). Nat 20 Perception: spotted [[Gray Ooze|gray ooze]] and sealed Dwarvish stone door in northern side chamber. Stealth 12 exceeded ooze's passive Perception. Nat 20 Guiding Bolt: 27 radiant damage (8d6 crit), one-shot gray ooze (22 HP). **Double Nat 20 scouting run.** Continues to establish identity as party's advance scout and ooze specialist — 4 total ooze kills across S06-S08.
 
 ## Key Quotes
 
@@ -99,6 +100,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - "Bad, but could be fun." — S05, Augury result for the slide tunnel [Funny/DM Quip]
 - "I guess I'm made to kill slimes. It's pretty good." — S06 [Funny]
 - "Oh, hey, guys. Thanks for coming." — S06, after being healed at bottom of shaft [Funny]
+- "I guess I'm just really good at killing things that don't have bones." — S08 [Funny]
 
 ---
 
@@ -110,6 +112,7 @@ location: Oozing Temple exit tunnels — between Black Pudding and Glabbagool (a
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
+- [[SITL_08_011826_The_Whirlwind_and_the_Depths]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
