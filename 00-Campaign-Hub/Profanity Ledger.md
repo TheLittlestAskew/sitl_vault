@@ -84,5 +84,32 @@ Tracking profanity by speaker, word, frequency, and context across all sessions.
 
 ---
 
+## Session 10 — Echoes in the Feydark
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Addison (DM) | "shit" | 2 | "Get my shit together" (session open); "figure my shit out" (map setup) |
+| Darby Stonefeather (Austin) | "damn" | 1 | "Damn. Blind range. Still miss." — combat miss with mace |
+| Aeolus (Sirius) | "hell" | 1 | "What the hell does that mean?" — reacting to Echo's trial warning |
+| Goblin Boss (Addison/NPC) | "damn" | 1 | "Well, damn, you guys are all right." — impressed by party's combat performance |
+
+---
+
+## Running Totals (Through S10)
+
+| Speaker | shit | fuck/fucking | damn | hell | Other | Total |
+|---|---|---|---|---|---|---|
+| Kit Aluri (Taylor) | 3 | 2 | 2 | 4 | — | 11 |
+| Addison (DM) | 3 | — | — | — | — | 3 |
+| Darby Stonefeather (Austin) | — | — | 2 | — | — | 2 |
+| Turvy (Addison/NPC) | — | — | 1 | — | — | 1 |
+| Binks Stonevein (Matt) | — | — | — | 1 | — | 1 |
+| Aeolus (Sirius) | — | — | — | 1 | — | 1 |
+| Goblin Boss (Addison/NPC) | — | — | 1 | — | — | 1 |
+
+*Kit remains the campaign's primary profanity contributor with 11 instances across 10 sessions.*
+
+---
+
 ## Related
 [[Campaign Dashboard]]

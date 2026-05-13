@@ -343,5 +343,90 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
+## Session 10 — Echoes in the Feydark
+
+**[[Kit Aluri]] · [Banter]**
+"I believe in you."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Let's mount up and go through this portal, dudes."
+
+**[[Kit Aluri]] · [Serious]**
+"We just want to get consent, you know."
+
+**[[Kit Aluri]] · [Funny]**
+"What you don't want is a large animal climb. Climb on top of a large animal and it not want you to do that."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Aw, see, I knew she was just hungry. I get like that sometimes too, man."
+
+**[[Binks Stonevein]] · [Poignant]**
+"Okay, I'm just gonna walk up to him because at this point, I must be dead. That's my only concession. Like, it's. I'm dead. That's where I'm at."
+
+**[[Aeolus]] · [Serious]**
+"He's the reason I'm here."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"I've got some mushrooms that'll super help us chill."
+
+**[[Kit Aluri]] · [Serious/Tactical]**
+"Guys, I know nothing about the I'm great strategies. Fighting. Fighting strategy outside of that knowledge is not robust. I getting a feeling that this is something we should try, but I. I guess we should just be prepared for anything."
+
+**[[Darby Stonefeather]] · [Poignant]**
+"Papa, I've been. I've. I've missed you so much. I, I'm so sorry. I failed my first big task."
+
+**Darby's Father (Addison) · [Poignant]**
+"Bravery is not the essence of fear. It's knowing it and feeling it, using it as a tool."
+
+**[[Darby Stonefeather]] · [Poignant]**
+"But, papa, I'm scared."
+
+**[[Aeolus]] · [Funny]**
+"Yeah, that's the one I'm gonna kill. Sooner or later."
+
+**Echo (Addison) · [DM Quip]**
+"Good luck killing me."
+
+**Echo (Addison) · [Serious]**
+"You were meant to come here, but not yet."
+
+**Binks's Grandfather (Addison) · [Serious]**
+"You have trials behind you and trials in front of you, grandson. We're here to help."
+
+**[[Stool]] (Addison) · [Poignant]**
+"Home is way, way closer now."
+
+**[[Kit Aluri]] · [Funny]**
+"Hey, is this guy edible?"
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Find out. Take a bite."
+
+**Goblin Boss (Addison) · [Funny]**
+"Well, damn, you guys are all right."
+
+**[[Psilofyr]] (Addison) · [Serious/Important]**
+"You all have shown your potential. Well done, friend. We will speak soon. But now you must rest."
+
+**Echo (Addison) · [DM Quip]**
+"Good job not dying."
+
+**[[Aeolus]] · [Funny]**
+"I feel the motivation. No thanks to him."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"This is the best."
+
+**[[Binks Stonevein]] · [Funny]**
+"I just thought it would be cool for my language. I picked Sylvan just because it's. I leveled up in the Feywild."
+
+**[[Kit Aluri]] · [Funny]**
+"I'm suddenly glad I picked Goblin."
+
+**[[Aeolus]] · [Serious]**
+"It would be disrespectful to like do a multi class now."
+
+---
+
 ## Related
 [[Campaign Dashboard]]

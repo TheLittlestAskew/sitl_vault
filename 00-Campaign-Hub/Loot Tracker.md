@@ -122,5 +122,16 @@ Master list of all items, artifacts, and loot acquired by the party, organized b
 
 ---
 
+## Session 10 — Echoes in the Feydark
+
+| Character | Item | Properties / Notes | Status |
+|---|---|---|---|
+| [[Darby Stonefeather]] | Carved Trinket (empowered) | Darby's wood/charcoal carving from her father. Empowered during Feydark vision — glowed with magical energy when father's myconid avatar folded her hand around it. Exact properties TBD by DM. | **Empowered** — Carried |
+| [[Binks Stonevein]] | Loot Pick (empowered) | Binks's loot pick. Empowered during Feydark vision — fungal tendril pushed it up, started spinning, buzzing, glowing. Grandfather said "Take it now with our blessing." Exact properties TBD by DM. | **Empowered** — Carried |
+| [[Darby Stonefeather]] | Clementine (spider — grew) | Pet tarantula grew slightly in size when Darby's father-vision gave it a scritch. May have gained minor enhancement. | Companion |
+| No new physical loot | — | Session focused on Feydark visions and Myconid Sovereign trial. DM teased: "All of your trinkets are going to become empowered in various ways" — remaining trinkets will be empowered next session. | — |
+
+---
+
 ## Related
 [[Campaign Dashboard]]
