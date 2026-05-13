@@ -84,7 +84,7 @@ Tracking profanity by speaker, word, frequency, and context across all sessions.
 
 ---
 
-## Session 10 — Echoes in the Feydark
+## Session 10 — Through the Fungal Gate
 
 | Speaker | Curse Word | Frequency | Context |
 |---|---|---|---|

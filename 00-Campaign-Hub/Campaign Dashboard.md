@@ -68,7 +68,7 @@
 | 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]] |
 | 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 - The Whirlwind and the Depths]] |
 | 09  | 02/01/2026 | Adopt-a-Rothe                 | [[SITL_09_020126_Adopt_a_Rothe]]               |
-| 10  | 02/15/2026 | Echoes in the Feydark         | [[SITL_10_021526_Echoes_in_the_Feydark]]       |
+| 10  | 02/15/2026 | Through the Fungal Gate    | [[SITL_10_021526_Through_the_Fungal_Gate]]  |
 | 11  | 03/01/2026 | —                             | [[Session 11]]                                 |
 | 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12]]                                 |
 | 13  | 04/11/2026 | —                             | [[Session 13]]                                 |

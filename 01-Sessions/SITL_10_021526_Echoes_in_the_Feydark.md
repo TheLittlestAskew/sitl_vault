@@ -1,12 +1,12 @@
 ---
 session_number: 10
 session_date: 2026-02-15
-session_title: "Echoes in the Feydark"
+session_title: "Through the Fungal Gate"
 start_location: "Fungal Pond / Portal Room"
 end_location: "Feydark — Cliffside Clearing (forced long rest)"
 party_level: "3 → 4 (all PCs leveled up)"
 total_rolls: "~50+ (transcript-sourced + DDB)"
-title_status: "Provisional — Echoes in the Feydark"
+title_status: "Final — Through the Fungal Gate"
 tags:
   - session-notes
   - combat
@@ -17,7 +17,7 @@ tags:
   - myconid
 ---
 
-# Session 10 — Echoes in the Feydark
+# Session 10 — Through the Fungal Gate
 **Date:** 02/15/2026 | **Party Level:** 3 → 4
 
 ---
@@ -28,7 +28,7 @@ tags:
 |---|---|
 | Session Number | 10 |
 | Session Date | 02/15/2026 |
-| Session Title | Echoes in the Feydark (provisional) |
+| Session Title | Through the Fungal Gate |
 | Start Location | Fungal Pond / Portal Room |
 | End Location | [[04-World-Lore/Locations/The Feydark]] — Cliffside Clearing (forced long rest) |
 | Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Aeolus]], [[Blarg]], [[Amanita de'Champignon]], [[Darby Stonefeather]] |
@@ -301,7 +301,7 @@ See [[Profanity Ledger#Session 10 — Echoes in the Feydark]]
 | Straightforward | Into the Feydark |
 | Quote-Based | I Must Be Dead |
 
-**FINAL CHOSEN TITLE:** Echoes in the Feydark *(provisional)*
+**FINAL CHOSEN TITLE:** Through the Fungal Gate
 
 ---
 

@@ -343,7 +343,7 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
-## Session 10 — Echoes in the Feydark
+## Session 10 — Through the Fungal Gate
 
 **[[Kit Aluri]] · [Banter]**
 "I believe in you."

@@ -122,7 +122,7 @@ Master list of all items, artifacts, and loot acquired by the party, organized b
 
 ---
 
-## Session 10 — Echoes in the Feydark
+## Session 10 — Through the Fungal Gate
 
 | Character | Item | Properties / Notes | Status |
 |---|---|---|---|
