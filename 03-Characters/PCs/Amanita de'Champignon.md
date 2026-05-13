@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Upper Cavern (as of S08)
+location: Fungal Pond / Portal Room (as of S09)
 ---
 
 # Amanita de'Champignon
@@ -49,7 +49,7 @@ location: Upper Cavern (as of S08)
 - **Poison Spray:** Used S08 on Black Pudding (9 poison damage). Described as pale blue-green phosphorescence.
 - **Detect Magic:** Cast on corrupted faerzress (S05). Failed Wisdom save (9), triggered d100 madness roll (81) — short-term madness (madness level 1). Stunned by hallucination of dark fungal tendrils. Binks punched her to break the stun.
 - **Longstrider:** Cast on [[Darby Stonefeather]] (+10ft movement, 1 hour) and [[Blarg]] during S07 flooding escape. Active on both at S08 start.
-- **Speak with Dead / Wild Magic:** Used to resurrect [[Roxy]] the rothe skeleton (S08). Magic word "Roxanne" animates her.
+- **Mithral Pickaxe Channeling:** Amanita can channel druidic magic through the mithral pickaxe as a magical conduit. Used S05 to strike the floor and reveal tunnel system. Used S09 to channel magic (Wis check 14/12 adjusted, partial success) and pry open the sealed chest on Roxanne's skeleton (Str save 18/16 adjusted, met DC). Confirmed as a repeatable magical tool interaction.
 - **Entangle:** Readied but not cast during S02 escape
 - **Movement speed:** 35ft (wood elf)
 
@@ -67,7 +67,8 @@ location: Upper Cavern (as of S08)
 | Elite barracks haul | S02 (chain shirt, rope, grappling hooks, bolts, poison, gold/silver) | Carried |
 | Everyone's confiscated trinkets | S02 (recovered from elite barracks display) | Distributed |
 | Full starting gear + pack | S02 (armory recovery) | Equipped |
-| [[Roxy]] (rothe skeleton companion) | S08 (resurrected via Speak with Dead / wild magic) | Active companion. Magic word "Roxanne." Cannot support weight on zurkhwood bridges. |
+| Mithral Pickaxe | S05 (used to strike floor; magical conduit for druidic magic) | Carried |
+| [[Glabbagool]] (in waterskin) | S09 (compressed eye + gel into waterskin; cost 1 day water supply) | Recovering — short rest = can fight; long rest = full reconstitution |
 
 ## Conditions
 - **Madness Level 1** (short-term) — Triggered S05 by casting Detect Magic on corrupted faerzress. Persistent condition; should be tracked going forward.
@@ -75,7 +76,8 @@ location: Upper Cavern (as of S08)
 ## Relationships
 
 - **[[Stool]]:** Deep telepathic bond via rapport spores. Communicated from S01 onward. Tied Stool to rope as flotation device during S08 flooding.
-- **[[Roxy]]:** Resurrected rothe skeleton. Amanita treats Roxy as a pet/companion. "Her name is Roxanne. You have to say the whole thing." (S08)
+- **[[Roxanne]]:** Amanita discovered the rothe skeleton in the Fungal Pond (S09), channeled magic through the mithral pickaxe to open the chest, and found the Resurrection scroll + diamond inside. [[Binks Stonevein]] cast the Resurrection, but Amanita was the driving force behind the discovery. Treats Roxanne as a pet/companion. "Her name is Roxanne. You have to say the whole thing." (S08)
+- **[[Glabbagool]]:** Befriended immediately (S06). Compressed Glabbagool into her waterskin for transport (S09), sacrificing 1 day of water supply. Suggested shrinking Glabbagool before compression ("I could shrink you, and we could put you in a water bottle").
 - **[[Darby Stonefeather]]:** Developing close partnership. Worked together in barracks (S01) and elite barracks (S02). Darby carried Amanita during S07 flooding.
 - **[[Eldeth]]:** Allied during escape and travel.
 - **[[Turvy]]:** Curious/sympathetic. Wanted to interrogate rather than kill. Patted his head (S05).
@@ -90,7 +92,8 @@ location: Upper Cavern (as of S08)
 - **[[Session 05 — Silvered]]:** Cast Detect Magic on crowbar (confirmed transmutation). Cast Detect Magic on faerzress — failed WIS save (9), d100 roll 81 = short-term madness. Stunned; Binks punched her out of it. Detected mycelial network beneath floor (Investigation 19). Struck floor with mithral pickaxe, revealing tunnel system. Perception 24 examining tunnel openings. Yanked to safety by Kit during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Got stuck in Blarg's web. Freed by Darby. Used Halo of Spores to finish last ooze in Combat 3. Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Cast [[Longstrider]] on [[Darby Stonefeather]] (+10ft movement) and [[Blarg]] — first observed use of this spell. Carried by Darby during the flooding escape. Took 2 bludgeoning damage when Darby kneed her while jumping a gap (athletics 12). Offered mushrooms to the party with characteristic enthusiasm.
-- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Resurrected [[Roxy]] the rothe skeleton via Speak with Dead / wild magic; magic word "Roxanne" animates her. Longstrider active on Darby and Blarg from previous session.
+- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Longstrider active on Darby and Blarg from previous session.
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Discovered the Fungal Pond — shallow pond with unusual fungal growth, skeletal rothe remains, and a flickering portal. Nature check 7 (5 adjusted) failed to identify the unusual pond fungus. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton (Wis check 14/12 adjusted — partial success; Str save 18/16 adjusted — met DC). Found Resurrection scroll (7th level) and diamond inside. Compressed [[Glabbagool]]'s eye and gel into her waterskin (cost 1 day water supply) when Glabbagool couldn't keep pace. Suggested shrinking Glabbagool first. DM's luck roll (flat d20 = 14) on Amanita determined the scroll was Resurrection level. Said the party was "totally derailing the DM's plan."
 
 ## Key Quotes
 
@@ -103,6 +106,10 @@ location: Upper Cavern (as of S08)
 - "Would you like a mushroom to wash it down with?" — S07 [Funny]
 - "Technically you don't actually have to swallow it, but it's kind of nice to like, taste the terroir of the place you're at." — S07 [Funny]
 - "Her name is Roxanne. You have to say the whole thing." — S08 [Funny]
+- "I could shrink you. I could shrink you, and we could put you in a water bottle." — S09, to Glabbagool [Funny]
+- "But it's so awesome! I'll be right back!" — S09, re: investigating the portal [Funny]
+- "We're totally derailing the DM's plan. I know. Sorry." — S09 [Funny]
+- "Y'all, that's — kill it with mushrooms." — S09 [Funny]
 
 ---
 
@@ -116,12 +123,15 @@ location: Upper Cavern (as of S08)
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 - The Whirlwind and the Depths]]
+- [[SITL_09_020126_Adopt_a_Rothe]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]
-- [[Roxy]]
+- [[Roxanne]]
+- [[Glabbagool]]
 - [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Darby Stonefeather]]
 - [[Blarg]]
+- [[Binks Stonevein]]
 - [[Campaign Dashboard]]
 #pc

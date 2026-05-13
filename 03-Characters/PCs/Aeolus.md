@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Upper Cavern (as of S08)
+location: Fungal Pond / Portal Room (as of S09)
 ---
 
 # Aeolus
@@ -25,7 +25,7 @@ location: Upper Cavern (as of S08)
 
 ## Description / Appearance
 
-- Tiefling — no detailed physical description given in S01-S08
+- Tiefling — no detailed physical description given in S01-S09
 - Movement speed: 30ft (S02)
 - Shell-shocked demeanor during captivity; sits by himself, doesn't sleep, keeps eyes moving (S01)
 
@@ -43,6 +43,7 @@ location: Upper Cavern (as of S08)
 - Resigned fatalism about his curse: "So it's like every spider that sees me is gonna hate me... Especially like down here, you know, in the underdark." (S01)
 - When overwhelmed, tends to default to running: "I'm just gonna, you know, run when my friends just did." (S02)
 - Sided with Kit on killing Turvy during the S05 debate
+- S09: Cautious instinct vs. party curiosity — immediately warned the party "Don't check it out!" when Amanita rushed toward the portal, showing self-preservation clashing with party momentum.
 
 ## Abilities & Class Features
 
@@ -53,6 +54,7 @@ location: Upper Cavern (as of S08)
 - **Purify Food and Water:** Available; can mitigate poisonous food in the Underdark (noted S03).
 - **Misty Step:** Fey teleportation, 30ft. Used twice during S07 flooding escape — second use was his final remaining spell slot.
 - **Steps of the Fey:** Grants temporary hit points to allies. Used to grant Darby 10 temp HP (S06), Blarg 6 temp HP (S07).
+- **Speak with Animals:** Cast on [[Roxanne]] after resurrection (S09) — rothe has no memories of past life, name, or location.
 - **Fey Touched (Intelligence)**
 - **Skilled feat**
 
@@ -70,6 +72,7 @@ location: Upper Cavern (as of S08)
 - **[[Blarg]]:** Bonded through shrine combat ordeal (S01-S02).
 - **[[Topsy]] & [[Turvy]]:** Kept his spirits up during captivity (S01). Sided with Kit on killing Turvy (S05).
 - **[[Kit Aluri]]:** Kit trusts Aeolus to stay awake on watch (S05). Aeolus sided with Kit during Turvy debate.
+- **[[Roxanne]]:** Cast Speak with Animals to attempt communication after resurrection (S09) — confirmed no memories.
 
 ## Key Events
 
@@ -81,6 +84,7 @@ location: Upper Cavern (as of S08)
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Granted Darby 10 temp HP via Steps of the Fey. Used Misty Step to walk down vertical shaft (first in party to reach Binks). Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Misty Step twice during flooding escape to teleport ahead through the tunnel. Granted [[Blarg]] 6 temp HP via Steps of the Fey. Used his final Misty Step — all 4 daily spell slots spent by end of session. Party resource management concern going forward.
 - **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Voluntarily passed through [[Glabbagool]], taking 5 acid damage (halved from 10 per DM friendly-passage ruling). Dashed to continue moving up tunnel ahead of combat. Moved farthest ahead via fey magic from previous session.
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Perception 5 (3 adjusted) during tunnel scouting — worst roll of the session. Arcana 17 (15 adjusted) on the sealed chest — determined it is password-locked with lingering magic. Cast Speak with Animals on the newly resurrected [[Roxanne]] — confirmed no memories of past life, name, or location. Warned party "Don't check it out!" when Amanita rushed toward the Feydark portal. Had to leave early (Sirius), contributing to the cliffhanger ending.
 
 ## Key Quotes
 
@@ -90,6 +94,7 @@ location: Upper Cavern (as of S08)
 - "I love it. I'm gonna cry." — S01 [Funny]
 - "My greed has consequences, I see." — S02 [Funny/Self-Deprecating]
 - "I guess Aeolus not doing anything." — S02 [Funny]
+- "Don't check it out!" — S09, warning party about the portal [Funny]
 
 ---
 
@@ -103,10 +108,12 @@ location: Upper Cavern (as of S08)
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 - The Whirlwind and the Depths]]
+- [[SITL_09_020126_Adopt_a_Rothe]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Blarg]]
+- [[Roxanne]]
 - [[Lolth]]
 - [[Campaign Dashboard]]
 #pc

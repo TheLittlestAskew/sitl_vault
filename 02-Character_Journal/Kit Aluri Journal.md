@@ -91,25 +91,25 @@ As we plunged into the dark, I felt something shift inside me. Like a door openi
 
 Day 7:
 
-We hit the water and the water hit back. The pool was deeper than it looked. I went under and came up kicking, spitting waste water that the drow had been dumping their garbage into for who knows how long. Immediately, three problems: Binks could not swim. Aeolus was fading. And Darby had already sunk to the bottom chasing two chests of gear like a woman who had never been told the word ‘no.’
+We hit the water and the water hit back. The pool was deeper than it looked. I went under and came up kicking, spitting waste water that the drow had been dumping their garbage into for who knows how long. Immediately, three problems: Binks could not swim. Aeolus was fading. And Darby had already sunk to the bottom chasing two chests of gear like a woman who had never been told the word 'no.'
 
-I grabbed Binks first. He was flailing like a fish on a dock, all limbs and no technique. I got my arms under his and dragged him to the surface while my legs screamed from carrying two people. Blarg paddled over and between us we kept the gnome’s head above water. Then Binks rolled a natural twenty and suddenly he could swim. Just like that. I do not understand how this world works.
+I grabbed Binks first. He was flailing like a fish on a dock, all limbs and no technique. I got my arms under his and dragged him to the surface while my legs screamed from carrying two people. Blarg paddled over and between us we kept the gnome's head above water. Then Binks rolled a natural twenty and suddenly he could swim. Just like that. I do not understand how this world works.
 
 Darby breached the surface carrying both chests like they weighed nothing. She stepped onto the shallows and her hands sank into something gray and slick. The thing reared up—a gray ooze, ten feet of it, and I heard something inside my skull: Flesh for the Faceless Lord. My blood went cold.
 
-Amanita reached into the thing with her bare hand and hit it with some kind of dark energy. Then she coughed and spores burst from her mouth, surprising her as much as the ooze. She said something like, “Oh my god, I can produce spores. I’m a mushroom.” Seven damage on her first turn as a full-fledged druid and she did not even know she could do it.
+Amanita reached into the thing with her bare hand and hit it with some kind of dark energy. Then she coughed and spores burst from her mouth, surprising her as much as the ooze. She said something like, "Oh my god, I can produce spores. I'm a mushroom." Seven damage on her first turn as a full-fledged druid and she did not even know she could do it.
 
 The ooze hit Amanita back. Hard. Fourteen damage on a critical hit—four bludgeoning and ten acid. She went pale. Blarg swam to her and put his hands on her shoulders and channeled something divine. Twenty-three points of healing in a single touch. I have never seen anything like it. She went from half-dead to standing in the space of a breath.
 
-I pulled Darby out of the slime’s reach. Used Adrenaline Rush to dash fifteen feet with her weight on my shoulder. The ooze swung at me and missed. Darby whipped it with her actual whip—nine damage—and it started to lose consistency. Blarg finished it off with a bolt of radiant light. Guiding Bolt. Thirteen damage. The thing just melted.
+I pulled Darby out of the slime's reach. Used Adrenaline Rush to dash fifteen feet with her weight on my shoulder. The ooze swung at me and missed. Darby whipped it with her actual whip—nine damage—and it started to lose consistency. Blarg finished it off with a bolt of radiant light. Guiding Bolt. Thirteen damage. The thing just melted.
 
 We ran. Two hours through tunnels and passages, fast pace, no looking back. The adrenaline burned off eventually and we found a spot to rest. One point of exhaustion for everyone. Short rest. Hit dice. A moment to breathe.
 
 While we rested, Binks talked to Topsy and Turvy in Gnomish. He said Blingdenstone—the deep gnome city—was the safest option, maybe two weeks away. He knows the terrain heading north. But we also remembered something Shuushar had said about his hometown, Sloobludop, on the Darklake. Ten days or less. Closer, but off the path we were taking. The decision was made: north toward Blingdenstone, with the option to divert toward the Darklake if we needed to.
 
-Aeolus’s eyes are sharper than mine in the dark. Some warlock ability. He spotted two passages when the rest of us saw one. History checks reminded us: the north passage leads eventually to Menzoberranzan and then to Blingdenstone. The west leads to the Darklake. The south leads toward the duergar city of Gracklstugh. We picked north.
+Aeolus's eyes are sharper than mine in the dark. Some warlock ability. He spotted two passages when the rest of us saw one. History checks reminded us: the north passage leads eventually to Menzoberranzan and then to Blingdenstone. The west leads to the Darklake. The south leads toward the duergar city of Gracklstugh. We picked north.
 
-We came to a cavern with a stream running through it. Mushrooms—poisonous ones, devil’s mushroom, Amanita called them Timmask—and a colony of fire beetles feeding on them. The beetles glow. We snuck past with Binks’s magic dampening our sound. Every roll was twenty or higher. Then Aeolus spotted something in the wall that none of us would have seen without his vision: a hidden door, five feet high, dwarven engravings. Eldeth spoke a word in Dwarvish and the stone dropped open.
+We came to a cavern with a stream running through it. Mushrooms—poisonous ones, devil's mushroom, Amanita called them Timmask—and a colony of fire beetles feeding on them. The beetles glow. We snuck past with Binks's magic dampening our sound. Every roll was twenty or higher. Then Aeolus spotted something in the wall that none of us would have seen without his vision: a hidden door, five feet high, dwarven engravings. Eldeth spoke a word in Dwarvish and the stone dropped open.
 
 A passageway. Possibly shelter. We will see.
 
@@ -213,7 +213,7 @@ Amanita, of course, immediately became its best friend. They traded — a mushro
 
 Darby reached into the cube and pulled the mace free. It flared with green fire when she spoke, and suddenly the goliath who had been stumbling blind through every dark passage had a torch. A weapon that burns. I could see the change in her posture. She locked in.
 
-The descent continued. Blarg turned into a giant spider — I will never get used to that — and Binks rode on his back while the rest of us navigated an increasingly acidic, flooded slope. Aeolus slipped and burned. Amanita got stuck in Blarg’s web. Darby went back up to pull her free. We were not graceful, but we were alive.
+The descent continued. Blarg turned into a giant spider — I will never get used to that — and Binks rode on his back while the rest of us navigated an increasingly acidic, flooded slope. Aeolus slipped and burned. Amanita got stuck in Blarg's web. Darby went back up to pull her free. We were not graceful, but we were alive.
 
 Binks went invisible and scouted ahead. Found another gray ooze lurking in the next chamber. Killed it in a single shot from the dark. No one else even drew a weapon.
 
@@ -223,7 +223,7 @@ The fountain room was beautiful in a ruined way. Seven niches in the walls, a cr
 
 The fight was quick and ugly. I cut one nearly in half and watched the remains seep into the stone and reform into the statue on the pedestal. Darby raged for the first time since I have known her — quiet, focused, not a roar but a settling — and crushed another with her new mace. Binks accidentally sent a bolt of light into Darby instead of the ooze he was aiming for. She barely flinched. Blarg called down moonlight. Amanita finished the last one with her spores.
 
-The statue reformed as we fought. Clawed feet became legs, became a body with a tail. A dragon, or something like one. When the last ooze died, the statue’s eyes lit up and the fountain basin opened, revealing treasure beneath: silver, gold, bracelets, a drow dagger with a spider on the hilt, a healing potion, and a vial of something slippery.
+The statue reformed as we fought. Clawed feet became legs, became a body with a tail. A dragon, or something like one. When the last ooze died, the statue's eyes lit up and the fountain basin opened, revealing treasure beneath: silver, gold, bracelets, a drow dagger with a spider on the hilt, a healing potion, and a vial of something slippery.
 
 Then the wall cracked. Water poured in. The fountain began to overflow. Within seconds we were ankle-deep and rising.
 
@@ -259,7 +259,7 @@ I tried something desperate. I climbed on top of Darby to get over the bottlenec
 
 Then something worse happened. Behind us, where the trapdoor pits had been, the water rose high enough that the black thing — the pudding, the ooze, whatever it was — rose with it. A pseudopod lashed out at Darby. Missed her by a hair. That thing is acid and hunger given shape, and it was right behind us.
 
-But then, from up ahead, something else. A voice in my head — not threatening, almost cheerful: “Hey, you guys need some help down here? I told you guys it was going to flood.” A green glow bloomed around the corner, and the gelatinous cube — Glabbagool, the friendly one — was spreading itself across the tunnel, forming a wall. Blocking the water.
+But then, from up ahead, something else. A voice in my head — not threatening, almost cheerful: "Hey, you guys need some help down here? I told you guys it was going to flood." A green glow bloomed around the corner, and the gelatinous cube — Glabbagool, the friendly one — was spreading itself across the tunnel, forming a wall. Blocking the water.
 
 We are trapped between a corrosive nightmare and a sentient wall of jelly that seems to think it is doing us a favor. The water is still rising. The acid-thing is still behind us. And I am holding a rope connected to five other people in the dark, telling them it is going to be fine.
 
@@ -297,9 +297,57 @@ We came out through a sealed Dwarvish door that Eldeth and Aeolus found on the o
 
 We rested. An hour, the others agreed. My armor is damaged — the acid ate through part of it, and it will never sit quite right again. My body is bruised in places I cannot reach, and I used every trick I had. But we are alive. We leveled up — Darby and me, at least. The others earned it too; they will catch up.
 
-Amanita says she can smell fungi ahead. A passage that glows. She found a skeleton of a rothe — one of those underground cattle — and did something with her magic that brought it back. Not alive, exactly. Bones and purpose, held together by will and wild magic. She named it Roxanne. You have to say the whole thing.
+Amanita says she can smell fungi ahead. A passage that glows. She found a skeleton of a rothe — one of those underground cattle — half buried in the rock near a shallow pond. She tried to do something with her magic, and for a moment the bones shifted, stirred. We thought it was another one of Amanita's strange gifts. We did not yet understand what was really happening.
 
 Part of me wants to keep moving. Part of me wants to sleep for a week. But we do not get weeks down here. We get hours, if we are lucky, and then the dark sends something else.
+
+---
+
+## Session 09 — Adopt-a-Rothe
+
+Day ???:
+
+The rothe was not what we thought it was.
+
+What I wrote last time — about Amanita animating bones with wild magic — was wrong. I am correcting the record because accuracy matters, especially down here where the dark plays tricks on your memory and you start believing the first story your brain writes instead of waiting for the truth.
+
+Here is what actually happened.
+
+Glabbagool came back. The big, translucent, eyeball-having cube oozed up through the stone floor like the rock was water, and there he was — exhausted, barely holding shape, but cheerful as ever. "Is this goodbye?" he asked, in that telepathic voice that sounds like a child who has just learned what sadness is. It was not goodbye. Amanita talked him down, offered to shrink him, and when that did not work, she compressed his eye and enough of his gel to matter into her waterskin. Cost her a day's worth of water. She did not hesitate.
+
+We moved south. Two parallel tunnels, branching and converging. I stopped in the middle, closed my eyes, and listened. Not thinking. Not planning. Just letting the sound come to me the way my old instructor taught — feel the space, read the echoes, let your body tell you what your eyes cannot. I heard water. Dripping, pooling, running somewhere below. I heard the distant scratch of fire beetles. I heard nothing that wanted to kill us. For once.
+
+Amanita found the pond first. A shallow basin of still water, fungal growth around the edges — unusual stuff, not the standard cave mushrooms. Darby looked at the bones half-submerged in the shallows and said it was a rothe. Big one. She knew because she is a farmer, and farmers know livestock even when all that is left is the skeleton. The girl identified it by the shape of the skull and the way the ribs curved. Nature check of twenty-three.
+
+I dug into my own memory and came up with something I did not know I knew. Rothe are descended from surface cattle, brought underground by the drow generations ago. Bred for labor, food, and transport in the lightless tunnels. The history was clear and sharp — a natural twenty, the kind of roll where the knowledge feels less like recall and more like someone opened a drawer in your mind and showed you what was already there.
+
+There was a chest fused to the skeleton's back. Grown into the bones where the ribs and spine meet, like it had been there as long as the creature had been alive. Aeolus studied it and said it was sealed with a password — lingering magic, old and patient. Darby tried to pry it open with brute force. It did not budge. Amanita channeled something through that mithral pickaxe of hers — the same one that cracked the safe house floor — and the lid gave. Inside: a diamond, and a scroll.
+
+A Resurrection scroll. Seventh level. The kind of magic that brings the dead back to life, not as bones or echoes, but as living, breathing creatures with flesh and fur and heartbeat. And it was inside the chest of the creature it was meant to resurrect.
+
+The group debated. I said what I needed to say: if we have a choice, it should be Topsy. The girl I killed in the safe house. The one whose neck I snapped with my own crowbar because she bit me and my body did what it does. I do not take it back. I would do it again. But if someone is handing me a miracle and asking who deserves a second chance, I know my answer.
+
+Blarg looked at me and said, "That's quite the 180." He was not wrong. Five sessions ago I was the one arguing to kill Turvy in his sleep. Now I am the one asking to bring back the dead. I do not know when I changed. Maybe I did not change. Maybe I was always this person and it took the dark long enough to strip away the parts that were in the way.
+
+But Topsy's body is sealed in the rebuilt safe house, behind a door none of us can reach. The choice was made for us.
+
+Binks cast it. A third-level cleric, casting a seventh-level spell from a scroll, with Blarg helping and Binks whispering guidance prayers to himself. The check was seventeen. He rolled twenty-one. The gnome who cannot swim and cannot fight anything with a spine looked at a scroll that should have been beyond him and just — did it. Like it was always going to work. Like the scroll had been waiting for him.
+
+The rothe came back. Not bones. Not magic puppet strings. Flesh. Fur. Muscle. A living creature, larger than any rothe I have ever heard of, standing in a shallow pond and blinking at a world it had not seen in centuries. It pinned Darby against the wall — six points of damage — and Darby's first words were, "I promise I'm a good farmer. I'm a good animal handler." Aeolus cast something that let him speak to animals, but Roxanne — that is her name, from a Dwarvish collar tag that Eldeth read for us — had nothing to say. No memories. No past. Just hunger and confusion and the slow, bovine patience of a creature that has been given a second life it did not ask for.
+
+The chest on her back opens to the word "Roxanne." Dwarvish. Eldeth read that too. Inside, the space is larger than the chest itself — like a bag of holding fused to a rothe. Amanita's eyes lit up like someone had handed her the keys to a mushroom warehouse.
+
+There is also a portal. Flickering against the cave wall, sporadic and unstable. Blarg investigated — Arcana check of twenty-three — and said it is neutral in origin, connected to the fungal network, and destabilized by the corrupted faerzress that has been making everything down here worse. Could be stabilized temporarily. Destination unknown. Something deep and earthy rumbles from the other side.
+
+Stool said, "Feels like home is closer." The little mushroom has been quiet for sessions. That one sentence carried more weight than anything else said today.
+
+We are standing at the edge of something. A portal we do not understand, a rothe we did not expect, a cube in a waterskin, and a party that has somehow acquired more companions than combat abilities. Every party needs a little guy, I said earlier. We have acquired several.
+
+Aeolus had to leave early. The rest of us stood in front of the portal and listened to the rumbling and did not move. Nobody wanted to be the first one through. Nobody wanted to be the one who said no.
+
+I do not know what is on the other side. But I know we cannot stay here. The drow are behind us. The exhaustion is in our bones. And something ahead is calling, in a language made of spores and stone and the deep, patient vibration of a world that has been waiting for us longer than we have been alive.
+
+We will decide soon. We always do. We just never decide quickly enough to call it a plan.
 
 ---
 

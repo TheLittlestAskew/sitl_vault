@@ -4,7 +4,7 @@ race: Myconid Sprout
 affiliation: Neverlight Grove; party companion
 status: Alive
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Upper Cavern (with Amanita, as of S08)
+location: Fungal Pond / Portal Room (with Amanita, as of S09)
 ---
 
 # Stool
@@ -29,6 +29,7 @@ Myconid sprout prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Companion to
 - "I'm just a mushroom. I don't know much about using appropriate pronouns." (S01)
 - Often forgotten by everyone — "the one creature that doesn't really have any [threat]" (S02)
 - Gave Turvy a slimy hug after Topsy's death (S05) — empathetic despite simplicity
+- Growing sense of hope and empowerment as the party moves deeper into fungal territory (S09)
 
 ## Abilities & Class Features
 
@@ -50,10 +51,12 @@ Myconid sprout prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Companion to
 - **[[Session 03 — Into the Dark]]:** Traveled with party through northern passage.
 - **[[Session 05 — Silvered]]:** Senses fungal presence below safe house floor. Communicates about Neverlight Grove being far but connected via mycelial network. Gave Turvy a slimy hug. DEX save 17 during floor collapse. Rescued by Darby and Amanita.
 - **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Tied to rope by [[Amanita de'Champignon|Amanita]] as a flotation device during the flooding escape. Carried by Amanita through the flood. Survived the encounter unharmed.
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Said "feels like home is closer" near the Fungal Pond — significant moment in the empowerment arc. The fungal growth around the pond and the proximity of the Feydark portal resonate with Stool's connection to [[04-World-Lore/Locations/Neverlight Grove]]. Stayed close to Amanita throughout the session.
 
 ## Key Quotes
 
 - "I'm just a mushroom. I don't know much about using appropriate pronouns." — S01 [Funny]
+- "Feels like home is closer." — S09, near the Fungal Pond [Poignant]
 
 ---
 
@@ -63,6 +66,7 @@ Myconid sprout prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Companion to
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 05 — Silvered]]
 - [[Session 08 - The Whirlwind and the Depths]]
+- [[SITL_09_020126_Adopt_a_Rothe]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
 - [[04-World-Lore/Locations/Neverlight Grove]]

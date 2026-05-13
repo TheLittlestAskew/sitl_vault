@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Austin (aus10england)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Upper Cavern (as of S08)
+location: Fungal Pond / Portal Room (as of S09)
 ---
 
 # Darby Stonefeather
@@ -47,6 +47,7 @@ location: Upper Cavern (as of S08)
 - Pacifist stance on killing helpless creatures — opposed killing Turvy (S05)
 - As of S06: beginning to "lock in" — first rage, first magical weapon, first time providing light to the party. A turning point from reactive to proactive.
 - S08: Ancestral awakening — first rage with spectral manifestation. No longer just physically capable; becoming something mythic. The farm girl is carrying ancient power.
+- S09: Farmer instincts re-emerge — immediately claimed animal handler role for [[Roxanne]]. Despite nat 1 animal handling (pinned against wall for 6 damage), declared "I promise I'm a good farmer. I'm a good animal handler." The sheltered girl finding her element underground.
 
 ## Abilities & Class Features
 
@@ -81,6 +82,7 @@ location: Upper Cavern (as of S08)
 - **[[Turvy]]:** Pacifist. Opposed killing Turvy (S05).
 - **[[Aeolus]]:** Aeolus granted Darby temporary hit points twice via Steps of the Fey (S06). Aeolus granted Blarg 6 temp HP in S07.
 - **Clementine (pet tarantula):** Named in S06. Clementine emerged when Blarg wild shaped into a giant spider. Blarg saluted Clementine with one of his spider legs.
+- **[[Roxanne]]:** Would-be primary handler. Nat 1 animal handling on first attempt (S09) — got pinned against wall for 6 bludgeoning damage. Farmer instincts drive strong desire to bond.
 
 ## Key Events
 
@@ -92,6 +94,7 @@ location: Upper Cavern (as of S08)
 - **[[Session 06 — The Long Way Down]]:** Nat 20 survival to set up spelunking gear (3 lines in 10 min). Caught Blarg during descent (athletics 25). Retrieved green flame mace from [[Glabbagool]] (STR 22, DEX dirty 20). Quick attunement (arcana dirty 20). Named pet tarantula "Clementine." Freed Amanita from Blarg's web. **First rage** in Combat 3 — described as subdued, focused. Hit ooze D for 10, then crit for 20 (killing blow). Used Stone's Endurance to reduce Binks's friendly fire. Aeolus granted temp HP (10) via Steps of the Fey. Received Sap weapon mastery (target has disadvantage on next attack).
 - **[[Session 07 — Escape from the Oozing Temple]]:** Carried [[Amanita de'Champignon|Amanita]] during flooding escape. Tossed Amanita across gap (athletics 12), then leapt and accidentally kneed Amanita (2 bludgeoning damage). Failed support check when Kit tried to climb over party. Targeted by [[Black Pudding]] pseudopod attack (15 vs AC 16 — missed by 1; would have been 18 acid damage). Received [[Longstrider]] from Amanita (+10ft movement, 1 hour).
 - **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** First rage with spectral manifestation — ax beak feathers erupted, creating a whirlwind that parted floodwater. DM prompted divine connection; Darby described generational weight from ax beak farming ancestors. Whirlwind required Con saves to maintain (23 success, 15 drops). Struck killing blow on Black Pudding Half 2 (12 damage, rage bonus). Landed opportunity attack with Religion check 18 earning D6 radiant bonus (13 total damage on Half 1). Green Flame Mace extra damage upgraded from +1 flat to D4; dealt radiant this session instead of fire. Leveled to 4.
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Nature check 23 (21 adjusted) — identified the skeletal remains in the Fungal Pond as a rothe. Str check 14 (12 adjusted) — failed to brute-force the sealed chest open. Perception 16/7 (two rolls during exhaustion rules discussion). Pinned against the wall by the newly resurrected [[Roxanne]] for 6 bludgeoning damage (nat 1 animal handling). Sent [[Clementine]] to scout the chest before Amanita opened it. Claimed the farmer/handler role: "I promise I'm a good farmer. I'm a good animal handler."
 
 ## Key Quotes
 
@@ -103,6 +106,7 @@ location: Upper Cavern (as of S08)
 - "I can dry swallow." — S07 [Banter]
 - "Kids going crowd surfing." — S07 [Funny]
 - "I feel... something. Something old. From before me." — S08 [Poignant]
+- "I promise I'm a good farmer. I'm a good animal handler." — S09 [Funny]
 
 ---
 
@@ -116,6 +120,7 @@ location: Upper Cavern (as of S08)
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 - The Whirlwind and the Depths]]
+- [[SITL_09_020126_Adopt_a_Rothe]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
@@ -123,6 +128,7 @@ location: Upper Cavern (as of S08)
 - [[Kit Aluri]]
 - [[Asha Vandree]]
 - [[Stool]]
+- [[Roxanne]]
 - [[Black Pudding]]
 - [[Campaign Dashboard]]
 #pc

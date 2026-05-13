@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
+location: Fungal Pond / Portal Room (as of S09)
 ---
 
 # Images
@@ -28,7 +28,7 @@ location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 
 ## Description / Appearance
 
-- No detailed physical description given in S01-S08 beyond being an orc
+- No detailed physical description given in S01-S09 beyond being an orc
 - 120ft darkvision (noted S01 — used to spot Ront's body in webs from the cell)
 - Wears armor recovered from the Velkynvelve armory (donned during S02 escape). **Armor permanently degraded by -1 AC from Black Pudding acid (S08).** DM: accumulates with each acid hit; destroyed at AC 10.
 - Carries a greatsword (found on armory rack, S02)
@@ -53,6 +53,7 @@ location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 - Capable of raw honesty even when it's ugly: "I killed your sister because she tried to kill me... I'm a fucking orc." (S05)
 - S06: Evolving into a conditional diplomat — negotiated terms with Turvy rather than simply threatening. Still pragmatic, but capable of giving people a chance.
 - S07: First explicit tactical command in crisis. Distributed rope, called out instructions "with authority and confidence." Soldier instincts resurfacing — not rage, but calm, trained leadership.
+- S09: Continued moral evolution — explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe, revealing lingering guilt and a shift from the person who killed Topsy without hesitation in S04. Blarg's "quite the 180" comment underscores visible character growth.
 
 ## Abilities & Class Features
 
@@ -65,7 +66,7 @@ location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 - **Trip Attack:** First maneuver use S08 — knocked Black Pudding prone (superiority die D8, rolled 3). Forced Str save, pudding failed (12 vs. Kit's DC).
 - **Savage Attacker:** Reroll melee damage once per turn. Used S06 Combat 3 on ooze B (rerolled to 11).
 - **Action Surge:** First use S08 — dashed through difficult terrain and attacked in same turn
-- **Second Wind:** Available; not used in S01-S08
+- **Second Wind:** Available; not used in S01-S09
 - **Dungeon Delver feat:** Grants advantage on Investigation checks for traps and hidden features.
 
 ## Inventory / Loot
@@ -92,6 +93,7 @@ location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 - **[[Aeolus]]:** Trusts Aeolus to stay awake on watch.
 - **[[Amanita de'Champignon]]:** Caught Amanita when she fell into pit trap (S06). Protective.
 - **[[Glabbagool]]:** Cautiously receptive to its help (S07). Witnessed Glabbagool's selfless sacrifice blocking the floodwater (S08).
+- **[[Topsy]]:** Kit killed Topsy in self-defense during involuntary wererat attack (S04). By S09, Kit explicitly advocates for Topsy's resurrection — a significant moral shift. Body is sealed in the rebuilt safe house and currently inaccessible.
 
 ## Key Events
 
@@ -103,6 +105,7 @@ location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 - **[[Session 06 — The Long Way Down]]:** Descended shaft to rescue Binks (athletics 24 — clean descent). Caught Blarg during his slip (with Darby). Negotiated conditional terms with Turvy: party first, no tolerance for losing control. Initiated tactical command during rescue operation. Combat 3: nat 20 initiative (23). Slashed ooze A for 13 damage, noticed ooze remains reforming into statue (perception 16). Slashed ooze B for 11 (Savage Attacker reroll). Took 9 acid damage from ooze (-1 AC). Caught Amanita when she fell into flagstone pit trap. Dragged Darby and Amanita forward when Darby couldn't see in the dark.
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Adrenaline Rush for triple movement to scout lower tunnel (impassable). **First explicit tactical command in crisis** — distributed rope as safety line, moved through party giving instructions with calm authority. Athletics 16 to climb over party (succeeded, but Darby failed support check — Kit fell back). Squeezed through friendly spaces instead. Session ended with Kit holding the rope line, party trapped between [[Black Pudding]] and [[Glabbagool]].
 - **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Centralized herself in a near-meditative listening stance — Perception 21 (19 adjusted), confirmed area safe. History nat 20 (18 adjusted) on rothe lore: descended from surface bovines, brought underground by the drow. Explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe ("There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy"). Body inaccessible in the sealed safe house, so party chose the rothe. Significant character development moment — Blarg noted the "180" from the person who killed Topsy in S04.
 
 ## Key Quotes
 
@@ -118,6 +121,10 @@ location: Upper Cavern (NE exit from Dwarvish safe house system, as of S08)
 - "Well, we're sure as hell going into the war water if there are people trying to catch up with us." — S07 [Serious]
 - "Girl, that is interesting. Incredibly useful." — S07, re: Longstrider [Serious]
 - "I didn't know what tired felt like until right now." — S08 [Serious]
+- "Every party needs a little guy." — S09 [Funny]
+- "There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy." — S09 [Serious]
+- "We have acquired a little guy." — S09 [Funny]
+- "So many mushrooms, so much room. You can put as many mushrooms in there as you want." — S09 [Funny]
 
 ## POV Journal
 
@@ -135,6 +142,7 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 - The Whirlwind and the Depths]]
+- [[SITL_09_020126_Adopt_a_Rothe]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Binks Stonevein]]
@@ -143,5 +151,6 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Topsy]]
 - [[Turvy]]
 - [[Glabbagool]]
+- [[Roxanne]]
 - [[Campaign Dashboard]]
 #pc
