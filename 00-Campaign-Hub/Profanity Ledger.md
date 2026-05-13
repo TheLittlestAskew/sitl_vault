@@ -8,11 +8,13 @@ Campaign-wide profanity tracking by speaker.
 
 | Speaker | Total Count | Most Common |
 |---|---|---|
-| Kit Aluri (Taylor) | 12+ | "damn", "fucking", "shit", "hell" |
-| Darby Stonefeather (Austin) | 1+ | "shit" |
+| Kit Aluri (Taylor) | 15+ | "shit", "damn", "fucking", "hell" |
+| Darby Stonefeather (Austin) | 4+ | "shit", "fuck" |
+| Amanita de'Champignon (Hannah) | 1+ | "damn it" |
+| Blarg (Florian) | 1+ | "damn" |
 | Other PCs | Pending audit | — |
 
-*Note: Full profanity audit for S01-S04 pending complete transcript review. Counts below are confirmed instances only.*
+*Note: S03 profanity now audited from corrected transcript. S05 full audit still pending. Counts are confirmed instances only.*
 
 ---
 
@@ -34,7 +36,14 @@ Campaign-wide profanity tracking by speaker.
 
 ## Session 03 — Into the Dark
 
-*Profanity record pending full transcript audit.*
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fuck" | 1 | "Fuck you, oo" — after gray ooze flees into pool |
+| Darby Stonefeather (Austin) | "fuck" | 1 | "Fuck you, ghost" — same moment, directed at ooze |
+| Kit Aluri (Taylor) | "shit" | 1 | "That would be cool as shit" — re: digging through center of earth |
+| Darby Stonefeather (Austin) | "shit" | 1 | "Oh, shit" — reacting to encumbrance page discovery |
+| Amanita de'Champignon (Hannah) | "damn it" | 1 | Failed athletics check in pool |
+| Blarg (Florian) | "damn" | 1 | Reacting to Kit's carrying capacity |
 
 ---
 
