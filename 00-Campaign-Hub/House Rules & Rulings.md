@@ -22,15 +22,19 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Dungeon Delver feat (Kit Aluri):** Grants advantage on Investigation checks for traps and hidden features. DM acknowledged this was overlooked during S05 play and should be applied going forward.
 - **Help action in combat movement:** DM allowed Kit to use help action to assist Binks's Athletics check for movement through difficult terrain (S08).
 
+### Spellcasting
+- **Casting scrolls above your level (S09):** Per 2024 rules, casting a spell from a scroll above your level requires a spellcasting ability check (DC 10 + spell level). Binks successfully cast a 7th-level Resurrection scroll at Level 3 (DC 17). Guidance and Help action (from Blarg) were both allowed to apply to the check.
+
 ### Campaign Setting
-- **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04) and triggered short-term madness in Amanita when she cast Detect Magic on it (S05).
+- **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04), triggered short-term madness in Amanita when she cast Detect Magic on it (S05), and destabilizes the Feydark portal (S09).
 - **No day/night cycle in the Underdark:** Long rest = 8 hours. Short rest = ~1 hour.
-- **Feydark time is non-linear:** Temporally isolated from the Underdark clock (confirmed by DM and raven Echo in S09).
+- **Feydark time is non-linear:** Temporally isolated from the Underdark clock (confirmed by DM and raven Echo in S10).
 - **Exhaustion at depth:** DM applied Exhausted condition to all PCs at end of S08 after ~6-8 hours travel without long rest. Asked for Con checks at short rest to potentially clear it.
 - **Acid damage to armor (Black Pudding):** Black Pudding acid permanently reduces AC by 1 per hit. Armor destroyed if reduced to AC 10 (S08). Kit's armor took -1 AC.
 
 ### Retcons
 - **S08: Exhaustion tracking retconned by Addison.** S03-S07 time/condition data should be treated as approximated. All PCs reset to 1 level of exhaustion at S08 start.
+- **S09: 2024 Exhaustion rules clarified.** Level 1 exhaustion = -2 to all d20 tests, -5 speed. NOT disadvantage (that was 2014 rules). Death at level 6. Applies to death saving throws. Long rest required to remove.
 
 ---
 

@@ -285,5 +285,63 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
+## Session 09 — Adopt-a-Rothe
+
+**[[Kit Aluri]] · [Funny]**
+"Every party needs a little guy."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"I could shrink you. I could shrink you, and we could put you in a water bottle."
+
+**[[Glabbagool]] (Addison) · [Poignant]**
+"Is this goodbye?"
+
+**[[Aeolus]] · [Funny]**
+"Don't check it out!"
+
+**[[Amanita de'Champignon]] · [Funny]**
+"But it's so awesome! I'll be right back!"
+
+**[[Kit Aluri]] · [Serious]**
+"There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy."
+
+**[[Blarg]] · [Banter]**
+"That's quite the 180."
+
+**[[Kit Aluri]] · [Serious]**
+"Well, I mean, we uncovered after that it wasn't her fault."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"We're totally derailing the DM's plan. I know. Sorry."
+
+**Addison (DM) · [DM Quip]**
+"Also, another mouth to feed. Another mouth to feed."
+
+**[[Darby Stonefeather]] · [Funny]**
+"I promise I'm a good farmer. I'm a good animal handler."
+
+**Addison (DM) · [DM Quip]**
+"Hopefully now it's starting to make sense. Why I asked you not to start off the game with your own companions."
+
+**[[Kit Aluri]] · [Funny]**
+"We have acquired a little guy."
+
+**[[Blarg]] · [Banter]**
+"Oh, big guy. Not a little guy."
+
+**[[Binks Stonevein]] · [Banter]**
+"I killed slimes and almost drowned. I did not level up."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Y'all, that's — kill it with mushrooms."
+
+**[[Kit Aluri]] · [Funny]**
+"So many mushrooms, so much room. You can put as many mushrooms in there as you want."
+
+**[[Binks Stonevein]] · [Funny]**
+"I want to go through the portal so bad."
+
+---
+
 ## Related
 [[Campaign Dashboard]]

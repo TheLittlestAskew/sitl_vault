@@ -100,12 +100,25 @@ Master list of all items, artifacts, and loot acquired by the party, organized b
 | Character | Item | Properties / Notes | Status |
 |---|---|---|---|
 | [[Kit Aluri]] | Armor (acid-damaged) | Black Pudding acid permanently reduced AC by 1. DM notes this accumulates with each acid hit; armor destroyed if reduced to AC 10. | **Damaged** — Equipped |
-| [[Amanita de'Champignon]] | [[Roxy]] (Rothe skeleton) | Resurrected via Speak with Dead / wild magic. Magic word "Roxanne" animates her. Skeletal; cannot support weight on zurkhwood bridges. | Active companion |
+| [[Amanita de'Champignon]] | [[Roxanne]] (Rothe — noted as skeleton in S08) | Initially described as animated skeleton via wild magic. **Corrected in S09:** fully resurrected by Binks via Resurrection scroll. See S09 entry. | Active companion |
 | Party | Greater Healing Potion | Mentioned by DM at session start as available from previous treasure pit. Not used this session. | Carried |
 | [[Binks Stonevein]] | Spiritual Weapon (buoy form) | Used creatively as a glowing buoy to transport rope through water. Concentration spell. | Expended (spell) |
 | Party | Rope | Used extensively: Amanita tied Stool to it as flotation; Binks used Spiritual Weapon to ferry it to Blarg. | In use |
 
-*Note: Kit's armor AC penalty is permanent per DM ruling. Darby's mace damage upgraded from +1 flat to D4 this session (see S06 entry for mace details).*
+*Note: Kit's armor AC penalty is permanent per DM ruling. Darby's mace damage upgraded from +1 flat to D4 this session (see S06 entry for mace details). Roxy's S08 description as "skeleton" corrected by S09 Resurrection event.*
+
+---
+
+## Session 09 — Adopt-a-Rothe
+
+| Character | Item | Properties / Notes | Status |
+|---|---|---|---|
+| Party (on [[Roxanne]]) | Chest of Holding (extradimensional) | Fused to Roxanne's back. Password: "Roxanne" (Dwarvish, read by [[Eldeth]]). Exact capacity unspecified. | Active |
+| [[Roxanne]] | Roxanne (Rothe — fully resurrected) | 7th-level Resurrection scroll cast by [[Binks Stonevein]] (DC 17, rolled 21 w/ Guidance + Blarg Help). Female, larger than normal. Dwarvish collar tag: "Roxanne." No memories. Flesh, fur, and full anatomy restored. | Active companion |
+| [[Amanita de'Champignon]] | [[Glabbagool]] (in waterskin) | Gelatinous cube compressed into waterskin. Cost Amanita 1 day of water supply. Eye + gel carried. Short rest = can fight; long rest = full reconstitution. | Recovering |
+| [Consumed] | Resurrection Scroll (7th level) | Found in Roxanne's chest. Used to resurrect Roxanne. Scroll turned to dust after successful casting. | Consumed |
+| [Consumed] | Diamond (spell component) | Found in Roxanne's chest alongside scroll. Used as Resurrection material component. | Consumed |
+| [[Amanita de'Champignon]] | Mithral Pickaxe | Used to channel magic and pry open the sealed chest (Wis + Str checks). Confirmed as magical conduit. | Carried |
 
 ---
 
