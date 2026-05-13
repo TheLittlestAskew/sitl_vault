@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sessions/Session 01 — Prisoners of the Underdark.md",
+                "file": "02-Character_Journal/Kit Aluri Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 01 — Prisoners of the Underdark"
+              "title": "Kit Aluri Journal"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Sessions/Session 01 — Prisoners of the Underdark.md",
+                "file": "02-Character_Journal/Kit Aluri Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 01 — Prisoners of the Underdark"
+              "title": "Backlinks for Kit Aluri Journal"
             }
           },
           {
@@ -231,8 +231,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "199b13cc89e8ac62",
+  "active": "8b6fde32cdcbb266",
   "lastOpenFiles": [
+    "07-Flora_Fauna/Plants_Fungi/Feydark Flora.md",
+    "07-Flora_Fauna/Creatures/Myconid.md",
+    "03-Characters/NPCs/Echo.md",
+    "03-Characters/NPCs/Psilofyr.md",
+    "03-Characters/PCs/S10_PC_PATCH_NOTES.md",
+    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "01-Sessions/SITL_10_021526_Echoes_in_the_Feydark.md",
     "05-Mechanics/Spell_Usage.md",
     "03-Characters/NPCs/Glabbagool_S09_PATCH.md",
@@ -251,14 +257,8 @@
     "01-Sessions/Session 04 — Life Isn't Faer-zress.md",
     "01-Sessions/Session 03 — Into the Dark.md",
     "01-Sessions/Session 02 — Come Get Your Shit.md",
-    "01-Sessions/Session 01 — Prisoners of the Underdark.md",
     "02-Character_Journal/Kit Aluri Journal.md",
     "02-Character_Journal/Kit Aluri Journal_temp_header.md",
-    "04-World-Lore/Locations/Upper Cavern.md",
-    "01-Sessions/Session 07 — Escape from the Oozing Temple.md",
-    "01-Sessions/Session 06 — The Long Way Down.md",
-    "03-Characters/PCs/Amanita de'Champignon.md",
-    "03-Characters/PCs/Blarg.md",
     "03-Characters/PCs/Blarg CS.pdf",
     "03-Characters/PCs/Darby.pdf",
     "Screenshot 2025-09-28 133542 1.png",

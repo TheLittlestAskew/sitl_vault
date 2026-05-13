@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Fungal Pond / Portal Room (as of S09)
+location: The Feydark — Cliffside Clearing (as of S10)
 ---
 
 # Images
@@ -20,7 +20,7 @@ location: Fungal Pond / Portal Room (as of S09)
 > **Race:** Orc (Half-Orc flavored)
 > **Class:** Fighter (Battle Master) / Rogue (Assassin) multiclass
 > **Background:** Gladiator (Underdark-bred)
-> **Level:** 4 (as of S08)
+> **Level:** 4 (as of S10 — all PCs leveled during Feydark forced long rest)
 > **DDB userId:** 107965379
 > Character Sheet: [[Kit.pdf]]
 
@@ -28,7 +28,7 @@ location: Fungal Pond / Portal Room (as of S09)
 
 ## Description / Appearance
 
-- No detailed physical description given in S01-S09 beyond being an orc
+- No detailed physical description given in S01-S10 beyond being an orc
 - 120ft darkvision (noted S01 — used to spot Ront's body in webs from the cell)
 - Wears armor recovered from the Velkynvelve armory (donned during S02 escape). **Armor permanently degraded by -1 AC from Black Pudding acid (S08).** DM: accumulates with each acid hit; destroyed at AC 10.
 - Carries a greatsword (found on armory rack, S02)
@@ -40,6 +40,7 @@ location: Fungal Pond / Portal Room (as of S09)
 - Has been imprisoned for 6 days as of S01
 - Underdark-bred; Deep Delver background feature (navigation and survival specialist)
 - Gladiator background
+- No known dead family members — this became narratively significant in S10 when Kit was the only PC who did not receive a Feydark vision of deceased relatives
 
 ## Personality
 
@@ -54,6 +55,7 @@ location: Fungal Pond / Portal Room (as of S09)
 - S06: Evolving into a conditional diplomat — negotiated terms with Turvy rather than simply threatening. Still pragmatic, but capable of giving people a chance.
 - S07: First explicit tactical command in crisis. Distributed rope, called out instructions "with authority and confidence." Soldier instincts resurfacing — not rage, but calm, trained leadership.
 - S09: Continued moral evolution — explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe, revealing lingering guilt and a shift from the person who killed Topsy without hesitation in S04. Blarg's "quite the 180" comment underscores visible character growth.
+- S10: When the Feydark fog separated the party, Kit defaulted to warrior meditation — closed eyes, drew sword, entered a defensive stance. Chose vigilance over vulnerability. The only PC who did not receive comfort, guidance, or an empowered trinket from Psilofyr's realm. Kit's response to the absence was characteristically stoic: she waited, listened, and did not complain. In combat, delivered the killing blow on the Myconid Sovereign by leaping off bear-Blarg's back — the most cinematic combat moment of the campaign. Picked Goblin as her new language at level-up, and was immediately glad she did when fae goblins arrived.
 
 ## Abilities & Class Features
 
@@ -63,18 +65,19 @@ location: Fungal Pond / Portal Room (as of S09)
 - **Adrenaline Rush** (orc trait — used S02, S07 for triple movement to scout lower tunnel)
 - **Tactical Mind:** Expend a superiority die to add to an ability check. First used S02 to break Binks's shackles (strength 18 + D6 roll of 4 = 22, beating DC 20)
 - **Battle Master subclass:** Selected at Level 3 (end of S02). Three maneuvers to be chosen.
-- **Trip Attack:** First maneuver use S08 — knocked Black Pudding prone (superiority die D8, rolled 3). Forced Str save, pudding failed (12 vs. Kit's DC).
-- **Savage Attacker:** Reroll melee damage once per turn. Used S06 Combat 3 on ooze B (rerolled to 11).
+- **Trip Attack:** Used S08 to knock Black Pudding prone. Used S10 to finish the Myconid Sovereign (leaping attack off bear-Blarg).
+- **Savage Attacker:** Reroll melee damage once per turn. Used S06 Combat 3 on ooze B (rerolled to 11). Used S10 — rerolled damage on Myconid A to exactly match its remaining HP (12).
 - **Action Surge:** First use S08 — dashed through difficult terrain and attacked in same turn
-- **Second Wind:** Available; not used in S01-S09
+- **Second Wind:** Available; not used in S01-S10
 - **Dungeon Delver feat:** Grants advantage on Investigation checks for traps and hidden features.
+- **Languages:** Common, Common Sign Language, Goblin (S01-S09), Orc, Thieves' Cant. **Added Goblin (spoken) at S10 level-up.**
 
 ## Inventory / Loot
 
 | Item | Session Acquired | Status |
 |---|---|---|
 | Flawed Carnelian Gemstone (~10 gp) | S01 (scavenging, dirty 20) | Carried; hidden on person |
-| Small trinket (type TBD) | S01 (sleight of hand 22 to retain) | Carried |
+| Small trinket (type TBD) | S01 (sleight of hand 22 to retain) | Carried — **not yet empowered** (DM teased all trinkets will be empowered in Feydark, S10) |
 | Greatsword | S02 (armory rack) | Equipped — first weapon swing of campaign |
 | Full starting gear + dungeoneer's pack | S02 (armory recovery) | Equipped |
 | Silvered Crowbar | Pre-campaign | **Iconic item.** Tip spontaneously silvered during/before killing Topsy (S04). Transmutation magic confirmed by Amanita (Arcana 16, S05). Kit confirmed via History 17 it was NOT silver before. Source of silvering unknown. |
@@ -94,6 +97,8 @@ location: Fungal Pond / Portal Room (as of S09)
 - **[[Amanita de'Champignon]]:** Caught Amanita when she fell into pit trap (S06). Protective.
 - **[[Glabbagool]]:** Cautiously receptive to its help (S07). Witnessed Glabbagool's selfless sacrifice blocking the floodwater (S08).
 - **[[Topsy]]:** Kit killed Topsy in self-defense during involuntary wererat attack (S04). By S09, Kit explicitly advocates for Topsy's resurrection — a significant moral shift. Body is sealed in the rebuilt safe house and currently inaccessible.
+- **[[Blarg]]:** Trusted ally. In S10, Kit used bear-Blarg as a launching platform to kill the Myconid Sovereign — first coordinated PC-to-PC combat move in the campaign.
+- **[[Psilofyr]]:** No direct interaction. Kit was the only PC who received nothing from Psilofyr — no vision, no empowered trinket, no guidance. Psilofyr may have different plans for her.
 
 ## Key Events
 
@@ -106,6 +111,7 @@ location: Fungal Pond / Portal Room (as of S09)
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Adrenaline Rush for triple movement to scout lower tunnel (impassable). **First explicit tactical command in crisis** — distributed rope as safety line, moved through party giving instructions with calm authority. Athletics 16 to climb over party (succeeded, but Darby failed support check — Kit fell back). Squeezed through friendly spaces instead. Session ended with Kit holding the rope line, party trapped between [[Black Pudding]] and [[Glabbagool]].
 - **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
 - **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Centralized herself in a near-meditative listening stance — Perception 21 (19 adjusted), confirmed area safe. History nat 20 (18 adjusted) on rothe lore: descended from surface bovines, brought underground by the drow. Explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe ("There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy"). Body inaccessible in the sealed safe house, so party chose the rothe. Significant character development moment — Blarg noted the "180" from the person who killed Topsy in S04.
+- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Spooked [[Roxanne]] with failed animal handling (5). Dodged charging rothe (Dex save 12). Sensed insectoid creature ambush at portal — screamed "Go now!" as party fled through. Separated from party in Feydark fog; entered warrior meditation (closed eyes, drew greatsword, defensive stance). **Only PC who did not receive a vision, comfort, or empowered trinket.** Perception 9 (11-2) during meditation — heard water, leaves, gliding sounds but no danger. In combat: hit Myconid A for 10 damage, received free Riposte from DM when Myconid A rolled nat 1 (9 damage), used Savage Attacker to reroll damage to exactly 12 (killed Myconid A). **Killed the Myconid Sovereign** — leaped off bear-Blarg's back, greatsword + Trip Attack for 13 damage, landed in superhero pose. Most cinematic kill of the campaign. Insight 13 on fae goblins — determined not hostile. Learned Goblin as new language at level-up. Kit understands Goblin, which became immediately relevant when fae goblins arrived.
 
 ## Key Quotes
 
@@ -125,6 +131,10 @@ location: Fungal Pond / Portal Room (as of S09)
 - "There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy." — S09 [Serious]
 - "We have acquired a little guy." — S09 [Funny]
 - "So many mushrooms, so much room. You can put as many mushrooms in there as you want." — S09 [Funny]
+- "I believe in you." — S10, to Blarg before portal [Banter]
+- "We just want to get consent, you know." — S10, re: riding Roxanne [Serious]
+- "Hey, is this guy edible?" — S10, after killing Myconid Sovereign [Funny]
+- "I'm suddenly glad I picked Goblin." — S10, when fae goblins arrived [Funny]
 
 ## POV Journal
 
@@ -143,14 +153,18 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 - The Whirlwind and the Depths]]
 - [[SITL_09_020126_Adopt_a_Rothe]]
+- [[SITL_10_021526_Echoes_in_the_Feydark]]
 - [[04-World-Lore/Locations/Velkynvelve]]
+- [[04-World-Lore/Locations/The Feydark]]
 - [[Oozing Temple]]
 - [[Binks Stonevein]]
 - [[Darby Stonefeather]]
+- [[Blarg]]
 - [[Jorlan Duskryn]]
 - [[Topsy]]
 - [[Turvy]]
 - [[Glabbagool]]
 - [[Roxanne]]
+- [[Psilofyr]]
 - [[Campaign Dashboard]]
 #pc
