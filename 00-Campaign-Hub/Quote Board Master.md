@@ -89,7 +89,53 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ## Session 03 — Into the Dark
 
-*Quote board pending full transcript audit for this session.*
+**[[Amanita de'Champignon]] · [Funny/Defining]**
+"Oh my god, I can produce spores. I'm a mushroom. Oh, this is so cool."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Oh, over there. Like, there's just something weird about the shoreline. Does anyone see that? I mean, is it just me? There's like something gray. It's something weird. Maybe a little sticky. Maybe. Maybe viscous. That's a great word. It's like viscous. Guys, do you see that? Also, we're still missing two people."
+
+**[[Kit Aluri]] · [Serious/Tactical]**
+"Don't touch this stuff. Get away from it. Nobody else can need saving in the next like 60 seconds."
+
+**[[Binks Stonevein]] · [Funny]**
+"I say we head towards Blingdenstone. It's where I call home."
+
+**[[Blarg]] · [Funny]**
+"Is it safe?"
+
+**[[Binks Stonevein]] · [Funny]**
+"It's — I mean, it's the Underdark."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"He's part of the cycle of life. It's probably like 90% fungus now. It's great."
+
+**[[Kit Aluri]] · [Funny]**
+"The spiders got to him. I don't think he's fungus yet."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Yes, but he will be someday."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"I mean, we could all be fungus even faster if we went to the myconid city."
+
+**[[Blarg]] · [Banter]**
+"I love your love, man. But that's not what we're going for."
+
+**[[Blarg]] · [Poignant]**
+"I haven't been raised by my family."
+
+**Addison (DM) · [DM Quip]**
+"Sky's the limit. Sky's the limit."
+
+**[[Blarg]] · [Banter]**
+"Sky's the limit's up. What's the limit down?"
+
+**[[Aeolus]] · [Banter]**
+"Can we reach the depths of hell?"
+
+**[[Kit Aluri]] · [Funny]**
+"That would be cool as shit, honestly."
 
 ---
 
