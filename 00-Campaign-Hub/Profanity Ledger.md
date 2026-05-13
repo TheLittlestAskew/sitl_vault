@@ -8,13 +8,14 @@ Campaign-wide profanity tracking by speaker.
 
 | Speaker | Total Count | Most Common |
 |---|---|---|
-| Kit Aluri (Taylor) | 15+ | "shit", "damn", "fucking", "hell" |
+| Kit Aluri (Taylor) | 19+ | "hell", "shit", "damn", "fucking" |
 | Darby Stonefeather (Austin) | 4+ | "shit", "fuck" |
 | Amanita de'Champignon (Hannah) | 1+ | "damn it" |
 | Blarg (Florian) | 1+ | "damn" |
-| Other PCs | Pending audit | — |
+| Turvy (DM/NPC) | 7 | "damn" (×5), "fucking", "shit" |
+| Other PCs | Pending full audit | — |
 
-*Note: S03 profanity now audited from corrected transcript. S05 full audit still pending. Counts are confirmed instances only.*
+*Note: S03 and S05 fully audited from corrected transcripts. Counts are confirmed instances only.*
 
 ---
 
@@ -58,7 +59,12 @@ Campaign-wide profanity tracking by speaker.
 | Speaker | Curse Word | Frequency | Context |
 |---|---|---|---|
 | Kit Aluri (Taylor) | "fucking" | 1 | "I'm a fucking orc" — defining speech to Turvy |
-| Kit Aluri (Taylor) | "shit" | TBD | Various contexts; full audit pending |
+| Kit Aluri (Taylor) | "fuckers" | 1 | "whichever one of these fuckers is dead" — re: silvered crowbar |
+| Kit Aluri (Taylor) | "hell" | 2 | "What the hell is wrong with you?" and "What the hell is going on?" — re: Binks's augury |
+| Kit Aluri (Taylor) | "shit" | 1 | "scared the shit out of me" — re: Binks's behavior |
+| Turvy (DM/NPC) | "damn" | 5 | "Damn it" (×3), "this damn place," "damn jam" — grief over Topsy's death |
+| Turvy (DM/NPC) | "fucking" | 1 | "Something's fucking wrong with it" — re: faerzress corruption |
+| Turvy (DM/NPC) | "shit" | 1 | "this shit" — re: faerzress |
 
 ---
 

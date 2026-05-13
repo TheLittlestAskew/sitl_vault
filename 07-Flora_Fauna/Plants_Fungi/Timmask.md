@@ -10,11 +10,13 @@ location: Mushroom cavern, northern passage from Velkynvelve
 Also known as **Devil's Mushroom**.
 
 ## Description
-A dangerous Underdark fungus found in the mushroom cavern the party traveled through after escaping [[04-World-Lore/Locations/Velkynvelve]]. Known for its hallucinogenic and potentially poisonous properties.
+A dangerous Underdark toadstool fungus found in the mushroom cavern the party traveled through after escaping [[04-World-Lore/Locations/Velkynvelve]]. Capped mushrooms a couple of feet tall. In normal light they would appear orange and red; in darkvision they appear washed out. Known for releasing poison spores when uprooted.
 
 ## Properties
-- **Poisonous/Hallucinogenic:** Dangerous to interact with or inhale spores from
+- **Poisonous:** Uprooting releases poison spores (per Amanita's identification)
 - **Common name:** Devil's Mushroom
+- **Appearance:** Toadstools, orange-red coloration, couple feet tall
+- **Habitat:** Found alongside fire lichen and [[Fire Beetle]] colonies that feed on them
 
 ## Campaign Appearances
 

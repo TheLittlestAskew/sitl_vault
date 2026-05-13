@@ -8,12 +8,13 @@ location: Mushroom cavern, northern passage from Velkynvelve
 # Fire Beetle
 
 ## Description
-Giant fire beetles encountered in a mushroom cavern along the northern passage from [[04-World-Lore/Locations/Velkynvelve]]. Bioluminescent; their glow contributed to the cavern's illumination.
+Giant fire beetles encountered in a mushroom cavern along the northern passage from [[04-World-Lore/Locations/Velkynvelve]]. Red-orange coloration that blends with [[Timmask]] (devil's mushroom). About the size of a small dog. Bioluminescent — emit bright light in a 10ft radius.
 
 ## Behavior
-- Docile; calmly munching on the buffet of mushrooms in the cavern (per Addison's notes)
-- Easily avoided by the party
-- Non-hostile; did not attack or react aggressively to the party's passage
+- Docile; feeding on [[Timmask]] toadstools and fire lichen
+- Approximately 12 observed in the S03 cavern
+- Non-hostile; did not react to the party's passage even with Pass Without Trace active
+- Low passive perception (party stealth median well above their detection threshold)
 
 ## Encounters
 

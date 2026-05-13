@@ -8,6 +8,16 @@
 
 ---
 
+## Quick References
+
+- [[05-Mechanics/Roll_Statistics|📊 Roll Statistics (Campaign-Wide)]]
+- [[Quote Board Master|💬 Quote Board]]
+- [[Profanity Ledger|🤬 Profanity Ledger]]
+- [[Loot Tracker|🎒 Loot Tracker]]
+- [[House Rules & Rulings|📜 House Rules]]
+
+---
+
 ## The Party
 
 | Character | Player | Race | Class | Sheet |

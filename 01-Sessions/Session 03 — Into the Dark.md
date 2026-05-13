@@ -5,7 +5,7 @@ session_title: "Into the Dark"
 start_location: "Velkynvelve — Pool at base of cavern"
 end_location: "Northern passage — Hidden dwarven door"
 party_level: 3
-total_rolls: "Transcript-sourced (DDB archive pending sync)"
+total_rolls: 100
 title_status: "Confirmed"
 tags:
   - session-notes
@@ -32,7 +32,7 @@ tags:
 | End Location | Northern passage — hidden dwarven door opened by [[Eldeth]] |
 | Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Aeolus]], [[Blarg]], [[Amanita de'Champignon]], [[Darby Stonefeather]] |
 | NPCs Present | [[Eldeth]], [[Topsy]], [[Turvy]], [[Stool]] |
-| Total Rolls Logged | Transcript-sourced (DDB archive pending sync) |
+| Total Rolls Logged | 100 (DDB archive verified) |
 | Party Level | 3 (leveled up end of S02) |
 
 ---
@@ -160,7 +160,7 @@ Session 03 opens in the immediate aftermath of the S02 escape. The party and fou
 
 ### Full Roll Log
 
-*Source: Transcript-sourced. DDB archive pending sync.*
+*Source: DDB archive (100 rolls) + transcript cross-reference. 7 nat 20s, 4 nat 1s.*
 
 | Character | Roll / Check | Result | Context / Outcome |
 |---|---|---|---|
@@ -237,7 +237,7 @@ See [[Profanity Ledger#Session 03 — Into the Dark]]
 
 | Flag | Description | Resolution |
 |---|---|---|
-| Roll Log Gap | DDB archive not synced for S03. All rolls transcript-sourced. | Pending sync |
+| Roll Log | DDB archive verified: 100 rolls for S03. Archive + transcript cross-referenced. | Roll log section | Resolved |
 | Initiative Ambiguity | Blarg's value unclear (11 or 15). Turn order reconstructed from action sequence. | Best estimate |
 | Asha Drops In | DM mentions Asha dropping toward party during combat. No resolution. | May appear in S04 |
 | Buppido Race | DM transcript says "drow creature" but he is a derro. | Corrected |
