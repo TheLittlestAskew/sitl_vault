@@ -9,7 +9,7 @@ total_rolls: 643
 
 > [!info] Data Source
 > All statistics derived from `ddb_roll_archive.xlsx` (Sky Is The Limit sheet).
-> Last updated after [[Session 08 - The Whirlwind and the Depths|Session 08]].
+> Last updated after [[Session 08 — The Whirlwind and the Depths|Session 08]].
 > Archive contains data through S15 (2026-05-03); only S01-S08 reflected here pending vault catch-up.
 
 ---
@@ -117,7 +117,7 @@ total_rolls: 643
 | [[Session 05 — Silvered\|S05]] | 12/07/25 | 66 | 3 | 63 | 1 | 3 | Kit (19) |
 | [[Session 06 — The Long Way Down\|S06]] | 12/21/25 | 160 | 27 | 133 | 4 | 5 | Amanita (36) |
 | [[Session 07 — Escape from the Oozing Temple\|S07]] | 01/04/26 | 22 | 0 | 22 | 1 | 0 | Aeolus (5) |
-| [[Session 08 - The Whirlwind and the Depths\|S08]] | 01/18/26 | 59 | 21 | 38 | 2 | 3 | Blarg (18) |
+| [[Session 08 — The Whirlwind and the Depths\|S08]] | 01/18/26 | 59 | 21 | 38 | 2 | 3 | Blarg (18) |
 
 ---
 
@@ -174,6 +174,6 @@ total_rolls: 643
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[Session 08 - The Whirlwind and the Depths]]
+- [[Session 08 — The Whirlwind and the Depths]]
 
 #mechanics #roll-statistics

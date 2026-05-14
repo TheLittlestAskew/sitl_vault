@@ -4,7 +4,7 @@ race: Fae Goblin
 class: N/A
 affiliation: Fae Goblin Band (Feydark)
 status: Alive
-first_appearance: "[[SITL_11_030126_Gifts_of_the_Carrion_King]]"
+first_appearance: "[[Session 11 — Gifts_of_the_Carrion_King]]"
 location: The Feydark
 ---
 
@@ -27,8 +27,8 @@ Chris knew [[Blarg]]'s adoptive goblin shaman **[[Carbra]]** from inter-tribal g
 
 ## Key Events
 
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Arrived with three other fae goblins as allies during the Myconid Sovereign trial. Goblin boss: "Well, damn, you guys are all right." Caught Blarg gently as he fell unconscious from Psilofyr's spore explosion.
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Met Blarg in the morning. Recognized him by scent and carving. Shared stories about Carbra. Empowered Blarg's family carving with goblin fae magic (+1 CHA, goblin wild shape, permanent tribe welcome). Shared breakfast. Said farewell when party departed.
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Arrived with three other fae goblins as allies during the Myconid Sovereign trial. Goblin boss: "Well, damn, you guys are all right." Caught Blarg gently as he fell unconscious from Psilofyr's spore explosion.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Met Blarg in the morning. Recognized him by scent and carving. Shared stories about Carbra. Empowered Blarg's family carving with goblin fae magic (+1 CHA, goblin wild shape, permanent tribe welcome). Shared breakfast. Said farewell when party departed.
 
 ## Key Quotes
 
@@ -43,8 +43,8 @@ Chris knew [[Blarg]]'s adoptive goblin shaman **[[Carbra]]** from inter-tribal g
 
 ## Related
 
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Blarg]]
 - [[Carbra]]
 - [[04-World-Lore/Locations/The Feydark]]

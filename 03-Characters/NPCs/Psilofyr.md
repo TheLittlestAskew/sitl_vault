@@ -4,7 +4,7 @@ race: Archfey (Myconid deity/patron)
 class: N/A
 affiliation: Court of Stars (Feydark)
 status: Active
-first_appearance: "[[SITL_10_021526_Echoes_in_the_Feydark]]"
+first_appearance: "[[Session 10 — 021526_Echoes_in_the_Feydark]]"
 location: The Feydark — Nexus Pools / Court of Stars
 ---
 
@@ -47,8 +47,8 @@ Ancient, patient, authoritative. Addresses the party collectively as "friend" (s
 
 ## Key Events
 
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Party entered the Feydark. Myconid Sovereign + 5 Adults attacked as trial. After defeat, Sovereign reconstituted into Psilofyr's avatar. Spoke: "You have shown your potential. Well done, friend. We will speak soon. But now you must rest." Forced long rest via spore explosion. Empowered Darby's trinket and Binks's loot pick. Did NOT interact with or empower Kit.
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Orchestrated individual dream/trance sequences for all PCs. Kit: scripted nightmare → Doll of the Fallen Soldier. Aeolus: Naos reunion → Ring of Spell Storing. Blarg: Chris/goblins → enhanced carving. Amanita: deep trance → enhanced pipe + warpick + four future paths. Darby: totem empowerment. Binks: grandfather voice → enhanced loot pick. Resurrected [[Topsy]] via mycelial fibers. Granted all PCs **Fey Touched** feat. Led party to **Nexus Pools** (seven portals). Said farewell. Confirmed portals are one-way — party cannot return to the Feydark via the same route.
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Party entered the Feydark. Myconid Sovereign + 5 Adults attacked as trial. After defeat, Sovereign reconstituted into Psilofyr's avatar. Spoke: "You have shown your potential. Well done, friend. We will speak soon. But now you must rest." Forced long rest via spore explosion. Empowered Darby's trinket and Binks's loot pick. Did NOT interact with or empower Kit.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Orchestrated individual dream/trance sequences for all PCs. Kit: scripted nightmare → Doll of the Fallen Soldier. Aeolus: Naos reunion → Ring of Spell Storing. Blarg: Chris/goblins → enhanced carving. Amanita: deep trance → enhanced pipe + warpick + four future paths. Darby: totem empowerment. Binks: grandfather voice → enhanced loot pick. Resurrected [[Topsy]] via mycelial fibers. Granted all PCs **Fey Touched** feat. Led party to **Nexus Pools** (seven portals). Said farewell. Confirmed portals are one-way — party cannot return to the Feydark via the same route.
 
 ## Key Quotes
 
@@ -69,8 +69,8 @@ Ancient, patient, authoritative. Addresses the party collectively as "friend" (s
 
 ## Related
 
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/The Feydark]]
 - [[Stool]]
 - [[Amanita de'Champignon]]

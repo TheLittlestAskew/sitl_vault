@@ -9,7 +9,6 @@ npcs_present: ["Stool", "Turvy", "Eldeth", "Glabbagool"]
 party_level: "Kit & Darby: 4; Others: 3"
 ---
 
-# Session 09 — Adopt-a-Rothe
 
 **Session Date:** 02/01/2026
 **Campaign:** Sky Is The Limit — Out of the Abyss
@@ -47,12 +46,12 @@ Session 9 is a short, exploration-and-discovery-focused session with no combat. 
 
 ## Locations Visited
 
-| Location | Description | Notable Details |
-|---|---|---|
-| Upper Caverns — Alcove | Alcove between two parallel tunnels; stairs descending to southern passage | Starting position; ancient Dwarven Door behind party |
-| Southern Tunnel | Parallel passage going south; labyrinthine continuation | Darby scouted; fungus, gas pockets, fire beetles visible |
-| Fungal Pond / Portal Room | Small shallow pond with unusual fungal growth; skeletal Rothe; flickering portal against wall | Major discovery location; Rothe resurrected; portal investigated; chest opened |
-| Fungal Tunnel (visible) | Drop-off visible from pond room leading to glowing cavernous tunnel | Identified as the fungal tunnel from under the safe house; not entered |
+| Location                   | Description                                                                                   | Notable Details                                                                |
+| -------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [[Upper Caverns]] — Alcove | Alcove between two parallel tunnels; stairs descending to southern passage                    | Starting position; ancient Dwarven Door behind party                           |
+| [[Southern Tunnel]]        | Parallel passage going south; labyrinthine continuation                                       | Darby scouted; fungus, gas pockets, fire beetles visible                       |
+| Fungal Pond / Portal Room  | Small shallow pond with unusual fungal growth; skeletal Rothe; flickering portal against wall | Major discovery location; Rothe resurrected; portal investigated; chest opened |
+| Fungal Tunnel (visible)    | Drop-off visible from pond room leading to glowing cavernous tunnel                           | Identified as the fungal tunnel from under the safe house; not entered         |
 
 ---
 
@@ -171,4 +170,4 @@ Session 9 is a short, exploration-and-discovery-focused session with no combat. 
 - [[Glabbagool]]
 - [[Eldeth]]
 - [[Stool]]
-- [[Session 08 - The Whirlwind and the Depths]]
+- [[Session 08 — The Whirlwind and the Depths]]

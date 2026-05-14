@@ -98,10 +98,10 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 05 — Silvered]]:** Cast Detect Magic on crowbar (confirmed transmutation). Cast Detect Magic on faerzress — failed WIS save (9), d100 roll 81 = short-term madness. Stunned; Binks punched her out of it. Detected mycelial network beneath floor (Investigation 19). Struck floor with mithral pickaxe, revealing tunnel system. Perception 24 examining tunnel openings. Yanked to safety by Kit during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Got stuck in Blarg's web. Freed by Darby. Used Halo of Spores to finish last ooze in Combat 3. Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Cast [[Longstrider]] on [[Darby Stonefeather]] (+10ft movement) and [[Blarg]] — first observed use of this spell. Carried by Darby during the flooding escape. Took 2 bludgeoning damage when Darby kneed her while jumping a gap (athletics 12). Offered mushrooms to the party with characteristic enthusiasm.
-- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Longstrider active on Darby and Blarg from previous session.
-- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Discovered the Fungal Pond. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton. Found Resurrection scroll (7th level) and diamond. Compressed [[Glabbagool]]'s eye and gel into her waterskin. Said the party was "totally derailing the DM's plan."
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Rode Roxanne through. Participated in Myconid Sovereign trial. Used Halo of Spores in combat. Stool used rapport spores to convince Myconid C to stand down. Symbiotic entity form activated for free in the Feydark.
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Deep elven trance — consciousness sank through the mycelial network to commune with Psilofyr directly. Shown four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or Carrion King patron champion. Pipe empowered (upgraded rapport spores: 3/day, 1hr, 30ft → unlimited range on same plane). Warpick empowered (+1 INT, Earth Tremor, Shillelagh). Casual Psilofyr fist-bumped her. Activated rapport spores in zurkhwood tent — connected entire party telepathically. Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "We could take them now. We're so awesome." Entered Nexus Pool portal.
+- **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Longstrider active on Darby and Blarg from previous session.
+- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Discovered the Fungal Pond. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton. Found Resurrection scroll (7th level) and diamond. Compressed [[Glabbagool]]'s eye and gel into her waterskin. Said the party was "totally derailing the DM's plan."
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Rode Roxanne through. Participated in Myconid Sovereign trial. Used Halo of Spores in combat. Stool used rapport spores to convince Myconid C to stand down. Symbiotic entity form activated for free in the Feydark.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Deep elven trance — consciousness sank through the mycelial network to commune with Psilofyr directly. Shown four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or Carrion King patron champion. Pipe empowered (upgraded rapport spores: 3/day, 1hr, 30ft → unlimited range on same plane). Warpick empowered (+1 INT, Earth Tremor, Shillelagh). Casual Psilofyr fist-bumped her. Activated rapport spores in zurkhwood tent — connected entire party telepathically. Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "We could take them now. We're so awesome." Entered Nexus Pool portal.
 
 ## Key Quotes
 
@@ -134,10 +134,10 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[Session 08 - The Whirlwind and the Depths]]
-- [[SITL_09_020126_Adopt_a_Rothe]]
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 08 — The Whirlwind and the Depths]]
+- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

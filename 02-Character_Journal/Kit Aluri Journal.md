@@ -120,47 +120,25 @@ Level three. Whatever that means. I think it means I get to choose how I fight.
 
 Day 7:
 
-  
-
 We hit the water and the water hit back. The pool was deeper than it looked. I went under and came up kicking, spitting waste water that the drow had been dumping their garbage into for who knows how long. Immediately, three problems: Binks could not swim. Aeolus was fading. And Darby had already sunk to the bottom chasing two chests of gear like a woman who had never been told the word ‘no.’
-
-  
 
 I grabbed Binks first. He was flailing like a fish on a dock, all limbs and no technique. I got my arms under his and dragged him to the surface while my legs screamed from carrying two people. Blarg paddled over and between us we kept the gnome’s head above water. Then Binks rolled a natural twenty and suddenly he could swim. Just like that. I do not understand how this world works.
 
-  
-
 Darby breached the surface carrying both chests like they weighed nothing. She stepped onto the shallows and her hands sank into something gray and slick. The thing reared up—a gray ooze, ten feet of it, and I heard something inside my skull: Flesh for the Faceless Lord. My blood went cold.
-
-  
 
 Amanita reached into the thing with her bare hand and hit it with some kind of dark energy. Then she coughed and spores burst from her mouth, surprising her as much as the ooze. She said something like, “Oh my god, I can produce spores. I’m a mushroom.” Seven damage on her first turn as a full-fledged druid and she did not even know she could do it.
 
-  
-
 The ooze hit Amanita back. Hard. Fourteen damage on a critical hit—four bludgeoning and ten acid. She went pale. Blarg swam to her and put his hands on her shoulders and channeled something divine. Twenty-three points of healing in a single touch. I have never seen anything like it. She went from half-dead to standing in the space of a breath.
-
-  
 
 I pulled Darby out of the slime’s reach. Used Adrenaline Rush to dash fifteen feet with her weight on my shoulder. The ooze swung at me and missed. Darby whipped it with her actual whip—nine damage—and it started to lose consistency. Blarg finished it off with a bolt of radiant light. Guiding Bolt. Thirteen damage. The thing just melted.
 
-  
-
 We ran. Two hours through tunnels and passages, fast pace, no looking back. The adrenaline burned off eventually and we found a spot to rest. One point of exhaustion for everyone. Short rest. Hit dice. A moment to breathe.
-
-  
 
 While we rested, Binks talked to Topsy and Turvy in Gnomish. He said Blingdenstone—the deep gnome city—was the safest option, maybe two weeks away. He knows the terrain heading north. But we also remembered something Shuushar had said about his hometown, Sloobludop, on the Darklake. Ten days or less. Closer, but off the path we were taking. The decision was made: north toward Blingdenstone, with the option to divert toward the Darklake if we needed to.
 
-  
-
 Aeolus’s eyes are sharper than mine in the dark. Some warlock ability. He spotted two passages when the rest of us saw one. History checks reminded us: the north passage leads eventually to Menzoberranzan and then to Blingdenstone. The west leads to the Darklake. The south leads toward the duergar city of Gracklstugh. We picked north.
 
-  
-
 We came to a cavern with a stream running through it. Mushrooms—poisonous ones, devil’s mushroom, Amanita called them Timmask—and a colony of fire beetles feeding on them. The beetles glow. We snuck past with Binks’s magic dampening our sound. Every roll was twenty or higher. Then Aeolus spotted something in the wall that none of us would have seen without his vision: a hidden door, five feet high, dwarven engravings. Eldeth spoke a word in Dwarvish and the stone dropped open.
-
-  
 
 A passageway. Possibly shelter. We will see.
 
@@ -441,6 +419,74 @@ I picked up some Goblin while I was out. Do not ask me how. The language was jus
 I did not get a vision. I did not get a trinket that glows. I got a language and a nap and the knowledge that something with the power of a god looked at me and chose to say nothing.
 
 I will take it. I have been saying nothing back to the dark for a long time. At least now we understand each other.
+
+## Session 11 — Gifts of the Carrion King
+
+**
+
+Day ???:
+
+I woke up alone. Again. The Feydark has a way of doing that — peeling people away from each other like bark from a tree and then pretending it is doing you a favor.
+
+Dry moss beneath me. Fog everywhere. No weapons. No armor. Just me in a clearing that smelled like old earth and something sweet I could not name. I sat up and immediately knew something was wrong. Not because of the fog. Because of what was standing in it.
+
+Soldiers. Dead ones. An army of them, pale-skinned and hollow-eyed, arranged in perfect formation around me like a funeral procession that decided I was the guest of honor. They wore armor from no kingdom I recognized and held weapons I could not reach. I counted six in the front rank alone. Behind them, more. Dozens. Maybe hundreds. Silent. Waiting.
+
+I tried anyway. I am not built to lie down.
+
+I went for the nearest one's sword — tried to strip it from his grip. My hands were fast but theirs were faster. The blade caught my forearm on the way out. Three points of damage. Not a killing blow. A reminder. You are not in control here.
+
+I swung with my fists. One, two, three. Missed. Missed. Hit — one point of damage through cold, dead armor. One. I have killed creatures with a single swing of my greatsword and here I was punching a corpse for one point of damage while five of his friends lined up behind him like customers at a butcher shop.
+
+They hit me. All of them. Four connected out of six. Twenty-six points of slashing damage in one round. I was at six hit points and I could feel every one of them draining out of me like water through a cracked cup.
+
+I tried one more thing. One more punch. It connected. It did not matter. They finished me the next round. I went down. My blood hit the moss. The fog closed in.
+
+And then the strangest thing happened. My body tried to do what it always does — that orcish refusal to die, the stubbornness in my blood that drags me back to one hit point when everything says I should be gone. But it did not work. For the first time since I have been alive, Relentless Endurance failed. The magic simply was not there. Whatever controlled this dream had taken it from me.
+
+I made a death save. Natural twenty. My eyes opened for a heartbeat and I saw something impossible. The doll — the little wooden soldier I have been carrying since before the prison, the trinket I hid from the drow guards on our first day — was climbing out of my pocket. It grew. Wooden limbs stretched and creaked until it was the size of a person, standing over me with a face I recognized. Not a face I wanted to recognize. The face of someone I hurt. Someone I killed, maybe, in a life I do not talk about.
+
+The doll smiled at me. Not angry. Not vengeful. Something worse. Forgiving.
+
+I do not deserve forgiveness from the dead. I know what I did before the prison. I know the things I carried into that cell that have nothing to do with drow or spiders or the Underdark. And here was this — this thing, this gift, this reminder — telling me that maybe I did not do enough to overcome the bad things, but I am not defined by them either.
+
+The soldiers dissolved. The fog cleared. I woke up on moss again, this time with a carved doll in my hand that was warm to the touch.
+
+Plus one charisma, they tell me. I do not know what charisma has to do with guilt, but I will take it.
+
+Later — after I stopped shaking — Darby was standing over me. She had been watching me sleep, apparently, which is exactly the kind of sweet, terrifying thing Darby does. I punched her in the shin on instinct. She barely noticed.
+
+Binks found me. Led me to a tent where Turvy was sitting with someone wrapped in mycelial fibers. Someone small. Someone breathing.
+
+Topsy.
+
+I do not have words for what happened next. I know I fell to my knees. I know I cried. I know it was the ugliest, most undignified thing I have done in this campaign and I did not care. The person I killed — the gnome whose neck I snapped with a crowbar in a dark room because she could not control what the magic was doing to her — was alive. Breathing. Weak. Looking at me with an expression that was part confusion and part something I refuse to name because if I call it forgiveness I will start crying again.
+
+Binks — the gnome who told me not to kill her, who was right, who has been right about more things than I have given him credit for — Binks had already made her a salve. Medicine check of twenty-four. He was already taking care of her before I even got there.
+
+The Carrion King brought her back. Retrieved her body from the sealed safe house and wove her into the mycelial network until she was alive again. I do not understand how. I do not understand why. But she is here and she is breathing and I am sitting in a tent in the Feydark with tears on my face and a wooden soldier in my pocket and no idea what to do with any of it.
+
+Amanita came in later and hotboxed the tent with her rapport spores. Suddenly I could hear everyone. Not words — thoughts. Feelings. The whole party, connected through a telepathic fungal network with unlimited range on the same plane. Three times a day, one hour each. Amanita called it being psychic. It is the most useful and most unsettling thing she has done yet.
+
+The archfey — Psilofyr, the Carrion King — led us to a glade of autumn trees with pools of water arranged in a circle. Seven pools. Seven destinations. Each one showed a place in its reflection: Blingdenstone, Neverlight Grove, Mantol-Derith, Sloobludop, the surface, Gauntlgrym, and Velkynvelve.
+
+Before we chose, Psilofyr gave us something. Fey Touched. All of us. Burning roots wrapped around our arms, sinking into the skin, and suddenly I could feel — something. A connection to the fey, to the magic of this place, a door that was not there before. Misty Step. A first-level spell I have not chosen yet. These are things fighters should not have, but here we are.
+
+Eldeth left. Walked up to the Gauntlgrym pool, turned back to us, and said she would bring help. Warn the dwarven kings. Send reinforcements. She looked at me when she said it and I believed her. Then she stepped through the water and was gone.
+
+We argued. Binks wanted Velkynvelve. Amanita thought we could take the drow now. I said familiarity would be nice but I was not going to pretend it was practical. In the end, the party voted and Velkynvelve won. The place where they caged us. The place where I killed my first spider and broke my first shackle and said "come get your shit" to a room full of people who had no reason to trust me.
+
+We are going back.
+
+The DM rolled a die to see when we arrive. Ten. Post-demon battle. The outpost is still standing. Still defended. But the drow took losses from whatever came through those portals — the same vrock and chasmes that helped us escape. They will be hurt. They will be angry. They will be ready for anything except six people who escaped their prison walking back through the front door.
+
+Roxanne looks different now. Her body has changed — part rothe, part fungal, with zurkhwood saddles growing out of her sides where the chest used to be. Half the party can ride. She is not a beast of burden anymore. She is something new. Something the Feydark made.
+
+We stepped through the portal. All of us. Kit and Binks and Aeolus and Blarg and Amanita and Darby and Turvy and Topsy and Stool and Roxanne and Glabbagool-in-a-bottle. A party of ten, level four, Fey Touched, carrying weapons that glow and dolls that forgive and a ring that holds the essence of a dying god.
+
+I said we would not split the party. I meant it. I said we would settle a score. I meant that too.
+
+Velkynvelve. Come get your shit. Again.
 
 ---
 

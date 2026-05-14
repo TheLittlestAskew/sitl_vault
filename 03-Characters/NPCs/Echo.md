@@ -4,7 +4,7 @@ race: Raven (Fae familiar / Archfey emissary)
 class: N/A
 affiliation: Aeolus's Archfey Patron
 status: Alive
-first_appearance: "[[SITL_10_021526_Echoes_in_the_Feydark]]"
+first_appearance: "[[Session 10 — 021526_Echoes_in_the_Feydark]]"
 location: The Feydark (last seen S11)
 ---
 
@@ -27,8 +27,8 @@ Cryptic, confident, amused. Taunts Aeolus about the desire to kill him ("Good lu
 
 ## Key Events
 
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Appeared in the Feydark while Aeolus/Blarg/Amanita rode Roxanne. Landed and spoke. Explained: they are in the Feydark, realm of [[Psilofyr]] (the Carrion King). Told Aeolus he was "meant to be here, but not yet." Departed before the trial. Last seen: landed on Aeolus's chest as he fell asleep — "Good job not dying."
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Appeared during Aeolus's dream/vision with [[Naos]]. After Naos dissolved into the Ring of Spell Storing, Echo landed and pecked at the ring: "So dramatic. What a romantic. Will he never learn?"
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Appeared in the Feydark while Aeolus/Blarg/Amanita rode Roxanne. Landed and spoke. Explained: they are in the Feydark, realm of [[Psilofyr]] (the Carrion King). Told Aeolus he was "meant to be here, but not yet." Departed before the trial. Last seen: landed on Aeolus's chest as he fell asleep — "Good job not dying."
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Appeared during Aeolus's dream/vision with [[Naos]]. After Naos dissolved into the Ring of Spell Storing, Echo landed and pecked at the ring: "So dramatic. What a romantic. Will he never learn?"
 
 ## Key Quotes
 
@@ -46,8 +46,8 @@ Cryptic, confident, amused. Taunts Aeolus about the desire to kill him ("Good lu
 
 ## Related
 
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Aeolus]]
 - [[Naos]]
 - [[Psilofyr]]

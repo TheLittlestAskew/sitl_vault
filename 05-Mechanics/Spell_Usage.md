@@ -8,7 +8,7 @@ sessions_covered: 1-8
 
 > [!info] Data Source
 > Derived from `ddb_roll_archive.xlsx` (Sky Is The Limit sheet), cross-referenced with transcripts.
-> Last updated after [[Session 08 - The Whirlwind and the Depths|Session 08]].
+> Last updated after [[Session 08 — The Whirlwind and the Depths|Session 08]].
 
 ---
 
@@ -16,8 +16,8 @@ sessions_covered: 1-8
 
 | Spell | Caster(s) | Times Cast | First Used | Last Used | Notes |
 |---|---|---|---|---|---|
-| Guiding Bolt | [[Binks Stonevein]] | 11 | [[Session 03 — Into the Dark\|S03]] | [[Session 08 - The Whirlwind and the Depths\|S08]] | Binks's signature damage spell. Used in S03 (gray ooze), S06 (ooze encounters), S08 (black pudding). |
-| Poison Spray | [[Amanita de'Champignon]], [[Blarg]] | 8 | [[Session 01 — Prisoners of the Underdark\|S01]] | [[Session 08 - The Whirlwind and the Depths\|S08]] | Blarg used vs giant spider (S01). Amanita used vs Black Pudding (S08). |
+| Guiding Bolt | [[Binks Stonevein]] | 11 | [[Session 03 — Into the Dark\|S03]] | [[Session 08 — The Whirlwind and the Depths\|S08]] | Binks's signature damage spell. Used in S03 (gray ooze), S06 (ooze encounters), S08 (black pudding). |
+| Poison Spray | [[Amanita de'Champignon]], [[Blarg]] | 8 | [[Session 01 — Prisoners of the Underdark\|S01]] | [[Session 08 — The Whirlwind and the Depths\|S08]] | Blarg used vs giant spider (S01). Amanita used vs Black Pudding (S08). |
 | Starry Wisp | [[Blarg]] | 7 | [[Session 03 — Into the Dark\|S03]] | [[Session 06 — The Long Way Down\|S06]] | Blarg's ranged cantrip option. |
 | Eldritch Blast | [[Aeolus]] | 6 | [[Session 01 — Prisoners of the Underdark\|S01]] | [[Session 06 — The Long Way Down\|S06]] | Aeolus's primary damage cantrip. |
 | Halo of Spores | [[Amanita de'Champignon]] | 4 | [[Session 03 — Into the Dark\|S03]] | [[Session 06 — The Long Way Down\|S06]] | First discovered during S03 gray ooze combat. Reaction ability. |
@@ -30,7 +30,7 @@ sessions_covered: 1-8
 | Healing Word | [[Binks Stonevein]] | 1 | [[Session 05 — Silvered\|S05]] | [[Session 05 — Silvered\|S05]] | Bonus action heal. |
 | Moonbeam | [[Blarg]] | 1 | [[Session 06 — The Long Way Down\|S06]] | [[Session 06 — The Long Way Down\|S06]] | Concentration spell. Used in ooze encounters. |
 | Shillelagh | [[Amanita de'Champignon]] | 1 | [[Session 06 — The Long Way Down\|S06]] | [[Session 06 — The Long Way Down\|S06]] | Bonus action weapon buff. |
-| Engulf | DM (creature ability) | 1 | [[Session 08 - The Whirlwind and the Depths\|S08]] | [[Session 08 - The Whirlwind and the Depths\|S08]] | Black Pudding ability. |
+| Engulf | DM (creature ability) | 1 | [[Session 08 — The Whirlwind and the Depths\|S08]] | [[Session 08 — The Whirlwind and the Depths\|S08]] | Black Pudding ability. |
 
 ---
 
@@ -39,10 +39,10 @@ sessions_covered: 1-8
 | Feature | User | Times Used | First Used | Notes |
 |---|---|---|---|---|
 | Tactical Mind (superiority die on ability check) | [[Kit Aluri]] | 2 | [[Session 02 — Come Get Your Shit\|S02]] | First use: breaking Binks's shackles (STR 18 + d6 = 22). |
-| Trip Attack (superiority die, maneuver) | [[Kit Aluri]] | 1 | [[Session 08 - The Whirlwind and the Depths\|S08]] | Knocked Black Pudding prone. |
+| Trip Attack (superiority die, maneuver) | [[Kit Aluri]] | 1 | [[Session 08 — The Whirlwind and the Depths\|S08]] | Knocked Black Pudding prone. |
 | Divine Spark | [[Binks Stonevein]], [[Blarg]] | Multiple (transcript) | [[Session 03 — Into the Dark\|S03]] | Logged as healing in DDB; not always distinguishable from Cure Wounds in archive. Blarg: 7 HP to Aeolus (S03). |
 | Stone's Endurance | [[Darby Stonefeather]] | 1 | [[Session 06 — The Long Way Down\|S06]] | Goliath reaction to reduce damage. |
-| Relentless Endurance | [[Kit Aluri]] | 1 (transcript) | [[Session 08 - The Whirlwind and the Depths\|S08]] | Orc trait. Dropped to 0 HP, returned to 1. Not logged in DDB archive. |
+| Relentless Endurance | [[Kit Aluri]] | 1 (transcript) | [[Session 08 — The Whirlwind and the Depths\|S08]] | Orc trait. Dropped to 0 HP, returned to 1. Not logged in DDB archive. |
 | Adrenaline Rush | [[Kit Aluri]] | Multiple (transcript) | [[Session 02 — Come Get Your Shit\|S02]] | Orc trait. Bonus action dash. Used S02, S03, S07. Not logged in DDB archive. |
 | Wild Shape (Giant Spider) | [[Blarg]] | Multiple (transcript) | S02 | Circle of the Moon. Used for climbing/traversal. Not logged in DDB. |
 | Pass Without Trace | [[Binks Stonevein]] | Multiple (transcript) | [[Session 03 — Into the Dark\|S03]] | +10 stealth to party. Not logged as a roll in DDB. |

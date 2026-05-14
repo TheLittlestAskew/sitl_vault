@@ -58,22 +58,22 @@
 
 ## Sessions
 
-| #   | Date       | Title                         | Notes                                          |
-| --- | ---------- | ----------------------------- | ---------------------------------------------- |
-| 01  | 10/12/2025 | Prisoners of the Underdark    | [[Session 01 — Prisoners of the Underdark]]    |
-| 02  | 10/26/2025 | "Come Get Your Shit"          | [[Session 02 — Come Get Your Shit]]            |
-| 03  | 11/09/2025 | Into the Dark                 | [[Session 03 — Into the Dark]]                 |
-| 04  | 11/23/2025 | Life Isn't Faer-zress         | [[Session 04 — Life Isn't Faer-zress]]         |
-| 05  | 12/07/2025 | Silvered                      | [[Session 05 — Silvered]]                      |
-| 06  | 12/21/2025 | The Long Way Down             | [[Session 06 — The Long Way Down]]             |
-| 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]] |
-| 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 - The Whirlwind and the Depths]] |
-| 09  | 02/01/2026 | Adopt-a-Rothe                 | [[SITL_09_020126_Adopt_a_Rothe]]               |
-| 10  | 02/15/2026 | Through the Fungal Gate       | [[SITL_10_021526_Through_the_Fungal_Gate]]     |
-| 11  | 03/01/2026 | Gifts of the Carrion King     | [[SITL_11_030126_Gifts_of_the_Carrion_King]]   |
-| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12]]                                 |
-| 13  | 04/11/2026 | —                             | [[Session 13]]                                 |
-| 14  | 04/12/2026 | —                             | [[Session 14]]                                 |
+| #   | Date       | Title                         | Notes                                              |
+| --- | ---------- | ----------------------------- | -------------------------------------------------- |
+| 01  | 10/12/2025 | Prisoners of the Underdark    | [[Session 01 — Prisoners of the Underdark]]        |
+| 02  | 10/26/2025 | "Come Get Your Shit"          | [[Session 02 — Come Get Your Shit]]                |
+| 03  | 11/09/2025 | Into the Dark                 | [[Session 03 — Into the Dark]]                     |
+| 04  | 11/23/2025 | Life Isn't Faer-zress         | [[Session 04 — Life Isn't Faer-zress]]             |
+| 05  | 12/07/2025 | Silvered                      | [[Session 05 — Silvered]]                          |
+| 06  | 12/21/2025 | The Long Way Down             | [[Session 06 — The Long Way Down]]                 |
+| 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]]     |
+| 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 — The Whirlwind and the Depths]]      |
+| 09  | 02/01/2026 | Adopt-a-Rothe                 | [[Session 09 —  Every Party Needs A “Little Guy”]] |
+| 10  | 02/15/2026 | Through the Fungal Gate       | [[Session 10 — 021526_Echoes_in_the_Feydark]]      |
+| 11  | 03/01/2026 | Gifts of the Carrion King     | [[Session 11 — Gifts_of_the_Carrion_King]]         |
+| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12]]                                     |
+| 13  | 04/11/2026 | —                             | [[Session 13]]                                     |
+| 14  | 04/12/2026 | —                             | [[Session 14]]                                     |
 
 ---
 

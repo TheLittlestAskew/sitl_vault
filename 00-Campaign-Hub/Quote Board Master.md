@@ -47,7 +47,7 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
-## Session 02 — Come Get Your Shit
+## Session 02 — "Come Get Your Shit"
 
 **[[Kit Aluri]] · [Funny/Action]**
 "Come get your shit."
@@ -425,6 +425,88 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 **[[Aeolus]] · [Serious]**
 "It would be disrespectful to like do a multi class now."
+
+
+## Session 11 — Gifts of the Carrion King
+
+**[[Kit Aluri]] · [Serious]** "This is Kit's absolute nightmare."
+
+**[[Kit Aluri]] · [Poignant]** "Okay, well, you know what? Maybe I didn't do enough to overcome some of the bad things I did."
+
+**[[Kit Aluri]] · [Funny]** "Damn. Okay."
+
+**[[Kit Aluri]] · [Serious]** "No, no. Absolutely not. This kid is so far from okay."
+
+**[[Kit Aluri]] · [Poignant]** "Are you sure we're not dead?"
+
+**[[Kit Aluri]] · [Serious]** "Familiarity would be very nice right now, but I also recognize that that's not practical."
+
+**[[Kit Aluri]] · [Funny]** "We're not splitting the party. Don't even say those words."
+
+**[[Aeolus]] · [Poignant]** "I guess I have no idea how I'm feeling. I'm really confused, let's say."
+
+**Naos (Addison) · [Poignant]** "I never wanted to leave you. It was one of the hardest things that I've ever done in all the time that I've been alive."
+
+**Naos (Addison) · [Serious/Important]** "If any part of me remains after all of this is through, I would love to spend the rest of it with you. If you'll have me."
+
+**[[Echo]] (Addison) · [DM Quip]** "So dramatic. What a romantic. Will he never learn?"
+
+**[[Blarg]] · [Banter]** "I mean, I guess it's the smell. You can usually tell by the smell."
+
+**Chris (Addison) · [Poignant]** "This will help you. Not just not like us, but be more like us when it is necessary."
+
+**[[Amanita de'Champignon]] · [Funny]** "Oh, yeah, man, I feel great. This is what I always wanted. Like, am I gonna get to join the Network now?"
+
+**[[Psilofyr]] (Addison) · [Funny/Serious]** "You're right. You're right, dude. It's a super bummer."
+
+**[[Amanita de'Champignon]] · [Funny/Defining]** "I haven't thought about it much. I just kind of went with it... Yeah, I'll go. I'll go do some shit with my friends."
+
+**[[Psilofyr]] (Addison) · [Funny]** "Yeah, man, I love that about you. I love it. You're going to kick some ass. I can't wait to see all the ass that you kick. It's gonna be sweet."
+
+**[[Binks Stonevein]] · [Funny]** "Woke up and Binks, like, opened his eyes, decided that this must be the afterlife, and then closed back his eyes and just waited until someone picked him up."
+
+**Binks's Grandfather (Addison) · [Serious]** "A wise Goliath once told me that your strength comes from your friends."
+
+**[[Binks Stonevein]] · [Poignant]** "I'm still trying to figure out if we're dead."
+
+**[[Binks Stonevein]] · [Poignant]** "I was struggling with her death, so I knew you probably did, too."
+
+**Topsy (Addison) · [Funny]** "Oh, hey, hey, Kit. What? I feel like absolute garbage, but you look worse than I did. Are you okay?"
+
+**[[Darby Stonefeather]] · [Funny]** "Did you go for a swimming?"
+
+**[[Amanita de'Champignon]] · [Funny]** "Guys, I am psychic."
+
+**[[Binks Stonevein]] · [Funny]** "Well, personally, I want to settle a score with some drow."
+
+**[[Amanita de'Champignon]] · [Funny]** "Yeah, man, I bet, like, we could take them now. We're so awesome."
+
+**[[Binks Stonevein]] · [Funny]** "Okay, so no fast travel points. Got it."
+
+**[[Psilofyr]] (Addison) · [DM Quip]** "I could tell you how, but I won't."
+
+**Addison (DM) · [DM Quip]** "I was not expecting you guys to want to go back to Velkynvelve."
+
+**Addison (DM) · [DM Quip]** "Or you all die. Who knows?"
+
+**[[Kit Aluri]] · [Funny]** "You wake up on moss. Okay, great. And then everything goes down from there immediately."
+
+**Addison (DM) · [DM Quip]** "I swear this wasn't intentional. You become kind of my punching bag."
+
+
+# Quote Board Master
+
+Verbatim quotes across all sessions. Tagged by character and type.
+
+---
+
+
+
+---
+
+## Related
+
+[[Campaign Dashboard]]
 
 ---
 

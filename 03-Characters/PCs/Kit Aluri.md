@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: The Feydark — Cliffside Clearing (as of S10)
+location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 ---
 
 # Images
@@ -55,6 +55,7 @@ location: The Feydark — Cliffside Clearing (as of S10)
 - S06: Evolving into a conditional diplomat — negotiated terms with Turvy rather than simply threatening. Still pragmatic, but capable of giving people a chance.
 - S07: First explicit tactical command in crisis. Distributed rope, called out instructions "with authority and confidence." Soldier instincts resurfacing — not rage, but calm, trained leadership.
 - S09: Continued moral evolution — explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe, revealing lingering guilt and a shift from the person who killed Topsy without hesitation in S04. Blarg's "quite the 180" comment underscores visible character growth.
+- S11: Kit's nightmare revealed deep guilt about her pre-campaign military past. She accepted death as "karma." Her breakdown over Topsy's resurrection is the most emotionally vulnerable she has ever been — processing trauma in real time.
 - S10: When the Feydark fog separated the party, Kit defaulted to warrior meditation — closed eyes, drew sword, entered a defensive stance. Chose vigilance over vulnerability. The only PC who did not receive comfort, guidance, or an empowered trinket from Psilofyr's realm. Kit's response to the absence was characteristically stoic: she waited, listened, and did not complain. In combat, delivered the killing blow on the Myconid Sovereign by leaping off bear-Blarg's back — the most cinematic combat moment of the campaign. Picked Goblin as her new language at level-up, and was immediately glad she did when fae goblins arrived.
 
 ## Abilities & Class Features
@@ -77,12 +78,13 @@ location: The Feydark — Cliffside Clearing (as of S10)
 | Item | Session Acquired | Status |
 |---|---|---|
 | Flawed Carnelian Gemstone (~10 gp) | S01 (scavenging, dirty 20) | Carried; hidden on person |
-| Small trinket (type TBD) | S01 (sleight of hand 22 to retain) | Carried — **not yet empowered** (DM teased all trinkets will be empowered in Feydark, S10) |
+| Doll of the Fallen Soldier (was small trinket) | S01 (retained, SoH 22) / S11 (empowered) | **Growth item.** +1 CHA. On failed death save: doll animates, disadvantage on attacks vs Kit or chosen ally, carries target from danger. Homebrew. |
 | Greatsword | S02 (armory rack) | Equipped — first weapon swing of campaign |
 | Full starting gear + dungeoneer's pack | S02 (armory recovery) | Equipped |
 | Silvered Crowbar | Pre-campaign | **Iconic item.** Tip spontaneously silvered during/before killing Topsy (S04). Transmutation magic confirmed by Amanita (Arcana 16, S05). Kit confirmed via History 17 it was NOT silver before. Source of silvering unknown. |
 | D4 (2) trinket table items | S02 (barracks morning scavenge) | TBD — DM to roll |
 | Rope (50ft) | Pre-campaign (standard gear) | Distributed as safety line during S07 flooding escape |
+| Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + 1st-level spell TBD |
 | Armor (acid-damaged) | S02 (armory recovery) | **Degraded -1 AC (S08).** Permanent acid damage from Black Pudding. Accumulates per hit; destroyed at AC 10. |
 
 ## Relationships
@@ -96,9 +98,9 @@ location: The Feydark — Cliffside Clearing (as of S10)
 - **[[Aeolus]]:** Trusts Aeolus to stay awake on watch.
 - **[[Amanita de'Champignon]]:** Caught Amanita when she fell into pit trap (S06). Protective.
 - **[[Glabbagool]]:** Cautiously receptive to its help (S07). Witnessed Glabbagool's selfless sacrifice blocking the floodwater (S08).
-- **[[Topsy]]:** Kit killed Topsy in self-defense during involuntary wererat attack (S04). By S09, Kit explicitly advocates for Topsy's resurrection — a significant moral shift. Body is sealed in the rebuilt safe house and currently inaccessible.
+- **[[Topsy]]:** Kit killed Topsy (S04). Advocated for resurrection (S09). In S11, the Carrion King resurrected Topsy. Kit fell to her knees sobbing — the emotional climax of the campaign. Guilt processing ongoing.
 - **[[Blarg]]:** Trusted ally. In S10, Kit used bear-Blarg as a launching platform to kill the Myconid Sovereign — first coordinated PC-to-PC combat move in the campaign.
-- **[[Psilofyr]]:** No direct interaction. Kit was the only PC who received nothing from Psilofyr — no vision, no empowered trinket, no guidance. Psilofyr may have different plans for her.
+- **[[Psilofyr]]:** Kit's isolation continues. S10: no vision or trinket. S11: "gift" came through a scripted nightmare she could not win. Psilofyr granted Fey Touched alongside the party but never spoke to Kit individually.
 
 ## Key Events
 
@@ -109,9 +111,10 @@ location: The Feydark — Cliffside Clearing (as of S10)
 - **[[Session 05 — Silvered]]:** Discovered crowbar tip is silvered (transmutation magic, source unknown). Led the Turvy debate from the kill-him side. Delivered defining speech to Turvy. Investigated tunnel system. Yanked Amanita to safety during floor collapse.
 - **[[Session 06 — The Long Way Down]]:** Descended shaft to rescue Binks (athletics 24 — clean descent). Caught Blarg during his slip (with Darby). Negotiated conditional terms with Turvy: party first, no tolerance for losing control. Initiated tactical command during rescue operation. Combat 3: nat 20 initiative (23). Slashed ooze A for 13 damage, noticed ooze remains reforming into statue (perception 16). Slashed ooze B for 11 (Savage Attacker reroll). Took 9 acid damage from ooze (-1 AC). Caught Amanita when she fell into flagstone pit trap. Dragged Darby and Amanita forward when Darby couldn't see in the dark.
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Adrenaline Rush for triple movement to scout lower tunnel (impassable). **First explicit tactical command in crisis** — distributed rope as safety line, moved through party giving instructions with calm authority. Athletics 16 to climb over party (succeeded, but Darby failed support check — Kit fell back). Squeezed through friendly spaces instead. Session ended with Kit holding the rope line, party trapped between [[Black Pudding]] and [[Glabbagool]].
-- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
-- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Centralized herself in a near-meditative listening stance — Perception 21 (19 adjusted), confirmed area safe. History nat 20 (18 adjusted) on rothe lore: descended from surface bovines, brought underground by the drow. Explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe ("There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy"). Body inaccessible in the sealed safe house, so party chose the rothe. Significant character development moment — Blarg noted the "180" from the person who killed Topsy in S04.
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Spooked [[Roxanne]] with failed animal handling (5). Dodged charging rothe (Dex save 12). Sensed insectoid creature ambush at portal — screamed "Go now!" as party fled through. Separated from party in Feydark fog; entered warrior meditation (closed eyes, drew greatsword, defensive stance). **Only PC who did not receive a vision, comfort, or empowered trinket.** Perception 9 (11-2) during meditation — heard water, leaves, gliding sounds but no danger. In combat: hit Myconid A for 10 damage, received free Riposte from DM when Myconid A rolled nat 1 (9 damage), used Savage Attacker to reroll damage to exactly 12 (killed Myconid A). **Killed the Myconid Sovereign** — leaped off bear-Blarg's back, greatsword + Trip Attack for 13 damage, landed in superhero pose. Most cinematic kill of the campaign. Insight 13 on fae goblins — determined not hostile. Learned Goblin as new language at level-up. Kit understands Goblin, which became immediately relevant when fae goblins arrived.
+- **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
+- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Centralized herself in a near-meditative listening stance — Perception 21 (19 adjusted), confirmed area safe. History nat 20 (18 adjusted) on rothe lore: descended from surface bovines, brought underground by the drow. Explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe ("There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy"). Body inaccessible in the sealed safe house, so party chose the rothe. Significant character development moment — Blarg noted the "180" from the person who killed Topsy in S04.
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Spooked [[Roxanne]] with failed animal handling (5). Dodged charging rothe (Dex save 12). Sensed insectoid creature ambush at portal — screamed "Go now!" as party fled through. Separated from party in Feydark fog; entered warrior meditation (closed eyes, drew greatsword, defensive stance). **Only PC who did not receive a vision, comfort, or empowered trinket.** Perception 9 (11-2) during meditation — heard water, leaves, gliding sounds but no danger. In combat: hit Myconid A for 10 damage, received free Riposte from DM when Myconid A rolled nat 1 (9 damage), used Savage Attacker to reroll damage to exactly 12 (killed Myconid A). **Killed the Myconid Sovereign** — leaped off bear-Blarg's back, greatsword + Trip Attack for 13 damage, landed in superhero pose. Most cinematic kill of the campaign. Insight 13 on fae goblins — determined not hostile. Learned Goblin as new language at level-up. Kit understands Goblin, which became immediately relevant when fae goblins arrived.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Experienced a scripted, unwinnable nightmare — surrounded by undead soldiers, weaponless. Used Tactical Mind (+5 to Dex contest, still failed vs 17), Riposte (hit for 1 damage), multiple unarmed strikes. Six soldiers dealt 26 slashing. Reduced to 0 HP; **Relentless Endurance did NOT trigger** (dream suppression). Death save **nat 20** — Doll of the Fallen Soldier animated, grew to medium size, smiled down at Kit. Kit accepted the nightmare as karma. Received **Doll of the Fallen Soldier** (+1 CHA, death save protection, growth item). Saw Topsy alive (resurrected by Carrion King) — fell to knees sobbing, first open emotional breakdown. Punched Darby in the shin on instinct when Darby stood over her sleeping. Received **Fey Touched** feat from Psilofyr. Voted with majority for Velkynvelve. Entered Nexus Pool portal.
 
 ## Key Quotes
 
@@ -135,6 +138,12 @@ location: The Feydark — Cliffside Clearing (as of S10)
 - "We just want to get consent, you know." — S10, re: riding Roxanne [Serious]
 - "Hey, is this guy edible?" — S10, after killing Myconid Sovereign [Funny]
 - "I'm suddenly glad I picked Goblin." — S10, when fae goblins arrived [Funny]
+- "Damn. Okay." — S11, first words of the session [Funny]
+- "Maybe I didn't do enough to overcome some of the bad things I did." — S11, nightmare [Poignant]
+- "This kid is so far from okay." — S11, re: herself [Serious]
+- "Are you sure we're not dead?" — S11, to Binks [Poignant]
+- "We're not splitting the party." — S11 [Funny]
+- "You wake up on moss. Okay, great. And then everything goes down from there immediately." — S11 [Funny]
 
 ## POV Journal
 
@@ -151,9 +160,10 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[Session 08 - The Whirlwind and the Depths]]
-- [[SITL_09_020126_Adopt_a_Rothe]]
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[Session 08 — The Whirlwind and the Depths]]
+- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[04-World-Lore/Locations/The Feydark]]
 - [[Oozing Temple]]

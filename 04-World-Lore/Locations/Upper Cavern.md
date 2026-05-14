@@ -2,7 +2,7 @@
 type: location
 region: Underdark (beneath Dwarvish safe house network)
 status: Visited
-first_appearance: "[[Session 08 - The Whirlwind and the Depths]]"
+first_appearance: "[[Session 08 — The Whirlwind and the Depths]]"
 ---
 
 # Upper Cavern (NE Exit)
@@ -20,7 +20,7 @@ A dry cavern chamber connected to the ancient Dwarvish safe house network. The p
 
 ## Campaign Events
 
-### [[Session 08 - The Whirlwind and the Depths|Session 08]]
+### [[Session 08 — The Whirlwind and the Depths|Session 08]]
 - Party emerged through sealed Dwarvish door after defeating [[Black Pudding]] and [[Gray Ooze]] in flooded tunnels below
 - Short rest taken here (~1 hour)
 - [[Kit Aluri]] and [[Darby Stonefeather]] leveled up to 4
@@ -31,6 +31,6 @@ A dry cavern chamber connected to the ancient Dwarvish safe house network. The p
 
 ## Related
 
-- [[Session 08 - The Whirlwind and the Depths]]
+- [[Session 08 — The Whirlwind and the Depths]]
 - [[Oozing Temple]]
 - [[Campaign Dashboard]]

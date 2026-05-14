@@ -9,7 +9,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 
 # Topsy
 
-Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of [[Turvy]]. Killed by [[Kit Aluri]] during an involuntary lycanthropic transformation in [[Session 04 — Life Isn't Faer-zress]]. **Resurrected by the Carrion King ([[Psilofyr]]) in [[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]** via mycelial fibers. Currently alive but weak.
+Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of [[Turvy]]. Killed by [[Kit Aluri]] during an involuntary lycanthropic transformation in [[Session 04 — Life Isn't Faer-zress]]. **Resurrected by the Carrion King ([[Psilofyr]]) in [[Session 11 — Gifts_of_the_Carrion_King|Session 11]]** via mycelial fibers. Currently alive but weak.
 
 ## Description / Appearance
 
@@ -44,7 +44,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - **[[Session 01 — Prisoners of the Underdark]]:** Introduced as one of two deep gnome twins. Kept Aeolus company. Played pranks on guards.
 - **[[Session 02 — Come Get Your Shit]]:** Off shift when chaos erupted. Attacked a drow with [[Turvy]] during escape. Nearly knocked off the rope bridge (barely passed DEX save after drow nat 20 attack). [[Derendil]] leapt to help. Escaped into pool.
 - **[[Session 04 — Life Isn't Faer-zress]]:** Involuntarily transformed into wererat during first watch due to corrupted faerzress. Attacked party. Bit [[Kit Aluri]]. Kit killed Topsy with her crowbar. Body covered with blanket.
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Resurrected by the Carrion King. Found in zurkhwood tent wrapped in mycelial fibers. Binks made healing salve (medicine 24). Topsy spoke to Kit — "Oh, hey, hey, Kit. What? I feel like absolute garbage, but you look worse than I did." Kit fell to her knees sobbing upon seeing Topsy alive. Traveling with party through Velkynvelve portal.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Resurrected by the Carrion King. Found in zurkhwood tent wrapped in mycelial fibers. Binks made healing salve (medicine 24). Topsy spoke to Kit — "Oh, hey, hey, Kit. What? I feel like absolute garbage, but you look worse than I did." Kit fell to her knees sobbing upon seeing Topsy alive. Traveling with party through Velkynvelve portal.
 
 ## Key Quotes
 
@@ -68,7 +68,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 04 — Life Isn't Faer-zress]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Aeolus]]
 - [[04-World-Lore/Locations/Blingdenstone]]

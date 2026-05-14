@@ -1,7 +1,7 @@
 ---
 type: plant
 classification: Fungus / Lichen
-first_appearance: "[[SITL_10_021526_Echoes_in_the_Feydark]]"
+first_appearance: "[[Session 10 — 021526_Echoes_in_the_Feydark]]"
 location: The Feydark
 ---
 
@@ -39,6 +39,6 @@ The Feydark portal in the Fungal Pond was described as "connected to the fungal 
 - [[Psilofyr]]
 - [[Stool]]
 - [[Amanita de'Champignon]]
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Rapport Spores]]
 #plant #fungi #feydark

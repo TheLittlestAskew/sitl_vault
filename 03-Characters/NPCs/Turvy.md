@@ -60,7 +60,7 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 ### [[Session 06 — The Long Way Down]]
 - Arranged Topsy's body. Pledged to Kit: party first. Shifted to rat form for scouting. Grabbed by ooze.
 
-### [[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]
+### [[Session 11 — Gifts_of_the_Carrion_King|Session 11]]
 - Led [[Binks Stonevein]] to the zurkhwood tent where Topsy lay alive. Overjoyed at her resurrection. Speaking Gnomish to her. Traveling with party through Velkynvelve portal.
 
 ## Key Quotes
@@ -77,7 +77,7 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Kit Aluri]]
 - [[Blarg]]
 - [[Binks Stonevein]]

@@ -36,7 +36,7 @@ The Feydark creates personalized visions for visitors — deceased family member
 
 ## Campaign Events
 
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Party entered via portal from Fungal Pond. Experienced personalized visions (all except Kit). Echo appeared and explained the realm. Myconid Sovereign trial — party defeated Sovereign. [[Psilofyr]] spoke telepathically and forced party unconscious for long rest. All PCs leveled to 4. Trinkets began empowering (Darby's carving, Binks's loot pick). Fae goblins arrived as allies.
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Party entered via portal from Fungal Pond. Experienced personalized visions (all except Kit). Echo appeared and explained the realm. Myconid Sovereign trial — party defeated Sovereign. [[Psilofyr]] spoke telepathically and forced party unconscious for long rest. All PCs leveled to 4. Trinkets began empowering (Darby's carving, Binks's loot pick). Fae goblins arrived as allies.
 - Portal used by party to exit toward [[04-World-Lore/Locations/Velkynvelve]] western passage (S11+).
 - Time displacement confirmed — party experienced ~2 days but only ~1 hour passed in Underdark.
 
@@ -50,6 +50,6 @@ The Feydark creates personalized visions for visitors — deceased family member
 - [[Aeolus]]
 - [[Amanita de'Champignon]]
 - [[Roxanne]]
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Campaign Dashboard]]
 #location #feydark #archfey

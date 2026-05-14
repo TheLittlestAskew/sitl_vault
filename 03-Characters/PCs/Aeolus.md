@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Fungal Pond / Portal Room (as of S09)
+location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 ---
 
 # Aeolus
@@ -14,7 +14,7 @@ location: Fungal Pond / Portal Room (as of S09)
 > **Player:** Sirius (SiriusTheStar)
 > **Race:** Tiefling
 > **Class:** Warlock (Archfey Patron)
-> **Level:** 3 (as of S02)
+> **Level:** 4 (as of S10)
 > **Background:** Noble
 > **DDB userId:** 118690437
 > Character Sheet: [[Aeolus.pdf]]
@@ -55,7 +55,9 @@ location: Fungal Pond / Portal Room (as of S09)
 - **Misty Step:** Fey teleportation, 30ft. Used twice during S07 flooding escape — second use was his final remaining spell slot.
 - **Steps of the Fey:** Grants temporary hit points to allies. Used to grant Darby 10 temp HP (S06), Blarg 6 temp HP (S07).
 - **Speak with Animals:** Cast on [[Roxanne]] after resurrection (S09) — rothe has no memories of past life, name, or location.
-- **Fey Touched (Intelligence)**
+- **Fey Touched (Intelligence)** — Pre-campaign feat
+- **Fey Touched (from Psilofyr, S11)** — Granted by Psilofyr. Burning roots on arms. Misty Step + 1st-level spell TBD.
+- **Ritual Caster feat** — Five ritual spells: Comprehend Languages, Detect Magic, Identify, Unseen Servant, Detect Poison and Disease.
 - **Skilled feat**
 
 ## Inventory / Loot
@@ -64,7 +66,8 @@ location: Fungal Pond / Portal Room (as of S09)
 |---|---|---|
 | Cursed Lolth gemstone (large, polished black) | S01 (extracted from spider statue eye via bat familiar) | **CURSED.** All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper. |
 | Flask of drow poison | S02 (chose from barracks morning loot) | Carried |
-| Ring (trinket) | Pre-campaign (recovered S02) | Carried |
+| Ring of Spell Storing (was trinket ring) | Pre-campaign / S11 (empowered by Naos) | **Growth item.** +1 WIS. Standard Ring of Spell Storing (stores up to 5 spell levels). Wedding band from Naos. Attuned. |
+| Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + 1st-level spell TBD |
 | Full starting gear + pack | S02 (armory recovery) | Equipped |
 
 ## Relationships
@@ -72,6 +75,7 @@ location: Fungal Pond / Portal Room (as of S09)
 - **[[Blarg]]:** Bonded through shrine combat ordeal (S01-S02).
 - **[[Topsy]] & [[Turvy]]:** Kept his spirits up during captivity (S01). Sided with Kit on killing Turvy (S05).
 - **[[Kit Aluri]]:** Kit trusts Aeolus to stay awake on watch (S05). Aeolus sided with Kit during Turvy debate.
+- **[[Naos]]:** Aeolus's Archfey patron. In S11, Naos appeared in Aeolus's dream/vision, explained his motives (fell in love with Aeolus, bonded without consent, infiltrated the corrupted entity). Gave Aeolus the Ring of Spell Storing (wedding band). Naos's avatar dissolved into spores. Naos is in danger and needs rescue. Aeolus accepted the ring without anger — growth from S10 kill-on-sight attitude.
 - **[[Roxanne]]:** Cast Speak with Animals to attempt communication after resurrection (S09) — confirmed no memories.
 
 ## Key Events
@@ -83,8 +87,10 @@ location: Fungal Pond / Portal Room (as of S09)
 - **[[Session 05 — Silvered]]:** Took watch with Amanita during long rest. Perception 15 listening at tunnels. Sided with Kit during Turvy debate.
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Granted Darby 10 temp HP via Steps of the Fey. Used Misty Step to walk down vertical shaft (first in party to reach Binks). Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Misty Step twice during flooding escape to teleport ahead through the tunnel. Granted [[Blarg]] 6 temp HP via Steps of the Fey. Used his final Misty Step — all 4 daily spell slots spent by end of session. Party resource management concern going forward.
-- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Voluntarily passed through [[Glabbagool]], taking 5 acid damage (halved from 10 per DM friendly-passage ruling). Dashed to continue moving up tunnel ahead of combat. Moved farthest ahead via fey magic from previous session.
-- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Perception 5 (3 adjusted) during tunnel scouting — worst roll of the session. Arcana 17 (15 adjusted) on the sealed chest — determined it is password-locked with lingering magic. Cast Speak with Animals on the newly resurrected [[Roxanne]] — confirmed no memories of past life, name, or location. Warned party "Don't check it out!" when Amanita rushed toward the Feydark portal. Had to leave early (Sirius), contributing to the cliffhanger ending.
+- **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** Voluntarily passed through [[Glabbagool]], taking 5 acid damage (halved from 10 per DM friendly-passage ruling). Dashed to continue moving up tunnel ahead of combat. Moved farthest ahead via fey magic from previous session.
+- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Perception 5 (3 adjusted) during tunnel scouting — worst roll of the session. Arcana 17 (15 adjusted) on the sealed chest — determined it is password-locked with lingering magic. Cast Speak with Animals on the newly resurrected [[Roxanne]] — confirmed no memories of past life, name, or location. Warned party "Don't check it out!" when Amanita rushed toward the Feydark portal. Had to leave early (Sirius), contributing to the cliffhanger ending.
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Met Echo (patron raven). Participated in Myconid Sovereign trial.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Dream/vision with Naos (Archfey patron). Naos revealed: fell in love with Aeolus, bonded them without consent, infiltrated the corrupted entity (female, from the Abyss) and is now in danger. Naos offered wedding ring — Aeolus accepted. Naos dissolved into spores. Echo pecked at the ring: "So dramatic." Received **Ring of Spell Storing** (+1 WIS, growth item). Received **Fey Touched** from Psilofyr. Caught Blarg in goblin form (insight nat 20). Chose Velkynvelve. Entered Nexus Pool portal.
 
 ## Key Quotes
 
@@ -95,6 +101,7 @@ location: Fungal Pond / Portal Room (as of S09)
 - "My greed has consequences, I see." — S02 [Funny/Self-Deprecating]
 - "I guess Aeolus not doing anything." — S02 [Funny]
 - "Don't check it out!" — S09, warning party about the portal [Funny]
+- "I guess I have no idea how I'm feeling. I'm really confused, let's say." — S11 [Poignant]
 
 ---
 
@@ -107,13 +114,16 @@ location: Fungal Pond / Portal Room (as of S09)
 - [[Session 05 — Silvered]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[Session 08 - The Whirlwind and the Depths]]
-- [[SITL_09_020126_Adopt_a_Rothe]]
+- [[Session 08 — The Whirlwind and the Depths]]
+- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Blarg]]
 - [[Roxanne]]
+- [[Naos]]
 - [[Lolth]]
 - [[Campaign Dashboard]]
 #pc

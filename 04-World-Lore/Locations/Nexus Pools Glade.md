@@ -2,7 +2,7 @@
 type: location
 region: The Feydark
 status: Active — party departed S11
-first_appearance: "[[SITL_11_030126_Gifts_of_the_Carrion_King]]"
+first_appearance: "[[Session 11 — Gifts_of_the_Carrion_King]]"
 ---
 
 # Nexus Pools Glade
@@ -31,7 +31,7 @@ A glade of autumn trees with seven circular pools arranged in a clearing, connec
 
 ## Key Events
 
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** [[Psilofyr]] led the party here after granting Fey Touched. Explained each pool shows a destination. Portals are **one-way** — the Feydark realm shifts and portals move; faerzress corruption further disrupts stability. [[Eldeth]] departed through the Gauntlgrym portal. Party chose Velkynvelve. DM rolled d20 (10) for arrival timing — post-demon battle, outpost still defended.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** [[Psilofyr]] led the party here after granting Fey Touched. Explained each pool shows a destination. Portals are **one-way** — the Feydark realm shifts and portals move; faerzress corruption further disrupts stability. [[Eldeth]] departed through the Gauntlgrym portal. Party chose Velkynvelve. DM rolled d20 (10) for arrival timing — post-demon battle, outpost still defended.
 
 ## Rules
 
@@ -43,7 +43,7 @@ A glade of autumn trees with seven circular pools arranged in a clearing, connec
 
 ## Related
 
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Psilofyr]]
 - [[04-World-Lore/Locations/The Feydark]]
 - [[04-World-Lore/Locations/Velkynvelve]]

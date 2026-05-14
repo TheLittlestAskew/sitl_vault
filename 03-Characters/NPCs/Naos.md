@@ -4,7 +4,7 @@ race: Archfey
 class: N/A
 affiliation: Aeolus's Archfey Patron; Court of Stars (Feydark)
 status: Endangered — infiltrating the Corrupted Entity
-first_appearance: "[[SITL_11_030126_Gifts_of_the_Carrion_King]]"
+first_appearance: "[[Session 11 — Gifts_of_the_Carrion_King]]"
 location: Unknown — inside the Corrupted Entity
 ---
 
@@ -38,7 +38,7 @@ Romantic, remorseful, self-sacrificing. Kneeled when offering the ring. Expresse
 
 ## Key Events
 
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Appeared in Aeolus's dream/vision in the Feydark. Sat on a mossy stone with the wedding ring. Delivered lengthy exposition about his motives, the corrupted entity, and his current danger. Kneeled and offered the ring to Aeolus. Aeolus accepted. Naos's essence flooded into the ring. His avatar dissolved into spores. [[Echo]] landed and pecked at the ring: "So dramatic. What a romantic."
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Appeared in Aeolus's dream/vision in the Feydark. Sat on a mossy stone with the wedding ring. Delivered lengthy exposition about his motives, the corrupted entity, and his current danger. Kneeled and offered the ring to Aeolus. Aeolus accepted. Naos's essence flooded into the ring. His avatar dissolved into spores. [[Echo]] landed and pecked at the ring: "So dramatic. What a romantic."
 
 ## Key Quotes
 
@@ -63,7 +63,7 @@ Romantic, remorseful, self-sacrificing. Kneeled when offering the ring. Expresse
 
 ## Related
 
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Aeolus]]
 - [[Echo]]
 - [[Psilofyr]]

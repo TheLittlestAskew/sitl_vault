@@ -4,7 +4,7 @@ race: Rothe (Resurrected / Fungal Hybrid)
 class: N/A
 affiliation: Party companion
 status: Alive — transformed (rothe/fungal hybrid)
-first_appearance: "[[Session 08 - The Whirlwind and the Depths]]"
+first_appearance: "[[Session 08 — The Whirlwind and the Depths]]"
 location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 ---
 
@@ -55,19 +55,19 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 
 ## Key Events
 
-- **[[Session 08 - The Whirlwind and the Depths|S08]]:** Skeleton first noted in mushroom caverns.
-- **[[SITL_09_020126_Adopt_a_Rothe|S09]]:** Fully resurrected by Binks. Named from Dwarvish collar tag. Darby pinned for 6 damage.
-- **[[SITL_10_021526_Echoes_in_the_Feydark|S10]]:** Bolted toward Feydark portal. Carried Aeolus, Blarg, Amanita through. Gored Myconid D in combat.
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|S11]]:** Body transformed — now rothe/fungal hybrid with zurkhwood saddles. Can carry half the party. Entered Velkynvelve portal with party.
+- **[[Session 08 — The Whirlwind and the Depths|S08]]:** Skeleton first noted in mushroom caverns.
+- **[[Session 09 —  Every Party Needs A “Little Guy”|S09]]:** Fully resurrected by Binks. Named from Dwarvish collar tag. Darby pinned for 6 damage.
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|S10]]:** Bolted toward Feydark portal. Carried Aeolus, Blarg, Amanita through. Gored Myconid D in combat.
+- **[[Session 11 — Gifts_of_the_Carrion_King|S11]]:** Body transformed — now rothe/fungal hybrid with zurkhwood saddles. Can carry half the party. Entered Velkynvelve portal with party.
 
 ---
 
 ## Related
 
-- [[SITL_09_020126_Adopt_a_Rothe]]
-- [[Session 08 - The Whirlwind and the Depths]]
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 08 — The Whirlwind and the Depths]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Amanita de'Champignon]]
 - [[Darby Stonefeather]]
 - [[Binks Stonevein]]

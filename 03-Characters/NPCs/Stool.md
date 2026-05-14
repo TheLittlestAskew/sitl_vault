@@ -47,10 +47,10 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - **[[Session 01 — Prisoners of the Underdark]]:** Communed with Amanita via rapport spores. Identified Neverlight Grove in her dream. Bridged Darby's first telepathic contact.
 - **[[Session 02 — Come Get Your Shit]]:** Latched onto Turvy during escape. Released spore cloud. Escaped into pool with party.
 - **[[Session 05 — Silvered]]:** Senses fungal presence below safe house floor. Gave Turvy a slimy hug. DEX save 17 during floor collapse. Rescued by Darby and Amanita.
-- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Tied to rope by Amanita as a flotation device during flooding.
-- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Said "feels like home is closer" near the Fungal Pond.
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Said "Home is way, way closer now." First combat rapport spores — persuasion 16 convinced Myconid C to stand down. Physically grew during forced long rest.
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Present throughout. No individual scene or dialogue. Traveled with party through Velkynvelve portal.
+- **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** Tied to rope by Amanita as a flotation device during flooding.
+- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Said "feels like home is closer" near the Fungal Pond.
+- **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Said "Home is way, way closer now." First combat rapport spores — persuasion 16 convinced Myconid C to stand down. Physically grew during forced long rest.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Present throughout. No individual scene or dialogue. Traveled with party through Velkynvelve portal.
 
 ## Key Quotes
 
@@ -65,10 +65,10 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 05 — Silvered]]
-- [[Session 08 - The Whirlwind and the Depths]]
-- [[SITL_09_020126_Adopt_a_Rothe]]
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 08 — The Whirlwind and the Depths]]
+- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
 - [[Psilofyr]]

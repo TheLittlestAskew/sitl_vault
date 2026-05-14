@@ -47,7 +47,7 @@ Amorphous ooze creatures found throughout the deep Underdark. Translucent gray, 
 - Ooze A hit Kit for 9 acid (-1 AC). Ooze hit Amanita for 5 acid (-1 AC).
 - All defeated ooze remains reformed into dragon statue. Eyes lit when last ooze died.
 
-### [[Session 08 - The Whirlwind and the Depths|Session 08]]
+### [[Session 08 — The Whirlwind and the Depths|Session 08]]
 
 **Northern Side Chamber (Solo Ooze):**
 - Detected by [[Binks Stonevein]] during scouting run (Nat 20 Perception). Found in a chamber with a sealed Dwarvish stone door.
@@ -66,7 +66,7 @@ Amorphous ooze creatures found throughout the deep Underdark. Translucent gray, 
 - [[Session 03 — Into the Dark]]
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
-- [[Session 08 - The Whirlwind and the Depths]]
+- [[Session 08 — The Whirlwind and the Depths]]
 - [[Oozing Temple]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Binks Stonevein]]

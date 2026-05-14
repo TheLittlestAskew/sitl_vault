@@ -4,7 +4,7 @@ race: Goblin
 class: Shaman
 affiliation: Goblin tribe (surface/Underdark unknown)
 status: Unknown
-first_appearance: "[[SITL_11_030126_Gifts_of_the_Carrion_King]]"
+first_appearance: "[[Session 11 — Gifts_of_the_Carrion_King]]"
 location: Unknown
 ---
 
@@ -27,7 +27,7 @@ Carbra is Blarg's adoptive goblin shaman. Raised Blarg despite him being a dwarf
 
 ## Key Events
 
-- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Referenced by Blarg when speaking to Chris. Chris recognized Carbra's name and confirmed inter-tribal connections. First time Carbra has been named in the campaign.
+- **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Referenced by Blarg when speaking to Chris. Chris recognized Carbra's name and confirmed inter-tribal connections. First time Carbra has been named in the campaign.
 
 ## Relationships
 
@@ -38,7 +38,7 @@ Carbra is Blarg's adoptive goblin shaman. Raised Blarg despite him being a dwarf
 
 ## Related
 
-- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
+- [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Blarg]]
 - [[Chris]]
 #npc #goblin #referenced-only

@@ -1,7 +1,7 @@
 ---
 type: creature
 classification: Plant (Myconid)
-first_appearance: "[[SITL_10_021526_Echoes_in_the_Feydark]]"
+first_appearance: "[[Session 10 — 021526_Echoes_in_the_Feydark]]"
 location: The Feydark — Cliffside Clearing
 threat_level: Medium (Sovereign), Low (Adults)
 ---
@@ -57,7 +57,7 @@ Tall, silent mushroom humanoids. Blended into roots and leaves in the treeline. 
 
 ## Related
 
-- [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Psilofyr]]
 - [[04-World-Lore/Locations/The Feydark]]
 - [[Campaign Dashboard]]
