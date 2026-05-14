@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Roll_Statistics"
             }
+          },
+          {
+            "id": "66d7001f8491a7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SITL_Vault_Structure_Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SITL_Vault_Structure_Guide"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,8 +245,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "199b13cc89e8ac62",
+  "active": "66d7001f8491a7f1",
   "lastOpenFiles": [
+    "05-Mechanics/Roll_Statistics.md",
+    "SITL_Vault_Structure_Guide.md",
+    "Claude_Project_Instructions.md",
+    "README.md",
+    "Untitled.md",
+    "topsy_and_turvy.png",
+    "stool.png",
+    "Shushar stool topsy turvy.png",
+    "Session 01.md",
+    "moon-linked gemstone flask.md",
+    "jimjar ront sarith.png",
+    "eldeth.png",
+    "Buppido Derendil Eldeth.png",
     "Templates/Faction Template.md",
     "Templates/Plant Fungus Template.md",
     "Templates/Creature Template.md",
@@ -256,24 +283,11 @@
     "01-Sessions/Session 10 — 021526_Echoes_in_the_Feydark.md",
     "05-Mechanics/Spell_Usage.md",
     "03-Characters/NPCs/Glabbagool_S09_PATCH.md",
-    "02-Character_Journal/S09_Journal_INSERT_BEFORE_RELATED.md",
-    "02-Character_Journal/Kit_Aluri_Journal_test.md",
-    "02-Character_Journal/Kit Aluri Journal_S09_addition.md",
-    "05-Mechanics/Roll_Statistics.md",
-    "07-Flora_Fauna/Plants_Fungi/Fire Lichen.md",
-    "Session_Sources/Transcripts/Corrected/03 - 110925_corrected.md",
-    "00-Campaign-Hub/Profanity Ledger.md",
     "03-Characters/PCs/Blarg CS.pdf",
     "03-Characters/PCs/Darby.pdf",
     "Screenshot 2025-09-28 133542 1.png",
-    "Screenshot 2025-09-28 133542.png",
-    "64c0b0d558d359190728b88b1f32abb3.png",
     "Session_Sources/Transcripts/Corrected/122125 SKY IS THE LIMIT TRANSCRIPT - corrected spellings v2.docx",
     "03-Characters/PCs/Kit.pdf",
-    "06-Media/112326 img.png",
-    "06-Media/Buppido Derendil Eldeth.png",
-    "06-Media/jimjar ront sarith.png",
-    "06-Media/Shushar stool topsy turvy.png",
     "07-Flora_Fauna/Plants_Fungi",
     "07-Flora_Fauna/Creatures",
     "07-Flora_Fauna",
