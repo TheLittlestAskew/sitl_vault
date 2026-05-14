@@ -6,7 +6,7 @@ affiliation: Party companion, bonded with Amanita via rapport spores
 status: Alive — growing
 player: N/A (DM-controlled)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: The Feydark — Cliffside Clearing (as of S10)
+location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 ---
 
 # Stool
@@ -28,7 +28,7 @@ Origin: [[04-World-Lore/Locations/Neverlight Grove]]. A sentient myconid sprout 
 
 ## Personality
 
-Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicating through spore clouds and proximity. Developing speech and assertiveness. S09: "Feels like home is closer." S10: "Home is way, way closer now."
+Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicating through spore clouds and proximity. Developing speech and assertiveness.
 
 ## Abilities & Class Features
 
@@ -40,17 +40,17 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - **[[Amanita de'Champignon]]:** Primary bond. Telepathic communication from S01 onward. Fungal roots enveloped Amanita protectively during S10 long rest.
 - **[[Darby Stonefeather]]:** Bridged first telepathic contact between Darby and the world (S01). Rescued by Darby during floor collapse (S05).
 - **[[Turvy]]:** Latched onto Turvy's back during S02 escape. Gave him a slimy hug after Topsy's death (S05).
-- **[[Psilofyr]]:** Connection unclear but implied. Stool's empowerment arc may be tied to Psilofyr's domain. Stool used rapport spores in combat against Psilofyr's avatar's myconid soldiers — and it worked.
+- **[[Psilofyr]]:** Connection implied. Stool used rapport spores against Psilofyr's avatar's myconid soldiers — and it worked.
 
 ## Key Events
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Communed with Amanita via rapport spores. Identified Neverlight Grove in her dream. Bridged Darby's first telepathic contact.
 - **[[Session 02 — Come Get Your Shit]]:** Latched onto Turvy during escape. Released spore cloud. Escaped into pool with party.
-- **[[Session 03 — Into the Dark]]:** Traveled with party through northern passage.
-- **[[Session 05 — Silvered]]:** Senses fungal presence below safe house floor. Communicates about Neverlight Grove being far but connected via mycelial network. Gave Turvy a slimy hug. DEX save 17 during floor collapse. Rescued by Darby and Amanita.
-- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Tied to rope by Amanita as a flotation device during the flooding escape. Carried by Amanita through the flood. Survived the encounter unharmed.
-- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Said "feels like home is closer" near the Fungal Pond — significant moment in the empowerment arc.
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Traveled through Feydark portal with party. Said "Home is way, way closer now." First combat use of rapport spores — persuasion 16 (with Amanita advantage) convinced Myconid C to stand down. Myconid C kneeled and said "Welcome, one of the many." **Physically grew during forced long rest.** Fungal roots enveloped Amanita protectively. Empowerment arc accelerating.
+- **[[Session 05 — Silvered]]:** Senses fungal presence below safe house floor. Gave Turvy a slimy hug. DEX save 17 during floor collapse. Rescued by Darby and Amanita.
+- **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Tied to rope by Amanita as a flotation device during flooding.
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Said "feels like home is closer" near the Fungal Pond.
+- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Said "Home is way, way closer now." First combat rapport spores — persuasion 16 convinced Myconid C to stand down. Physically grew during forced long rest.
+- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Present throughout. No individual scene or dialogue. Traveled with party through Velkynvelve portal.
 
 ## Key Quotes
 
@@ -68,6 +68,7 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - [[Session 08 - The Whirlwind and the Depths]]
 - [[SITL_09_020126_Adopt_a_Rothe]]
 - [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
 - [[Psilofyr]]

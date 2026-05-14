@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Fungal Pond / Portal Room (as of S09)
+location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 ---
 
 # Amanita de'Champignon
@@ -14,7 +14,7 @@ location: Fungal Pond / Portal Room (as of S09)
 > **Player:** Hannah (Kyouya38445)
 > **Race:** Wood Elf
 > **Class:** Druid (Circle of Spores, Tasha's)
-> **Level:** 3 (as of S02)
+> **Level:** 4 (as of S10)
 > **DDB userId:** 117527745
 > *Character sheet not yet uploaded to project*
 
@@ -39,18 +39,22 @@ location: Fungal Pond / Portal Room (as of S09)
 - Deeply connected to the fungal/spore world; identifies with mushrooms and lichen on an intuitive level
 - Refers to companions affectionately as "spider dude," "man"
 - First instinct in the elite barracks upon finding her pipe: "Oh man, my pipe. Oh, I missed it so much. I'm gonna smoke everything." (S02)
+- S11: When Psilofyr offered four possible future forms, Amanita's response was characteristically unforced: "I haven't thought about it much. I just kind of went with it... Yeah, I'll go. I'll go do some shit with my friends." No agonizing, no analysis paralysis — just acceptance and loyalty.
 
 ## Abilities & Class Features
 
 - **Druidcraft:** Used S01 to create nature sounds in a 5ft cube, lulling a meditating drow (DM rolled nat 1 perception for the drow)
-- **Rapport Spores (via Stool connection):** Telepathic communication with party members within range
+- **Rapport Spores (via Stool connection):** Telepathic communication with party members within range. **Upgraded S11 by Psilofyr:** 3 uses/day, 1 hour each. 30ft emanation to establish link, then unlimited range on the same plane for the full duration. Hotboxed a zurkhwood tent to connect the entire party telepathically.
 - **Halo of Spores:** First used in combat during S03 gray ooze encounter
 - **Chill Touch:** Used vs gray ooze (S03)
 - **Poison Spray:** Used S08 on Black Pudding (9 poison damage). Described as pale blue-green phosphorescence.
+- **Earth Tremor:** Gained S11 via enspelled warpick. Not yet used.
+- **Shillelagh:** Can be cast on enspelled warpick (DM homebrew — normally staves/clubs only). Gained S11.
 - **Detect Magic:** Cast on corrupted faerzress (S05). Failed Wisdom save (9), triggered d100 madness roll (81) — short-term madness (madness level 1). Stunned by hallucination of dark fungal tendrils. Binks punched her to break the stun.
 - **Longstrider:** Cast on [[Darby Stonefeather]] (+10ft movement, 1 hour) and [[Blarg]] during S07 flooding escape. Active on both at S08 start.
-- **Mithral Pickaxe Channeling:** Amanita can channel druidic magic through the mithral pickaxe as a magical conduit. Used S05 to strike the floor and reveal tunnel system. Used S09 to channel magic (Wis check 14/12 adjusted, partial success) and pry open the sealed chest on Roxanne's skeleton (Str save 18/16 adjusted, met DC). Confirmed as a repeatable magical tool interaction.
+- **Mithral Pickaxe / Enspelled Warpick:** Amanita can channel druidic magic through this weapon. Used S05 to strike the floor and reveal tunnel system. Used S09 to channel magic and pry open the sealed chest on Roxanne's skeleton. **Empowered S11 by Psilofyr** into an enspelled warpick: +1 INT, Earth Tremor, Shillelagh (on warpick, homebrew). Future necrotic damage component teased. Growth item.
 - **Entangle:** Readied but not cast during S02 escape
+- **Fey Touched (S11):** Granted by Psilofyr. Burning roots on arms. Misty Step + 1st-level spell TBD.
 - **Movement speed:** 35ft (wood elf)
 
 ## Inventory / Loot
@@ -63,12 +67,13 @@ location: Fungal Pond / Portal Room (as of S09)
 | Set of drow clothes | S01 (stolen; worn under robes) | Worn |
 | 4 additional items (D4=4) | S01 (DM never specified) | **Unresolved** |
 | Poisoned quaggoth fang (improvised weapon) | S02 (pulled from quaggoth's back; dipped in drow poison) | Carried |
-| Personal pipe (trinket) | S02 (recovered from elite barracks display) | Carried |
+| Enhanced Pipe | S02 (recovered) / S11 (empowered by Psilofyr) | **Growth item.** Upgraded rapport spores: 3/day, 1hr, 30ft → unlimited range on same plane. |
 | Elite barracks haul | S02 (chain shirt, rope, grappling hooks, bolts, poison, gold/silver) | Carried |
 | Everyone's confiscated trinkets | S02 (recovered from elite barracks display) | Distributed |
 | Full starting gear + pack | S02 (armory recovery) | Equipped |
-| Mithral Pickaxe | S05 (used to strike floor; magical conduit for druidic magic) | Carried |
-| [[Glabbagool]] (in waterskin) | S09 (compressed eye + gel into waterskin; cost 1 day water supply) | Recovering — short rest = can fight; long rest = full reconstitution |
+| Enspelled Warpick (was Mithral Pickaxe) | S05 / S11 (empowered by Psilofyr) | **Growth item.** +1 INT. Earth Tremor. Shillelagh (homebrew). Necrotic damage teased. |
+| [[Glabbagool]] (in waterskin) | S09 (compressed eye + gel into waterskin; cost 1 day water supply) | Recovering — long rest in Feydark should = full reconstitution |
+| Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + 1st-level spell TBD |
 
 ## Conditions
 - **Madness Level 1** (short-term) — Triggered S05 by casting Detect Magic on corrupted faerzress. Persistent condition; should be tracked going forward.
@@ -76,10 +81,11 @@ location: Fungal Pond / Portal Room (as of S09)
 ## Relationships
 
 - **[[Stool]]:** Deep telepathic bond via rapport spores. Communicated from S01 onward. Tied Stool to rope as flotation device during S08 flooding.
-- **[[Roxanne]]:** Amanita discovered the rothe skeleton in the Fungal Pond (S09), channeled magic through the mithral pickaxe to open the chest, and found the Resurrection scroll + diamond inside. [[Binks Stonevein]] cast the Resurrection, but Amanita was the driving force behind the discovery. Treats Roxanne as a pet/companion. "Her name is Roxanne. You have to say the whole thing." (S08)
-- **[[Glabbagool]]:** Befriended immediately (S06). Compressed Glabbagool into her waterskin for transport (S09), sacrificing 1 day of water supply. Suggested shrinking Glabbagool before compression ("I could shrink you, and we could put you in a water bottle").
+- **[[Psilofyr]]:** Deep connection. Amanita entered a trance in S11 and communed directly with Psilofyr at the center of the mycelial network. Psilofyr showed her four possible future forms (arch druid, shield-bearer, barbarian sovereign, patron champion). Empowered her pipe and warpick. Shifted into a casual "bro" persona; they fist-bumped. Psilofyr called Amanita his chosen champion.
+- **[[Roxanne]]:** Driving force behind discovery and resurrection. Treats Roxanne as a companion. "Her name is Roxanne. You have to say the whole thing." (S08). Roxanne's body transformed in the Feydark — now part rothe, part fungal (S11).
+- **[[Glabbagool]]:** Befriended immediately (S06). Compressed Glabbagool into her waterskin for transport (S09), sacrificing 1 day of water supply.
 - **[[Darby Stonefeather]]:** Developing close partnership. Worked together in barracks (S01) and elite barracks (S02). Darby carried Amanita during S07 flooding.
-- **[[Eldeth]]:** Allied during escape and travel.
+- **[[Eldeth]]:** Allied during escape and travel. Eldeth departed through Gauntlgrym portal (S11).
 - **[[Turvy]]:** Curious/sympathetic. Wanted to interrogate rather than kill. Patted his head (S05).
 - **[[Blarg]]:** Received Longstrider from Amanita (S07). Healed Amanita 23 HP (S03).
 
@@ -93,7 +99,9 @@ location: Fungal Pond / Portal Room (as of S09)
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Got stuck in Blarg's web. Freed by Darby. Used Halo of Spores to finish last ooze in Combat 3. Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Cast [[Longstrider]] on [[Darby Stonefeather]] (+10ft movement) and [[Blarg]] — first observed use of this spell. Carried by Darby during the flooding escape. Took 2 bludgeoning damage when Darby kneed her while jumping a gap (athletics 12). Offered mushrooms to the party with characteristic enthusiasm.
 - **[[Session 08 - The Whirlwind and the Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Longstrider active on Darby and Blarg from previous session.
-- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Discovered the Fungal Pond — shallow pond with unusual fungal growth, skeletal rothe remains, and a flickering portal. Nature check 7 (5 adjusted) failed to identify the unusual pond fungus. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton (Wis check 14/12 adjusted — partial success; Str save 18/16 adjusted — met DC). Found Resurrection scroll (7th level) and diamond inside. Compressed [[Glabbagool]]'s eye and gel into her waterskin (cost 1 day water supply) when Glabbagool couldn't keep pace. Suggested shrinking Glabbagool first. DM's luck roll (flat d20 = 14) on Amanita determined the scroll was Resurrection level. Said the party was "totally derailing the DM's plan."
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Discovered the Fungal Pond. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton. Found Resurrection scroll (7th level) and diamond. Compressed [[Glabbagool]]'s eye and gel into her waterskin. Said the party was "totally derailing the DM's plan."
+- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Rode Roxanne through. Participated in Myconid Sovereign trial. Used Halo of Spores in combat. Stool used rapport spores to convince Myconid C to stand down. Symbiotic entity form activated for free in the Feydark.
+- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Deep elven trance — consciousness sank through the mycelial network to commune with Psilofyr directly. Shown four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or Carrion King patron champion. Pipe empowered (upgraded rapport spores: 3/day, 1hr, 30ft → unlimited range on same plane). Warpick empowered (+1 INT, Earth Tremor, Shillelagh). Casual Psilofyr fist-bumped her. Activated rapport spores in zurkhwood tent — connected entire party telepathically. Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "We could take them now. We're so awesome." Entered Nexus Pool portal.
 
 ## Key Quotes
 
@@ -110,6 +118,10 @@ location: Fungal Pond / Portal Room (as of S09)
 - "But it's so awesome! I'll be right back!" — S09, re: investigating the portal [Funny]
 - "We're totally derailing the DM's plan. I know. Sorry." — S09 [Funny]
 - "Y'all, that's — kill it with mushrooms." — S09 [Funny]
+- "Oh, yeah, man, I feel great. This is what I always wanted. Like, am I gonna get to join the Network now?" — S11 [Funny]
+- "I haven't thought about it much. I just kind of went with it... Yeah, I'll go. I'll go do some shit with my friends." — S11 [Funny/Defining]
+- "Guys, I am psychic." — S11, after activating rapport spores [Funny]
+- "Yeah, man, I bet, like, we could take them now. We're so awesome." — S11, re: Velkynvelve [Funny]
 
 ---
 
@@ -124,11 +136,14 @@ location: Fungal Pond / Portal Room (as of S09)
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 - The Whirlwind and the Depths]]
 - [[SITL_09_020126_Adopt_a_Rothe]]
+- [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]
 - [[Roxanne]]
 - [[Glabbagool]]
+- [[Psilofyr]]
 - [[04-World-Lore/Locations/Neverlight Grove]]
 - [[Darby Stonefeather]]
 - [[Blarg]]

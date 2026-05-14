@@ -95,19 +95,34 @@ Tracking profanity by speaker, word, frequency, and context across all sessions.
 
 ---
 
-## Running Totals (Through S10)
+## Session 11 — Gifts of the Carrion King
 
-| Speaker | shit | fuck/fucking | damn | hell | Other | Total |
-|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 3 | 2 | 2 | 4 | — | 11 |
-| Addison (DM) | 3 | — | — | — | — | 3 |
-| Darby Stonefeather (Austin) | — | — | 2 | — | — | 2 |
-| Turvy (Addison/NPC) | — | — | 1 | — | — | 1 |
-| Binks Stonevein (Matt) | — | — | — | 1 | — | 1 |
-| Aeolus (Sirius) | — | — | — | 1 | — | 1 |
-| Goblin Boss (Addison/NPC) | — | — | 1 | — | — | 1 |
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "damn" | 1 | "Damn. Okay." — Reacting to being called on first |
+| Kit Aluri (Taylor) | "fuck" | 1 | "She's still trying to figure out what the fuck happened" — processing nightmare |
+| Addison (DM) | "fuck" | 1 | "Fuck." — Reacting to Kit's roll failing even with superiority die |
+| Amanita de'Champignon (Hannah) | "shit" | 1 | "I'll go do some shit with my friends" — accepting the quest |
+| Addison (DM) | "ass" | 2 | Psilofyr: "kick some ass" / "all the ass that you kick" — casual Psilofyr persona |
+| Blarg (Florian) | "hell" | 1 | "What the hell" — general exclamation |
 
-*Kit remains the campaign's primary profanity contributor with 11 instances across 10 sessions.*
+---
+
+## Running Totals (Through S11)
+
+| Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
+|---|---|---|---|---|---|---|---|
+| Kit Aluri (Taylor) | 3 | 3 | 3 | 4 | — | — | 13 |
+| Addison (DM) | 3 | 1 | — | — | 2 | — | 6 |
+| Darby Stonefeather (Austin) | — | — | 2 | — | — | — | 2 |
+| Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
+| Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+| Binks Stonevein (Matt) | — | — | — | 1 | — | — | 1 |
+| Aeolus (Sirius) | — | — | — | 1 | — | — | 1 |
+| Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+| Blarg (Florian) | — | — | — | 1 | — | — | 1 |
+
+*Kit maintains her lead as the campaign's primary profanity contributor with 13 instances across 11 sessions. Addison (DM) moves into second place with 6 instances after Psilofyr's casual persona dropped two "ass" bombs. Amanita's first profanity recorded in S11.*
 
 ---
 

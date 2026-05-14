@@ -5,15 +5,15 @@ class: N/A
 affiliation: Aeolus's Archfey Patron
 status: Alive
 first_appearance: "[[SITL_10_021526_Echoes_in_the_Feydark]]"
-location: The Feydark (departed before trial)
+location: The Feydark (last seen S11)
 ---
 
 # Echo
 
 > **Type:** NPC (Patron Familiar / Fae Emissary)
 > **Race:** Raven
-> **Status:** Alive — departed the Feydark before the trial
-> **Affiliation:** [[Aeolus]]'s Archfey Patron
+> **Status:** Alive
+> **Affiliation:** [[Aeolus]]'s Archfey Patron ([[Naos]])
 
 ---
 
@@ -27,25 +27,29 @@ Cryptic, confident, amused. Taunts Aeolus about the desire to kill him ("Good lu
 
 ## Key Events
 
-- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Appeared in the Feydark while Aeolus/Blarg/Amanita rode Roxanne. Landed and spoke. Explained: they are in the Feydark, realm of [[Psilofyr]] (the Carrion King, Archfey of Myconids), near the Court of Stars. Told Aeolus he was "meant to be here, but not yet." Warned that something is wrong in their future. Departed before the trial due to fae rules. Last seen: landed on Aeolus's chest as he fell asleep from Psilofyr's spore explosion — "Good job not dying."
+- **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Appeared in the Feydark while Aeolus/Blarg/Amanita rode Roxanne. Landed and spoke. Explained: they are in the Feydark, realm of [[Psilofyr]] (the Carrion King). Told Aeolus he was "meant to be here, but not yet." Departed before the trial. Last seen: landed on Aeolus's chest as he fell asleep — "Good job not dying."
+- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** Appeared during Aeolus's dream/vision with [[Naos]]. After Naos dissolved into the Ring of Spell Storing, Echo landed and pecked at the ring: "So dramatic. What a romantic. Will he never learn?"
 
 ## Key Quotes
 
 - "You were meant to come here, but not yet." — S10 [Serious]
 - "Good luck killing me." — S10 [DM Quip]
 - "Good job not dying." — S10, landing on unconscious Aeolus [DM Quip]
+- "So dramatic. What a romantic. Will he never learn?" — S11, after Naos dissolved [DM Quip]
 
 ## Relationships
 
-- **[[Aeolus]]:** Patron familiar. Aeolus explicitly wants to kill Echo ("He's the reason I'm here"). Echo seems amused by this. Complex patron-warlock dynamic.
+- **[[Aeolus]]:** Patron familiar. Aeolus explicitly wants to kill Echo. Echo seems amused by this. Complex patron-warlock dynamic.
+- **[[Naos]]:** Connected to Naos's patronage. Mocked Naos's dramatic farewell (S11).
 
 ---
 
 ## Related
 
 - [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
 - [[Aeolus]]
+- [[Naos]]
 - [[Psilofyr]]
 - [[04-World-Lore/Locations/The Feydark]]
-- [[Campaign Dashboard]]
 #npc #fae #feydark

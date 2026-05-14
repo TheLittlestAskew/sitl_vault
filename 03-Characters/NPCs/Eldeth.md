@@ -3,18 +3,18 @@ type: npc
 race: Shield Dwarf
 class: Scout
 affiliation: Gauntlgrym; fellow prisoner; party ally
-status: Alive
+status: Departed — traveling to Gauntlgrym via Nexus Pool portal
 first_appearance: "[[Session 02 — Come Get Your Shit]]"
-location: Fungal Pond / Portal Room (as of S09)
+location: Gauntlgrym (via Nexus Pool portal, S11)
 ---
 
 # Eldeth
 
-Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[04-World-Lore/Locations/Velkynvelve]]; joined the party during the S02 escape.
+Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[04-World-Lore/Locations/Velkynvelve]]; joined the party during the S02 escape. Departed the party through the Gauntlgrym Nexus Pool portal in S11 to warn the dwarven kings and bring reinforcements.
 
 ## Description / Appearance
 
-- Shield dwarf — no detailed physical description given in S01-S09
+- Shield dwarf — no detailed physical description given
 - Referred to as "the other dwarf" by DM (S02)
 - Per Addison's notes: "Eldeth, a dwarf scout from the city of Gauntlgrym"
 
@@ -32,18 +32,19 @@ Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[04-World-Lor
 ## Key Events
 
 - **[[Session 02 — Come Get Your Shit]]:** Emerged during escape chaos. Stayed with [[Amanita de'Champignon]] and [[Darby Stonefeather]] to provide cover. Received a chest of equipment from Darby. Escaped into the pool.
-- **[[Session 03 — Into the Dark]]:** Traveled with party through northern passage. At the mushroom cavern, [[Aeolus]] spotted a hidden dwarven door (5ft x 5ft, engraved) with Devil's Sight. Eldeth approached the door, her eyes widened as she read the Dwarvish runes but didn't share the words. She muttered in Dwarvish and spoke the safe word. The door opened, revealing the safe house passage.
-- **[[Session 04 — Life Isn't Faer-zress]]:** Present in the safe house during the wererat attack. Took a defensive position.
-- **[[Session 05 — Silvered]]:** Took watch with [[Amanita de'Champignon]] during the long rest. Commented that the passage down the dwarven ladder likely leads somewhere safe. Currently above the collapsed floor with the rest of the party.
-- **S06–S08:** Present with the party throughout the descent, Oozing Temple, and flooding escape. No individually documented actions beyond traveling with the group. Emerged through the sealed Dwarvish door alongside the party (S08).
-- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** **Key contribution:** Read the Dwarvish collar tag on the resurrected rothe — "Roxanne." Also read the Dwarvish inscription that revealed the chest's password is "Roxanne." Only party member capable of reading Dwarvish, making her essential to both discoveries.
+- **[[Session 03 — Into the Dark]]:** Traveled with party. [[Aeolus]] spotted a hidden dwarven door. Eldeth approached, eyes widened as she read Dwarvish runes. Spoke the safe word. Door opened to safe house passage.
+- **[[Session 04 — Life Isn't Faer-zress]]:** Present in safe house during wererat attack. Took defensive position.
+- **[[Session 05 — Silvered]]:** Took watch with [[Amanita de'Champignon]]. Commented the passage down likely leads somewhere safe.
+- **S06-S08:** Present with party throughout descent, Oozing Temple, and flooding escape. No individually documented actions.
+- **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Read the Dwarvish collar tag on the resurrected rothe — "Roxanne." Read the Dwarvish inscription revealing the chest's password. Only party member capable of reading Dwarvish.
+- **[[SITL_11_030126_Gifts_of_the_Carrion_King|Session 11]]:** **Departed the party.** Walked to the Gauntlgrym Nexus Pool, turned back to the party, and promised to warn the dwarven kings and bring reinforcements. Emotional farewell. Stepped through the portal. First voluntary party split.
 
 ## Relationships
 
-- **[[Darby Stonefeather]]:** Allied during escape; Darby gave her a chest and pulled her along
+- **[[Darby Stonefeather]]:** Allied during escape; Darby gave her a chest and pulled her along. Made small talk in the Feydark camp (S11).
 - **[[Amanita de'Champignon]]:** Stayed together during escape sequence; shared watch duty (S05)
 - **[[Blarg]]:** Fellow dwarf, but Blarg does not speak Dwarvish
-- **[[Gauntlgrym]]:** Home city; dwarven heritage gives her knowledge of ancient dwarven architecture and construction
+- **[[Gauntlgrym]]:** Home city; returning there to warn the kings (S11)
 - **[[Roxanne]]:** Read the collar tag and chest password — the only party member who could have done so
 
 ---
@@ -55,8 +56,10 @@ Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[04-World-Lor
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
 - [[SITL_09_020126_Adopt_a_Rothe]]
+- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Darby Stonefeather]]
 - [[Amanita de'Champignon]]
 - [[Roxanne]]
 - [[Gauntlgrym]]
+#npc #dwarf #departed

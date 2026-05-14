@@ -1,75 +1,64 @@
 ---
 type: npc
-race: Rothe (Resurrected)
+race: Rothe (Resurrected / Fungal Hybrid)
 class: N/A
 affiliation: Party companion
-status: Alive
+status: Alive — transformed (rothe/fungal hybrid)
 first_appearance: "[[Session 08 - The Whirlwind and the Depths]]"
-location: Fungal Pond / Portal Room (as of S09)
+location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 ---
 
 # Roxanne
 
-> **Type:** NPC Companion (Beast of Burden)
-> **Race:** Rothe (fully resurrected via 7th-level Resurrection scroll)
-> **Status:** Alive — fully restored, no memories of past life
+> **Type:** NPC Companion (Beast of Burden / Mount)
+> **Race:** Rothe (fully resurrected; now rothe/fungal hybrid)
+> **Status:** Alive — body transformed in the Feydark
 > **Bonded To:** Party (Darby primary handler; Amanita feeds)
 
 ---
 
 ## Description / Appearance
 
-A fully resurrected rothe — larger than normal for her species. Female. Complete flesh, fur, and anatomy restored by [[Binks Stonevein]]'s Resurrection scroll casting ([[SITL_09_020126_Adopt_a_Rothe|S09]]). Has a wooden chest of extradimensional storage permanently fused to her back, growing out of where the ribs and spine meet. Wears an ancient Dwarvish collar tag reading "Roxanne."
-
-Previously existed as a skeleton partially embedded in rock in the Fungal Pond chamber. The skeleton was first noted as animated bones in S08 (Amanita's wild magic), but the full resurrection in S09 corrected this — she is now fully alive, not undead.
+A fully resurrected rothe — larger than normal for her species. Female. Originally restored with full flesh, fur, and anatomy by [[Binks Stonevein]]'s Resurrection scroll (S09). **Body transformed in the Feydark (S11):** now a mixture of natural rothe and fungal material. The Chest of Holding has transformed into two zurkhwood saddles on either side, allowing half the party to ride comfortably. Wears an ancient Dwarvish collar tag reading "Roxanne."
 
 ---
 
 ## Backstory
 
-Roxanne's origins are unknown. Her skeleton was found in the Fungal Pond, partially embedded in the earth and stone floor, with the chest fused to her remains. A Dwarvish collar tag identified her as "Roxanne." [[Kit Aluri]]'s history check (nat 20, 18 adjusted) confirmed rothe are descended from surface bovine creatures brought underground by the drow long ago. Roxanne appears to have been dead for a very long time.
-
-The Resurrection scroll and diamond component were found inside her own chest, suggesting the resurrection was always intended.
+Roxanne's origins are unknown. Her skeleton was found in the Fungal Pond, partially embedded in stone, with the chest fused to her remains. A Dwarvish collar tag identified her as "Roxanne." [[Kit Aluri]]'s history check (nat 20, S09) confirmed rothe are descended from surface bovines brought underground by the drow. The Resurrection scroll and diamond were found inside her own chest, suggesting the resurrection was always intended.
 
 ---
 
 ## Personality
 
-Docile when fed. No memories of past life, name, or location. Responsive to food (especially Amanita's rations and mushrooms). Initially disoriented after resurrection — pinned [[Darby Stonefeather]] against a wall for 6 bludgeoning damage without noticing. Drank from the pond extensively. Does not respond to verbal commands without Speak with Animals.
+Docile when fed. No memories of past life. Responsive to food (especially mushrooms). Initially disoriented after resurrection. Does not respond to verbal commands without Speak with Animals.
 
 ---
 
 ## Abilities & Equipment
 
-- **Chest of Holding:** Extradimensional storage chest fused to back. Password: "Roxanne" (Dwarvish, read by [[Eldeth]]). Exact capacity unspecified by DM. Functionally similar to a Bag of Holding.
-- **Beast of Burden:** Large creature; can carry riders and heavy loads
-- **Goring Attack:** Standard rothe ability (not yet used in combat by party)
+- **Chest of Holding / Zurkhwood Saddles:** Extradimensional storage fused to back. Password: "Roxanne" (Dwarvish). Now in zurkhwood saddle form (S11). Exact capacity unspecified. Half the party can ride.
+- **Beast of Burden / Mount:** Large creature; can carry multiple riders with saddles
+- **Goring Attack:** Used in S10 — gored Myconid D for 7 piercing damage
+- **Fungal Hybrid Body (S11):** Mixture of natural rothe and fungal material. The transformation occurred during the Feydark stay.
 
 ---
 
 ## Relationships
 
-- **[[Amanita de'Champignon]]:** Primary feeder. Amanita stopped Roxanne's charge with food (S10). Rides Roxanne through the Feydark.
-- **[[Darby Stonefeather]]:** Would-be handler. First animal handling was a nat 1 (S09) — got pinned against wall. Farmer instincts drive strong desire to bond. Called her "Roxy."
-- **[[Binks Stonevein]]:** Caster of the Resurrection scroll that brought her back.
-- **[[Eldeth]]:** Read the Dwarvish collar tag and chest password.
+- **[[Amanita de'Champignon]]:** Primary feeder. Stopped Roxanne's charge with food (S10). Rides Roxanne regularly.
+- **[[Darby Stonefeather]]:** Would-be handler. Nat 1 animal handling on first attempt (S09). Farmer instincts drive strong desire to bond.
+- **[[Binks Stonevein]]:** Caster of the Resurrection scroll.
+- **[[Eldeth]]:** Read the Dwarvish collar tag and chest password. Departed (S11).
 
 ---
 
 ## Key Events
 
-- **[[Session 08 - The Whirlwind and the Depths|S08]]:** Skeleton first noted in mushroom caverns. Described as animated by Amanita's wild magic (corrected in S09).
-- **[[SITL_09_020126_Adopt_a_Rothe|S09]]:** Fully resurrected by Binks (7th-level Resurrection scroll, DC 17, rolled 21 with Guidance + Blarg Help). Named from Dwarvish collar tag. Chest opened by Amanita; contained scroll + diamond. Aeolus cast Speak with Animals — no memories. Darby pinned for 6 damage (nat 1 animal handling).
-- **[[Session 10|S10]]:** Bolted toward Feydark portal. Carried Aeolus, Blarg, Amanita through the portal and into the Feydark. Instinctively recognized the path. Charged and gored Myconid D in combat.
-
----
-
-## Key Quotes
-
-**Amanita (S08):** "Her name is Roxanne. You have to say the whole thing."
-**Kit (S09):** "Every party needs a little guy."
-**Blarg (S09):** "Oh, big guy. Not a little guy."
-**Darby (S09):** "I promise I'm a good farmer. I'm a good animal handler."
+- **[[Session 08 - The Whirlwind and the Depths|S08]]:** Skeleton first noted in mushroom caverns.
+- **[[SITL_09_020126_Adopt_a_Rothe|S09]]:** Fully resurrected by Binks. Named from Dwarvish collar tag. Darby pinned for 6 damage.
+- **[[SITL_10_021526_Echoes_in_the_Feydark|S10]]:** Bolted toward Feydark portal. Carried Aeolus, Blarg, Amanita through. Gored Myconid D in combat.
+- **[[SITL_11_030126_Gifts_of_the_Carrion_King|S11]]:** Body transformed — now rothe/fungal hybrid with zurkhwood saddles. Can carry half the party. Entered Velkynvelve portal with party.
 
 ---
 
@@ -77,8 +66,10 @@ Docile when fed. No memories of past life, name, or location. Responsive to food
 
 - [[SITL_09_020126_Adopt_a_Rothe]]
 - [[Session 08 - The Whirlwind and the Depths]]
+- [[SITL_10_021526_Echoes_in_the_Feydark]]
+- [[SITL_11_030126_Gifts_of_the_Carrion_King]]
 - [[Amanita de'Champignon]]
 - [[Darby Stonefeather]]
 - [[Binks Stonevein]]
-- [[Eldeth]]
 - [[Campaign Dashboard]]
+#npc #beast #companion

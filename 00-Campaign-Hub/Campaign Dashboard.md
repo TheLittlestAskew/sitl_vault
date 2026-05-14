@@ -33,14 +33,14 @@
 
 ## NPC Companions (Current Party)
 
-- [[Turvy]] — Deep gnome, wererat. Pledged to control lycanthropy, conditional terms set by Kit (S06). Traveling with party. Not seen during Feydark interlude (S10); DM confirmed "did not forget about them."
-- [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Growing — began physical growth during S10 long rest; fungal roots enveloped Amanita protectively. Used rapport spores in combat to persuade Myconid C to stand down (S10).
-- [[Eldeth]] — Shield dwarf scout from Gauntlgrym. Not seen during Feydark interlude (S10); DM confirmed NPCs not forgotten.
+- [[Topsy]] — Deep gnome, wererat. Resurrected by the Carrion King via mycelial fibers (S11). Alive but weak. Traveling with party.
+- [[Turvy]] — Deep gnome, wererat. Pledged to control lycanthropy, conditional terms set by Kit (S06). Overjoyed at Topsy's resurrection (S11). Traveling with party.
+- [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Growing — began physical growth during S10 long rest; fungal roots enveloped Amanita protectively.
 - [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Compressed into Amanita's waterskin (S09). Long rest achieved in Feydark (S10) — should be fully reconstituted.
-- [[Roxanne]] — Rothe, fully resurrected by [[Binks Stonevein]] via 7th-level Resurrection scroll (S09). Female, larger than normal. Bolted for the Feydark portal (S10); carried Aeolus/Blarg/Amanita through. Instinctively recognized path in Feydark. Participated in combat — gored Myconid D (7 piercing). Calm by end of session.
+- [[Roxanne]] — Rothe, fully resurrected (S09). Body transformed in Feydark — now a rothe/fungal hybrid with zurkhwood saddles on either side, can carry half the party (S11). Chest of Holding still functional.
 
-### Former / Lost Companions
-- [[Topsy]] — Deep gnome, wererat. Killed by [[Kit Aluri]] with silvered crowbar during involuntary lycanthropic attack (S04). Body sealed in rebuilt safe house (inaccessible as of S09).
+### Former / Departed Companions
+- [[Eldeth]] — Shield dwarf scout from Gauntlgrym. Departed through the Gauntlgrym Nexus Pool portal (S11) to warn the dwarven kings and bring reinforcements. Promised to return.
 - [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Captured by quaggoths during S02 escape
 - [[Sarith Kzekarit]] — Drow prisoner. Escaped into pool during S02; told Kit to find him at [[04-World-Lore/Locations/Neverlight Grove]]
 
@@ -48,10 +48,11 @@
 
 ## Key Antagonists
 
-- [[Ilvara Mizzrym]] — Drow priestess, Velkynvelve commander, primary antagonist. Pursuit level 4 (S08-S09). Party entered Feydark portal (S10); drow cannot follow.
+- [[Ilvara Mizzrym]] — Drow priestess, Velkynvelve commander, primary antagonist. Party returning to Velkynvelve via Nexus Pool (S11). Drow garrison weakened post-demon battle but still defending.
 - [[Shoor Vandree]] — Drow warrior, Ilvara's current lieutenant/lover
 - [[Asha Vandree]] — Junior drow priestess; shoved off a cliff by [[Darby Stonefeather]] during S02 escape (fate unknown)
 - [[Jorlan Duskryn]] — Scarred drow elite warrior; aided the party's escape (S01-S02), confirmed dead per Addison's notes
+- The Corrupted Entity — Female, from the Abyss. A twisted reflection of [[Psilofyr]]. Seeks to control death and rot. Naos attempted to infiltrate her and is now in danger. Name unknown — Naos "dare not speak" it. Likely Zuggtmoy (do not metagame). (S11)
 
 ---
 
@@ -68,8 +69,8 @@
 | 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]] |
 | 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 - The Whirlwind and the Depths]] |
 | 09  | 02/01/2026 | Adopt-a-Rothe                 | [[SITL_09_020126_Adopt_a_Rothe]]               |
-| 10  | 02/15/2026 | Through the Fungal Gate    | [[SITL_10_021526_Through_the_Fungal_Gate]]  |
-| 11  | 03/01/2026 | —                             | [[Session 11]]                                 |
+| 10  | 02/15/2026 | Through the Fungal Gate       | [[SITL_10_021526_Through_the_Fungal_Gate]]     |
+| 11  | 03/01/2026 | Gifts of the Carrion King     | [[SITL_11_030126_Gifts_of_the_Carrion_King]]   |
 | 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12]]                                 |
 | 13  | 04/11/2026 | —                             | [[Session 13]]                                 |
 | 14  | 04/12/2026 | —                             | [[Session 14]]                                 |
@@ -83,19 +84,20 @@
 - [[The Northdark]] · [[04-World-Lore/Locations/The Darklake]]
 
 ### Key Campaign Locations
-- [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03)
+- [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03). Party returning via Nexus Pool (S11).
 - [[04-World-Lore/Locations/Blingdenstone]] — Deep gnome city; party's intended destination as of S03
 - [[04-World-Lore/Locations/Gracklstugh]] — Duergar city
 - [[04-World-Lore/Locations/Menzoberranzan]] — Iconic drow city
 - [[04-World-Lore/Locations/Neverlight Grove]] — Myconid settlement; Stool's home; Sarith's destination
-- [[04-World-Lore/Locations/Mantol-Derith]] — Trade enclave
+- [[04-World-Lore/Locations/Mantol-Derith]] — Trade enclave; Kit has connections there (S11)
 - [[04-World-Lore/Locations/The Silken Paths]] — Webbed travel route
 - [[Sloobludop]] — Kuo-toa settlement; identified as closer option (~10 days) but off-path (S03)
 
 ### Campaign-Specific Locations
-- [[04-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S10-S11). Realm of [[Psilofyr]]. Near the Court of Stars. Time is non-linear.
-- Feydark Cliffside Clearing — Clearing atop a cliff overlooking a massive gorge. Site of the Myconid Sovereign trial (S10). Rushing water below, sunset glow, moon visible.
-- Ancient Dwarvish/Duergar Safe House — Hidden waystation in northern passage, faerzress-suffused (S03-S05). Self-repairing magic sealed it shut, entombing Topsy's body (S04-S09).
+- [[04-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S10-S11). Realm of [[Psilofyr]]. Near the Court of Stars. Time is non-linear. Party departed S11.
+- Feydark Cliffside Clearing — Clearing atop a cliff overlooking a massive gorge. Site of the Myconid Sovereign trial (S10) and party camp/awakening (S11). Zurkhwood huts, goblin camp, waterfall sounds.
+- Nexus Pools Glade — Glade of autumn trees with seven circular pools and archway mirrors. Each pool shows a different Underdark/surface destination. Psilofyr's departure point. Connected via mycelial tunnels from the cliffside clearing. (S11)
+- Ancient Dwarvish/Duergar Safe House — Hidden waystation in northern passage, faerzress-suffused (S03-S05). Self-repairing magic sealed it shut, entombing Topsy's body (S04-S09). Carrion King retrieved Topsy's body from here (S11).
 - Bone Cavern — Below safe house shaft. Ancient bones, oily substance, gray ooze (S06)
 - Glabbagool's Corridor — Corridor occupied by awakened gelatinous cube, below bone cavern (S06)
 - [[Oozing Temple]] — Underground temple beneath safe house. Dragon statue, fountain treasure, tentacle/wave reliefs. Gray oozes, flooding (S06-S07)
@@ -108,16 +110,18 @@
 ## Open Threads & Mysteries
 
 ### Active
-- [ ] Aeolus's Spider Curse — Cursed by Lolth gemstone (S01). All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper
+- [ ] Aeolus's Spider Curse — Cursed by Lolth gemstone (S01). All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper. Aeolus confirmed in S11 he "gave away the diamond" and no longer has the curse (needs DM confirmation).
 - [ ] Sarith Kzekarit / Neverlight Grove — Sarith escaped during S02, told Kit to find him at Neverlight Grove. Said "They're coming"
-- [ ] Derendil's Capture — Captured by quaggoths during S02 escape. Claims to be polymorphed elven royalty
+- [ ] Derendil's Capture — Captured by quaggoths during S02 escape. Claims to be polymorphed elven royalty. Party chose Velkynvelve partly to rescue prisoners (S11).
 - [ ] Jimjar's Disappearance — Taken from cell overnight (S01); no one saw what happened
 - [ ] Buppido's Fate — Sacrificed to spiders but dropped into pool; body not recovered (S01). Per Addison: "Buppido escaped his execution"
 - [ ] Shuushar's Fate — Fell into pool (S01). Per Addison: if alive, likely went toward Sloobludop
 - [ ] Amanita's D4 Loot — Rolled 4 additional items from barracks chest (S01); DM never specified what they were
 - [ ] Kit's Crowbar Silvering — Crowbar tip spontaneously silvered during/before Topsy's death (S04-S05). Transmutation magic confirmed; source unknown
-- [ ] Faerzress Corruption — The ambient magical energy in the Underdark appears corrupted by chaotic/fiendish influence. Caused involuntary wererat transformation (S04). Destabilizes the Feydark portal (S09).
-- [ ] Demon Lords in the Underdark — Gray ooze telepathically broadcast "Flesh for the Faceless Lord" (first Juiblex reference, S03). Vrock and chasmes appeared at Velkynvelve (S01-S02). Dragon statue in Oozing Temple may be connected (S06). Psilofyr's visions warned of a "great evil" / "chaotic entity" threatening the balance of life and death (S10).
+- [ ] Faerzress Corruption — The ambient magical energy in the Underdark appears corrupted by chaotic/fiendish influence. Caused involuntary wererat transformation (S04). Destabilizes the Feydark portal (S09). Connected to the corrupted entity (S11).
+- [ ] The Corrupted Entity — Female entity from the Abyss. Twisted reflection of Psilofyr. Seeks to control death/rot. Naos infiltrated her and is now in danger. Name unknown — Naos "dare not speak" it. Psilofyr, Naos, and Binks/Darby visions all warn of this threat. (S10-S11)
+- [ ] Naos Rescue — Naos's avatar dissolved after giving Aeolus the ring. His "real form" is infiltrating the corrupted entity and is in danger. Aeolus must rescue him. (S11)
+- [ ] Demon Lords in the Underdark — Gray ooze telepathically broadcast "Flesh for the Faceless Lord" (first Juiblex reference, S03). Vrock and chasmes appeared at Velkynvelve (S01-S02). Dragon statue in Oozing Temple may be connected (S06). Psilofyr's visions warned of a "great evil" / "chaotic entity" threatening the balance of life and death (S10-S11).
 - [ ] Topsy & Turvy's Reluctance — Both twins were reluctant to return to Blingdenstone; reason unknown
 - [ ] Amanita's Corruption Dreams — Increasingly bad dreams of Neverlight Grove being corrupted by dark, oily presence (S01-S02)
 - [ ] Purple Eyes — A drow guard's eyes briefly turned from red to purple during Amanita's barracks interaction (S01); possible early sign of demonic corruption
@@ -126,17 +130,17 @@
 - [ ] Blarg's Moon Flask — Flask with moon shard that brightens/dims. Found in safe house. Given to Turvy (S05). Mechanics not yet established.
 - [ ] Darby's Green Flame Mace — Magical mace. Fire damage baseline; dealt radiant during S08. DM upgraded extra damage from +1 flat to D4 (S08). May alternate between fire and radiant.
 - [ ] Turvy's Conditional Terms — Pledged to control lycanthropy. Kit set terms: party comes first. If he loses control, Kit won't hesitate. (S06)
-- [ ] Darby's Ancestral Awakening — First rage manifested spectral ax beak feathers, whirlwind, and radiant energy (S08). DM prompted deity connection; Darby described generational connection to ax beak farming ancestors. Path of the Wild Heart likely eagle-focused.
-- [ ] Darby's Mace Properties — Mace normally deals fire damage, dealt radiant during S08. DM upgraded extra damage from 1 flat to D4. May alternate between fire and radiant.
-- [ ] Roxanne's Chest of Holding — Extradimensional storage chest fused to Roxanne's back. Password: "Roxanne" (Dwarvish). Exact capacity not yet specified by DM. (S09)
-- [ ] Topsy's Body — Sealed in rebuilt safe house by self-repairing Dwarven magic. Kit advocates for eventual resurrection. Binks can cast Resurrection at higher levels later. (S04-S09)
+- [ ] Darby's Ancestral Awakening — First rage manifested spectral ax beak feathers, whirlwind, and radiant energy (S08). DM prompted deity connection; Darby described generational connection to ax beak farming ancestors. Axe Beak rage option added via empowered totem (S11).
+- [ ] Roxanne's Chest of Holding — Extradimensional storage chest fused to Roxanne's back. Password: "Roxanne" (Dwarvish). Now in zurkhwood saddle form (S11). Exact capacity not yet specified by DM. (S09)
 - [ ] Blarg's Impeded Moon Connection — Religion check 9 (S08) revealed impeded connection to the moon at depth. Could affect Moonbeam, Wild Shape, Channel Divinity effectiveness deep in the Underdark. Moonbeam felt "maybe even a little bit weaker" in the Feydark (S10).
-- [ ] Heed the Warnings of Psilofyr — Both Binks's and Darby's visions independently warned of a "great evil" / "chaotic entity" threatening the balance of life and death, connected to the mycelial network. Binks's grandfather: "two beings, both kin and yet not kin." Psilofyr said "We will speak soon." (S10)
-- [ ] Trinket Empowerment — DM stated all trinkets will become empowered in the Feydark. Darby's carved trinket was empowered this session (glowed after father-vision). Binks's loot pick glowed with new power. Others pending next session. (S10)
-- [ ] Aeolus and Echo's Unfinished Business — Echo appeared in Feydark, confirmed Aeolus was "meant to be here, but not yet." Warned of something wrong in their future. Left before trial citing fae rules. Aeolus still wants to kill Echo. (S10)
-- [ ] Fae Goblins — Four fae goblins arrived as allies during S10 combat. Goblin boss: "Well, damn, you guys are all right." Party has not interacted with them yet. Kit understands Goblin. (S10)
+- [ ] Amanita's Champion Path — Psilofyr showed four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or direct Carrion King patron champion. Choice must be made "when the time comes." (S11)
+- [ ] Growth Items — DM confirmed all empowered trinkets are "growth items" that improve at certain level thresholds (S11). Track upgrades going forward.
+- [ ] Fey Touched Spell Choices — All PCs received Fey Touched feat (S11). Individual 1st-level spell selections not yet specified in transcript. Pending DM confirmation.
+- [ ] Kit's Isolation from Psilofyr — Kit was the only PC who did not receive a vision or comfort in the Feydark (S10). Her "gift" came through a scripted nightmare she couldn't win (S11). Narratively significant pattern.
+- [ ] Binks's Duplicate Mind Shielding — Binks has both the Ring of Mind Shielding (pre-campaign) and the loot pick with Mind Shielding properties (S11). Redundancy/stacking TBD.
 - [ ] Insectoid Creature in the Pool — Large insectoid creature with tentacles emerged from the Fungal Pond pool as party entered the portal. Nat 1 attack on Kit — missed. Identity unknown. (S10)
-- [ ] Kit's Isolation from Psilofyr — Kit was the only PC who did not receive a vision, comfort, or empowered trinket in the Feydark. She entered warrior meditation instead. Narratively significant — may indicate Psilofyr has different plans for her, or she has no dead family to call back. (S10)
+- [ ] Settle the Score at Velkynvelve — Party chose to return to Velkynvelve via Nexus Pool (S11). Arriving post-demon battle, outpost still defended (DM roll 10). (S11-S12)
+- [ ] Eldeth's Mission — Departed through Gauntlgrym portal (S11) to warn the dwarven kings. Promised to bring reinforcements and return.
 
 ### Completed
 - [x] Escape Velkynvelve — Completed (S02). Party jumped into pool during vrock/chasme chaos
@@ -150,7 +154,11 @@
 - [x] Roxanne Resurrected — Completed (S09). Binks cast 7th-level Resurrection from scroll (DC 17, rolled 21 w/ Guidance + Blarg Help). Rothe fully resurrected with flesh, fur, and fused chest. Named "Roxanne" from Dwarvish collar tag.
 - [x] Enter the Feydark Portal — Completed (S10). Blarg stabilized portal (arcana 23). Party entered. Roxanne bolted through first; Kit sensed insectoid creature behind them. Portal sealed.
 - [x] Survive the Feydark Trial — Completed (S10). Echo warned of a trial. Myconid Sovereign and adults attacked. Party defeated them. Psilofyr acknowledged the party.
-- [x] Pursuit Level 4 — Resolved (S10). Party entered the Feydark portal; drow cannot follow. Pursuit effectively reset.
+- [x] Pursuit Level 4 — Resolved (S10). Party entered the Feydark portal; drow cannot follow. Pursuit effectively reset. Party now returning to Velkynvelve voluntarily (S11).
+- [x] Trinket Empowerment — Completed (S11). All six PCs received empowered trinkets/items from Psilofyr/the Feydark. Kit: Doll of the Fallen Soldier. Aeolus: Ring of Spell Storing. Blarg: Goblin Family Carving. Amanita: Enhanced pipe + enspelled warpick. Darby: Axe Beak Totem. Binks: Mind Shielding Loot Pick.
+- [x] Topsy Resurrected — Completed (S11). The Carrion King retrieved Topsy's body from the sealed safe house and resurrected her via mycelial fibers. Topsy is alive but weak. Reunited with Turvy and the party.
+- [x] Fey Touched Granted — Completed (S11). Psilofyr granted all PCs the Fey Touched feat as a parting boon.
+- [x] Eldeth's Departure — Completed (S11). Eldeth departed through the Gauntlgrym Nexus Pool to warn the dwarven kings.
 
 ---
 
@@ -166,8 +174,9 @@
 | S07: Oozing temple flooding escape, environmental skill challenge | S07 | Minutes (immediate continuation from S06) |
 | S08: Black Pudding finale, upper cavern, mushroom caverns, short rest, travel | S08 | ~6-8 hours total travel since safe house (DM stated); short rest taken |
 | S09: Glabbagool return, tunnel scouting, Rothe resurrection, portal discovery | S09 | ~30 min to 1 hour (exploration/RP, no travel) |
-| S10: Feydark portal entry, visions, Myconid Sovereign trial, forced long rest, level-up | S10 | ~2 days subjective / ~1 hr Underdark time. DM granted short rest from time dilation mid-session; forced long rest at session end. |
-| Return combat at Velkynvelve + rests | S11-S13 | ~4-5 hours |
+| S10: Feydark portal entry, visions, Myconid Sovereign trial, forced long rest, level-up | S10 | ~2 days subjective / ~1 hr Underdark time |
+| S11: Feydark boons, Nexus Pools, departure to Velkynvelve | S11 | Unknown subjective Feydark time / portal transit |
+| S12-S13: Return combat at Velkynvelve | S12-S13 | ~4-5 hours |
 | **Total post-escape through S13** | | **~2-3 full days** |
 
 ---
