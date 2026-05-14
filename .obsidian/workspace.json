@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Campaign-Hub/Campaign Dashboard.md",
+                "file": "05-Mechanics/Roll_Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Dashboard"
+              "title": "Roll_Statistics"
             }
           }
         ],
@@ -231,8 +231,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b6fde32cdcbb266",
+  "active": "199b13cc89e8ac62",
   "lastOpenFiles": [
+    "Templates/Faction Template.md",
+    "Templates/Plant Fungus Template.md",
+    "Templates/Creature Template.md",
+    "Templates/PC Template.md",
+    "06-Media/Screenshot 2025-09-28 133542.png",
+    "06-Media/Screenshot 2025-09-28 133542 1.png",
+    "06-Media/Ilvara 1.png",
+    "00-Campaign-Hub/Campaign Dashboard.md",
     "01-Sessions/Session 09 —  Every Party Needs A “Little Guy”.md",
     "00-Campaign-Hub/Quote Board Master.md",
     "00-Campaign-Hub/Loot Tracker.md",
@@ -255,11 +263,6 @@
     "07-Flora_Fauna/Plants_Fungi/Fire Lichen.md",
     "Session_Sources/Transcripts/Corrected/03 - 110925_corrected.md",
     "00-Campaign-Hub/Profanity Ledger.md",
-    "01-Sessions/Session 05 — Silvered.md",
-    "moon-linked gemstone flask.md",
-    "01-Sessions/Session 04 — Life Isn't Faer-zress.md",
-    "01-Sessions/Session 03 — Into the Dark.md",
-    "01-Sessions/Session 02 — Come Get Your Shit.md",
     "03-Characters/PCs/Blarg CS.pdf",
     "03-Characters/PCs/Darby.pdf",
     "Screenshot 2025-09-28 133542 1.png",
@@ -271,9 +274,6 @@
     "06-Media/Buppido Derendil Eldeth.png",
     "06-Media/jimjar ront sarith.png",
     "06-Media/Shushar stool topsy turvy.png",
-    "06-Media/Ilvara.png",
-    "06-Media/topsy_and_turvy.png",
-    "06-Media/stool.png",
     "07-Flora_Fauna/Plants_Fungi",
     "07-Flora_Fauna/Creatures",
     "07-Flora_Fauna",

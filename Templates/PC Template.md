@@ -1,14 +1,15 @@
 ---
-type: npc
+type: pc
 race: 
 class: 
 affiliation: 
 status: 
-first_appearance: "[[Session — ]]"
+player: 
+first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
 location: 
 ---
 
-# {{Name}}
+# {{Character Name}}
 
 ## Description / Appearance
 

@@ -1,10 +1,26 @@
+---
+type: location
+region: 
+first_visited: "[[Session — ]]"
+status: 
+---
+
 # {{Location Name}}
-> **Type:** {{Location type}}
-> **Region:** {{Region}}
-> **Status:** {{Visited / Not visited}}
 
 ## Description
-## Key NPCs
-## Campaign Events
+
+## Notable Features
+
+## Inhabitants
+
+## History
+
+## Events
+| Session | Event |
+|---|---|
+| | |
+
+## Connections
+
 ## Related
-[[Campaign Dashboard]]
+- [[Campaign Dashboard]]
