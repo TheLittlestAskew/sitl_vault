@@ -108,16 +108,16 @@ total_rolls: 643
 
 ## Session-by-Session Roll Counts
 
-| Session | Date | Total | Combat | Non-Combat | Nat 20s | Nat 1s | Heaviest Roller |
-|---|---|---|---|---|---|---|---|
-| [[Session 01 — Prisoners of the Underdark\|S01]] | 10/12/25 | 67 | 6 | 61 | 4 | 3 | Amanita (17) |
-| [[Session 02 — Come Get Your Shit\|S02]] | 10/26/25 | 81 | 9 | 72 | 3 | 5 | Kit (20) |
-| [[Session 03 — Into the Dark\|S03]] | 11/09/25 | 100 | 9 | 91 | 7 | 4 | Binks (23) |
-| [[Session 04 — Life Isn't Faer-zress\|S04]] | 11/23/25 | 88 | 8 | 80 | 4 | 5 | Binks (22) |
-| [[Session 05 — Silvered\|S05]] | 12/07/25 | 66 | 3 | 63 | 1 | 3 | Kit (19) |
-| [[Session 06 — The Long Way Down\|S06]] | 12/21/25 | 160 | 27 | 133 | 4 | 5 | Amanita (36) |
-| [[Session 07 — Escape from the Oozing Temple\|S07]] | 01/04/26 | 22 | 0 | 22 | 1 | 0 | Aeolus (5) |
-| [[Session 08 — The Whirlwind and the Depths\|S08]] | 01/18/26 | 59 | 21 | 38 | 2 | 3 | Blarg (18) |
+| Session | Date | Total | Combat | Non-Combat | Nat 20s | Nat 1s | Heaviest Roller | Archive Rows |
+|---|---|---|---|---|---|---|---|---|
+| [[Session 01 — Prisoners of the Underdark\|S01]] | 10/12/25 | 67 | 6 | 61 | 4 | 3 | Amanita (17) | 56–122 |
+| [[Session 02 — Come Get Your Shit\|S02]] | 10/26/25 | 81 | 9 | 72 | 3 | 5 | Kit (20) | 124–204 |
+| [[Session 03 — Into the Dark\|S03]] | 11/09/25 | 100 | 9 | 91 | 7 | 4 | Binks (23) | 205–304 |
+| [[Session 04 — Life Isn't Faer-zress\|S04]] | 11/23/25 | 88 | 8 | 80 | 4 | 5 | Binks (22) | 305–392 |
+| [[Session 05 — Silvered\|S05]] | 12/07/25 | 66 | 3 | 63 | 1 | 3 | Kit (19) | 393–458 |
+| [[Session 06 — The Long Way Down\|S06]] | 12/21/25 | 160 | 27 | 133 | 4 | 5 | Amanita (36) | 459–618 |
+| [[Session 07 — Escape from the Oozing Temple\|S07]] | 01/04/26 | 22 | 0 | 22 | 1 | 0 | Aeolus (5) | 619–640 |
+| [[Session 08 — The Whirlwind and the Depths\|S08]] | 01/18/26 | 59 | 21 | 38 | 2 | 3 | Blarg (18) | 641–699 |
 
 ---
 

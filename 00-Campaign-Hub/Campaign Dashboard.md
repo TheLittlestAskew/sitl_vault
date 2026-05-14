@@ -15,6 +15,7 @@
 - [[Profanity Ledger|🤬 Profanity Ledger]]
 - [[Loot Tracker|🎒 Loot Tracker]]
 - [[House Rules & Rulings|📜 House Rules]]
+- [[Vault Sync Status|🔄 Vault Sync Status]]
 
 ---
 
