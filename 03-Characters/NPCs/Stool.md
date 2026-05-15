@@ -51,7 +51,7 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Said "feels like home is closer" near the Fungal Pond.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Said "Home is way, way closer now." First combat rapport spores — persuasion 16 convinced Myconid C to stand down. Physically grew during forced long rest.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Present throughout. No individual scene or dialogue. Traveled with party through Velkynvelve portal.
-- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Found [[Binks Stonevein|Binks]] inside [[Ilvara Mizzrym|Ilvara]]'s Darkness sphere by sound alone (perception 22). Provided Help action to Binks. Demonstrated tactical courage despite being a non-combatant sprout.
+- **[[Session 12 — Return to Velkynvelve|Session 12]]:** Found [[Binks Stonevein|Binks]] inside [[Ilvara Mizzrym|Ilvara]]'s Darkness sphere by sound alone (perception 22). Provided Help action to Binks. Demonstrated tactical courage despite being a non-combatant sprout.
 
 ## Key Quotes
 
@@ -70,7 +70,7 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - [[Session 09 —  Every Party Needs A “Little Guy”]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
-- [[SITL_12_032926_Return_to_Velkynvelve]]
+- [[Session 12 — Return to Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
 - [[Psilofyr]]

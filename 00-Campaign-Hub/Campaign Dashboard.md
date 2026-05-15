@@ -72,7 +72,7 @@
 | 09  | 02/01/2026 | Adopt-a-Rothe                 | [[Session 09 —  Every Party Needs A “Little Guy”]] |
 | 10  | 02/15/2026 | Through the Fungal Gate       | [[Session 10 — 021526_Echoes_in_the_Feydark]]      |
 | 11  | 03/01/2026 | Gifts of the Carrion King     | [[Session 11 — Gifts_of_the_Carrion_King]]         |
-| 12  | 03/29/2026 | Return to Velkynvelve         | [[SITL_12_032926_Return_to_Velkynvelve]]            |
+| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12 — Return to Velkynvelve]]            |
 | 13  | 04/11/2026 | —                             | [[Session 13]]                                     |
 | 14  | 04/12/2026 | —                             | [[Session 14]]                                     |
 

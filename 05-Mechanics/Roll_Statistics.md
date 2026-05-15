@@ -121,7 +121,7 @@ total_rolls: 643
 | [[Session 09 —  Every Party Needs A "Little Guy"\|S09]] | 02/01/26 | 22 | 1 | 21 | 0 | 0 | Amanita (7) | DDB |
 | [[Session 10 — 021526_Echoes_in_the_Feydark\|S10]] | 02/15/26 | 70 | 20 | 50 | * | * | Blarg (16) | DDB |
 | [[Session 11 — Gifts_of_the_Carrion_King\|S11]] | 03/01/26 | 13 | 7 | 6 | 1 | 1 | Kit (13) | DDB |
-| [[SITL_12_032926_Return_to_Velkynvelve\|S12]] | 03/29/26 | 36 | ~20 | ~16 | 0 | 0 | Kit (14) | DDB only |
+| [[Session 12 — Return to Velkynvelve\|S12]] | 03/29/26 | 36 | ~20 | ~16 | 0 | 0 | Kit (14) | DDB only |
 
 *Note: S09–S11 roll statistics added from DDB archive. S09 was a short RP-heavy session (22 DDB rolls, minimal combat). S10 was the Myconid Sovereign trial (70 DDB rolls — Aeolus not in archive, likely physical dice). S11 was Kit-only in the archive (13 rolls — all from Kit's scripted nightmare). Nat 20/nat 1 counts for S10 marked * pending individual_values audit. S12 logged 36 DDB rolls across Kit (14), Amanita (10), Darby (10), and 2 unattributed. Binks and Aeolus rolled physical dice exclusively (0 DDB entries). 13 additional transcript-only player rolls confirmed as physical dice. ~11 DM/NPC rolls from transcript dialogue.*
 

@@ -91,7 +91,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Perception 5 (3 adjusted) during tunnel scouting — worst roll of the session. Arcana 17 (15 adjusted) on the sealed chest — determined it is password-locked with lingering magic. Cast Speak with Animals on the newly resurrected [[Roxanne]] — confirmed no memories of past life, name, or location. Warned party "Don't check it out!" when Amanita rushed toward the Feydark portal. Had to leave early (Sirius), contributing to the cliffhanger ending.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Met Echo (patron raven). Participated in Myconid Sovereign trial.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Dream/vision with Naos (Archfey patron). Naos revealed: fell in love with Aeolus, bonded them without consent, infiltrated the corrupted entity (female, from the Abyss) and is now in danger. Naos offered wedding ring — Aeolus accepted. Naos dissolved into spores. Echo pecked at the ring: "So dramatic." Received **Ring of Spell Storing** (+1 WIS, growth item). Received **Fey Touched** from Psilofyr. Caught Blarg in goblin form (insight nat 20). Chose Velkynvelve. Entered Nexus Pool portal.
-- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Used Devil's Sight to full tactical advantage — 120ft perfect vision through both Darkness spheres while the rest of the party fought blind. Hit Drow Elite with Eldritch Blast (7 damage) from the tunnel. **Broke [[Shoor Vandree|Shore]]'s Darkness concentration with Witch Bolt (level 2): 22 lightning damage, Shore failed concentration save.** Single most impactful spell of the session — restored vision for the entire party. Rolled physical dice exclusively — zero DDB archive entries. Fey Touched spell choice not yet stated. Giant spiders in S12 did not specifically target Aeolus — spider curse may be lifted (needs DM confirmation).
+- **[[Session 12 — Return to Velkynvelve|Session 12]]:** Used Devil's Sight to full tactical advantage — 120ft perfect vision through both Darkness spheres while the rest of the party fought blind. Hit Drow Elite with Eldritch Blast (7 damage) from the tunnel. **Broke [[Shoor Vandree|Shore]]'s Darkness concentration with Witch Bolt (level 2): 22 lightning damage, Shore failed concentration save.** Single most impactful spell of the session — restored vision for the entire party. Rolled physical dice exclusively — zero DDB archive entries. Fey Touched spell choice not yet stated. Giant spiders in S12 did not specifically target Aeolus — spider curse may be lifted (needs DM confirmation).
 
 ## Key Quotes
 
@@ -120,7 +120,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 09 —  Every Party Needs A “Little Guy”]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
-- [[SITL_12_032926_Return_to_Velkynvelve]]
+- [[Session 12 — Return to Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

@@ -94,7 +94,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Successfully cast 7th-level Resurrection (DC 17, rolled 21). Resurrected [[Roxanne]]. **Highest-stakes spellcasting check of the campaign.**
 - **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Grandfather-vision. Loot pick began empowering. Leveled to 4, multiclassed into Rogue.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Tried to go back to sleep, believing he was dead. Heard grandfather's voice: "A wise Goliath once told me that your strength comes from your friends." Loot pick empowered (+1 STR, Ring of Mind Shielding properties, growth item). Made healing salve for Topsy (medicine nat 24). Brought Kit to see resurrected Topsy — told Kit "I was struggling with her death, so I knew you probably did, too." Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "I want to settle a score with some drow." Entered Nexus Pool portal.
-- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Tasha's Hideous Laughter. Scouted Velkynvelve from tunnel mouth (perception 23) — identified battle damage, dead drow/quaggoth/spider corpses, dead chasme in webbing. Cast Pass Without Trace for stealth approach. First kill of the session: auto-crit sneak attack on Hold Person'd patrol drow (15 damage, 13 HP drow — instant kill). Spotted by [[Shoor Vandree|Shore]], who shouted "You were a fool to return." Trapped in [[Ilvara Mizzrym|Ilvara]]'s Darkness sphere. [[Stool]] found him by sound (perception 22) and provided Help. Restrained by spider webbing. Crit Spiritual Weapon on Drow Elite (25 damage). Rolled physical dice exclusively — zero DDB archive entries. Misty Step blocked by darkness (RAW: requires sight).
+- **[[Session 12 — Return to Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Tasha's Hideous Laughter. Scouted Velkynvelve from tunnel mouth (perception 23) — identified battle damage, dead drow/quaggoth/spider corpses, dead chasme in webbing. Cast Pass Without Trace for stealth approach. First kill of the session: auto-crit sneak attack on Hold Person'd patrol drow (15 damage, 13 HP drow — instant kill). Spotted by [[Shoor Vandree|Shore]], who shouted "You were a fool to return." Trapped in [[Ilvara Mizzrym|Ilvara]]'s Darkness sphere. [[Stool]] found him by sound (perception 22) and provided Help. Restrained by spider webbing. Crit Spiritual Weapon on Drow Elite (25 damage). Rolled physical dice exclusively — zero DDB archive entries. Misty Step blocked by darkness (RAW: requires sight).
 
 ## Key Quotes
 
@@ -130,7 +130,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[SITL_09_020126_Adopt_a_Rothe]]
 - [[SITL_10_021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
-- [[SITL_12_032926_Return_to_Velkynvelve]]
+- [[Session 12 — Return to Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

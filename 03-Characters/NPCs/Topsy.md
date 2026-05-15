@@ -45,7 +45,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - **[[Session 02 — Come Get Your Shit]]:** Off shift when chaos erupted. Attacked a drow with [[Turvy]] during escape. Nearly knocked off the rope bridge (barely passed DEX save after drow nat 20 attack). [[Derendil]] leapt to help. Escaped into pool.
 - **[[Session 04 — Life Isn't Faer-zress]]:** Involuntarily transformed into wererat during first watch due to corrupted faerzress. Attacked party. Bit [[Kit Aluri]]. Kit killed Topsy with her crowbar. Body covered with blanket.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Resurrected by the Carrion King. Found in zurkhwood tent wrapped in mycelial fibers. Binks made healing salve (medicine 24). Topsy spoke to Kit — "Oh, hey, hey, Kit. What? I feel like absolute garbage, but you look worse than I did." Kit fell to her knees sobbing upon seeing Topsy alive. Traveling with party through Velkynvelve portal.
-- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Hid in rocks during combat (stealth 27). Whispered directions to [[Darby Stonefeather|Darby]] via the telepathic spore link — "To your right. To your right." Enabled Darby to locate and hit [[Shoor Vandree|Shore]]. Combat support role; did not attack directly.
+- **[[Session 12 — Return to Velkynvelve|Session 12]]:** Hid in rocks during combat (stealth 27). Whispered directions to [[Darby Stonefeather|Darby]] via the telepathic spore link — "To your right. To your right." Enabled Darby to locate and hit [[Shoor Vandree|Shore]]. Combat support role; did not attack directly.
 
 ## Key Quotes
 
@@ -70,7 +70,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
-- [[SITL_12_032926_Return_to_Velkynvelve]]
+- [[Session 12 — Return to Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Aeolus]]
 - [[04-World-Lore/Locations/Blingdenstone]]

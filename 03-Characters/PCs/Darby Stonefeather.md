@@ -99,7 +99,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Nature 23 identified rothe skeleton. Pinned by Roxanne (nat 1 animal handling). Claimed farmer/handler role.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Father-vision, trinket empowered. Clementine grew slightly.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Totem fully empowered (+1 CHA, Axe Beak rage option). Woke early, wandered camp. Stood over sleeping Kit — Kit punched her shin on instinct. Small talk with Eldeth and goblins. Received **Fey Touched** from Psilofyr. Voted Velkynvelve. Entered Nexus Pool portal.
-- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Animal Friendship. Entered Axe Beak rage in the darkness but couldn't find anyone to hit initially. Nearly collided with Amanita in darkness (Amanita nat 20 Dex dodge). Mounted [[Roxanne|Roxy]] mid-charge in darkness — Athletics dirty 20 (rage advantage + darkness disadvantage = flat roll). [[Topsy]] whispered directions via spore link. Hit [[Shoor Vandree|Shore]] with fire mace: 24 to hit, 16 damage (13 base + rage + fire). Shore held concentration. First f-bomb of the campaign: "Sneaks by the fuck."
+- **[[Session 12 — Return to Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Animal Friendship. Entered Axe Beak rage in the darkness but couldn't find anyone to hit initially. Nearly collided with Amanita in darkness (Amanita nat 20 Dex dodge). Mounted [[Roxanne|Roxy]] mid-charge in darkness — Athletics dirty 20 (rage advantage + darkness disadvantage = flat roll). [[Topsy]] whispered directions via spore link. Hit [[Shoor Vandree|Shore]] with fire mace: 24 to hit, 16 damage (13 base + rage + fire). Shore held concentration. First f-bomb of the campaign: "Sneaks by the fuck."
 
 ## Key Quotes
 
@@ -132,7 +132,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[SITL_09_020126_Adopt_a_Rothe]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
-- [[SITL_12_032926_Return_to_Velkynvelve]]
+- [[Session 12 — Return to Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

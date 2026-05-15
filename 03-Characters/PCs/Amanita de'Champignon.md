@@ -102,7 +102,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Discovered the Fungal Pond. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton. Found Resurrection scroll (7th level) and diamond. Compressed [[Glabbagool]]'s eye and gel into her waterskin. Said the party was "totally derailing the DM's plan."
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Rode Roxanne through. Participated in Myconid Sovereign trial. Used Halo of Spores in combat. Stool used rapport spores to convince Myconid C to stand down. Symbiotic entity form activated for free in the Feydark.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Deep elven trance — consciousness sank through the mycelial network to commune with Psilofyr directly. Shown four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or Carrion King patron champion. Pipe empowered (upgraded rapport spores: 3/day, 1hr, 30ft → unlimited range on same plane). Warpick empowered (+1 INT, Earth Tremor, Shillelagh). Casual Psilofyr fist-bumped her. Activated rapport spores in zurkhwood tent — connected entire party telepathically. Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "We could take them now. We're so awesome." Entered Nexus Pool portal.
-- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Thorn Whip. Rapport spores confirmed active from S11 activation (1 hour duration) — provided telepathic party communication throughout combat. Proposed drow disguise plan (dress as drow, carry unconscious drow, bluff onto lift) — rejected for tactical bottleneck approach. Dodged [[Darby Stonefeather|Darby]] in magical darkness with nat 20 Dex save. Hit Drow Elite with Poison Spray (6 damage) and Halo of Spores (6 necrotic, doubled to 12). Combined 12 damage to the elite in one turn.
+- **[[Session 12 — Return to Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Thorn Whip. Rapport spores confirmed active from S11 activation (1 hour duration) — provided telepathic party communication throughout combat. Proposed drow disguise plan (dress as drow, carry unconscious drow, bluff onto lift) — rejected for tactical bottleneck approach. Dodged [[Darby Stonefeather|Darby]] in magical darkness with nat 20 Dex save. Hit Drow Elite with Poison Spray (6 damage) and Halo of Spores (6 necrotic, doubled to 12). Combined 12 damage to the elite in one turn.
 
 ## Key Quotes
 
@@ -141,7 +141,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 09 —  Every Party Needs A “Little Guy”]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
-- [[SITL_12_032926_Return_to_Velkynvelve]]
+- [[Session 12 — Return to Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]
