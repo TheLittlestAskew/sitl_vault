@@ -490,6 +490,88 @@ Velkynvelve. Come get your shit. Again.
 
 ---
 
+## Session 12 — Return to Velkynvelve
+
+**
+
+Day ???:
+
+The spores faded from the rock behind us like veins draining of blood — purple and teal retreating into the stone as the portal sealed. No way back. No second thoughts. Just a narrow passage and the smell of smoke and old death drifting from the east.
+
+I stepped forward and the darkness swallowed everything familiar. Not the enchanted dark of the Feydark, where the fog had texture and the light had meaning. This was Velkynvelve dark. Prison dark. The kind that presses against your skin and reminds you of what you were the last time you breathed this air.
+
+Binks moved first. He always moves first when it matters. Pressed himself against the wall at the tunnel's mouth and studied the cavern like a man reading a map he has memorized but does not trust. Twenty-three on the check, and what he saw was a graveyard. Spider corpses draped in webbing. A dead chasme — one of those giant mosquito-demons — hanging limp from the strands. Drow bodies scattered across the cavern floor like dropped coins. Smoke still drifting from fires that had not quite died.
+
+But not all of them were dead. Ilvara was there, walking the boardwalk above us with Shore at her side. Inspecting. Assessing. The priestess who put us in chains was still standing, still commanding, and the fury that boiled up in my chest was so hot it nearly blinded me worse than any spell could.
+
+Asha too. On a spider. Burnt and wounded from the demon fight, but alive. Moving across the ceiling like nothing had changed, like the world had not just ripped itself apart around her.
+
+We argued about plans. Amanita wanted to dress up as a drow and bluff her way onto the lift. I asked if she could throw a body over her shoulder and she admitted she probably could not. Binks suggested a bottleneck. I agreed. Control the flow. Funnel them. Take them apart one at a time in the narrows where their numbers mean nothing.
+
+Addison asked us what we were actually trying to do and we realized none of us had an answer. Binks said he wanted to kick some drow ass. That was his whole thing. Amanita wanted to rescue whoever was left. I wanted — I do not know what I wanted. Closure? Revenge? The chance to stand in the place where they broke me and break something back?
+
+The patrol drow came to us. One guard, alone, checking bodies on the cavern floor. Blarg — Blarg who was not even there, whose player was somewhere in Germany doing whatever Germans do on Saturday afternoons — Blarg's magic reached out through us and froze the drow in place. Hold Person. Wisdom save of nine versus a DC of fifteen. The drow's face went rigid with surprise and then Binks was on him.
+
+I did not see the kill. I heard it. The wet sound of a blade finding a throat, quick and professional. Fifteen damage to a thirteen-hit-point guard. Binks came out of the shadows like a different person. Smaller than the drow, covered in blood, looking at his own hands like he was seeing them for the first time. "Didn't think it was gonna work," he said. We all just stared.
+
+Shore saw him. Of course Shore saw him. The lieutenant's voice rang across the cavern in Undercommon: "You were a fool to return." I could feel Binks's heart rate spike through the telepathic link. All of ours spiked.
+
+I held them in the tunnel. Kept everyone behind me. My hand on the wall, my sword in my fist, my voice in their minds: do not move. Do not let them see how many of us there are. Let them think it is just the gnome. Let them come.
+
+Ilvara's response was darkness. Not metaphorical. Literal magical darkness, a sphere of absolute nothing centered on Binks. One second the cavern was dim. The next, everything within fifteen feet of him was gone. Not dark — gone. No darkvision, no low light, no straining your eyes. Just void.
+
+I took a breath. And then I ran.
+
+Straight through the darkness. Greatsword out, angled low, covering as much ground as I could with my blade cutting a horizontal line through the black. I felt it connect — something gave way against the edge, something grunted, something stumbled. Nine points of damage to something I could not see. I emerged on the other side into dim light and three drow warriors and an elite were drifting down from the platforms like leaves, slow-falling, landing soft.
+
+I activated the adrenaline rush. Felt the surge hit my legs like a wave and I covered the distance to the nearest one in two strides. Swung. Missed. The blade passed within an inch of his neck and he sidestepped like a dancer. Thirteen to hit and it was not enough.
+
+But I have new tricks. The precision attack — the superiority die, the thing my body learned in the Feydark — I let it loose. Plus four. Thirteen became seventeen. The drow's dodge turned into a stumble and my sword caught him on the turn. Both dice came up sixes. Maximum damage. Sixteen points. The blade went three-quarters through him and he dropped like a puppet whose strings had been cut.
+
+I felt better. The first real swing since the nightmare — the dream where I could not hit anything, where every punch missed, where the dead soldiers cut me apart while I flailed in the fog. This was the opposite. This was clean and sharp and mine.
+
+Behind me, inside the darkness, Darby was raging blind. I heard her through the link — confused, angry, swinging at shadows. She could not find Binks. He is three feet tall and she is seven and neither of them could see anything. Meanwhile Stool — tiny, fragile, functionally useless in combat Stool — found Binks by sound alone and grabbed his hand. Gave him a direction. Gave him hope. That sprout has more courage than half the warriors I have served with.
+
+Amanita came through the darkness like a ghost. Dodged Darby in the void with a roll so clean I felt the satisfaction through the spore link. Emerged. Saw the drow elite. Hit him with poison spray and then unloaded her halo of spores for good measure. Twelve damage. The elite staggered but did not fall.
+
+Binks dropped his stealth spell and summoned his spiritual weapon — that spectral loot pick that hovers and strikes. Natural twenty. The crit damage was absurd: twenty-five points slammed into the elite's skull. Still standing. These drow elites are built different.
+
+Aeolus never left the tunnel. He did not need to. Devil’s Sight. One hundred and twenty feet of perfect vision through magical darkness. While the rest of us stumbled and bled and groped for our enemies, he stood in the back and watched everything. Eldritch Blast. Seven damage. Calm. Precise. Infuriating in the best way.
+
+Asha hit me from above. Guiding Bolt — a beam of radiant light from a hundred feet up, punching through whatever remained of my composure. Fifteen points of radiant damage. My ribs sang with pain. The next attack against me would have advantage.
+
+Then the spiders came. Webbing everywhere. Binks was restrained, stuck to the ground. I felt something pull at my legs but I twisted free. Shore stepped out of the darkness and cast another sphere of void, this time centered on me. Double darkness. Two overlapping zones of nothing, and I was right in the middle.
+
+Fuck darkness. I said it and I meant it.
+
+But here is the thing about darkness: it hurts them too. The drow cannot see in their own magical dark any more than we can. And we have something they do not. We have the spore link. We have Aeolus. We have a telepathic network that lets us share information at the speed of thought while they shout orders in Undercommon and hope for the best.
+
+I found Drow D in the dark. Perception check — twenty-two against a fifteen. I did not see him. I felt him. The displacement of air, the scrape of leather on stone, the faint whistle of breath through a helmet. I turned, swept low, caught his legs with mine, and as he fell I drove the greatsword down through his center mass. Trip attack. Seven points from the superiority die plus eleven from the blade. He did not get up.
+
+Two drow dead by my hand. In the dark. Fighting blind. I do not know if I have ever felt more like a soldier.
+
+Darby found Roxy. Called her forward and the rothe charged through the tunnel like a freight train. Darby vaulted onto her back mid-stride — blind, raging, making an athletics check that should not have worked but did because the universe occasionally rewards audacity. Topsy — sweet, resurrected Topsy, hiding in the rocks with a stealth of twenty-seven — whispered directions in Darby's mind. "To your right. To your right." Darby spotted Shore, pulled out the fire mace, and brought it down on him with everything she had. Twenty-four to hit. Sixteen damage. The mace flared green and Shore staggered.
+
+He held his concentration. The darkness stayed. I could have screamed.
+
+But then Aeolus decided he had seen enough. He stepped forward, raised his hand, and channeled witch bolt — second level, three dice of lightning — straight into Shore's chest. Twenty-four to hit. Twenty-two damage. Shore's body convulsed. His eyes went wide. And the darkness dropped.
+
+Light. Dim, faerzress-tinged, barely enough to see by. But light. I could make out shapes again. Bodies. Walls. The faces of my friends.
+
+Asha slow-fell from her spider. Landed. Summoned a spiritual weapon — a multi-headed whip, purple and sickly — and swung it at me. Missed. It was the most satisfying miss of my entire life.
+
+Addison called the session there. Shore is barely standing. The elite is bloody. Ilvara has not committed yet. Asha is grounded. Two giant spiders and the quaggoths are still up there somewhere. We are bruised, some of us bleeding, fighting in a place that used to be our prison.
+
+But we are not prisoners anymore. We came back. We chose this. And somewhere in the darkness, a patrol drow's body is proof that we are not the same people who jumped into a pool and ran.
+
+I need a finesse weapon. The drow carry dirks — short swords, perfect for the rogue training I have been building toward. Once I can get my hands on one, the sneak attack damage opens up. One more kill and I will take it off the body myself.
+
+Until then: greatsword. Darkness. And the sound of Kit Aluri's sword finding meat.
+
+**
+
+---
+
 ## Related
 - [[Kit Aluri]]
 - [[Campaign Dashboard]]

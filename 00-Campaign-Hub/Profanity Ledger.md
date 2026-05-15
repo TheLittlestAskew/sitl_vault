@@ -108,21 +108,34 @@ Tracking profanity by speaker, word, frequency, and context across all sessions.
 
 ---
 
-## Running Totals (Through S11)
+## Session 12 — Return to Velkynvelve
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fuck" | 1 | "Fuck darkness. I hate darkness so bad." — Frustrated by magical darkness blocking Misty Step |
+| Kit Aluri (Taylor) | "damn" | 2 | "Damn it, Addison" (Shore spots Binks); "Damn" (missed attack roll) |
+| Kit Aluri (Taylor) | "hell" | 1 | "Oh, hell yeah" — Realizing rapport spores let her communicate telepathically for tactics |
+| Kit Aluri (Taylor) | "ass" | 1 | "Got my ass kicked" — Reflecting on S11 nightmare |
+| Darby Stonefeather (Austin) | "fuck" | 1 | "Sneaks by the fuck" — Reacting to Amanita's nat 20 dodge in darkness |
+| Binks Stonevein (Matt) | "ass" | 1 | "I want to kick some drow ass" |
+
+---
+
+## Running Totals (Through S12)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 3 | 3 | 3 | 4 | — | — | 13 |
+| Kit Aluri (Taylor) | 3 | 4 | 5 | 5 | 1 | — | 18 |
 | Addison (DM) | 3 | 1 | — | — | 2 | — | 6 |
-| Darby Stonefeather (Austin) | — | — | 2 | — | — | — | 2 |
+| Darby Stonefeather (Austin) | — | 1 | 2 | — | — | — | 3 |
+| Binks Stonevein (Matt) | — | — | — | 1 | 1 | — | 2 |
 | Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
-| Binks Stonevein (Matt) | — | — | — | 1 | — | — | 1 |
 | Aeolus (Sirius) | — | — | — | 1 | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Blarg (Florian) | — | — | — | 1 | — | — | 1 |
 
-*Kit maintains her lead as the campaign's primary profanity contributor with 13 instances across 11 sessions. Addison (DM) moves into second place with 6 instances after Psilofyr's casual persona dropped two "ass" bombs. Amanita's first profanity recorded in S11.*
+*Kit extends her lead to 18 instances through 12 sessions. Darby picks up her first f-bomb. Binks's "ass" is a notable first.*
 
 ---
 

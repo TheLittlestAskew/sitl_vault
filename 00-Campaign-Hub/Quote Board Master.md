@@ -494,6 +494,74 @@ Verbatim quotes across all sessions. Tagged by character and type.
 **Addison (DM) · [DM Quip]** "I swear this wasn't intentional. You become kind of my punching bag."
 
 
+## Session 12 — Return to Velkynvelve
+
+**[[Binks Stonevein]] · [Funny]**
+"No point. But I think it'd be funny." — On the idea of talking to their past selves
+
+**[[Binks Stonevein]] · [Funny]**
+"I remember I said, I want to kick some drow ass. That was my whole thing."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Oh, you know what I could do? I could take that other dead guy's like cape and armor and then we could knock the other one out and I could dress up like a drow and drag the other one over my shoulder and be like, help guys. He's injured. And they'll totally like lift us up in the. In the lift. Foolproof."
+
+**[[Kit Aluri]] · [Banter]**
+"I'm just curious about your. Your physical strength. Can you throw somebody over your shoulder and carry them?"
+
+**[[Kit Aluri]] · [Serious/Tactical]**
+"If we can control the flow of them coming in, we could take them out really easily."
+
+**[[Binks Stonevein]] · [Funny/Tactical]**
+"If we can funnel them, we have chances."
+
+**[[Binks Stonevein]] · [Funny]**
+"So I just put my hands up and be like, listen, guys, it was a whole misunderstanding. I was trying to kill more of you before. Like, you noticed."
+
+**[[Shoor Vandree]] (Addison) · [Serious/Important]**
+"You were a fool to return."
+
+**[[Kit Aluri]] · [Serious/Tactical]**
+"Don't panic. We're all over here, obviously, but I'm also blocking anybody else from going through right now. I don't want them to see all of us yet."
+
+**[[Kit Aluri]] · [Poignant]**
+"Kit takes a deep breath. Because she died yesterday. Even though that wasn't for real, it still felt real."
+
+**[[Kit Aluri]] · [Funny]**
+"Fuck darkness. I hate darkness so bad."
+
+**[[Kit Aluri]] · [Funny/Tactical]**
+"Hey, don't move. I'm going to run, and I don't want to run into you, and I can't see anything."
+
+**[[Kit Aluri]] · [Serious]**
+"I already feel so much better because the last time I was in a fight, it was a dream and it was really bad."
+
+**[[Binks Stonevein]] · [Funny]**
+"He's three foot tall." — On why Darby can't find Binks by groping in the darkness
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Amanita's like, oh, like I'm a ninja now." — After nat 20 Dex save dodging Darby in darkness
+
+**[[Darby Stonefeather]] · [Funny]**
+"Sneaks by the fuck." — Reacting to Amanita's nat 20 dodge
+
+**[[Kit Aluri]] · [Funny]**
+"Somebody remind me next time I level up to do blind fighting."
+
+**[[Kit Aluri]] · [Banter/Tactical]**
+"It's hurting them to have this darkness up more than it's hurting us."
+
+**[[Darby Stonefeather]] · [Funny]**
+"We are familiar with the darkness at this point."
+
+**[[Kit Aluri]] · [Funny]**
+"They bring it down and we're like, no, put it back up. We're doing fine."
+
+**[[Darby Stonefeather]] · [Funny]**
+"What the are they doing?" — On Topsy and Turvy during combat
+
+---
+
+
 # Quote Board Master
 
 Verbatim quotes across all sessions. Tagged by character and type.

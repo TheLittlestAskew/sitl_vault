@@ -50,8 +50,8 @@
 ## Key Antagonists
 
 - [[Ilvara Mizzrym]] — Drow priestess, Velkynvelve commander, primary antagonist. Party returning to Velkynvelve via Nexus Pool (S11). Drow garrison weakened post-demon battle but still defending.
-- [[Shoor Vandree]] — Drow warrior, Ilvara's current lieutenant/lover
-- [[Asha Vandree]] — Junior drow priestess; shoved off a cliff by [[Darby Stonefeather]] during S02 escape (fate unknown)
+- [[Shoor Vandree]] — Drow warrior, Ilvara's current lieutenant/lover. Cast Darkness on Kit during S12 assault. Hit by Darby's fire mace (16 dmg). Witch Bolt from Aeolus broke his Darkness concentration. Badly wounded as of S12 end.
+- [[Asha Vandree]] — Junior drow priestess; shoved off a cliff by [[Darby Stonefeather]] during S02 escape. Survived. Appears in S12 on a giant spider, burnt and injured from demon battle. Cast Guiding Bolt on Kit (15 radiant) and summoned Spiritual Weapon (missed).
 - [[Jorlan Duskryn]] — Scarred drow elite warrior; aided the party's escape (S01-S02), confirmed dead per Addison's notes
 - The Corrupted Entity — Female, from the Abyss. A twisted reflection of [[Psilofyr]]. Seeks to control death and rot. Naos attempted to infiltrate her and is now in danger. Name unknown — Naos "dare not speak" it. Likely Zuggtmoy (do not metagame). (S11)
 
@@ -72,7 +72,7 @@
 | 09  | 02/01/2026 | Adopt-a-Rothe                 | [[Session 09 —  Every Party Needs A “Little Guy”]] |
 | 10  | 02/15/2026 | Through the Fungal Gate       | [[Session 10 — 021526_Echoes_in_the_Feydark]]      |
 | 11  | 03/01/2026 | Gifts of the Carrion King     | [[Session 11 — Gifts_of_the_Carrion_King]]         |
-| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12]]                                     |
+| 12  | 03/29/2026 | Return to Velkynvelve         | [[SITL_12_032926_Return_to_Velkynvelve]]            |
 | 13  | 04/11/2026 | —                             | [[Session 13]]                                     |
 | 14  | 04/12/2026 | —                             | [[Session 14]]                                     |
 
@@ -111,7 +111,7 @@
 ## Open Threads & Mysteries
 
 ### Active
-- [ ] Aeolus's Spider Curse — Cursed by Lolth gemstone (S01). All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper. Aeolus confirmed in S11 he "gave away the diamond" and no longer has the curse (needs DM confirmation).
+- [ ] Aeolus's Spider Curse — Cursed by Lolth gemstone (S01). All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper. Aeolus confirmed in S11 he "gave away the diamond" and no longer has the curse (needs DM confirmation). Giant spiders in S12 did not specifically target Aeolus — curse may be lifted.
 - [ ] Sarith Kzekarit / Neverlight Grove — Sarith escaped during S02, told Kit to find him at Neverlight Grove. Said "They're coming"
 - [ ] Derendil's Capture — Captured by quaggoths during S02 escape. Claims to be polymorphed elven royalty. Party chose Velkynvelve partly to rescue prisoners (S11).
 - [ ] Jimjar's Disappearance — Taken from cell overnight (S01); no one saw what happened
@@ -136,11 +136,11 @@
 - [ ] Blarg's Impeded Moon Connection — Religion check 9 (S08) revealed impeded connection to the moon at depth. Could affect Moonbeam, Wild Shape, Channel Divinity effectiveness deep in the Underdark. Moonbeam felt "maybe even a little bit weaker" in the Feydark (S10).
 - [ ] Amanita's Champion Path — Psilofyr showed four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or direct Carrion King patron champion. Choice must be made "when the time comes." (S11)
 - [ ] Growth Items — DM confirmed all empowered trinkets are "growth items" that improve at certain level thresholds (S11). Track upgrades going forward.
-- [ ] Fey Touched Spell Choices — All PCs received Fey Touched feat (S11). Individual 1st-level spell selections not yet specified in transcript. Pending DM confirmation.
+- [ ] Fey Touched Spell Choices — All PCs received Fey Touched feat (S11). Confirmed S12: Kit = Hunter's Mark, Darby = Animal Friendship, Binks = Tasha's Hideous Laughter, Amanita = Thorn Whip. Aeolus's choice not yet stated. Blarg absent.
 - [ ] Kit's Isolation from Psilofyr — Kit was the only PC who did not receive a vision or comfort in the Feydark (S10). Her "gift" came through a scripted nightmare she couldn't win (S11). Narratively significant pattern.
 - [ ] Binks's Duplicate Mind Shielding — Binks has both the Ring of Mind Shielding (pre-campaign) and the loot pick with Mind Shielding properties (S11). Redundancy/stacking TBD.
 - [ ] Insectoid Creature in the Pool — Large insectoid creature with tentacles emerged from the Fungal Pond pool as party entered the portal. Nat 1 attack on Kit — missed. Identity unknown. (S10)
-- [ ] Settle the Score at Velkynvelve — Party chose to return to Velkynvelve via Nexus Pool (S11). Arriving post-demon battle, outpost still defended (DM roll 10). (S11-S12)
+- [ ] Settle the Score at Velkynvelve — Party chose to return to Velkynvelve via Nexus Pool (S11). Arriving post-demon battle, outpost still defended (DM roll 10). Assault underway (S12). Patrol drow killed. Shore and Drow Elite badly wounded. Ilvara, Asha, spiders, and quaggoths still active. Battle continues S13.
 - [ ] Eldeth's Mission — Departed through Gauntlgrym portal (S11) to warn the dwarven kings. Promised to bring reinforcements and return.
 
 ### Completed

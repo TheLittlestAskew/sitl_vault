@@ -148,6 +148,17 @@ _Note: Kit's armor AC penalty is permanent per DM ruling. Darby's mace damage up
 
 ---
 
+## Session 12 — Return to Velkynvelve
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|Drow dirk (short sword)|Kit killed Drow F and noted she's searching for a finesse weapon for Sneak Attack. Addison confirmed drow carry dirks (short swords). Pickup not explicitly narrated — likely assumed.|**Assumed acquired** — Confirm with DM|
+|No other new loot acquired|—|Session was entirely combat; mid-battle at session end|—|
+
+_Note: Kit's armor status unchanged from S08 acid damage (-1 AC). Rapport spores confirmed active for 1 hour from S11 activation._
+
+---
+
 ## Related
 
 [[Campaign Dashboard]]

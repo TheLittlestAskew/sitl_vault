@@ -42,6 +42,12 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Doll of the Fallen Soldier (S11, homebrew):** Kit's trinket. +1 CHA. On a failed death save, the doll animates: causes disadvantage on attacks against Kit (or chosen ally), carries target from danger. Cannot take attacks itself. Can be assigned to an ally instead of Kit.
 - **Shillelagh on warpick (S11, homebrew):** Amanita can cast Shillelagh on her warpick (normally restricted to staves and clubs). DM ruling specific to her empowered warpick.
 - **Rapport Spores upgrade (S11, homebrew):** Amanita's rapport spores now have unlimited range on the same plane after the initial 30ft emanation establishes the link. 3 uses per day, 1 hour each. Upgraded by Psilofyr.
+- **Absent PC spellcasting by proxy (S12):** When Florian (Blarg) was absent, DM allowed present players to use Blarg's prepared spells (specifically Hold Person) as a surprise round action. Blarg's character was treated as present but on autopilot. Precedent for absent-player spell use.
+- **Greatsword sweep in darkness (S12):** Kit ran through magical darkness with greatsword out. DM ruled a Dex save for the patrol drow she passed (who failed, took 9 damage). Not counted as an attack action — Kit retained her normal attack afterward.
+- **Perception check to negate blindness penalty (S12):** DM allowed Kit a perception check (DC 15) to sense a nearby drow in magical darkness. Success = straight attack roll instead of disadvantage. Establishes precedent for fighting blind in darkness.
+- **Rage maintenance via bonus action (2024 rules, S12):** Darby confirmed under 2024 rules, rage can be maintained via bonus action even without taking/dealing damage. DM accepted this.
+- **Misty Step requires sight (S12):** DM enforced RAW: Misty Step requires seeing the destination. Cannot be used in magical darkness. Binks and Kit both blocked from using it while in Darkness spheres.
+- **Athletics check to mount moving creature (S12):** Darby attempted to mount Roxy mid-charge. DM called for Athletics check with disadvantage (darkness), offset by rage advantage = flat roll. DC not stated; dirty 20 succeeded.
 
 ### Campaign Setting
 - **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04), triggered short-term madness in Amanita when she cast Detect Magic on it (S05), and destabilizes the Feydark portal (S09). Connected to the corrupted entity's influence (S11).
