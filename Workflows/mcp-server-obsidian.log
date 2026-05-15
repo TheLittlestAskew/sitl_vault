@@ -1,0 +1,101 @@
+2026-05-13T18:37:37.936Z [obsidian] [info] Initializing server... { metadata: undefined }
+2026-05-13T18:37:38.010Z [obsidian] [info] Using MCP server command: C:\WINDOWS\System32\cmd.exe with args and path: {
+  metadata: {
+    args: [
+      '/C',
+      'C:\\Program Files\\nodejs\\npx.cmd',
+      '-y',
+      'obsidian-mcp',
+      [length]: 4
+    ],
+    paths: [
+      'C:\\Program Files\\nodejs',
+      'C:\\Python314',
+      'C:\\Program Files\\Git\\cmd',
+      'C:\\Program Files\\Git\\mingw64\\bin',
+      'C:\\WINDOWS\\system32',
+      'C:\\WINDOWS',
+      'C:\\WINDOWS\\System32\\Wbem',
+      'C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\',
+      'C:\\WINDOWS\\System32\\OpenSSH\\',
+      'C:\\Program Files\\dotnet\\',
+      'C:\\Program Files\\Microsoft\\Azure Functions Core Tools\\',
+      'C:\\Program Files\\nodejs\\',
+      'C:\\Users\\theli\\AppData\\Local\\Microsoft\\WindowsApps',
+      'C:\\Users\\theli\\AppData\\Local\\Python\\bin',
+      'C:\\Users\\theli\\AppData\\Local\\Programs\\Microsoft VS Code\\bin',
+      'C:\\Users\\theli\\AppData\\Roaming\\npm',
+      [length]: 16
+    ]
+  }
+} %o
+2026-05-13T18:37:38.033Z [obsidian] [info] Server started and connected successfully { metadata: undefined }
+2026-05-13T18:37:39.828Z [obsidian] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2025-11-25","capabilities":{"extensions":{"io.modelcontextprotocol/ui":{"mimeTypes":["text/html;profile=mcp-app"]}}},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+
+Obsidian MCP Server - Multi-vault Support
+
+Usage: obsidian-mcp <vault1_path> [vault2_path ...]
+
+Requirements:
+- Paths must point to valid Obsidian vaults (containing .obsidian directory)
+- Vaults must be initialized in Obsidian at least once
+- Paths must have read and write permissions
+- Paths cannot overlap (one vault cannot be inside another)
+- Each vault must be a separate directory
+- Maximum 10 vaults can be connected at once
+
+Security restrictions:
+- Must be on a local filesystem (no network drives or mounts)
+- Cannot point to system directories
+- Hidden directories not allowed (except .obsidian)
+- Cannot use the home directory root
+- Cannot use symlinks that point outside their directory
+- All paths must be dedicated vault directories
+
+Note: If a path is not recognized as a vault, open it in Obsidian first to 
+initialize it properly. This creates the required .obsidian configuration directory.
+
+Recommended locations:
+- ~/Documents/Obsidian/[vault-name]     # Recommended for most users
+- ~/Notes/[vault-name]                  # Alternative location
+- ~/Obsidian/[vault-name]              # Alternative location
+
+Not supported:
+- Network drives (//server/share)
+- Network mounts (/net, /mnt, /media)
+- System directories (/tmp, C:\Windows)
+- Hidden directories (except .obsidian)
+
+Vault names are automatically generated from the last part of each path:
+- Spaces and special characters are converted to hyphens
+- Names are made lowercase for consistency
+- Numbers are appended to resolve duplicates (e.g., 'work-vault-1')
+
+Examples:
+  # Valid paths:
+  obsidian-mcp ~/Documents/Obsidian/Work ~/Documents/Obsidian/Personal
+  → Creates vaults named 'work' and 'personal'
+
+  obsidian-mcp ~/Notes/Work ~/Notes/Archive
+  → Creates vaults named 'work' and 'archive'
+
+  # Invalid paths:
+  obsidian-mcp ~/Vaults ~/Vaults/Work     # ❌ Paths overlap
+  obsidian-mcp ~/Work ~/Work              # ❌ Duplicate paths
+  obsidian-mcp ~/                         # ❌ Home directory root
+  obsidian-mcp /tmp/vault                 # ❌ System directory
+  obsidian-mcp ~/.config/vault            # ❌ Hidden directory
+  obsidian-mcp //server/share/vault       # ❌ Network path
+  obsidian-mcp /mnt/network/vault         # ❌ Network mount
+  obsidian-mcp ~/symlink-to-vault         # ❌ External symlink
+
+npm notice
+npm notice New minor version of npm available! 11.13.0 -> 11.14.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.14.1
+npm notice To update run: npm install -g npm@11.14.1
+npm notice
+2026-05-13T18:38:21.851Z [obsidian] [info] Server transport closed { metadata: undefined }
+2026-05-13T18:38:21.852Z [obsidian] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2026-05-13T18:38:21.852Z [obsidian] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2026-05-13T18:38:21.853Z [obsidian] [info] Client transport closed { metadata: undefined }
+2026-05-13T18:38:21.854Z [obsidian] [info] Client transport closed { metadata: undefined }
