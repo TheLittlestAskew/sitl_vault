@@ -38,8 +38,8 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Goblin wild shape (S11, homebrew):** Blarg can use a wild shape charge to transform into a goblin. Keeps own stats but gains goblin appearance and Fury of the Small racial feature. Duration follows normal wild shape rules (1 hour per DM statement, though 2024 Moon Druid may differ — confirm).
 
 ### Homebrew Items & Features
-- **Growth items (S11):** DM confirmed all empowered trinkets from the Feydark are "growth items" that improve at certain level thresholds. Track upgrades going forward.
-- **Doll of the Fallen Soldier (S11, homebrew):** Kit's trinket. +1 CHA. On a failed death save, the doll animates: causes disadvantage on attacks against Kit (or chosen ally), carries target from danger. Cannot take attacks itself. Can be assigned to an ally instead of Kit.
+- **Growth items (S11):** DM confirmed all empowered trinkets from the Feydark are "growth items" that improve at certain level thresholds. Track upgrades going forward. S13 pre-session confirmed stat bonuses: Kit +1 STR, Aeolus +1 WIS, Blarg +1 CHA, Darby +1 CHA (Axebeak form) and +1 INT (Pipe). Binks's trinket empowerment NOT included in Addison's review — gap.
+- **Doll of the Fallen Soldier (S11, homebrew):** Kit's trinket. +1 CHA. On a failed death save, the doll animates: causes disadvantage on attacks against Kit (or chosen ally), carries target from danger. Cannot take attacks itself. Can be assigned to an ally instead of Kit. Uses "Sentient Armor" stat block per Addison (S13) — exact capabilities TBD.
 - **Shillelagh on warpick (S11, homebrew):** Amanita can cast Shillelagh on her warpick (normally restricted to staves and clubs). DM ruling specific to her empowered warpick.
 - **Rapport Spores upgrade (S11, homebrew):** Amanita's rapport spores now have unlimited range on the same plane after the initial 30ft emanation establishes the link. 3 uses per day, 1 hour each. Upgraded by Psilofyr.
 - **Absent PC spellcasting by proxy (S12):** When Florian (Blarg) was absent, DM allowed present players to use Blarg's prepared spells (specifically Hold Person) as a surprise round action. Blarg's character was treated as present but on autopilot. Precedent for absent-player spell use.
@@ -48,6 +48,10 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Rage maintenance via bonus action (2024 rules, S12):** Darby confirmed under 2024 rules, rage can be maintained via bonus action even without taking/dealing damage. DM accepted this.
 - **Misty Step requires sight (S12):** DM enforced RAW: Misty Step requires seeing the destination. Cannot be used in magical darkness. Binks and Kit both blocked from using it while in Darkness spheres.
 - **Athletics check to mount moving creature (S12):** Darby attempted to mount Roxy mid-charge. DM called for Athletics check with disadvantage (darkness), offset by rage advantage = flat roll. DC not stated; dirty 20 succeeded.
+
+### Session 13 Rulings
+- **Topsy/Turvy level-up between sessions (S13 pre-session):** DM allowed Taylor (Topsy) and Matt (Turvy) to manage the twins' level-up. Each gets 3 stat points, Fey-Touched (with Misty Step + 1st-level spell choice), and hit point rolls. Players operate the twins in combat; DM can override for story reasons.
+- **Trinket stat bonuses confirmed (S13 pre-session):** Ring of Mind Shielding (Kit) +1 STR. Ring of Spell Storing (Aeolus) +1 WIS. Goblin Carving (Blarg) +1 CHA. Axebeak form (Darby) +1 CHA. Pipe (Darby) +1 INT. Binks's trinket not addressed — gap.
 
 ### Campaign Setting
 - **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04), triggered short-term madness in Amanita when she cast Detect Magic on it (S05), and destabilizes the Feydark portal (S09). Connected to the corrupted entity's influence (S11).
@@ -64,6 +68,7 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 ### Retcons
 - **S08: Exhaustion tracking retconned by Addison.** S03-S07 time/condition data should be treated as approximated. All PCs reset to 1 level of exhaustion at S08 start.
 - **S09: 2024 Exhaustion rules clarified.** Level 1 exhaustion = -2 to all d20 tests, -5 speed. NOT disadvantage (that was 2014 rules). Death at level 6. Applies to death saving throws. Long rest required to remove.
+- **S13: Jorlan Duskryn alive.** Previously listed as dead per Addison's 11/22/25 notes ("Older drow who helped the party and died"). Appeared alive in S13 — shot Ilvara with a crossbow and smiled. Either a retcon or the earlier note was misleading/in-world information rather than fact. Needs DM clarification.
 
 ---
 

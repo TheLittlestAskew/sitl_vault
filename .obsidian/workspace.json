@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Sessions/Session 12 — Return to Velkynvelve.md",
+                "file": "Session_Sources/Transcripts/Corrected/13 - 041126_corrected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12 — Return to Velkynvelve"
+              "title": "13 - 041126_corrected"
             }
           }
         ]
@@ -216,11 +216,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "199b13cc89e8ac62",
+  "active": "66d7001f8491a7f1",
   "lastOpenFiles": [
+    "01-Sessions/Session 12 — Return to Velkynvelve.md",
     "Session_Sources/Transcripts/Corrected/13 - 041126_corrected.md",
     "05-Mechanics/Spell_Usage.md",
-    "01-Sessions/Session 12 — Return to Velkynvelve.md",
     "Session_Sources/Transcripts/Corrected/Session 04 — Life Isn't Faer-zress.md",
     "01-Sessions/Session 11 — Gifts_of_the_Carrion_King.md",
     "SITL_Vault_Structure_Guide.md",

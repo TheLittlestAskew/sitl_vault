@@ -34,25 +34,27 @@
 
 ## NPC Companions (Current Party)
 
-- [[Topsy]] — Deep gnome, wererat. Resurrected by the Carrion King via mycelial fibers (S11). Alive but weak. Traveling with party.
-- [[Turvy]] — Deep gnome, wererat. Pledged to control lycanthropy, conditional terms set by Kit (S06). Overjoyed at Topsy's resurrection (S11). Traveling with party.
-- [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Growing — began physical growth during S10 long rest; fungal roots enveloped Amanita protectively.
+- [[Topsy]] — Deep gnome, wererat. Resurrected by the Carrion King via mycelial fibers (S11). Leveled up between S12-S13 (Fey-Touched spell pending Matt's choice). Traveling with party.
+- [[Turvy]] — Deep gnome, wererat. Leveled up between S12-S13; assigned Silver Barbs (Fey-Touched). Traveling with party.
+- [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. ⚠️ At 0 HP as of S13 end (1 death save success). Critical condition.
 - [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Compressed into Amanita's waterskin (S09). Long rest achieved in Feydark (S10) — should be fully reconstituted.
-- [[Roxanne]] — Rothe, fully resurrected (S09). Body transformed in Feydark — now a rothe/fungal hybrid with zurkhwood saddles on either side, can carry half the party (S11). Chest of Holding still functional.
+- [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve.
+- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). **Rescued (S13):** Leaped from a stalactite to tackle [[Ilvara Mizzrym]], knocking her to the ground. Quaggoths shifted allegiance to Derendil as new alpha. Rejoined party.
+- [[Clementine]] — [[Darby Stonefeather]]'s pet spider. Grew in size in the Feydark. Size/stats TBD by Addison.
 
 ### Former / Departed Companions
 - [[Eldeth]] — Shield dwarf scout from Gauntlgrym. Departed through the Gauntlgrym Nexus Pool portal (S11) to warn the dwarven kings and bring reinforcements. Promised to return.
-- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Captured by quaggoths during S02 escape
 - [[Sarith Kzekarit]] — Drow prisoner. Escaped into pool during S02; told Kit to find him at [[04-World-Lore/Locations/Neverlight Grove]]
 
 ---
 
 ## Key Antagonists
 
-- [[Ilvara Mizzrym]] — Drow priestess, Velkynvelve commander, primary antagonist. Party returning to Velkynvelve via Nexus Pool (S11). Drow garrison weakened post-demon battle but still defending.
-- [[Shoor Vandree]] — Drow warrior, Ilvara's current lieutenant/lover. Cast Darkness on Kit during S12 assault. Hit by Darby's fire mace (16 dmg). Witch Bolt from Aeolus broke his Darkness concentration. Badly wounded as of S12 end.
-- [[Asha Vandree]] — Junior drow priestess; shoved off a cliff by [[Darby Stonefeather]] during S02 escape. Survived. Appears in S12 on a giant spider, burnt and injured from demon battle. Cast Guiding Bolt on Kit (15 radiant) and summoned Spiritual Weapon (missed).
-- [[Jorlan Duskryn]] — Scarred drow elite warrior; aided the party's escape (S01-S02), confirmed dead per Addison's notes
+- ~~[[Ilvara Mizzrym]]~~ — **DEAD (S13).** Drow priestess, Velkynvelve commander, primary antagonist. Shot by [[Jorlan Duskryn]]'s crossbow. Tackled from stalactite by [[Derendil]]. Killed by [[Roxanne]]'s gore attack (27 damage trample). Her own Insect Plague killed [[Shoor Vandree]]. Primary antagonist arc from S01 is closed.
+- ~~[[Shoor Vandree]]~~ — **DEAD (S13).** Drow warrior, Ilvara's lieutenant/lover. Killed by Ilvara's own Insect Plague spell after she lost concentration control.
+- [[Asha Vandree]] — Junior drow priestess. Alive as of S13 end but severely wounded (<10 HP). Last active combatant from the Velkynvelve drow command.
+- [[Jorlan Duskryn]] — Scarred drow elite warrior. **ALIVE (S13 retcon).** Previously listed as dead per Addison's 11/22/25 notes. Appeared in S13: shot Ilvara with a crossbow and smiled as Derendil tackled her. Turncoat confirmed. ⚠️ Status change contradicts earlier DM notes — needs clarification.
+- Drow Elite (unnamed) — Alive as of S13 end. Badly wounded.
 - The Corrupted Entity — Female, from the Abyss. A twisted reflection of [[Psilofyr]]. Seeks to control death and rot. Naos attempted to infiltrate her and is now in danger. Name unknown — Naos "dare not speak" it. Likely Zuggtmoy (do not metagame). (S11)
 
 ---
@@ -69,11 +71,11 @@
 | 06  | 12/21/2025 | The Long Way Down             | [[Session 06 — The Long Way Down]]                 |
 | 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]]     |
 | 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 — The Whirlwind and the Depths]]      |
-| 09  | 02/01/2026 | Adopt-a-Rothe                 | [[Session 09 —  Every Party Needs A “Little Guy”]] |
+| 09  | 02/01/2026 | Adopt-a-Rothe                 | [[Session 09 —  Every Party Needs A "Little Guy"]] |
 | 10  | 02/15/2026 | Through the Fungal Gate       | [[Session 10 — 021526_Echoes_in_the_Feydark]]      |
 | 11  | 03/01/2026 | Gifts of the Carrion King     | [[Session 11 — Gifts_of_the_Carrion_King]]         |
-| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12 — Return to Velkynvelve]]            |
-| 13  | 04/11/2026 | —                             | [[Session 13]]                                     |
+| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12 — Return to Velkynvelve]]             |
+| 13  | 04/11/2026 | Reckoning at Velkynvelve      | [[SITL_13_041126_Reckoning_at_Velkynvelve]]        |
 | 14  | 04/12/2026 | —                             | [[Session 14]]                                     |
 
 ---
@@ -85,7 +87,7 @@
 - [[The Northdark]] · [[04-World-Lore/Locations/The Darklake]]
 
 ### Key Campaign Locations
-- [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03). Party returning via Nexus Pool (S11).
+- [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03). Party assaulted and decisively won the Battle of Velkynvelve (S12-S13). Ilvara and Shoor dead. Outpost effectively neutralized.
 - [[04-World-Lore/Locations/Blingdenstone]] — Deep gnome city; party's intended destination as of S03
 - [[04-World-Lore/Locations/Gracklstugh]] — Duergar city
 - [[04-World-Lore/Locations/Menzoberranzan]] — Iconic drow city
@@ -113,7 +115,6 @@
 ### Active
 - [ ] Aeolus's Spider Curse — Cursed by Lolth gemstone (S01). All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper. Aeolus confirmed in S11 he "gave away the diamond" and no longer has the curse (needs DM confirmation). Giant spiders in S12 did not specifically target Aeolus — curse may be lifted.
 - [ ] Sarith Kzekarit / Neverlight Grove — Sarith escaped during S02, told Kit to find him at Neverlight Grove. Said "They're coming"
-- [ ] Derendil's Capture — Captured by quaggoths during S02 escape. Claims to be polymorphed elven royalty. Party chose Velkynvelve partly to rescue prisoners (S11).
 - [ ] Jimjar's Disappearance — Taken from cell overnight (S01); no one saw what happened
 - [ ] Buppido's Fate — Sacrificed to spiders but dropped into pool; body not recovered (S01). Per Addison: "Buppido escaped his execution"
 - [ ] Shuushar's Fate — Fell into pool (S01). Per Addison: if alive, likely went toward Sloobludop
@@ -126,7 +127,7 @@
 - [ ] Topsy & Turvy's Reluctance — Both twins were reluctant to return to Blingdenstone; reason unknown
 - [ ] Amanita's Corruption Dreams — Increasingly bad dreams of Neverlight Grove being corrupted by dark, oily presence (S01-S02)
 - [ ] Purple Eyes — A drow guard's eyes briefly turned from red to purple during Amanita's barracks interaction (S01); possible early sign of demonic corruption
-- [ ] Stool's Empowerment Arc — Sprout developing toward adult transition. Said the Fungal Pond area "feels like home is closer" (S09). Physically grew during S10 forced long rest; fungal roots enveloped Amanita.
+- [ ] Stool's Empowerment Arc — Sprout developing toward adult transition. ⚠️ At 0 HP (S13 end, 1 death save success). Critical condition. Must be stabilized S14.
 - [ ] Dragon Statue Mystery — Ooze remains reformed into dragon statue in Oozing Temple. Eyes lit up when last ooze died. Identity/purpose unknown. (S06)
 - [ ] Blarg's Moon Flask — Flask with moon shard that brightens/dims. Found in safe house. Given to Turvy (S05). Mechanics not yet established.
 - [ ] Darby's Green Flame Mace — Magical mace. Fire damage baseline; dealt radiant during S08. DM upgraded extra damage from +1 flat to D4 (S08). May alternate between fire and radiant.
@@ -135,13 +136,19 @@
 - [ ] Roxanne's Chest of Holding — Extradimensional storage chest fused to Roxanne's back. Password: "Roxanne" (Dwarvish). Now in zurkhwood saddle form (S11). Exact capacity not yet specified by DM. (S09)
 - [ ] Blarg's Impeded Moon Connection — Religion check 9 (S08) revealed impeded connection to the moon at depth. Could affect Moonbeam, Wild Shape, Channel Divinity effectiveness deep in the Underdark. Moonbeam felt "maybe even a little bit weaker" in the Feydark (S10).
 - [ ] Amanita's Champion Path — Psilofyr showed four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or direct Carrion King patron champion. Choice must be made "when the time comes." (S11)
-- [ ] Growth Items — DM confirmed all empowered trinkets are "growth items" that improve at certain level thresholds (S11). Track upgrades going forward.
-- [ ] Fey Touched Spell Choices — All PCs received Fey Touched feat (S11). Confirmed S12: Kit = Hunter's Mark, Darby = Animal Friendship, Binks = Tasha's Hideous Laughter, Amanita = Thorn Whip. Aeolus's choice not yet stated. Blarg absent.
+- [ ] Growth Items — DM confirmed all empowered trinkets are "growth items" that improve at certain level thresholds (S11). Trinket empowerments confirmed S13 pre-session: Kit's Ring of Mind Shielding +1 STR, Aeolus's Ring of Spell Storing +1 WIS, Blarg's Goblin Carving +1 CHA, Darby's Axebeak form +1 CHA, Darby's Pipe +1 INT. Binks's trinket empowerment NOT tracked.
+- [ ] Fey Touched Spell Choices — All PCs received Fey Touched feat (S11). Confirmed S12: Kit = Hunter's Mark, Darby = Animal Friendship, Binks = Tasha's Hideous Laughter, Amanita = Thorn Whip. Aeolus's choice not yet stated. Blarg absent S12 (choice TBD). S13: Turvy assigned Silver Barbs. Topsy's spell pending (Matt to choose).
 - [ ] Kit's Isolation from Psilofyr — Kit was the only PC who did not receive a vision or comfort in the Feydark (S10). Her "gift" came through a scripted nightmare she couldn't win (S11). Narratively significant pattern.
 - [ ] Binks's Duplicate Mind Shielding — Binks has both the Ring of Mind Shielding (pre-campaign) and the loot pick with Mind Shielding properties (S11). Redundancy/stacking TBD.
 - [ ] Insectoid Creature in the Pool — Large insectoid creature with tentacles emerged from the Fungal Pond pool as party entered the portal. Nat 1 attack on Kit — missed. Identity unknown. (S10)
-- [ ] Settle the Score at Velkynvelve — Party chose to return to Velkynvelve via Nexus Pool (S11). Arriving post-demon battle, outpost still defended (DM roll 10). Assault underway (S12). Patrol drow killed. Shore and Drow Elite badly wounded. Ilvara, Asha, spiders, and quaggoths still active. Battle continues S13.
 - [ ] Eldeth's Mission — Departed through Gauntlgrym portal (S11) to warn the dwarven kings. Promised to bring reinforcements and return.
+- [ ] Asha Vandree's Fate — Alive but <10 HP as of S13 end. Last surviving member of Velkynvelve drow command structure.
+- [ ] Drow Elite's Fate — Unnamed drow elite still alive as of S13 end. Badly wounded.
+- [ ] Jorlan Duskryn's Status — Appeared alive in S13 despite being listed as dead in Addison's 11/22/25 notes. Shot Ilvara, smiled as Derendil tackled her. Retcon or narrative misdirection? Needs DM clarification.
+- [ ] Kit's Sentient Doll — Uses "Sentient Armor" stat block per Addison (S13). Exact capabilities TBD.
+- [ ] Sylophir — Feydark NPC. 3 different spellings in S13 transcript. Standardized to "Sylophir" pending DM confirmation.
+- [ ] Quaggoth Allegiance Shift — Quaggoths shifted allegiance to [[Derendil]] as new alpha after Ilvara's fall (S13). Implications for party's control of Velkynvelve TBD.
+- [ ] Binks's Trinket Empowerment Gap — Binks's trinket was NOT included in Addison's S13 pre-session empowerment review. Gap needs resolution.
 
 ### Completed
 - [x] Escape Velkynvelve — Completed (S02). Party jumped into pool during vrock/chasme chaos
@@ -160,6 +167,9 @@
 - [x] Topsy Resurrected — Completed (S11). The Carrion King retrieved Topsy's body from the sealed safe house and resurrected her via mycelial fibers. Topsy is alive but weak. Reunited with Turvy and the party.
 - [x] Fey Touched Granted — Completed (S11). Psilofyr granted all PCs the Fey Touched feat as a parting boon.
 - [x] Eldeth's Departure — Completed (S11). Eldeth departed through the Gauntlgrym Nexus Pool to warn the dwarven kings.
+- [x] Settle the Score at Velkynvelve — **Completed (S13).** Party returned to Velkynvelve via Nexus Pool (S11). Battle began S12, concluded S13 with decisive party victory. Ilvara killed by Roxy's gore attack. Shoor killed by Ilvara's own Insect Plague. Jorlan revealed as turncoat. Derendil rescued. Quaggoths shifted allegiance to Derendil. Primary antagonist arc from S01 is closed.
+- [x] Derendil's Capture — **Rescued (S13).** Derendil leaped from a stalactite to tackle Ilvara. Quaggoths recognized him as new alpha. Rejoined party.
+- [x] Level-Up to 5 — Completed (between S12-S13). All PCs at level 5. Topsy/Turvy also leveled.
 
 ---
 
@@ -177,7 +187,7 @@
 | S09: Glabbagool return, tunnel scouting, Rothe resurrection, portal discovery | S09 | ~30 min to 1 hour (exploration/RP, no travel) |
 | S10: Feydark portal entry, visions, Myconid Sovereign trial, forced long rest, level-up | S10 | ~2 days subjective / ~1 hr Underdark time |
 | S11: Feydark boons, Nexus Pools, departure to Velkynvelve | S11 | Unknown subjective Feydark time / portal transit |
-| S12-S13: Return combat at Velkynvelve | S12-S13 | ~4-5 hours |
+| S12-S13: Return combat at Velkynvelve (Battle of Velkynvelve) | S12-S13 | ~4-5 hours |
 | **Total post-escape through S13** | | **~2-3 full days** |
 
 ---

@@ -159,6 +159,26 @@ _Note: Kit's armor status unchanged from S08 acid damage (-1 AC). Rapport spores
 
 ---
 
+## Session 13 — Reckoning at Velkynvelve
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|No new physical loot acquired|—|Session was entirely combat continuation from S12. Battle of Velkynvelve concluded.|—|
+
+_Trinket empowerment stat bonuses confirmed pre-session by Addison (updates to existing growth items):_
+- _Kit's Ring of Mind Shielding: +1 STR_
+- _Aeolus's Ring of Spell Storing: +1 WIS_
+- _Blarg's Goblin Carving: +1 CHA_
+- _Darby's Axebeak form: +1 CHA_
+- _Darby's Pipe: +1 INT_
+- _Binks's trinket: NOT addressed — empowerment gap_
+
+_Note: Turvy assigned Silver Barbs (Fey-Touched). Binks assigned Tasha's Hideous Laughter (Fey-Touched). Topsy's Fey-Touched spell pending (Matt to choose)._
+
+_Potential loot from fallen drow (Ilvara, Shoor) not yet addressed — likely S14 topic._
+
+---
+
 ## Related
 
 [[Campaign Dashboard]]
