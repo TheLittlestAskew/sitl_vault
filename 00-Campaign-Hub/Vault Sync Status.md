@@ -23,7 +23,7 @@ Each column = a vault file or file group. Each row = a session. ✅ = updated, �
 | S09 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | S10 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | S11 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| S12 | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| S12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
 | S13 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | S14 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | S15 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -108,21 +108,19 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 
 ## Current Gaps Summary
 
-**Fully synced through:** S08 (all columns ✅)
+**Fully synced through:** S08 (all columns ✅), S12 (all applicable columns ✅)
 
 **Partially synced:** S09–S11
 - Hub files (Dashboard, Loot, Quotes, Profanity, Journal) are current through S11
 - Roll Statistics, PC pages, NPC pages, Locations, Flora/Fauna, and Mechanics are stalled at S08
 
-**Not started:** S12–S15
+**Not started:** S13–S15
 - Raw transcripts exist through S15
-- Corrected transcript exists for S12
 - No session notes, vault updates, or propagation done
 
 **Priority catch-up order:**
 1. S09–S11: Roll Stats, PC pages, NPC pages, Locations, Flora/Fauna, Mechanics
-2. S12: Full Convo 1 + Convo 2 pipeline
-3. S13–S15: Full pipeline
+2. S13–S15: Full pipeline
 
 ---
 
@@ -131,3 +129,4 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 | Date | Updated By | Changes |
 |---|---|---|
 | 2026-05-14 | Claude (vault audit) | Initial matrix created from vault inspection. S01–S08 marked fully synced. S09–S11 marked partial. S12–S15 marked not started. S04 corrected transcript missing noted. |
+| 2026-05-14 | Claude (Convo 2, S12) | S12 fully synced. Session note, dashboard, loot, quotes, profanity, journal, all PC pages (Kit/Binks/Aeolus/Darby/Amanita/Blarg), NPC pages (Shoor/Asha/Ilvara/Stool/Topsy), Velkynvelve location, roll stats (S12 row), house rules all updated. Flora/Fauna marked N/A (pure combat session). |

@@ -56,18 +56,29 @@ The outpost consists of multiple stalactite platforms connected by bridges made 
 - [[Blarg]] killed the gray ooze with a bolt of radiant light
 - Party escaped through northern passage, ran for nearly two hours, then continued with Pass Without Trace
 
+### [[SITL_12_032926_Return_to_Velkynvelve|Session 12]] — Return to Velkynvelve
+- Party returned via [[Psilofyr]]'s Nexus Pool portal, arriving in the western passage
+- Outpost heavily damaged from demon battle (S01-S02 aftermath): dead drow, quaggoth, and spider corpses; dead chasme in the webbing; smoke still drifting from fires
+- Drow garrison reduced by roughly half (DM roll 10 on arrival timing scale)
+- Assault launched from western tunnel. Patrol drow killed (Hold Person + sneak attack auto-crit by [[Binks Stonevein|Binks]]). Four drow warriors killed total (patrol, Drow C, D, F).
+- [[Ilvara Mizzrym|Ilvara]] cast Darkness on Binks. [[Shoor Vandree|Shore]] cast a second Darkness sphere on Kit. Two overlapping Darkness zones dominated the battlefield.
+- [[Asha Vandree|Asha]] rode a burnt giant spider. Cast Guiding Bolt on Kit (15 radiant). Summoned Spiritual Weapon.
+- [[Aeolus]] broke Shore's Darkness concentration with Witch Bolt (22 lightning damage).
+- Session ended mid-combat (round 2 incomplete). Shore and Drow Elite badly wounded. Ilvara, Asha, spiders, quaggoths still active. Battle continues [[Session 13]].
+
 ## Command Structure
 
 - **[[Ilvara Mizzrym]]** — Drow Priestess, outpost commander
 - **[[Shoor Vandree]]** — Drow Captain, current lieutenant and lover of Ilvara
-- **[[Asha Vandree]]** — Junior Drow Priestess, Ilvara's subordinate; shoved off cliff during S02 escape (fate unknown)
-- **[[Jorlan Duskryn]]** — Drow Elite Warrior, scarred former lover of Ilvara; aided party's escape; confirmed dead per Addison's notes
+- **[[Asha Vandree]]** — Junior Drow Priestess, Ilvara's subordinate; shoved off cliff during S02 escape. Survived. Appeared in S12 on a giant spider, burnt and injured from demon battle.
+- **[[Jorlan Duskryn]]** — Drow Elite Warrior, scarred former lover of Ilvara; aided party's escape; confirmed dead per Addison's notes. Not seen during S12 assault — whereabouts unknown.
 
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 03 — Into the Dark]]
+- [[SITL_12_032926_Return_to_Velkynvelve]]
 - [[Ilvara Mizzrym]]
 - [[Jorlan Duskryn]]
 - [[Lolth]]

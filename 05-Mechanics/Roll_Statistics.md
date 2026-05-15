@@ -118,6 +118,9 @@ total_rolls: 643
 | [[Session 06 — The Long Way Down\|S06]] | 12/21/25 | 160 | 27 | 133 | 4 | 5 | Amanita (36) | 459–618 |
 | [[Session 07 — Escape from the Oozing Temple\|S07]] | 01/04/26 | 22 | 0 | 22 | 1 | 0 | Aeolus (5) | 619–640 |
 | [[Session 08 — The Whirlwind and the Depths\|S08]] | 01/18/26 | 59 | 21 | 38 | 2 | 3 | Blarg (18) | 641–699 |
+| [[SITL_12_032926_Return_to_Velkynvelve\|S12]] | 03/29/26 | 36 | ~20 | ~16 | 0 | 0 | Kit (14) | DDB only |
+
+*Note: S09–S11 roll statistics not yet populated (pending vault catch-up). S12 logged 36 DDB rolls across Kit (14), Amanita (10), Darby (10), and 2 unattributed. Binks and Aeolus rolled physical dice exclusively (0 DDB entries). 13 additional transcript-only player rolls confirmed as physical dice. ~11 DM/NPC rolls from transcript dialogue. Zero DDB nat 20s or nat 1s; Amanita's nat 20 Dex save was a physical dice roll.*
 
 ---
 
@@ -161,6 +164,7 @@ total_rolls: 643
 | Session Added | Date Updated | Notes |
 |---|---|---|
 | S01-S08 | 2026-05-13 | Initial population from DDB archive (920 total rolls in archive through S15; only S01-S08 reflected pending vault catch-up for S09+). 52 pre-session test rolls excluded. |
+| S12 | 2026-05-14 | S12 row added. 36 DDB rolls + 13 physical dice rolls. Binks/Aeolus physical dice only. S09-S11 still pending. |
 
 ---
 

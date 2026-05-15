@@ -20,6 +20,7 @@ Junior drow priestess at [[04-World-Lore/Locations/Velkynvelve]], subordinate to
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Quarters identified by Kit during recon. Not directly interacted with. A drow guard in the barracks (possibly Asha's area) had eyes briefly turn from red to purple during Amanita's interaction (insight 21).
 - **[[Session 02 — Come Get Your Shit]]:** Emerged from chambers during escape chaos. Blocked the cliff path, pulling out her tentacle-wand weapon. [[Darby Stonefeather]] barreled into her with a contested athletics check (24 vs Asha's 5) and knocked her clean off the cliff into the webbing. A giant spider pulled her back up — she survived but used her entire action to recover. Has personal reason to pursue Darby.
+- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Appeared riding a burnt, injured giant spider (damaged from the demon battle). Cast Guiding Bolt on [[Kit Aluri]] for 15 radiant damage. Slow-fell from her spider to the cavern floor. Summoned Spiritual Weapon (multi-headed whip, purple and sickly) — swung at Kit, missed. Still active at session end. Spiders under her control webbed [[Binks Stonevein]] (restrained).
 
 ## Relationships
 
@@ -32,6 +33,7 @@ Junior drow priestess at [[04-World-Lore/Locations/Velkynvelve]], subordinate to
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
+- [[SITL_12_032926_Return_to_Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Ilvara Mizzrym]]
 - [[Darby Stonefeather]]

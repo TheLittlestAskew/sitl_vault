@@ -98,6 +98,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Help action for Binks's Resurrection check. Arcana 25 on Feydark portal. Commented "quite the 180" on Kit.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Stabilized portal (Arcana 23). Bear form combat. Killed Myconid A (nat 20 claw). Kit used bear-Blarg as launching platform.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Met Chris, fae goblin leader. Backstory exchange about Carbra. Family carving empowered (+1 CHA, goblin wild shape, permanent tribe welcome). Wild shaped into goblin to hang out with Chris's band. Aeolus caught him (insight nat 20). Received **Fey Touched** from Psilofyr. Chose Velkynvelve. Entered Nexus Pool portal.
+- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Florian absent. DM allowed present players to cast Blarg's prepared spells by proxy. **Hold Person on patrol drow** (Wis 9 vs DC 15 — failed). Enabled Binks's auto-crit sneak attack kill. First instance of absent-PC spellcasting by proxy — established as house ruling. Fey Touched spell choice not yet stated.
 
 ## Key Quotes
 
@@ -128,6 +129,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 09 —  Every Party Needs A “Little Guy”]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
+- [[SITL_12_032926_Return_to_Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

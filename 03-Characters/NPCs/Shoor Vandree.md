@@ -21,6 +21,11 @@ Drow warrior and current lieutenant/lover of [[Ilvara Mizzrym]] at [[04-World-Lo
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Mentioned by guards. Not directly interacted with. Kit identified his role via history check.
 - **[[Session 02 — Come Get Your Shit]]:** DM mentions his quarters as a possible scavenging location but Kit does not go there. Not directly encountered during escape.
+- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Spotted [[Binks Stonevein|Binks]] after the patrol drow kill and shouted: "You were a fool to return." Cast Darkness on Kit's position (second Darkness sphere, overlapping Ilvara's). Hit by [[Darby Stonefeather|Darby]]'s fire mace for 16 damage (24 to hit). Held Darkness concentration after Darby's hit. **Darkness concentration broken by [[Aeolus]]'s Witch Bolt (level 2): 22 lightning damage, failed concentration save.** Badly wounded at session end. Still active.
+
+## Key Quotes
+
+- "You were a fool to return." — S12 [Serious/Important]
 
 ## Relationships
 
@@ -32,6 +37,11 @@ Drow warrior and current lieutenant/lover of [[Ilvara Mizzrym]] at [[04-World-Lo
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
+- [[SITL_12_032926_Return_to_Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Ilvara Mizzrym]]
 - [[Jorlan Duskryn]]
+- [[Aeolus]]
+- [[Darby Stonefeather]]
+- [[Binks Stonevein]]
+#npc #drow #antagonist

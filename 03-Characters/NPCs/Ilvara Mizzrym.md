@@ -34,6 +34,7 @@ Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Her words to the prisoners: "Accept your fate, learn to obey and you may survive."
 - **[[Session 02 — Come Get Your Shit]]:** Voice heard shouting orders during the demon battle from the northern outpost. Led drow forces against the vrocks and chasmes. Did not directly confront the escaping party.
+- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Observed inspecting the boardwalk with [[Shoor Vandree|Shore]] when party arrived. Garrison reduced by roughly half from demon battle. Cast Darkness on [[Binks Stonevein|Binks]]'s position (first Darkness sphere). Did not directly engage in melee — remained on the upper platforms. Still active and commanding at session end.
 
 ## Key Quotes
 
@@ -45,6 +46,7 @@ Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
+- [[SITL_12_032926_Return_to_Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Shoor Vandree]]
 - [[Jorlan Duskryn]]

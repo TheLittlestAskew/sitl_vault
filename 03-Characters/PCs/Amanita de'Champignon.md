@@ -73,7 +73,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 | Full starting gear + pack | S02 (armory recovery) | Equipped |
 | Enspelled Warpick (was Mithral Pickaxe) | S05 / S11 (empowered by Psilofyr) | **Growth item.** +1 INT. Earth Tremor. Shillelagh (homebrew). Necrotic damage teased. |
 | [[Glabbagool]] (in waterskin) | S09 (compressed eye + gel into waterskin; cost 1 day water supply) | Recovering — long rest in Feydark should = full reconstitution |
-| Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + 1st-level spell TBD |
+| Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + Thorn Whip (confirmed S12) |
 
 ## Conditions
 - **Madness Level 1** (short-term) — Triggered S05 by casting Detect Magic on corrupted faerzress. Persistent condition; should be tracked going forward.
@@ -102,6 +102,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Discovered the Fungal Pond. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton. Found Resurrection scroll (7th level) and diamond. Compressed [[Glabbagool]]'s eye and gel into her waterskin. Said the party was "totally derailing the DM's plan."
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Rode Roxanne through. Participated in Myconid Sovereign trial. Used Halo of Spores in combat. Stool used rapport spores to convince Myconid C to stand down. Symbiotic entity form activated for free in the Feydark.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Deep elven trance — consciousness sank through the mycelial network to commune with Psilofyr directly. Shown four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or Carrion King patron champion. Pipe empowered (upgraded rapport spores: 3/day, 1hr, 30ft → unlimited range on same plane). Warpick empowered (+1 INT, Earth Tremor, Shillelagh). Casual Psilofyr fist-bumped her. Activated rapport spores in zurkhwood tent — connected entire party telepathically. Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "We could take them now. We're so awesome." Entered Nexus Pool portal.
+- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Thorn Whip. Rapport spores confirmed active from S11 activation (1 hour duration) — provided telepathic party communication throughout combat. Proposed drow disguise plan (dress as drow, carry unconscious drow, bluff onto lift) — rejected for tactical bottleneck approach. Dodged [[Darby Stonefeather|Darby]] in magical darkness with nat 20 Dex save. Hit Drow Elite with Poison Spray (6 damage) and Halo of Spores (6 necrotic, doubled to 12). Combined 12 damage to the elite in one turn.
 
 ## Key Quotes
 
@@ -122,6 +123,8 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "I haven't thought about it much. I just kind of went with it... Yeah, I'll go. I'll go do some shit with my friends." — S11 [Funny/Defining]
 - "Guys, I am psychic." — S11, after activating rapport spores [Funny]
 - "Yeah, man, I bet, like, we could take them now. We're so awesome." — S11, re: Velkynvelve [Funny]
+- "Oh, you know what I could do? I could take that other dead guy's like cape and armor and then we could knock the other one out and I could dress up like a drow..." — S12, proposing the drow disguise plan [Funny]
+- "Amanita's like, oh, like I'm a ninja now." — S12, after nat 20 Dex save dodging Darby in darkness [Funny]
 
 ---
 
@@ -138,6 +141,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 09 —  Every Party Needs A “Little Guy”]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
+- [[SITL_12_032926_Return_to_Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

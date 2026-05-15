@@ -71,7 +71,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 | Full starting gear + dungeoneer's pack | S02 (armory recovery) | Equipped |
 | 100-foot coil of silk rope with grappling hook | S02+ | Carried |
 | Enhanced Totem Carving | S02 / S11 (empowered during Feydark) | **Growth item.** +1 CHA. Shifts between father's face and axe beak. Fourth rage option: Axe Beak (50ft move, +D4 slashing on hits). |
-| Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + 1st-level spell TBD |
+| Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + Animal Friendship (confirmed S12) |
 | Green Flame Mace (common magical) | S06 (retrieved from [[Glabbagool]]) | **Attuned** — Equipped. Action to light/extinguish. Extra damage upgraded from +1 flat to D4 (S08). Normally fire; dealt radiant during S08. Sap weapon mastery. |
 
 ## Relationships
@@ -99,6 +99,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[SITL_09_020126_Adopt_a_Rothe|Session 09]]:** Nature 23 identified rothe skeleton. Pinned by Roxanne (nat 1 animal handling). Claimed farmer/handler role.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Father-vision, trinket empowered. Clementine grew slightly.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Totem fully empowered (+1 CHA, Axe Beak rage option). Woke early, wandered camp. Stood over sleeping Kit — Kit punched her shin on instinct. Small talk with Eldeth and goblins. Received **Fey Touched** from Psilofyr. Voted Velkynvelve. Entered Nexus Pool portal.
+- **[[SITL_12_032926_Return_to_Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Animal Friendship. Entered Axe Beak rage in the darkness but couldn't find anyone to hit initially. Nearly collided with Amanita in darkness (Amanita nat 20 Dex dodge). Mounted [[Roxanne|Roxy]] mid-charge in darkness — Athletics dirty 20 (rage advantage + darkness disadvantage = flat roll). [[Topsy]] whispered directions via spore link. Hit [[Shoor Vandree|Shore]] with fire mace: 24 to hit, 16 damage (13 base + rage + fire). Shore held concentration. First f-bomb of the campaign: "Sneaks by the fuck."
 
 ## Key Quotes
 
@@ -112,6 +113,9 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "I feel... something. Something old. From before me." — S08 [Poignant]
 - "I promise I'm a good farmer. I'm a good animal handler." — S09 [Funny]
 - "Did you go for a swimming?" — S11 [Funny]
+- "Sneaks by the fuck." — S12, reacting to Amanita's nat 20 dodge in darkness [Funny]
+- "We are familiar with the darkness at this point." — S12 [Funny]
+- "What the are they doing?" — S12, on Topsy and Turvy during combat [Funny]
 
 ---
 
@@ -128,6 +132,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[SITL_09_020126_Adopt_a_Rothe]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
+- [[SITL_12_032926_Return_to_Velkynvelve]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
