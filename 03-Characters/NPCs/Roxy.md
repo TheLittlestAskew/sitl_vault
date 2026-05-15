@@ -58,7 +58,7 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - **[[Session 08 — The Whirlwind and the Depths|S08]]:** Skeleton first noted in mushroom caverns.
 - **[[Session 09 —  Every Party Needs A “Little Guy”|S09]]:** Fully resurrected by Binks. Named from Dwarvish collar tag. Darby pinned for 6 damage.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|S10]]:** Bolted toward Feydark portal. Carried Aeolus, Blarg, Amanita through. Gored Myconid D in combat.
-- **[[Session 11 — Gifts_of_the_Carrion_King|S11]]:** Body transformed — now rothe/fungal hybrid with zurkhwood saddles. Can carry half the party. Entered Velkynvelve portal with party.
+- **[[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]:** **Delivered the killing blow on [[Ilvara Mizzrym]] — 27 damage gore attack (4d8+5).** Charged and impaled Ilvara on her horns, sending the High Priestess flying. The decisive blow of the Battle of Velkynvelve. Also took 13 damage from Insect Plague (failed save) and spider attacks. [[Aeolus]] gave her 8 temp HP via Misty Step. Rolled a nat 1 on an earlier gore attempt against Shoor. Low HP by session end but alive.
 
 ---
 

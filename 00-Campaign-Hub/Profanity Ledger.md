@@ -121,21 +121,36 @@ Tracking profanity by speaker, word, frequency, and context across all sessions.
 
 ---
 
-## Running Totals (Through S12)
+## Session 13 — Reckoning at Velkynvelve
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fucking" | 2 | "I can't hit anything to save my fucking life today"; "Can I just retcon all of that? ... I can't hit anything to save my fucking life today" |
+| Kit Aluri (Taylor) | "damn" | 3 | "So damn, that actually sucks" (losing reaction); "God damn it, are you trying to TPK us?"; "God fucking damn it" (quaggoths missing Asha) |
+| Kit Aluri (Taylor) | "hell" | 1 | "Oh, hell yeah!" — Passing Insect Plague Con save (nat 20) |
+| Kit Aluri (Taylor) | "shit" | 1 | "I really got to start hitting shit" — Frustrated by missed attacks |
+| Darby Stonefeather (Austin) | "fuck" | 2 | "Good, fuck Shoor" (Shoor's death); "No fucking way" (Roxy nat 1) |
+| Binks Stonevein (Matt) | "hell" | 1 | "What the hell?" — Reacting to quaggoth tackling Kit |
+| Addison (DM) | "fuck" | 1 | "Son of a bitch" area — general frustration with dice (also "fuck off" directed at Moonbeam roll of double 1s) |
+| Blarg (Florian) | "fuck" | 1 | "Fuck off" — Reacting to Moonbeam damage roll of double 1s |
+
+---
+
+## Running Totals (Through S13)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 3 | 4 | 5 | 5 | 1 | — | 18 |
-| Addison (DM) | 3 | 1 | — | — | 2 | — | 6 |
-| Darby Stonefeather (Austin) | — | 1 | 2 | — | — | — | 3 |
-| Binks Stonevein (Matt) | — | — | — | 1 | 1 | — | 2 |
+| Kit Aluri (Taylor) | 4 | 6 | 8 | 6 | 1 | — | 25 |
+| Addison (DM) | 3 | 2 | — | — | 2 | — | 7 |
+| Darby Stonefeather (Austin) | — | 3 | 2 | — | — | — | 5 |
+| Binks Stonevein (Matt) | — | — | — | 2 | 1 | — | 3 |
+| Blarg (Florian) | — | 1 | — | 1 | — | — | 2 |
 | Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Aeolus (Sirius) | — | — | — | 1 | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
-| Blarg (Florian) | — | — | — | 1 | — | — | 1 |
 
-*Kit extends her lead to 18 instances through 12 sessions. Darby picks up her first f-bomb. Binks's "ass" is a notable first.*
+*Kit extends her lead to 25 instances through 13 sessions. Darby climbs to third overall with two new f-bombs (both combat-related). Blarg picks up his first f-bomb reacting to terrible Moonbeam rolls. Session 13 was the most profanity-heavy session yet — combat frustration was universal.*
 
 ---
 

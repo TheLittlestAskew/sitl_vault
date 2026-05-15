@@ -426,6 +426,7 @@ Verbatim quotes across all sessions. Tagged by character and type.
 **[[Aeolus]] · [Serious]**
 "It would be disrespectful to like do a multi class now."
 
+---
 
 ## Session 11 — Gifts of the Carrion King
 
@@ -493,6 +494,7 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 **Addison (DM) · [DM Quip]** "I swear this wasn't intentional. You become kind of my punching bag."
 
+---
 
 ## Session 12 — Return to Velkynvelve
 
@@ -561,22 +563,88 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
+## Session 13 — Reckoning at Velkynvelve
 
-# Quote Board Master
+**[[Ilvara Mizzrym]] (Addison) · [Serious/Important]**
+"Hello again. Thank you for saving me the trouble of coming out to find you. I would applaud your boldness. You must think highly of yourselves at this point, but boldness against your betters is more like recklessness. Stupidity. But I applaud you nonetheless for saving me the time and effort."
 
-Verbatim quotes across all sessions. Tagged by character and type.
+**[[Ilvara Mizzrym]] (Addison) · [Serious/Important]**
+"Surrender now and I will make it quick. You will not suffer long. You choose to fight, your torture will be endless."
 
----
+**[[Blarg]] · [Serious/Poignant]**
+"Saloon will protect you." — Casting Healing Word on Kit (likely "Silvanus" through German accent + STT)
 
+**[[Kit Aluri]] · [Funny/Frustrated]**
+"That is so rude that it would try to tackle me while I'm in the kitchen."
 
+**[[Kit Aluri]] · [Funny]**
+"I can't hit anything to save my fucking life today."
+
+**[[Kit Aluri]] · [Serious]**
+"God damn it, are you trying to TPK us?"
+
+**Addison (DM) · [DM Quip]**
+"You made this choice."
+
+**[[Kit Aluri]] · [Banter]**
+"It's in my notes that Kit didn't want to do this."
+
+**Addison (DM) · [DM Quip/Defining]**
+"The field in which she grows her fucks is barren." — On Ilvara casting Insect Plague on her own troops
+
+**[[Darby Stonefeather]] · [Funny/Serious]**
+"Good, fuck Shoor."
+
+**[[Binks Stonevein]] · [Funny/Tactical]**
+"My goal is to keep Kit alive. That's my goal at this current moment."
+
+**[[Kit Aluri]] · [Funny]**
+"If you're going to keep Kit alive, then Kit's goal is to try to do more damage. Any damage. Any damage would be great."
+
+**[[Stool]] (Addison/Amanita) · [Funny/Poignant]**
+"Darby, Darby, Darby! Oh my gosh, are you awake? Are you there? Darby, Darby, kick him!"
+
+**[[Darby Stonefeather]] · [Funny]**
+"Hey, Stool, missed you."
+
+**[[Stool]] (Amanita) · [Funny]**
+"Oh my gosh, Darby, I missed you too. We're best friends. I'll just sit on your head right now."
+
+**[[Binks Stonevein]] · [Funny/Defining]**
+"Hey, Ilvara, why are you on the ground? Are you drowsy?" — Casting Tasha's Hideous Laughter
+
+**Turvy (Matt) · [Serious/Poignant]**
+"Can't lose anymore." — Casting Silver Barbs to save Kit from the Drow Elite's attack
+
+**[[Kit Aluri]] · [Funny]**
+"I really got to get a finesse weapon."
+
+**[[Ilvara Mizzrym]] (Addison) · [Serious]**
+"From you, Jorlan? I didn't think you had the balls." — After Jorlan's crossbow bolt strikes her neck
+
+**[[Darby Stonefeather]] · [Serious/Action]**
+"I want there to be gore." — Describing Roxy's killing blow on Ilvara
+
+**Addison (DM) · [DM Quip]**
+"Roxy!" — After the killing blow on Ilvara
+
+**[[Darby Stonefeather]] · [Funny]**
+"Clementine, don't look." — As gore from a dying spider drips on them
+
+**[[Kit Aluri]] · [Funny]**
+"Everybody is just ganging up on me, and that's just incredibly rude."
+
+**[[Kit Aluri]] · [Funny/Frustrated]**
+"Just wait till I get a couple more levels under my belt. This won't happen anymore."
+
+**Addison (DM) · [DM Quip]**
+"Great session, everybody. That's great. See you tomorrow."
+
+**[[Darby Stonefeather]] · [Funny]**
+"What a great Sunday. See you tomorrow."
 
 ---
 
 ## Related
 
-[[Campaign Dashboard]]
-
----
-
-## Related
 [[Campaign Dashboard]]

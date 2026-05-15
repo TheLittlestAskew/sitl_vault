@@ -572,6 +572,72 @@ Until then: greatsword. Darkness. And the sound of Kit Aluri's sword finding mea
 
 ---
 
+## Session 13 — Reckoning at Velkynvelve
+
+**
+
+Day ???:
+
+The priestess floated down from the webbing like a dark angel, and her voice carried across the cavern in Undercommon. I do not speak the language, but I know contempt when I hear it. The tone said everything her words did not need to: you are beneath me, you are insects, and I am going to enjoy watching you die.
+
+She healed them. All of them. Some kind of mass curing magic that knit the wounds of every drow in range — including the ones we had spent an entire session cutting apart. I watched Shoor's bruises fade and the Drow Elite straighten up and I wanted to scream. We had bled for every inch of damage on those bodies, and she erased it with a wave of her hand.
+
+Then the spiders came for me. Webbing from the ceiling — one shot missed, but the other caught Blarg and pinned him to the floor. I dodged mine. Small mercy. Shoor came at Darby with twin short swords. The first missed. The second was a natural twenty, and I heard the poison hit her blood before I heard her body hit the ground. She went down. Not dead — the poison just switched her off like blowing out a candle. Unconscious. The rage drained out of her face and she crumpled.
+
+Then the Drow Elite turned on me. Two swords, both connecting. Twelve piercing. Twelve poison. Twenty-four points of damage, and I felt every single one of them. My knees buckled. My vision went white. And for the second time in two sessions, I felt the orc in my blood refuse to let me stay down. Relentless Endurance. One hit point. Again.
+
+But I got him first. His first swing missed, and I was already turning into the Riposte — my sword catching him across the ribs before his second blade found my gut. Fourteen damage. The maneuver my body learned in the Feydark, used for the first time in real combat, and it worked. He staggered. I went to one knee. We stared at each other for a heartbeat, both of us bleeding, both of us too stubborn to fall.
+
+Blarg saw me go down. He could not reach me — still tangled in the webbing — but he shouted something about his god protecting me, and I felt warmth flood through my chest. Twelve points of healing. Enough to stand. Enough to keep fighting. He ripped himself free with those druid claws and put himself between me and the next blow.
+
+Binks healed me too. Twelve more. The gnome stepped over a drow corpse and laid his hands on me like it was the most natural thing in the world. I am surrounded by people who refuse to let me die, and I do not know what to do with that except keep swinging.
+
+I could not hit anything. I need to say that plainly, because it was the defining fact of my session. Thirteen. Fifteen. Twelve. Thirteen again. Miss after miss after miss, the greatsword passing through empty air where drow should have been, the dice betraying me with the consistency of a curse. I burned my Action Surge for nothing. I used every maneuver I had. One hit connected — one — at the very end, a twenty-one that finally bit into the Drow Elite's armor. Fourteen damage plus five from Hunter's Mark. The first time I have used that spell, and I forgot to call it before the swing. The instinct is not there yet. It will be.
+
+But the dice were kind to others. Stool — tiny, impossible Stool — Misty Stepped onto Darby's unconscious head and slapped her awake. "Darby, Darby, Darby! Oh my gosh, are you awake?" I heard it through the spore link and I laughed for the first time all session. That sprout has more heart than creatures ten times its size.
+
+Ilvara cast something terrible. Spiders — thousands of them — erupting from the ground in a twenty-foot swarm. Insect Plague. The pain was immediate and everywhere. I rolled a twenty on the save and still took twelve damage. Blarg failed. Darby passed. But Shoor — Shoor, Ilvara's own lieutenant, her lover, the man she kept at her side like a hunting dog — Shoor failed the save and went down in a heap of spiders. Killed by his own priestess's spell. She did not even flinch.
+
+Addison said something at the table that is going to stay with me: the field in which she grows her fucks is barren. That is Ilvara in four words. She stopped caring about anything except destroying us, and the collateral damage included the man in her bed.
+
+Then I saw him. Jorlan. On the north tower, wounded, leaning against the railing like a man who had been waiting for this moment since the day we escaped. He raised a crossbow. The bolt flew true and struck Ilvara in the neck.
+
+She grabbed the shaft. Looked up at him. Said something I could not understand but could read perfectly: surprise, contempt, and the beginning of fear. "From you, Jorlan? I didn't think you had the balls."
+
+He smiled.
+
+And then the world shifted. Derendil — the quaggoth we left behind in Session Two, the one I watched get pulled under by his own kind while we fell into the pool — Derendil came flying off the side of a stalactite like a furry comet and crashed into Ilvara. Knocked her off the spider. Drove her into the ground. The quaggoths — the ones who had been fighting for the drow — looked at Derendil and something changed in their eyes. They recognized him. They chose him. The new alpha.
+
+The quaggoths turned on the drow.
+
+Turvy saved my life. The Drow Elite was about to connect — a dirty twenty to hit me — and from somewhere in the chaos I heard Turvy's voice in Gnomish: "Can't lose anymore." Silver Barbs. The spell Matt had been hiding. The Drow Elite's swing went wide and the advantage transferred to Darby. I did not know Turvy could do that. I did not know Matt had given him that. The twins are full of surprises, and for once, the surprises are working in our favor.
+
+Binks looked at Ilvara — prone, pinned under a quaggoth, battered and bleeding — and said the best line of the session: "Hey, Ilvara, why are you on the ground? Are you drowsy?" And then he cast Tasha's Hideous Laughter. She rolled a three and a five. The High Priestess of Lolth, commander of Velkynvelve, the woman who enslaved us and hunted us and cast darkness on everything we loved — she started laughing. Prone. Helpless. Unable to act.
+
+Blarg wild shaped into a bear and clawed her. Twenty damage. Amanita's spores ate at her flesh. Topsy put a giant spider to sleep with a poisoned crossbow bolt.
+
+And then Roxy charged.
+
+I did not see the build-up. I heard the hooves first — the heavy, grinding rhythm of a thousand-pound fungal rothe accelerating across stone. Austin described it as a primal proxy rage, and that is exactly what it looked like. Roxy lowered her head and the horns found Ilvara's body and did not stop. Twenty-seven points of damage. The priestess screamed "Unhand me, you brute!" and then the horns went through her and the momentum sent her flying and she landed in a bloody heap at the edge of the cavern.
+
+Ilvara Mizzrym is dead.
+
+The woman who locked us in a cell. The woman who fed us to spiders. The woman who hunted us through the dark and sent her soldiers to bring us back in chains. Dead. Killed by a rothe that was a pile of bones in a pond three sessions ago.
+
+I did not land the killing blow. I barely landed any blows. My dice were cursed, my sword was useless, and I spent half the fight at one hit point with nothing but stubbornness keeping me vertical. But I was there. I held the line. I took every hit they threw at me and I did not fall. Relentless Endurance. Second Wind, twice. Riposte. Healing from Blarg and Binks. The doll in my pocket, warm and waiting.
+
+Stool is dying. Zero hit points, one death save passed. The sprout that woke Darby with a slap and a "we're best friends" is on the edge, and if we do not stabilize it next session, we lose the bravest mushroom in the Underdark.
+
+Asha is alive. The Drow Elite is alive. Jorlan is alive — alive, after Addison told us he was dead. I do not know what that means yet. But the quaggoths are ours now, Derendil is back, and Velkynvelve belongs to us.
+
+Come get your shit, Ilvara. Oh wait. You cannot. You are dead.
+
+Roxy did that.
+
+**
+
+---
+
 ## Related
 - [[Kit Aluri]]
 - [[Campaign Dashboard]]

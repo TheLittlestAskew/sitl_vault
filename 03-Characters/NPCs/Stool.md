@@ -3,10 +3,10 @@ type: npc
 race: Myconid Sprout
 class: N/A
 affiliation: Party companion, bonded with Amanita via rapport spores
-status: Alive — growing
+status: Critical — 0 HP (1 death save success, as of S13)
 player: N/A (DM-controlled)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: Velkynvelve cavern floor (on Darby's head, S13)
 ---
 
 # Stool
@@ -51,7 +51,7 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Said "feels like home is closer" near the Fungal Pond.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Said "Home is way, way closer now." First combat rapport spores — persuasion 16 convinced Myconid C to stand down. Physically grew during forced long rest.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Present throughout. No individual scene or dialogue. Traveled with party through Velkynvelve portal.
-- **[[Session 12 — Return to Velkynvelve|Session 12]]:** Found [[Binks Stonevein|Binks]] inside [[Ilvara Mizzrym|Ilvara]]'s Darkness sphere by sound alone (perception 22). Provided Help action to Binks. Demonstrated tactical courage despite being a non-combatant sprout.
+- **[[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]:** Empowered with Pacifying Spores, Dissonant Whispers, and Misty Step (confirmed by Addison pre-session). Misty Stepped onto unconscious [[Darby Stonefeather]]'s head and woke her as an action — "Darby, Darby, Darby! Oh my gosh, are you awake?" One of the session's most memorable moments. **Dropped to 0 HP by [[Ilvara Mizzrym]]'s Insect Plague** (failed Con save). 1 death save success as of session end. Must be stabilized in S14. ⚠️ CRITICAL CONDITION.
 
 ## Key Quotes
 

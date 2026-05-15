@@ -51,7 +51,7 @@
 	
 	- [Drizzt Do'Urdan], legendary Drow Ranger
 	- [Artaxle], young Drow who helped the party
-	- [Jorlan], Older drow who helped the party and died
+	- [Jorlan], Older drow who helped the party
 	- [The Society of Brilliance], sect of highly intelligent monsters who have banded together to solve the Underdark's problems
 	- Includes a [derro] and [orog], [Grazilaxx] the mind flayer, and a [troglodyte], and a [kua-toa]
 - 11/2325

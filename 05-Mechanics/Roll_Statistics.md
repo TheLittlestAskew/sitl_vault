@@ -122,6 +122,7 @@ total_rolls: 643
 | [[Session 10 — 021526_Echoes_in_the_Feydark\|S10]] | 02/15/26 | 70 | 20 | 50 | * | * | Blarg (16) | DDB |
 | [[Session 11 — Gifts_of_the_Carrion_King\|S11]] | 03/01/26 | 13 | 7 | 6 | 1 | 1 | Kit (13) | DDB |
 | [[Session 12 — Return to Velkynvelve\|S12]] | 03/29/26 | 36 | ~20 | ~16 | 0 | 0 | Kit (14) | DDB only |
+| [[SITL_13_041126_Reckoning_at_Velkynvelve\|S13]] | 04/11/26 | 63 | ~50 | ~13 | 2 | 1 | Kit (16) | DDB + transcript |
 
 *Note: S09–S11 roll statistics added from DDB archive. S09 was a short RP-heavy session (22 DDB rolls, minimal combat). S10 was the Myconid Sovereign trial (70 DDB rolls — Aeolus not in archive, likely physical dice). S11 was Kit-only in the archive (13 rolls — all from Kit's scripted nightmare). Nat 20/nat 1 counts for S10 marked * pending individual_values audit. S12 logged 36 DDB rolls across Kit (14), Amanita (10), Darby (10), and 2 unattributed. Binks and Aeolus rolled physical dice exclusively (0 DDB entries). 13 additional transcript-only player rolls confirmed as physical dice. ~11 DM/NPC rolls from transcript dialogue.*
 
@@ -169,6 +170,7 @@ total_rolls: 643
 | S01-S08 | 2026-05-13 | Initial population from DDB archive (920 total rolls in archive through S15; only S01-S08 reflected pending vault catch-up for S09+). 52 pre-session test rolls excluded. |
 | S12 | 2026-05-14 | S12 row added. 36 DDB rolls + 13 physical dice rolls. Binks/Aeolus physical dice only. S09-S11 still pending. |
 | S09-S11 | 2026-05-14 | S09-S11 rows added from DDB archive. S09: 22 rolls. S10: 70 rolls. S11: 13 rolls (Kit only). |
+| S13 | 2026-05-15 | S13 row added. 63 DDB rolls (Kit 16, Blarg 10, Amanita 10, Darby 9, 18 unattributed/DM). Aeolus and Binks 0 DDB entries — all rolls physical dice (transcript-only). 2 nat 20s (Kit Con save vs Insect Plague; Darby Dex save vs Roxy trample). 1 nat 1 (Amanita Dex save vs Roxy trample). Blarg double-1s on Moonbeam damage notable. |
 
 ---
 

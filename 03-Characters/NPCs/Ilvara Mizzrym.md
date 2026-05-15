@@ -3,14 +3,14 @@ type: npc
 race: Drow
 class: Priestess
 affiliation: Lolth; Velkynvelve commander
-status: Alive
+status: Dead (S13)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (as of S02)
+location: Velkynvelve cavern floor (killed S13)
 ---
 
 # Ilvara Mizzrym
 
-Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary antagonist in the early campaign.
+Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary antagonist from S01 through S13. **Killed in [[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]** by [[Roxanne]]'s gore attack (27 damage trample).
 
 ## Description / Appearance
 
@@ -36,9 +36,17 @@ Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary
 - **[[Session 02 — Come Get Your Shit]]:** Voice heard shouting orders during the demon battle from the northern outpost. Led drow forces against the vrocks and chasmes. Did not directly confront the escaping party.
 - **[[Session 12 — Return to Velkynvelve|Session 12]]:** Observed inspecting the boardwalk with [[Shoor Vandree|Shore]] when party arrived. Garrison reduced by roughly half from demon battle. Cast Darkness on [[Binks Stonevein|Binks]]'s position (first Darkness sphere). Did not directly engage in melee — remained on the upper platforms. Still active and commanding at session end.
 
+## Key Events (continued)
+
+- **[[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]:** Floated down to address the party in Undercommon, offering surrender or death. Cast mass healing on surviving drow. Cast Insect Plague — a devastating 20-foot swarm of spiders (25 damage, Con DC 15). Her own spell killed [[Shoor Vandree]] (failed save). [[Jorlan Duskryn]] shot her in the neck with a crossbow from the north tower. [[Derendil]] leaped from a stalactite and tackled her to the ground. Lost Insect Plague concentration (Con save: rolled 5). [[Binks Stonevein]] cast Tasha's Hideous Laughter (rolled 3 and 5, failed). Prone and laughing. [[Blarg]] (bear form) clawed and bit her for 20 damage. **Killed by [[Roxanne]]'s gore attack — 27 damage (4d8+5). Impaled on Roxy's horns and sent flying.** Last words to Jorlan: "From you, Jorlan? I didn't think you had the balls." Last words overall: "Unhand me, you brute!" (to Roxy/Derendil).
+
 ## Key Quotes
 
 - "Accept your fate, learn to obey and you may survive." — S01 [Serious]
+- "Hello again. Thank you for saving me the trouble of coming out to find you." — S13 [Serious/Important]
+- "Surrender now and I will make it quick. You will not suffer long." — S13 [Serious/Important]
+- "From you, Jorlan? I didn't think you had the balls." — S13, after Jorlan's crossbow bolt [Serious]
+- "Unhand me, you brute!" — S13, final words before death [Serious]
 
 ---
 

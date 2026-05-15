@@ -2,9 +2,9 @@
 type: npc
 race: Quaggoth
 affiliation: Claims to be elven royalty (polymorphed by a curse)
-status: Captured (by quaggoth minions during party escape)
+status: Alive — Rescued (S13); New Quaggoth Alpha
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve area (captured during S02 escape)
+location: Velkynvelve cavern floor (as of S13)
 ---
 
 # Prince Derendil
@@ -36,6 +36,10 @@ Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a 
 ## DM Notes (Addison, 11/22/25)
 
 > "Derendil was captured by Quaggoth minions as you all made your escape."
+
+## Key Events (continued)
+
+- **[[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]:** Leaped from a stalactite and crashed into [[Ilvara Mizzrym]], knocking her off the giant spider and to the ground. Attacked Ilvara in melee (multi-attack with advantage — one hit for 6 slashing). The other quaggoths recognized Derendil as the new alpha and shifted allegiance, turning on the remaining drow. **Rescued and rejoined the party.** His return resolves the thread from S02.
 
 ---
 
