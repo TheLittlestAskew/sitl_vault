@@ -120,19 +120,19 @@ Continuation of the Battle of Velkynvelve. The party is on the cavern floor of t
 
 ### NPCs
 
-| Name | Race/Class | Affiliations | Last Interaction | Last Known Location | Status |
-|---|---|---|---|---|---|
-| [[Ilvara Mizzrym]] | Drow / Priestess | Lolth; Velkynvelve | Killed by Roxy's gore attack | Velkynvelve cavern floor | **Dead** |
-| [[Shoor Vandree]] | Drow / Warrior | Ilvara; Velkynvelve | Killed by Ilvara's Insect Plague | Velkynvelve cavern floor | **Dead** |
-| [[Asha Vandree]] | Drow / Priestess | Lolth; Velkynvelve | Healed self, fled quaggoth melee | Velkynvelve cavern | Alive (<10 HP) |
-| [[Jorlan Duskryn]] | Drow / Elite Warrior | Turncoat — aided party S01-S02 and S13 | Shot Ilvara with crossbow, smiled | Velkynvelve north tower | Alive (wounded) |
-| [[Derendil]] | Quaggoth | Party companion (claims polymorphed elf prince) | Tackled Ilvara from stalactite; new quaggoth alpha | Velkynvelve cavern floor | Alive |
-| [[Stool]] | Myconid Sprout | Party companion, bonded with Amanita | Misty Stepped onto Darby to wake her; dropped to 0 HP by Insect Plague | Velkynvelve cavern floor | **0 HP** (1 death save success) |
-| [[Topsy]] | Deep Gnome / Wererat | Party companion | Fired poisoned crossbow bolt, put giant spider to sleep | On Roxy's back | Alive |
-| [[Turvy]] | Deep Gnome / Wererat | Party companion | Cast Silver Barbs to save Kit; shapeshifted, killed spider with 10 damage underbelly slice | Velkynvelve cavern floor | Alive |
-| [[Roxanne]] | Rothe (fungal hybrid) | Party mount/companion | Delivered killing blow on Ilvara — 27 damage gore attack | Velkynvelve cavern floor | Alive (low HP) |
-| [[Clementine]] | Spider (grew in Feydark) | Darby's pet | Distracted Ilvara (help action, gave advantage to next attack) | On Darby | Alive |
-| Drow Elite (unnamed) | Drow / Elite Warrior | Velkynvelve garrison | Multi-attacked Kit repeatedly, critted her for 24 damage | Velkynvelve cavern floor | Alive (wounded) |
+| Name                 | Race/Class               | Affiliations                                    | Last Interaction                                                                           | Last Known Location      | Status                          |
+| -------------------- | ------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------ | ------------------------------- |
+| [[Ilvara Mizzrym]]   | Drow / Priestess         | Lolth; Velkynvelve                              | Killed by Roxy's gore attack                                                               | Velkynvelve cavern floor | **Dead**                        |
+| [[Shoor Vandree]]    | Drow / Warrior           | Ilvara; Velkynvelve                             | Killed by Ilvara's Insect Plague                                                           | Velkynvelve cavern floor | **Dead**                        |
+| [[Asha Vandree]]     | Drow / Priestess         | Lolth; Velkynvelve                              | Healed self, fled quaggoth melee                                                           | Velkynvelve cavern       | Alive (<10 HP)                  |
+| [[Jorlan Duskryn]]   | Drow / Elite Warrior     | Turncoat — aided party S01-S02 and S13          | Shot Ilvara with crossbow, smiled                                                          | Velkynvelve north tower  | Alive (wounded)                 |
+| [[Derendil]]         | Quaggoth                 | Party companion (claims polymorphed elf prince) | Tackled Ilvara from stalactite; new quaggoth alpha                                         | Velkynvelve cavern floor | Alive                           |
+| [[Stool]]            | Myconid Sprout           | Party companion, bonded with Amanita            | Misty Stepped onto Darby to wake her; dropped to 0 HP by Insect Plague                     | Velkynvelve cavern floor | **0 HP** (1 death save success) |
+| [[Topsy]]            | Deep Gnome / Wererat     | Party companion                                 | Fired poisoned crossbow bolt, put giant spider to sleep                                    | On Roxy's back           | Alive                           |
+| [[Turvy]]            | Deep Gnome / Wererat     | Party companion                                 | Cast Silver Barbs to save Kit; shapeshifted, killed spider with 10 damage underbelly slice | Velkynvelve cavern floor | Alive                           |
+| [[Roxanne]]          | Rothe (fungal hybrid)    | Party mount/companion                           | Delivered killing blow on Ilvara — 27 damage gore attack                                   | Velkynvelve cavern floor | Alive (low HP)                  |
+| [[Clementine]]       | Spider (grew in Feydark) | Darby's pet                                     | Distracted Ilvara (help action, gave advantage to next attack)                             | On Darby                 | Alive                           |
+| Drow Elite (unnamed) | Drow / Elite Warrior     | Velkynvelve garrison                            | Multi-attacked Kit repeatedly, critted her for 24 damage                                   | Velkynvelve cavern floor | Alive (wounded)                 |
 
 ### Reputation & Relationships
 
@@ -269,15 +269,15 @@ The primary antagonist arc — escape from Ilvara's prison, survive her pursuit,
 - **Kit's combat frustration is mechanical, not narrative.** She missed repeatedly (13, 15, 13, 12 to hit against high-AC drow), burned Action Surge for nothing, and was nearly killed twice. Her one successful hit (21, greatsword + Hunter's Mark, 14 damage) came late. The dice were unkind, but Relentless Endurance, Riposte, and Second Wind kept her standing. This session establishes Kit's identity as a survivor-tank who endures rather than dominates.
 - **Roxy as campaign icon.** The resurrected rothe delivered the killing blow on the primary antagonist. From skeleton in a pond (S08) to Ilvara's executioner (S13) — Roxy's arc is one of the campaign's best emergent stories.
 - **Derendil's return reshapes party dynamics.** A quaggoth who claims to be an elf prince is now the alpha of a quaggoth pack. This gives the party potential control over Velkynvelve's remaining forces.
-- **Jorlan alive — major retcon.** Addison's 11/22/25 notes listed Jorlan as "Older drow who helped the party and died." His S13 appearance contradicts this. Either the DM changed the plan, or the earlier note was intentionally misleading in-world information.
+- **Jorlan alive — no retcon needed.** No death was ever narrated in any transcript. Addison's 11/22/25 note ("Older drow who helped the party and died") likely reflected in-world assumption. His S13 appearance plays as an intentional dramatic reveal.
 
 ### Continuity Flags, Missing Info & Ambiguities
 
 | Flag Type | Description | Source / Location | Resolution |
 |---|---|---|---|
-| Retcon | Jorlan Duskryn listed as dead (Addison notes 11/22/25) but appeared alive in S13 | DND_Sources/Notes From Addison.md vs S13 transcript | Needs DM clarification |
+| Clarified | Jorlan Duskryn listed as dead (Addison notes 11/22/25) but appeared alive in S13 | DND_Sources/Notes From Addison.md vs S13 transcript | No death was ever narrated in any transcript. 11/22/25 note reflected in-world assumptions. Jorlan is alive. |
 | Missing Data | Aeolus and Binks have NO DDB rolls for S13 — all transcript-only | DDB archive query | Likely physical dice. Flag for roll stats. |
-| Missing Data | Binks's trinket empowerment not included in Addison's pre-session review | S13 transcript (pre-session) | Gap — needs DM follow-up |
+| Resolved | Binks's trinket empowerment not included in Addison's pre-session review | S13 transcript (pre-session) | S11 documented it as +1 STR with Ring of Mind Shielding properties. No dispute at table. Accepted as confirmed. |
 | Pending | Kit's Sentient Doll uses "Sentient Armor" stat block per Addison | S13 transcript | Exact capabilities TBD |
 | Spelling | Sylophir — 3 different spellings in transcript | S13 transcript | Standardized to "Sylophir" pending DM confirmation |
 | Translation | "Saloon will protect you" (Blarg) — likely "Silvanus" through German accent + STT | S13 transcript | Needs clarification |

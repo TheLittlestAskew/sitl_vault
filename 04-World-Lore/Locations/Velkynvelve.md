@@ -64,15 +64,15 @@ The outpost consists of multiple stalactite platforms connected by bridges made 
 - [[Ilvara Mizzrym|Ilvara]] cast Darkness on Binks. [[Shoor Vandree|Shore]] cast a second Darkness sphere on Kit. Two overlapping Darkness zones dominated the battlefield.
 - [[Asha Vandree|Asha]] rode a burnt giant spider. Cast Guiding Bolt on Kit (15 radiant). Summoned Spiritual Weapon.
 - [[Aeolus]] broke Shore's Darkness concentration with Witch Bolt (22 lightning damage).
-- Session ended mid-combat (round 2 incomplete). Shore and Drow Elite badly wounded. Ilvara, Asha, spiders, quaggoths still active. Battle continues [[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]].
-- **[[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]:** Battle of Velkynvelve concluded with decisive party victory. [[Ilvara Mizzrym]] killed by [[Roxanne]]'s gore attack (27 damage). [[Shoor Vandree]] killed by Ilvara's own Insect Plague. [[Jorlan Duskryn]] appeared alive — shot Ilvara with crossbow from north tower. [[Derendil]] leaped from stalactite to tackle Ilvara. Quaggoths shifted allegiance to Derendil as new alpha. [[Asha Vandree]] alive but <10 HP. Drow Elite alive but wounded. Outpost effectively neutralized.
+- Session ended mid-combat (round 2 incomplete). Shore and Drow Elite badly wounded. Ilvara, Asha, spiders, quaggoths still active. Battle continues [[Session 13 — Reckoning at Velkynvelve|Session 13]].
+- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Battle of Velkynvelve concluded with decisive party victory. [[Ilvara Mizzrym]] killed by [[Roxanne]]'s gore attack (27 damage). [[Shoor Vandree]] killed by Ilvara's own Insect Plague. [[Jorlan Duskryn]] appeared alive — shot Ilvara with crossbow from north tower. [[Derendil]] leaped from stalactite to tackle Ilvara. Quaggoths shifted allegiance to Derendil as new alpha. [[Asha Vandree]] alive but <10 HP. Drow Elite alive but wounded. Outpost effectively neutralized.
 
 ## Command Structure (Post-S13)
 
 - ~~**[[Ilvara Mizzrym]]**~~ — **DEAD (S13).** Killed by [[Roxanne]]'s gore attack.
 - ~~**[[Shoor Vandree]]**~~ — **DEAD (S13).** Killed by Ilvara's Insect Plague.
 - **[[Asha Vandree]]** — Junior Drow Priestess. Alive but critically wounded (<10 HP). Last surviving commander.
-- **[[Jorlan Duskryn]]** — Drow Elite Warrior. **Alive (S13 retcon).** Turncoat — aided party in S01-S02 and S13. Shot Ilvara with crossbow.
+- **[[Jorlan Duskryn]]** — Drow Elite Warrior. **Alive (S13).** Turncoat — aided party in S01-S02 and S13. Shot Ilvara with crossbow.
 - **[[Derendil]]** — New quaggoth alpha. Quaggoths now allied with party.
 
 ## Related

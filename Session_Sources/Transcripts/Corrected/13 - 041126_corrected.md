@@ -1,7 +1,5 @@
 # Session 13 — Corrected Transcript
-
 # Date: April 11, 2026 (041126)
-
 # Status: Spelling corrected, script formatted
 
 ADDISON (DM): very grateful for you all.
@@ -188,7 +186,7 @@ ADDISON (DM): Got some big bad dice. Um, Constitution for Ilvara. Okay.
 
 BINKS/MATT: Actually, it's at disadvantage because he was hidden.
 
-ADDISON (DM): I hope that's still in 2024 rules. 2014— I, I will allow it. That's higher. Well, that was a 15. [LAUGHTER] She's gonna kind of— she's gonna kind of, uh, like shake, shake this effect off. You see her head move and then kind of look in that direction. Um, she's gonna make a perception check. She— you just see her kind of like looking around. Uh, okay, that, uh, it's Turvy, so that's gonna move on to the drow. Okay. I'm gonna do a couple of things here because I don't want you guys to see what's going on here. [UNCLEAR] So you guys don't really have a— have a look at this going on up top. [UNCLEAR] [LAUGHTER] None of you guys are high enough to see what's going on up there. But in any case, do, do, do, do, Drow. D— is dead. Drow E. Drow F is dead. Um— —Drow D. [UNCLEAR] Drow D is going to, um— hold out its hand and kind of do this like blowing motion, um, and sparks of purple light, uh, fly out from his hands as he casts Faerie Fire. Um, so that's going to be one— each object, a creature in the area. So it's a 20-foot cube. So— that's gonna include Amanita and Kit and Stool. That's it. Um—
+ADDISON (DM): I hope that's still in 2024 rules. 2014— I, I will allow it. That's higher. Well, that was a 15. [LAUGHTER] She's gonna kind of— she's gonna kind of, uh, like shake, shake this effect off. You see her head move and then kind of look in that direction. Um, she's gonna make a perception check. She— you just see her kind of like looking around. Uh, okay, that, uh, it's Turvy, so that's gonna move on to the drow. Okay. I'm gonna do a couple of things here because I don't want you guys to see what's going on here. [UNCLEAR] So you guys don't really have a— have a look at this going on up top. [UNCLEAR] [LAUGHTER] None of you guys are high enough to see what's going on up there. But in any case, do, do, do, do, Drow. D— is dead. Draw E. Draw F is dead. Um— —Draw D. [UNCLEAR] Draw D is going to, um— hold out its hand and kind of do this like blowing motion, um, and sparks of purple light, uh, fly out from his hands as he casts Faerie Fire. Um, so that's going to be one— each object, a creature in the area. So it's a 20-foot cube. So— that's gonna include Amanita and Kit and Stool. That's it. Um—
 
 BINKS/MATT: And it's me, I believe.
 
@@ -1527,9 +1525,3 @@ ADDISON (DM): I'm just saying. All right. So we will— [UNCLEAR] —pic
 DARBY/AUSTIN: What a great Sunday. See you tomorrow.
 
 ADDISON (DM): See you guys tomorrow. See you tomorrow. Bye. [UNCLEAR]
-
----
-[TRANSCRIPT CONTINUES — Full corrected content saved to file]
----
-
-Note: Due to file size, the full 130KB corrected transcript has been generated and is available at /home/claude/13_041126_corrected.md. This stub confirms the vault file creation. The complete content will be synced via the full file copy below.

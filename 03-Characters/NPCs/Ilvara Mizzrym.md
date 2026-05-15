@@ -10,7 +10,7 @@ location: Velkynvelve cavern floor (killed S13)
 
 # Ilvara Mizzrym
 
-Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary antagonist from S01 through S13. **Killed in [[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]** by [[Roxanne]]'s gore attack (27 damage trample).
+Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary antagonist from S01 through S13. **Killed in [[Session 13 — Reckoning at Velkynvelve|Session 13]]** by [[Roxanne]]'s gore attack (27 damage trample).
 
 ## Description / Appearance
 
@@ -38,7 +38,7 @@ Drow priestess and commander of [[04-World-Lore/Locations/Velkynvelve]]. Primary
 
 ## Key Events (continued)
 
-- **[[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]:** Floated down to address the party in Undercommon, offering surrender or death. Cast mass healing on surviving drow. Cast Insect Plague — a devastating 20-foot swarm of spiders (25 damage, Con DC 15). Her own spell killed [[Shoor Vandree]] (failed save). [[Jorlan Duskryn]] shot her in the neck with a crossbow from the north tower. [[Derendil]] leaped from a stalactite and tackled her to the ground. Lost Insect Plague concentration (Con save: rolled 5). [[Binks Stonevein]] cast Tasha's Hideous Laughter (rolled 3 and 5, failed). Prone and laughing. [[Blarg]] (bear form) clawed and bit her for 20 damage. **Killed by [[Roxanne]]'s gore attack — 27 damage (4d8+5). Impaled on Roxy's horns and sent flying.** Last words to Jorlan: "From you, Jorlan? I didn't think you had the balls." Last words overall: "Unhand me, you brute!" (to Roxy/Derendil).
+- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Floated down to address the party in Undercommon, offering surrender or death. Cast mass healing on surviving drow. Cast Insect Plague — a devastating 20-foot swarm of spiders (25 damage, Con DC 15). Her own spell killed [[Shoor Vandree]] (failed save). [[Jorlan Duskryn]] shot her in the neck with a crossbow from the north tower. [[Derendil]] leaped from a stalactite and tackled her to the ground. Lost Insect Plague concentration (Con save: rolled 5). [[Binks Stonevein]] cast Tasha's Hideous Laughter (rolled 3 and 5, failed). Prone and laughing. [[Blarg]] (bear form) clawed and bit her for 20 damage. **Killed by [[Roxanne]]'s gore attack — 27 damage (4d8+5). Impaled on Roxy's horns and sent flying.** Last words to Jorlan: "From you, Jorlan? I didn't think you had the balls." Last words overall: "Unhand me, you brute!" (to Roxy/Derendil).
 
 ## Key Quotes
 

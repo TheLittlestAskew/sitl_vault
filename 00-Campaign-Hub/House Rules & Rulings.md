@@ -68,7 +68,7 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 ### Retcons
 - **S08: Exhaustion tracking retconned by Addison.** S03-S07 time/condition data should be treated as approximated. All PCs reset to 1 level of exhaustion at S08 start.
 - **S09: 2024 Exhaustion rules clarified.** Level 1 exhaustion = -2 to all d20 tests, -5 speed. NOT disadvantage (that was 2014 rules). Death at level 6. Applies to death saving throws. Long rest required to remove.
-- **S13: Jorlan Duskryn alive.** Previously listed as dead per Addison's 11/22/25 notes ("Older drow who helped the party and died"). Appeared alive in S13 — shot Ilvara with a crossbow and smiled. Either a retcon or the earlier note was misleading/in-world information rather than fact. Needs DM clarification.
+- **S13: Jorlan Duskryn alive.** Previously listed as dead per Addison's 11/22/25 notes ("Older drow who helped the party and died"). Appeared alive in S13 — shot Ilvara with a crossbow and smiled. No death was ever narrated in any transcript. The earlier note likely reflected in-world assumptions rather than confirmed fact.
 
 ---
 

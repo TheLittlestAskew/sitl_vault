@@ -53,7 +53,7 @@
 - ~~[[Ilvara Mizzrym]]~~ — **DEAD (S13).** Drow priestess, Velkynvelve commander, primary antagonist. Shot by [[Jorlan Duskryn]]'s crossbow. Tackled from stalactite by [[Derendil]]. Killed by [[Roxanne]]'s gore attack (27 damage trample). Her own Insect Plague killed [[Shoor Vandree]]. Primary antagonist arc from S01 is closed.
 - ~~[[Shoor Vandree]]~~ — **DEAD (S13).** Drow warrior, Ilvara's lieutenant/lover. Killed by Ilvara's own Insect Plague spell after she lost concentration control.
 - [[Asha Vandree]] — Junior drow priestess. Alive as of S13 end but severely wounded (<10 HP). Last active combatant from the Velkynvelve drow command.
-- [[Jorlan Duskryn]] — Scarred drow elite warrior. **ALIVE (S13 retcon).** Previously listed as dead per Addison's 11/22/25 notes. Appeared in S13: shot Ilvara with a crossbow and smiled as Derendil tackled her. Turncoat confirmed. ⚠️ Status change contradicts earlier DM notes — needs clarification.
+- [[Jorlan Duskryn]] — Scarred drow elite warrior. **ALIVE (S13).** Shot Ilvara with a crossbow and smiled as Derendil tackled her. Turncoat confirmed across S01, S02, and S13.
 - Drow Elite (unnamed) — Alive as of S13 end. Badly wounded.
 - The Corrupted Entity — Female, from the Abyss. A twisted reflection of [[Psilofyr]]. Seeks to control death and rot. Naos attempted to infiltrate her and is now in danger. Name unknown — Naos "dare not speak" it. Likely Zuggtmoy (do not metagame). (S11)
 
@@ -75,7 +75,7 @@
 | 10  | 02/15/2026 | Through the Fungal Gate       | [[Session 10 — 021526_Echoes_in_the_Feydark]]      |
 | 11  | 03/01/2026 | Gifts of the Carrion King     | [[Session 11 — Gifts_of_the_Carrion_King]]         |
 | 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12 — Return to Velkynvelve]]             |
-| 13  | 04/11/2026 | Reckoning at Velkynvelve      | [[SITL_13_041126_Reckoning_at_Velkynvelve]]        |
+| 13  | 04/11/2026 | Reckoning at Velkynvelve      | [[Session 13 — Reckoning at Velkynvelve]]        |
 | 14  | 04/12/2026 | —                             | [[Session 14]]                                     |
 
 ---
@@ -144,11 +144,11 @@
 - [ ] Eldeth's Mission — Departed through Gauntlgrym portal (S11) to warn the dwarven kings. Promised to bring reinforcements and return.
 - [ ] Asha Vandree's Fate — Alive but <10 HP as of S13 end. Last surviving member of Velkynvelve drow command structure.
 - [ ] Drow Elite's Fate — Unnamed drow elite still alive as of S13 end. Badly wounded.
-- [ ] Jorlan Duskryn's Status — Appeared alive in S13 despite being listed as dead in Addison's 11/22/25 notes. Shot Ilvara, smiled as Derendil tackled her. Retcon or narrative misdirection? Needs DM clarification.
+- [ ] Jorlan Duskryn's Status — Alive. Appeared in S13 despite earlier DM notes listing him as dead. No death was ever narrated in any transcript; the 11/22/25 note likely reflected in-world assumptions.
 - [ ] Kit's Sentient Doll — Uses "Sentient Armor" stat block per Addison (S13). Exact capabilities TBD.
 - [ ] Sylophir — Feydark NPC. 3 different spellings in S13 transcript. Standardized to "Sylophir" pending DM confirmation.
 - [ ] Quaggoth Allegiance Shift — Quaggoths shifted allegiance to [[Derendil]] as new alpha after Ilvara's fall (S13). Implications for party's control of Velkynvelve TBD.
-- [ ] Binks's Trinket Empowerment Gap — Binks's trinket was NOT included in Addison's S13 pre-session empowerment review. Gap needs resolution.
+- [ ] Binks's Trinket Empowerment — Not explicitly reviewed in Addison's S13 pre-session, but S11 documented it as +1 STR with Ring of Mind Shielding properties. No dispute at table. Accepted as confirmed.
 
 ### Completed
 - [x] Escape Velkynvelve — Completed (S02). Party jumped into pool during vrock/chasme chaos

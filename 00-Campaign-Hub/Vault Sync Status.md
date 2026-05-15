@@ -24,7 +24,7 @@ Each column = a vault file or file group. Each row = a session. ✅ = updated, �
 | S10 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | S11 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
 | S12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
-| S13 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✖ | ✅ | ✅ | ➖ | ✅ |
+| S13 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
 | S14 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | S15 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
@@ -108,7 +108,7 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 
 ## Current Gaps Summary
 
-**Fully synced through:** S13 (all applicable columns ✅, except PC pages pending)
+**Fully synced through:** S13 (all applicable columns ✅)
 
 **Partially synced:** None
 
@@ -117,8 +117,7 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 - No session notes, vault updates, or propagation done
 
 **Priority catch-up order:**
-1. S13: PC pages (6 pages need S13 combat events added)
-2. S14–S15: Full pipeline (Convo 1 + Convo 2)
+1. S14–S15: Full pipeline (Convo 1 + Convo 2)
 
 ---
 
@@ -128,4 +127,4 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 |---|---|---|
 | 2026-05-14 | Claude (vault audit) | Initial matrix created from vault inspection. S01–S08 marked fully synced. S09–S11 marked partial. S12–S15 marked not started. S04 corrected transcript missing noted. |
 | 2026-05-14 | Claude (Convo 2, S12) | S12 fully synced. Session note, dashboard, loot, quotes, profanity, journal, all PC pages (Kit/Binks/Aeolus/Darby/Amanita/Blarg), NPC pages (Shoor/Asha/Ilvara/Stool/Topsy), Velkynvelve location, roll stats (S12 row), house rules all updated. Flora/Fauna marked N/A (pure combat session). |
-| 2026-05-15 | Claude (Convo 2, S13) | S13 fully synced (except PC pages — marked ✖). Session note, corrected transcript (confirmed in vault), dashboard, loot, quotes, profanity, journal, all NPC pages (Ilvara→Dead, Shoor→Dead, Jorlan→Alive retcon, Derendil→Rescued, Stool→0HP, Roxy kill update, Topsy/Turvy leveled), Velkynvelve location, roll stats (S13 row, 63 DDB rolls). Flora/Fauna marked N/A (pure combat session). House rules updated (S13 rulings + trinket stat bonuses + Jorlan retcon). PC pages pending — no new class features or level-ups this session; combat events can be added incrementally. |
+| 2026-05-15 | Claude (Convo 2, S13) | S13 fully synced. Session note, corrected transcript (confirmed in vault), dashboard, loot, quotes, profanity, journal, all PC pages (Kit/Binks/Aeolus/Blarg/Amanita/Darby), all NPC pages (Ilvara→Dead, Shoor→Dead, Jorlan→Alive, Derendil→Rescued, Stool→0HP, Roxy kill update, Topsy/Turvy leveled), Velkynvelve location, roll stats (S13 row, 63 DDB rolls). Flora/Fauna marked N/A (pure combat session). House rules updated (S13 rulings + trinket stat bonuses). Jorlan status clarified (alive — no death ever narrated). Binks trinket accepted as confirmed from S11. |

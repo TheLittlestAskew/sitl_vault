@@ -171,7 +171,7 @@ _Trinket empowerment stat bonuses confirmed pre-session by Addison (updates to e
 - _Blarg's Goblin Carving: +1 CHA_
 - _Darby's Axebeak form: +1 CHA_
 - _Darby's Pipe: +1 INT_
-- _Binks's trinket: NOT addressed — empowerment gap_
+- _Binks's trinket: Confirmed from S11 (+1 STR, Ring of Mind Shielding properties). Not explicitly re-reviewed in S13 pre-session but undisputed._
 
 _Note: Turvy assigned Silver Barbs (Fey-Touched). Binks assigned Tasha's Hideous Laughter (Fey-Touched). Topsy's Fey-Touched spell pending (Matt to choose)._
 

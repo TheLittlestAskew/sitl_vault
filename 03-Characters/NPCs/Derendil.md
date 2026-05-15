@@ -39,7 +39,7 @@ Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a 
 
 ## Key Events (continued)
 
-- **[[SITL_13_041126_Reckoning_at_Velkynvelve|Session 13]]:** Leaped from a stalactite and crashed into [[Ilvara Mizzrym]], knocking her off the giant spider and to the ground. Attacked Ilvara in melee (multi-attack with advantage — one hit for 6 slashing). The other quaggoths recognized Derendil as the new alpha and shifted allegiance, turning on the remaining drow. **Rescued and rejoined the party.** His return resolves the thread from S02.
+- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Leaped from a stalactite and crashed into [[Ilvara Mizzrym]], knocking her off the giant spider and to the ground. Attacked Ilvara in melee (multi-attack with advantage — one hit for 6 slashing). The other quaggoths recognized Derendil as the new alpha and shifted allegiance, turning on the remaining drow. **Rescued and rejoined the party.** His return resolves the thread from S02.
 
 ---
 
