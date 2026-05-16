@@ -25,7 +25,7 @@ A dangerous Underdark toadstool fungus found in the mushroom cavern the party tr
 - Party identified it and avoided it; no direct interaction
 - Part of the general "underground rainforest" of fungi the party traveled through
 
-### [[SITL_15_050326_The_Long_Road_to_Sloobludop|Session 15]]
+### [[Session 15 — The Long Road to Sloobludop|Session 15]]
 - Encountered again in the [[Fungal Cavern (Day 4)]] en route to Sloobludop
 - [[Amanita de'Champignon]] identified it (Nature 26) and guided the party to avoid the explosive patches
 - Described as explosive — DM confirmed it's dangerous to step on
@@ -36,7 +36,7 @@ A dangerous Underdark toadstool fungus found in the mushroom cavern the party tr
 
 ## Related
 - [[Session 03 — Into the Dark]]
-- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
+- [[Session 15 — The Long Road to Sloobludop]]
 - [[Fungal Cavern (Day 4)]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]

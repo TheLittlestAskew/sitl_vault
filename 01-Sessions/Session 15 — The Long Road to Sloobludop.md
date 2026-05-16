@@ -109,12 +109,12 @@ Underdark tunnels between [[04-World-Lore/Locations/Velkynvelve]] and [[Slooblud
 
 ### Party Structure & Subgroups
 
-| Group | Members | Role |
-|---|---|---|
-| On foot (front) | [[Kit Aluri]], [[Binks Stonevein]] | Scouting, point |
-| On foot (behind) | [[Blarg]], [[Topsy]], [[Turvy]] | Support, foraging |
-| Riding [[Roxanne]] | [[Darby Stonefeather]], [[Aeolus]], [[Amanita de'Champignon]], [[Stool]] | Transport, spell component sorting |
-| Walking (position unclear) | [[Derendil]] | With party |
+| Group                      | Members                                                                  | Role                               |
+| -------------------------- | ------------------------------------------------------------------------ | ---------------------------------- |
+| On foot (front)            | [[Kit Aluri]], [[Binks Stonevein]]                                       | Scouting, point                    |
+| On foot (behind)           | [[Blarg]], [[Topsy]], [[Turvy]]                                          | Support, foraging                  |
+| Riding [[Roxy]]            | [[Darby Stonefeather]], [[Aeolus]], [[Amanita de'Champignon]], [[Stool]] | Transport, spell component sorting |
+| Walking (position unclear) | [[Derendil]]                                                             | With party                         |
 
 ### NPCs
 

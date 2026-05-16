@@ -158,7 +158,7 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Session 12 — Return to Velkynvelve]]
 - [[Session 13 — Reckoning at Velkynvelve]]
 - [[Session 14 — Far From the Sun]]
-- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
+- [[Session 15 — The Long Road to Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

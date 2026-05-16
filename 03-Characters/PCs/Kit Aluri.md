@@ -186,7 +186,7 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
 - [[Session 14 — Far From the Sun]]
-- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
+- [[Session 15 — The Long Road to Sloobludop]]
 - [[Artaxle]]
 - [[Garruk]]
 - [[04-World-Lore/Locations/Velkynvelve]]

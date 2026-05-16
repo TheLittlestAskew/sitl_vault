@@ -1,14 +1,14 @@
 ---
 type: plant
 classification: Bioluminescent Moss
-first_appearance: "[[SITL_15_050326_The_Long_Road_to_Sloobludop]]"
+first_appearance: "[[Session 15 — The Long Road to Sloobludop]]"
 location: Underdark tunnels (en route to Sloobludop)
 ---
 
 # Ormu
 
 > **Type:** Bioluminescent green moss
-> **First Encountered:** [[SITL_15_050326_The_Long_Road_to_Sloobludop|Session 15]]
+> **First Encountered:** [[Session 15 — The Long Road to Sloobludop|Session 15]]
 > **Discovered By:** [[Blarg]] (Nature 23)
 
 ---
@@ -43,7 +43,7 @@ Bioluminescent green moss that sheds dim light in a 5-foot radius. Found growing
 
 ## Related
 
-- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
+- [[Session 15 — The Long Road to Sloobludop]]
 - [[Blarg]]
 - [[Amanita de'Champignon]]
 - [[Underdark Bioluminescent Fungi]]

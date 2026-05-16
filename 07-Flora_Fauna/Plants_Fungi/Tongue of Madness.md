@@ -1,14 +1,14 @@
 ---
 type: plant
 classification: Fungus (poisonous)
-first_appearance: "[[SITL_15_050326_The_Long_Road_to_Sloobludop]]"
+first_appearance: "[[Session 15 — The Long Road to Sloobludop]]"
 location: Fungal Cavern (Day 4, en route to Sloobludop)
 ---
 
 # Tongue of Madness
 
 > **Type:** Underdark fungus (poisonous)
-> **First Encountered:** [[SITL_15_050326_The_Long_Road_to_Sloobludop|Session 15]]
+> **First Encountered:** [[Session 15 — The Long Road to Sloobludop|Session 15]]
 > **Identified By:** [[Amanita de'Champignon]]
 
 ---
@@ -33,6 +33,6 @@ An Underdark fungus identified by [[Amanita de'Champignon]] in the Fungal Cavern
 
 ## Related
 
-- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
+- [[Session 15 — The Long Road to Sloobludop]]
 - [[Amanita de'Champignon]]
 - [[Fungal Cavern (Day 4)]]

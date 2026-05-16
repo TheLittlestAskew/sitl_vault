@@ -1,14 +1,14 @@
 ---
 type: location
 region: Underdark (between Velkynvelve and Sloobludop)
-first_appearance: "[[SITL_15_050326_The_Long_Road_to_Sloobludop]]"
+first_appearance: "[[Session 15 — The Long Road to Sloobludop]]"
 status: Visited
 ---
 
 # Fungal Cavern (Day 4)
 
 > **Region:** Underdark tunnels, en route from [[04-World-Lore/Locations/Velkynvelve]] to [[Sloobludop]]
-> **First Visited:** [[SITL_15_050326_The_Long_Road_to_Sloobludop|Session 15]]
+> **First Visited:** [[Session 15 — The Long Road to Sloobludop|Session 15]]
 > **Discovered By:** [[Amanita de'Champignon]] (encounter roll of 4)
 
 ---
@@ -37,7 +37,7 @@ A large cavern filled with fungi and mushrooms of all sizes and types, encounter
 
 ## Related
 
-- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
+- [[Session 15 — The Long Road to Sloobludop]]
 - [[Amanita de'Champignon]]
 - [[Blarg]]
 - [[Sloobludop]]

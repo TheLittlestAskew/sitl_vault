@@ -79,7 +79,7 @@
 | 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12 — Return to Velkynvelve]]           |
 | 13  | 04/11/2026 | Reckoning at Velkynvelve      | [[Session 13 — Reckoning at Velkynvelve]]        |
 | 14  | 04/12/2026 | Far From the Sun               | [[Session 14 — Far From the Sun]]                |
-| 15  | 05/03/2026 | The Long Road to Sloobludop    | [[SITL_15_050326_The_Long_Road_to_Sloobludop]]   |
+| 15  | 05/03/2026 | The Long Road to Sloobludop    | [[Session 15 — The Long Road to Sloobludop]]   |
 
 ---
 
