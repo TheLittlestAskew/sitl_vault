@@ -4,7 +4,7 @@ race: Quaggoth
 affiliation: Claims to be elven royalty (polymorphed by a curse)
 status: Alive — Rescued (S13); New Quaggoth Alpha
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve cavern floor (as of S13)
+location: Velkynvelve, with party (departing for Sloobludop, S14)
 ---
 
 # Prince Derendil
@@ -40,6 +40,7 @@ Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a 
 ## Key Events (continued)
 
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Leaped from a stalactite and crashed into [[Ilvara Mizzrym]], knocking her off the giant spider and to the ground. Attacked Ilvara in melee (multi-attack with advantage — one hit for 6 slashing). The other quaggoths recognized Derendil as the new alpha and shifted allegiance, turning on the remaining drow. **Rescued and rejoined the party.** His return resolves the thread from S02.
+- **[[Session 14 — Far From the Sun|Session 14]]:** No memory of controlling the quaggoths; the last couple of hours were "just a blur." Asked the party: "Can we please get out of here and find a shower?" Quaggoths fled after Binks's shrine desecration shifted the faerzress from purple to gold. Derendil stayed with the party. Traveling with the group to [[Sloobludop]].
 
 ---
 

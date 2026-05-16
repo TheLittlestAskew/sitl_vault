@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Austin (aus10england)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: En route to Sloobludop (Day 4 of 7, as of S15)
 ---
 
 # Darby Stonefeather
@@ -14,7 +14,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 > **Player:** Austin (aus10england)
 > **Race:** Goliath
 > **Class:** Barbarian (Path of the Wild Heart)
-> **Level:** 4 (as of S08)
+> **Level:** 5 (as of S13)
 > **Background:** Farmer
 > **DDB userId:** 123535156
 > Character Sheet: [[Darby.pdf]]
@@ -80,7 +80,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Amanita de'Champignon]]:** Closest ally. Carried Amanita during S07 flooding escape.
 - **[[Stool]]:** First telepathic contact via rapport spores (S01). Rescued Stool with Amanita during floor collapse (S05).
 - **[[Eldeth]]:** Allied; gave Eldeth equipment (S02). Made small talk in Feydark camp (S11).
-- **[[Asha Vandree]]:** Shoved off cliff (athletics 24 vs 5, S02).
+- **[[Asha Vandree]]:** Shoved off cliff (athletics 24 vs 5, S02). **Killed Asha in S14** with Fire Mace AoO (20 damage, mace spike in skull) when she tried to flee into darkness.
 - **[[Turvy]]:** Pacifist. Opposed killing Turvy (S05).
 - **[[Aeolus]]:** Received temp HP twice via Steps of the Fey (S06, S07).
 - **Clementine (pet tarantula):** Named S06. Grew slightly during Feydark vision (S10).
@@ -101,6 +101,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Totem fully empowered (+1 CHA, Axe Beak rage option). Woke early, wandered camp. Stood over sleeping Kit — Kit punched her shin on instinct. Small talk with Eldeth and goblins. Received **Fey Touched** from Psilofyr. Voted Velkynvelve. Entered Nexus Pool portal.
 - **[[Session 12 — Return to Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Animal Friendship. Entered Axe Beak rage in the darkness but couldn't find anyone to hit initially. Nearly collided with Amanita in darkness (Amanita nat 20 Dex dodge). Mounted [[Roxanne|Roxy]] mid-charge in darkness — Athletics dirty 20 (rage advantage + darkness disadvantage = flat roll). [[Topsy]] whispered directions via spore link. Hit [[Shoor Vandree|Shore]] with fire mace: 24 to hit, 16 damage (13 base + rage + fire). Shore held concentration. First f-bomb of the campaign: "Sneaks by the fuck."
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Trinket empowerments confirmed: Axebeak form +1 CHA, Pipe +1 INT. Knocked unconscious by [[Shoor Vandree]]'s poisoned short sword crit (nat 20, 14 piercing reduced to 7 via rage resistance + 10 poison; DC 13 Con save failed by exactly 5 — poison-induced unconsciousness). Used Stone's Endurance to reduce by 8. Rage ended. Woken by [[Stool]] Misty Stepping onto her head ("Darby, Darby, Darby!"). Re-entered Axe Beak rage. Hit giant spider with fire mace (19 to hit, 16 total damage with rage + fire — on a damage roll of 1). [[Clementine]] used help action to distract Ilvara, giving advantage to next attack. Controlled [[Roxanne]] — **Roxy delivered the killing blow on [[Ilvara Mizzrym]]**: 27 damage gore attack (4d8+5). Described as "primal proxy rage — no mercy, gore." Ilvara impaled on Roxy's horns. Roxy also took 13 damage from Insect Plague and nat 1 on earlier gore attempt vs Shoor. Passed Insect Plague Con save (22, nat 20 with advantage — no damage from Roxy trample to self). Darby's second f-bomb: "Good, fuck Shoor."
+- **[[Session 14 — Far From the Sun|Session 14]]:** Attempted to intimidate [[Asha Vandree]] ("Do you want me to pin you down?") — Intimidation 5 with disadvantage (DM ruled CHA-based with disadvantage for awkward delivery). **Killed Asha** with attack of opportunity: Fire Mace, 14 to hit with disadvantage, 20 damage. Mace spike embedded in skull. Stayed at cavern floor with [[Roxanne]] — too large for stairs. Bonding with Roxy deepened. Extended Rage via bonus action (2024 rules). "Hey, this is my first time living too" — defining character moment.
 
 ## Key Quotes
 
@@ -117,6 +118,14 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "Sneaks by the fuck." — S12, reacting to Amanita's nat 20 dodge in darkness [Funny]
 - "We are familiar with the darkness at this point." — S12 [Funny]
 - "What the are they doing?" — S12, on Topsy and Turvy during combat [Funny]
+- "Come on, she trusts me." — S15, to Blarg re: riding Roxy [Funny]
+- "I was home in the cold, so used to locking in in small class sizes." — S15, re: excelling at Undercommon [Funny]
+- "Not the Darkness safety word." — S15, re: party Darkness tactics [Funny]
+
+### S15 Key Events
+- Riding Roxy at front of the column. Fashioning armor onto Roxy during rest periods using building hammers and iron spikes.
+- **Nat 20 on Undercommon Insight check** (with disadvantage!) during Binks's language class. Excelled at learning despite Binks's poor teaching. Described as innate goliath aptitude.
+- Languages discussed: Darby's language list not fully stated. Undercommon learning in progress.
 
 ---
 
@@ -134,6 +143,9 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
+- [[Session 13 — Reckoning at Velkynvelve]]
+- [[Session 14 — Far From the Sun]]
+- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

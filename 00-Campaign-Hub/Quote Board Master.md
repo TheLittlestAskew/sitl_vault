@@ -645,6 +645,173 @@ Verbatim quotes across all sessions. Tagged by character and type.
 
 ---
 
+## Session 14 — Far From the Sun
+
+**[[Kit Aluri]] · [Funny]**
+"You know when you're playing Mortal Kombat and you're about to die and you're just— the, the character is standing there just like wobbling back and forth? That's Kit right now. I have 3 hit points."
+
+**[[Binks Stonevein]] · [Funny/Serious]**
+"Why the fuck did you serve her? She sucks, she tried to kill you. What?"
+
+**[[Darby Stonefeather]] · [Funny]**
+"Do you want me to pin you down?"
+
+**[[Binks Stonevein]] · [Funny]**
+"Damn, Darby. Shit, I didn't know this house could—"
+
+**[[Darby Stonefeather]] · [Funny/Poignant]**
+"Hey, this is my first time living too."
+
+**[[Asha Vandree]] (Addison) · [Serious]**
+"Whatever happens here, Lolth will drag you to the abyss."
+
+**[[Kit Aluri]] · [Serious/Defining]**
+"There's a man up there who is just like you, and he helped us, and it doesn't matter that you're drow, and it doesn't matter that you think we're enemies. If you want to fight, we can do that, but I would like to be next to this man in his last moments."
+
+**[[Kit Aluri]] · [Serious]**
+"I wish to honor someone who showed me kindness."
+
+**Drow Elite (Addison) · [Serious/Poignant]**
+"Do what you will, I am done here. You've earned my—" *[switches to halting Common]* "respect."
+
+**[[Binks Stonevein]] · [Funny]**
+"Wait, you could speak Common this whole time? That's rude. I've been translating."
+
+**[[Kit Aluri]] · [Funny]**
+"I want one. You could ride a fucking lizard?"
+
+**[[Darby Stonefeather]] · [Funny]**
+"Through animal friendship, of course. I got this."
+
+**[[Jorlan Duskryn]] (Addison) · [Poignant]**
+"I can't say that this forgotten outpost in the middle of nowhere was where I wanted to die. I don't think I have the strength to see a sunrise. Would have been nice."
+
+**[[Kit Aluri]] · [Poignant/Important]**
+"We're very far from the sun right now."
+
+**[[Jorlan Duskryn]] (Addison) · [Serious/Important]**
+"There is a group... They call themselves the Society of Brilliance. More like the Society of Arrogance."
+
+**[[Kit Aluri]] · [Funny]**
+"They call themselves brilliant, usually are arrogant."
+
+**[[Jorlan Duskryn]] (Addison) · [Poignant/Defining]**
+"My entire life I have been taught are nothing but weakness. The only honor comes from battle and worship to our goddess."
+
+**[[Kit Aluri]] · [Serious]**
+"And yet I'm still standing right here having this conversation with you. If you really thought that, you should have already killed me."
+
+**[[Jorlan Duskryn]] (Addison) · [Poignant]**
+"I hope you can make it a better place than those who come after."
+
+**[[Kit Aluri]] · [Serious]**
+"I can't make any promises, but I don't have any choice but to try."
+
+**[[Binks Stonevein]] · [Funny]**
+"So we kill Jorlan." *[during bio break]*
+
+**[[Kit Aluri]] · [Funny]**
+"We don't have to."
+
+**[[Blarg]] · [Funny]**
+"Ah, we're gonna save them."
+
+**[[Aeolus]] · [Funny]**
+"We the good guys."
+
+**[[Stool]] (Addison) · [Funny/Poignant]**
+"Neverlight Grove? Are we going home? We'll be safe there."
+
+**[[Kit Aluri]] · [Funny]**
+"I'm not much of a hugger, but like, you know, if it's just my leg, I'll allow it."
+
+**[[Binks Stonevein]] · [Funny/Defining]**
+"Honestly, fuck Lolth. She deserves everything bad that comes to her."
+
+**[[Blarg]] · [Banter]**
+"That is for sure. Twisting those poor drows."
+
+**Garl Glittergold (Addison) · [DM Quip/Defining]**
+"Man, you are ballsy, kid. You got some cojones, man. You are still so weak, and yet you tried to overcome the power of Lolth. I gotta applaud that, dude."
+
+**[[Derendil]] (Addison) · [Funny]**
+"Honestly, chaps, I have no idea how I got them under my control. The last couple of hours are just a blur to me. Can we please get out of here and find a shower?"
+
+**[[Kit Aluri]] · [Funny]**
+"Take me to the lakes."
+
+**[[Binks Stonevein]] · [Banter]**
+"Just a real quick—" *[on the 2-3 month walk to Gauntlgrym]*
+
+**[[Kit Aluri]] · [Funny]**
+"Quick little jaunt to Mordor."
+
+---
+
 ## Related
 
 [[Campaign Dashboard]]
+
+---
+
+## Session 15 — The Long Road to Sloobludop
+
+**[[Kit Aluri]] · [Funny]**
+"Why do I always get bit by shit when I'm late?"
+
+**[[Binks Stonevein]] · [Funny]**
+"It's better than were-rat."
+
+**[[Kit Aluri]] · [Funny]**
+"Goddamn. That was a 5. Shit."
+
+**[[Blarg]] · [Banter]**
+"I'm not getting up there as well. I don't trust it."
+
+**[[Darby Stonefeather]] · [Funny]**
+"Come on, she trusts me."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Hey, does anyone have any yew leaves? I feel like I'm out. Just keep an eye out, okay?"
+
+**[[Amanita de'Champignon]] · [Funny/Defining]**
+"Oh, you're welcome, man. Like, anytime you want to talk about the secrets of the universe and, and fungus, I'm here for you."
+
+**[[Blarg]] · [Funny]**
+"Look, Amanita, I think I found something. Isn't that useful?"
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Oh yeah, that's great stuff. You know, if you eat it, your tongue glows."
+
+**[[Blarg]] · [Banter]**
+"That sounds super useful."
+
+**[[Kit Aluri]] · [Serious/Poignant]**
+"Kit sings to her weapons while she's doing things. The humming is kind of like a meditative time for her."
+
+**[[Darby Stonefeather]] · [Funny]**
+"I was home in the cold, so used to locking in in small class sizes."
+
+**[[Kit Aluri]] · [Banter]**
+"He's gonna walk and everybody's gonna sit, so let's just—"
+
+**Addison (DM) · [DM Quip]**
+"Some people seem scared."
+
+**[[Kit Aluri]] · [Funny/Tactical]**
+"I think that people think that Darkness is more helpful than it is. It hurts. It is for everybody."
+
+**[[Aeolus]] · [Funny]**
+"I'm a squishy warlock."
+
+**[[Kit Aluri]] · [Funny/Tactical]**
+"If you can see through magical darkness and you're gonna cast magical darkness, your task when casting magical darkness should be to retrieve all of your teammates out of the magical darkness so we can escape."
+
+**[[Darby Stonefeather]] · [Funny]**
+"Not the Darkness safety word."
+
+**[[Aeolus]] · [Funny]**
+"Just tell him how to call someone stupid and he's going to be happy."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"That's my superpower. I'm psychic and I'm drawn to—"

@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Matt (MattOli)
 first_appearance: "[[Session 02 — Come Get Your Shit]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: En route to Sloobludop (Day 4 of 7, as of S15)
 ---
 
 # Binks Stonevein
@@ -14,7 +14,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 > **Player:** Matt (MattOli)
 > **Race:** Deep Gnome (Gnome mechanically)
 > **Class:** Cleric (Trickery Domain) / Rogue multiclass
-> **Level:** 4 (as of S10 — multiclassed into Rogue)
+> **Level:** 5 (as of S13)
 > **Background:** Outlander
 > **DDB userId:** 107236097
 > Character Sheet: [[Binks.pdf]]
@@ -60,6 +60,11 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **Fey Touched (Wisdom)**
 - **Scroll Casting:** 7th-level Resurrection at Level 3 (DC 17, rolled 21 with Guidance + Help). (S09)
 - Darkvision (deep gnome)
+- **Command:** Used S14 to Halt [[Asha Vandree]] mid-Darkness cast (Asha failed WIS save 10 vs DC). Prevented another round of magical darkness.
+- **Ceremony (Atonement):** Used S14 on the Shrine of Lolth statue. Nat 1 Insight (good — lowered DC). Religion 15 with advantage + Bless. Partial success: took 7 psychic damage, gained 1 madness point (stunned), but Ring of Mind Shielding blocked Lolth. Half the statue transformed into [[Garl Glittergold]] giving Lolth the middle finger. Faerzress shifted purple to gold. Entire party gained Blessed (d4 to attacks/saves) for 24 hours.
+
+## Conditions
+- **Madness Level 1** — Gained S14 from desecrating the Shrine of Lolth. Rolled 84 on d100 madness table → stunned condition. Track across sessions.
 
 ## Inventory / Loot
 
@@ -95,7 +100,8 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[SITL_10_021526_Echoes_in_the_Feydark|Session 10]]:** Grandfather-vision. Loot pick began empowering. Leveled to 4, multiclassed into Rogue.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Tried to go back to sleep, believing he was dead. Heard grandfather's voice: "A wise Goliath once told me that your strength comes from your friends." Loot pick empowered (+1 STR, Ring of Mind Shielding properties, growth item). Made healing salve for Topsy (medicine nat 24). Brought Kit to see resurrected Topsy — told Kit "I was struggling with her death, so I knew you probably did, too." Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "I want to settle a score with some drow." Entered Nexus Pool portal.
 - **[[Session 12 — Return to Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Tasha's Hideous Laughter. Scouted Velkynvelve from tunnel mouth (perception 23) — identified battle damage, dead drow/quaggoth/spider corpses, dead chasme in webbing. Cast Pass Without Trace for stealth approach. First kill of the session: auto-crit sneak attack on Hold Person'd patrol drow (15 damage, 13 HP drow — instant kill). Spotted by [[Shoor Vandree|Shore]], who shouted "You were a fool to return." Trapped in [[Ilvara Mizzrym|Ilvara]]'s Darkness sphere. [[Stool]] found him by sound (perception 22) and provided Help. Restrained by spider webbing. Crit Spiritual Weapon on Drow Elite (25 damage). Rolled physical dice exclusively — zero DDB archive entries. Misty Step blocked by darkness (RAW: requires sight).
-- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Healed Kit twice (Cure Wounds 12 HP). Invoked Duplicity beside himself — duplicate made obscene gestures at the Drow Elite, granting disadvantage on attacks against Binks. Cast **Tasha's Hideous Laughter on [[Ilvara Mizzrym]]** with disadvantage (Clementine's distraction): "Hey, Ilvara, why are you on the ground? Are you drowsy?" Ilvara rolled 3 and 5 — failed completely. Prone, laughing, unable to act for a full round. Best one-liner of the session. Rolled physical dice exclusively — zero DDB archive entries (S13).
+- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Healed Kit twice (Cure Wounds 12 HP).
+- **[[Session 14 — Far From the Sun|Session 14]]:** Cast Command (Halt) on [[Asha Vandree]], stopping her Darkness mid-cast (Asha WIS 10 vs DC). Provided Help action on Kit's nat 20 Persuasion check to the drow elite (translating). Desecrated the Shrine of Lolth via Ceremony (Atonement): nat 1 Insight (lowered DC), Religion 15. Took 7 psychic damage, gained 1 madness point (stunned). Ring of Mind Shielding blocked Lolth from reading thoughts/alignment. Half the statue transformed into [[Garl Glittergold]] giving Lolth the middle finger. Four jet eyes turned gold. Faerzress shifted purple→gold. Party gained Blessed 24hrs. Garl appeared in stun-vision, praised Binks's courage, slapped him awake. First backstory reveal: confirmed captured by drow before; followers of Garl freed his settlement. Physical dice all session — zero DDB archive entries. Topsy and Turvy looting bodies on the ground floor. Invoked Duplicity beside himself — duplicate made obscene gestures at the Drow Elite, granting disadvantage on attacks against Binks. Cast **Tasha's Hideous Laughter on [[Ilvara Mizzrym]]** with disadvantage (Clementine's distraction): "Hey, Ilvara, why are you on the ground? Are you drowsy?" Ilvara rolled 3 and 5 — failed completely. Prone, laughing, unable to act for a full round. Best one-liner of the session. Rolled physical dice exclusively — zero DDB archive entries (S13).
 
 ## Key Quotes
 
@@ -116,6 +122,19 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "If we can funnel them, we have chances." — S12 [Funny/Tactical]
 - "So I just put my hands up and be like, listen, guys, it was a whole misunderstanding." — S12 [Funny]
 - "He's three foot tall." — S12, on why Darby can't find him in darkness [Funny]
+- "Why the fuck did you serve her? She sucks, she tried to kill you. What?" — S14, to drow elite [Funny/Serious]
+- "Damn, Darby. Shit, I didn't know this house could—" — S14, reacting to Darby's intimidation [Funny]
+- "Wait, you could speak Common this whole time? That's rude. I've been translating." — S14, to drow elite [Funny]
+- "So we kill Jorlan." — S14, during bio break [Funny]
+- "Honestly, fuck Lolth. She deserves everything bad that comes to her." — S14 [Funny/Defining]
+- "It's better than were-rat." — S15, re: Taylor arriving late [Funny]
+
+### S15 Key Events
+- Scouting on foot with Kit at front of marching order.
+- Taught Undercommon and Sylvan language classes during travel. Performance check 9 (5+4) — poor teaching, all students rolled Insight with disadvantage.
+- Discussed loading spells into Aeolus's Ring of Spell Storing. Offered Invisibility, Pass without a Trace, Silence, Bless, Disguise Self, Tasha's Hideous Laughter. No decision made.
+- Reminded party that 24-hour Bless was still active from shrine desecration.
+- Languages known (confirmed S15): Undercommon, Sylvan, Deep Speech, Common, Gnomish.
 
 ---
 
@@ -132,6 +151,9 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[SITL_10_021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
+- [[Session 13 — Reckoning at Velkynvelve]]
+- [[Session 14 — Far From the Sun]]
+- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

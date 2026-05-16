@@ -171,6 +171,8 @@ total_rolls: 643
 | S12 | 2026-05-14 | S12 row added. 36 DDB rolls + 13 physical dice rolls. Binks/Aeolus physical dice only. S09-S11 still pending. |
 | S09-S11 | 2026-05-14 | S09-S11 rows added from DDB archive. S09: 22 rolls. S10: 70 rolls. S11: 13 rolls (Kit only). |
 | S13 | 2026-05-15 | S13 row added. 63 DDB rolls (Kit 16, Blarg 10, Amanita 10, Darby 9, 18 unattributed/DM). Aeolus and Binks 0 DDB entries — all rolls physical dice (transcript-only). 2 nat 20s (Kit Con save vs Insect Plague; Darby Dex save vs Roxy trample). 1 nat 1 (Amanita Dex save vs Roxy trample). Blarg double-1s on Moonbeam damage notable. |
+| S14 | 2026-05-15 | S14 row added. 20 DDB rolls + 5 transcript-only (all Binks — physical dice). Key rolls: Kit nat 20 Persuasion (with advantage, Binks Help); Binks nat 1 Insight (good — lowered DC for shrine); Darby 14 to hit with disadvantage (killed Asha, 20 dmg); Blarg Religion 21 (Lolth lore); Amanita Survival 13 (vrock exam). No nat 20s in DDB archive. Session was primarily RP/aftermath with minimal DDB combat rolls. |
+| S15 | 2026-05-15 | S15 row added. 28 DDB rolls (Kit 8, Amanita 14, Darby 3, 3 null-character attributed by user_id). 0 DDB nat 20s. 3 DDB nat 1s (Amanita Arcana, Amanita Insight, Kit Insight). Multiple transcript-only rolls (Binks Performance 9, Blarg Insight 9, Blarg Nature 23, encounter d20s). Darby nat 20 Insight and Amanita nat 20 Insight both transcript-only (language class disadvantage rolls). No combat. Quietest session by roll volume. Blarg/Binks continue pattern of physical dice or off-DDB rolling. Amanita Nature discrepancy: transcript says 6, DDB shows 26. |
 
 ---
 

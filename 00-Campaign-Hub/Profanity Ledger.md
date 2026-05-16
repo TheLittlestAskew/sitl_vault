@@ -136,21 +136,68 @@ Tracking profanity by speaker, word, frequency, and context across all sessions.
 
 ---
 
-## Running Totals (Through S13)
+## Session 14 — Far From the Sun
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fucking" | 2 | "I'm so fucking tired of darkness"; "You could ride a fucking lizard?" |
+| Kit Aluri (Taylor) | "fuck" | 1 | "I don't give a fuck" — Persuasion speech to drow elite |
+| Kit Aluri (Taylor) | "damn" | 1 | "Goddamn it" — world spinning at 3 HP |
+| Kit Aluri (Taylor) | "hell" | 1 | "Let's get the hell out of here" |
+| Binks Stonevein (Matt) | "fuck" | 2 | "Why the fuck did you serve her?"; "Honestly, fuck Lolth" |
+| Binks Stonevein (Matt) | "shit" | 1 | "Damn, Darby. Shit, I didn't know this house could—" |
+| Binks Stonevein (Matt) | "damn" | 1 | "Damn, Darby" |
+| Binks Stonevein (Matt) | "hell" | 1 | "Let's get the hell out" |
+| Darby Stonefeather (Austin) | "hell" | 1 | "Hell yeah" — rolling Intimidation with disadvantage |
+| Topsy (Taylor) | "fuck" | 1 | "Topsy could do whatever the fuck she wants" (Kit speaking about Topsy OOC) |
+
+---
+
+## Running Totals (Through S14)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 4 | 6 | 8 | 6 | 1 | — | 25 |
+| Kit Aluri (Taylor) | 4 | 9 | 9 | 7 | 1 | — | 30 |
+| Binks Stonevein (Matt) | 1 | 2 | 1 | 3 | 1 | — | 8 |
 | Addison (DM) | 3 | 2 | — | — | 2 | — | 7 |
-| Darby Stonefeather (Austin) | — | 3 | 2 | — | — | — | 5 |
-| Binks Stonevein (Matt) | — | — | — | 2 | 1 | — | 3 |
+| Darby Stonefeather (Austin) | — | 3 | 2 | 1 | — | — | 6 |
 | Blarg (Florian) | — | 1 | — | 1 | — | — | 2 |
 | Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Aeolus (Sirius) | — | — | — | 1 | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit extends her lead to 25 instances through 13 sessions. Darby climbs to third overall with two new f-bombs (both combat-related). Blarg picks up his first f-bomb reacting to terrible Moonbeam rolls. Session 13 was the most profanity-heavy session yet — combat frustration was universal.*
+*Kit hits the milestone 30 through 14 sessions. Binks jumps to second overall with 8 — the shrine desecration and his frustration with drow loyalty pushed him past Addison. Darby creeps up to 6 with a single "hell yeah." Session 14 was heavy on Kit's profanity during her Persuasion speech and reaction to the riding lizard.*
+
+---
+
+## Session 15 — The Long Road to Sloobludop
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "shit" | 2 | "Why do I always get bit by shit when I'm late?"; "Goddamn. That was a 5. Shit." |
+| Kit Aluri (Taylor) | "damn" | 1 | "Goddamn. That was a 5." |
+| Austin (OOC) | "fuck" | 1 | "Fuck, I rolled— I'm just gonna roll again." (OOC, re-rolling Insight) |
+
+_Note: Very light profanity session. No combat, mostly downtime and travel RP. Kit's profanity limited to frustration with low rolls and the running lycanthropy joke._
+
+---
+
+## Running Totals (Through S15)
+
+| Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
+|---|---|---|---|---|---|---|---|
+| Kit Aluri (Taylor) | 6 | 9 | 10 | 7 | 1 | — | 33 |
+| Binks Stonevein (Matt) | 1 | 2 | 1 | 3 | 1 | — | 8 |
+| Addison (DM) | 3 | 2 | — | — | 2 | — | 7 |
+| Darby Stonefeather (Austin) | — | 4 | 2 | 1 | — | — | 7 |
+| Blarg (Florian) | — | 1 | — | 1 | — | — | 2 |
+| Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
+| Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+| Aeolus (Sirius) | — | — | — | 1 | — | — | 1 |
+| Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+
+*Kit climbs to 33. Darby ties Addison at 7 with Austin's OOC "fuck" (counted under Darby/Austin). The quietest profanity session of the campaign reflects the mellow travel vibe.*
 
 ---
 

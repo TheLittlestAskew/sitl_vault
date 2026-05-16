@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: En route to Sloobludop (Day 4 of 7, as of S15)
 ---
 
 # Amanita de'Champignon
@@ -14,7 +14,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 > **Player:** Hannah (Kyouya38445)
 > **Race:** Wood Elf
 > **Class:** Druid (Circle of Spores, Tasha's)
-> **Level:** 4 (as of S10)
+> **Level:** 5 (as of S13)
 > **DDB userId:** 117527745
 > *Character sheet not yet uploaded to project*
 
@@ -99,11 +99,12 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Got stuck in Blarg's web. Freed by Darby. Used Halo of Spores to finish last ooze in Combat 3. Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Cast [[Longstrider]] on [[Darby Stonefeather]] (+10ft movement) and [[Blarg]] — first observed use of this spell. Carried by Darby during the flooding escape. Took 2 bludgeoning damage when Darby kneed her while jumping a gap (athletics 12). Offered mushrooms to the party with characteristic enthusiasm.
 - **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** Cast Poison Spray on Black Pudding for 9 poison damage (described as pale blue-green phosphorescence). Grabbed [[Stool]] and swam toward tunnel, tossing rope back as lifeline. Tied Stool to rope as flotation device. Sensed mycelium at a distance after emerging through sealed Dwarvish door — something alive and vast ahead. Longstrider active on Darby and Blarg from previous session.
-- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Discovered the Fungal Pond. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton. Found Resurrection scroll (7th level) and diamond. Compressed [[Glabbagool]]'s eye and gel into her waterskin. Said the party was "totally derailing the DM's plan."
+- **[[Session 09 —  Every Party Needs A Little Guy|Session 09]]:** Discovered the Fungal Pond. Channeled magic through mithral pickaxe to open the sealed chest on the rothe skeleton. Found Resurrection scroll (7th level) and diamond. Compressed [[Glabbagool]]'s eye and gel into her waterskin. Said the party was "totally derailing the DM's plan."
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Rode Roxanne through. Participated in Myconid Sovereign trial. Used Halo of Spores in combat. Stool used rapport spores to convince Myconid C to stand down. Symbiotic entity form activated for free in the Feydark.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Deep elven trance — consciousness sank through the mycelial network to commune with Psilofyr directly. Shown four possible future forms: arch druid, mycelial shield-bearer, barbaric myconid sovereign, or Carrion King patron champion. Pipe empowered (upgraded rapport spores: 3/day, 1hr, 30ft → unlimited range on same plane). Warpick empowered (+1 INT, Earth Tremor, Shillelagh). Casual Psilofyr fist-bumped her. Activated rapport spores in zurkhwood tent — connected entire party telepathically. Received **Fey Touched** from Psilofyr. Voted Velkynvelve: "We could take them now. We're so awesome." Entered Nexus Pool portal.
 - **[[Session 12 — Return to Velkynvelve|Session 12]]:** Confirmed Fey Touched spell: Thorn Whip. Rapport spores confirmed active from S11 activation (1 hour duration) — provided telepathic party communication throughout combat. Proposed drow disguise plan (dress as drow, carry unconscious drow, bluff onto lift) — rejected for tactical bottleneck approach. Dodged [[Darby Stonefeather|Darby]] in magical darkness with nat 20 Dex save. Hit Drow Elite with Poison Spray (6 damage) and Halo of Spores (6 necrotic, doubled to 12). Combined 12 damage to the elite in one turn.
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Spotted [[Jorlan Duskryn]] on the north tower (perception 15). Attempted Thorn Whip on Ilvara twice — both missed (Ilvara's innate magic repelled). Hit Drow E with attack of opportunity (16 to hit, 7 damage) as it fled past her. Took 5 piercing from Drow E's short sword (nat 19). Halo of Spores dealt 3 necrotic to Ilvara. Failed Roxy trample Dex save (nat 1 — took 13 damage). Attempted Shillelagh + warpick attack on prone Ilvara with advantage — missed (near-nat-20 tease, just missed). Used rapport spores to offer flanking help via telepathic link. Rolled death save for [[Stool]] — 1 success. [[Stool]] Misty Stepped onto Darby's head and woke her, one of the session's best moments.
+- **[[Session 14 — Far From the Sun|Session 14]]:** Cast Spare the Dying on [[Stool]], stabilizing at 0 HP. Examined dead vrock corpse (Survival 13) — partial success: detected trace portal magic similar to but different from Feydark portals, creature came from another plane via corrupted faerzress. Recognized [[Artaxle]] as the drow from S01 barracks whose eyes flashed purple. Greeted him enthusiastically despite language barrier. Carried Stool throughout the upper levels. Advocated for heading to [[Sloobludop]] for supplies.
 
 ## Key Quotes
 
@@ -124,8 +125,20 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "I haven't thought about it much. I just kind of went with it... Yeah, I'll go. I'll go do some shit with my friends." — S11 [Funny/Defining]
 - "Guys, I am psychic." — S11, after activating rapport spores [Funny]
 - "Yeah, man, I bet, like, we could take them now. We're so awesome." — S11, re: Velkynvelve [Funny]
+
+### S15 Key Events
+- Taught Blarg Underdark botany during travel Days 1–2. Enthusiastic but unfocused teacher (flat d20: 6, Charisma 12). Riding Roxy, sorting spell components.
+- Discovered Fungal Cavern on Day 4 (encounter roll of 4). Identified Timmask (explosive), Tongue of Madness (poisonous), Nightlight, and Waterorb. Guided party safely through.
+- Nature check: 26 (DDB) for Fungal Cavern identification. ⚠️ Transcript says "6" but DDB shows 26 — likely misread. DM response matches 26.
+- Investigation 6 (with Blarg Help) searching for Nilhogg's Nose — not found in this cavern.
+- Has herbalist tools proficiency (confirmed S15).
+- Searching for yew leaf substitutes among Underdark fungi.
+
 - "Oh, you know what I could do? I could take that other dead guy's like cape and armor and then we could knock the other one out and I could dress up like a drow..." — S12, proposing the drow disguise plan [Funny]
 - "Amanita's like, oh, like I'm a ninja now." — S12, after nat 20 Dex save dodging Darby in darkness [Funny]
+- "Oh, you're welcome, man. Like, anytime you want to talk about the secrets of the universe and, and fungus, I'm here for you." — S15, to Blarg [Funny/Defining]
+- "Oh yeah, that's great stuff. You know, if you eat it, your tongue glows." — S15, re: Ormu [Funny]
+- "That's my superpower. I'm psychic and I'm drawn to—" — S15, re: finding another fungal cavern [Funny]
 
 ---
 
@@ -139,10 +152,13 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 — The Whirlwind and the Depths]]
-- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
+- [[Session 13 — Reckoning at Velkynvelve]]
+- [[Session 14 — Far From the Sun]]
+- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

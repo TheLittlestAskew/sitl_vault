@@ -179,6 +179,93 @@ _Potential loot from fallen drow (Ilvara, Shoor) not yet addressed — likely S1
 
 ---
 
+## Session 14 — Far From the Sun
+
+### From Jorlan Duskryn (given to Kit)
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|Bracers (+1 AC)|+1 AC. Not Bracers of Defense (corrected S15). Effective without shield; can wear with armor. Taken from Jorlan's body with his blessing.|**Attuned** — Equipped|
+|[[Kit Aluri]]|+1 Short Sword|Magical drow blade. Family heirloom quality. Passed down through generations.|Equipped|
+|[[Kit Aluri]]|+1 Dagger|Magical drow dirk. Companion to the short sword.|Equipped|
+|[[Kit Aluri]]|Cloak of Elvenkind (Jorlan's)|Drow lieutenant cloak with family crest. Confirmed as Cloak of Elvenkind (S15). Stealth bonus. Kit attuned via humming ritual.|**Attuned** — Worn|
+
+### From Shoor Vandree's Quarters
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|Party (unassigned)|20 gold pieces|Purse in Shoor's chest.|Carried|
+|Party (unassigned)|Black velvet mask|Silver-threaded spiderweb pattern. Needs Identify for potential magical properties. Appears expensive.|Carried|
+|Party (unassigned)|Set of bone dice|Elvish characters. Worth a bit of gold.|Carried|
+|Party (unassigned)|Spider-shaped onyx brooch|Black velvet bag. Appears expensive.|Carried|
+|Party (unassigned)|Flask of strong syrupy blue liquor|Unknown properties.|Carried|
+
+### From Ilvara Mizzrym's Quarters
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|Party (unassigned)|2 Potions of Healing|Standard potions. Drawstring bag.|Carried|
+|Party (unassigned)|24 gold pieces + 30 silver pieces|Small leather purse.|Carried|
+|[[Blarg]]|Small moonstone|Blarg claimed it. Grants stronger connection to the moon. Can sense lunar phase, position, and approximate time of day. Extends pattern from Turvy's flask moonstone (S05). Selûne connection.|Carried|
+|Party (unassigned)|Silver chain headdress|Set with small onyx stones. Looks valuable.|Carried|
+|Party (unassigned)|Ilvara's spell component pouch|Spell components.|Carried|
+
+### From Velkynvelve Armory/General Looting
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|Party (Roxy's saddlebags)|Bulk gear|Chain shirts, leather armor, shields, crossbows, crossbow bolts, 6 bags of caltrops, silk rope, building hammers, iron spikes. Essentially multiple dungeoneer's kits.|Carried|
+|Party (Roxy's saddlebags)|Food and water|Pantries raided. Party restocked on rations and water.|Carried|
+
+_Note: Kit also received a point of inspiration from Addison for her Persuasion speech to the drow elite. Darby's Fire Mace confirmed still active (killed Asha with 20 damage). Binks gained Blessed condition for entire party (24 hours, d4 to attacks/saves) from shrine desecration._
+
+---
+
 ## Related
 
 [[Campaign Dashboard]]
+
+---
+
+## Session 15 — The Long Road to Sloobludop
+
+### Velkynvelve Armory (Confirmed by DM, S15)
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|Party (Roxy's chest/saddlebags)|Chainmail (multiple sets)|Full armory. Enough to deck party in drow gear.|Carried|
+|Party|Chain shirts, shields, crossbows|Guard tower and armory stock|Carried|
+|Party|Shortswords, daggers|Standard drow weaponry|Carried|
+|Party|6 bags of caltrops|From armory|Carried|
+|Party|~600 feet of silk rope|Guard towers + armory combined|Carried|
+|Party|Building hammers, iron spikes|Darby using some to fashion Roxy's armor during long rest|Carried|
+|Party|2 Healing Potions|Confirmed by DM in S15 loot summary|Carried|
+|Party|Spell component materials|Refilled from Ilvara/Asha's pouches + kitchen stores|Carried|
+|Party|Maps to Menzoberranzan, Mantol-Derith, Sloobludop|Detailed route maps from Velkynvelve documents. Artaxle helped plot Sloobludop route.|Carried|
+|Party|Guard notes / prisoner route maps|Escape routes, prisoner transport locations|Carried|
+|Party|Gold, candlesticks, valuables|From elite quarters, Ilvara's quarters|Carried|
+|Party|Kitchen stores / rations|Full restock of food and water|Carried|
+
+### Harvested During Travel (Days 1–4)
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Blarg]]|Ormu (bioluminescent green moss)|Sheds dim light 5ft. Can be dried into phosphorescent powder/pigment. Applied to a creature = Faerie Fire effect. Hard to remove. Eating it makes your tongue glow. Nature 23 to find, harvested with sickle. Needs ~2 days to dry before powder form.|Harvested — Drying|
+
+### Identified in Fungal Cavern (Day 4, not necessarily taken)
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Amanita de'Champignon]]|Timmask (identified)|Explosive fungus. Amanita guided party to avoid.|Avoided|
+|[[Amanita de'Champignon]]|Tongue of Madness (identified)|Not damaging on contact but poisonous if eaten.|Noted|
+|[[Amanita de'Champignon]]|Nightlight (identified)|General Underdark fungus.|Noted|
+|[[Amanita de'Champignon]]|Waterorb (identified)|Water-containing fungus. Party may have refilled waterskins.|Possibly harvested|
+
+### Item Updates from This Session
+
+|Character|Item|Update|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|Jorlan's Cloak|**Confirmed as Cloak of Elvenkind** (S15). Kit attuned via humming ritual. Stealth bonus. Déjà vu/memory during attunement — possible story hook.|**Attuned** — Worn|
+|[[Kit Aluri]]|Jorlan's Bracers|**Corrected: +1 AC (not Bracers of Defense)**. DM ruling: effective without shield, can wear with armor.|**Attuned** — Equipped|
+
+_Note: No Nilhogg's Nose found in Fungal Cavern despite Amanita searching (Investigation 6 with Help). Bless wore off by Day 4 (DM confirmed at ~00:54:24)._

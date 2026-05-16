@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: En route to Sloobludop (Day 4 of 7, as of S15)
 ---
 
 # Images
@@ -20,7 +20,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 > **Race:** Orc (Half-Orc flavored)
 > **Class:** Fighter (Battle Master) / Rogue (Assassin) multiclass
 > **Background:** Gladiator (Underdark-bred)
-> **Level:** 4 (as of S10 — all PCs leveled during Feydark forced long rest)
+> **Level:** 5 (as of S13 — all PCs leveled between S12-S13)
 > **DDB userId:** 107965379
 > Character Sheet: [[Kit.pdf]]
 
@@ -56,7 +56,9 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - S07: First explicit tactical command in crisis. Distributed rope, called out instructions "with authority and confidence." Soldier instincts resurfacing — not rage, but calm, trained leadership.
 - S09: Continued moral evolution — explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe, revealing lingering guilt and a shift from the person who killed Topsy without hesitation in S04. Blarg's "quite the 180" comment underscores visible character growth.
 - S11: Kit's nightmare revealed deep guilt about her pre-campaign military past. She accepted death as "karma." Her breakdown over Topsy's resurrection is the most emotionally vulnerable she has ever been — processing trauma in real time.
+- S14: Delivered the session's defining moment — a nat 20 Persuasion speech (with Binks Help) to the surviving drow elite, asking to be allowed to visit Jorlan. Earned the drow's "respect" in halting Common. This is Kit's first Persuasion-driven conflict resolution and her clearest step toward diplomacy over violence. DM awarded inspiration.
 - S10: When the Feydark fog separated the party, Kit defaulted to warrior meditation — closed eyes, drew sword, entered a defensive stance. Chose vigilance over vulnerability. The only PC who did not receive comfort, guidance, or an empowered trinket from Psilofyr's realm. Kit's response to the absence was characteristically stoic: she waited, listened, and did not complain. In combat, delivered the killing blow on the Myconid Sovereign by leaping off bear-Blarg's back — the most cinematic combat moment of the campaign. Picked Goblin as her new language at level-up, and was immediately glad she did when fae goblins arrived.
+- S15: Kit's private humming ritual during attunement reveals a deeply personal, meditative side she hides from the party (Stealth 20). She sings/hums to her weapons while maintaining them. The attunement to Jorlan's Cloak of Elvenkind triggered a déjà vu/memory she couldn't place — first hint of something deeper in Kit's past possibly connecting to the drow or to magic. Did not attend Binks's Undercommon lessons (busy with gear). Participated in Darkness tactics discussion — pushed for a coordinated "safety word" strategy.
 
 ## Abilities & Class Features
 
@@ -86,13 +88,17 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 | Rope (50ft) | Pre-campaign (standard gear) | Distributed as safety line during S07 flooding escape |
 | Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + Hunter's Mark (confirmed S12) |
 | Drow dirk (short sword) | S12 (assumed from Drow F kill) | **Assumed acquired** — finesse weapon for Sneak Attack. Confirm with DM |
+| Bracers (+1 AC) | S14 (from Jorlan's body) | **Attuned — Equipped.** +1 AC (corrected S15 — not Bracers of Defense). Works with armor, not with shield. |
+| +1 Short Sword (drow) | S14 (from Jorlan) | Equipped. Family heirloom quality drow blade. Finesse weapon for Sneak Attack. |
+| +1 Dagger (drow) | S14 (from Jorlan) | Equipped. Companion dirk to the short sword. |
+| Cloak of Elvenkind (Jorlan's) | S14 (from Jorlan) / S15 (attuned) | **Attuned — Worn.** Confirmed as Cloak of Elvenkind (S15). Stealth bonus. Attuned via humming ritual. Kit experienced déjà vu/memory during attunement — possible story hook. Family crest on garment. |
 | Armor (acid-damaged) | S02 (armory recovery) | **Degraded -1 AC (S08).** Permanent acid damage from Black Pudding. Accumulates per hit; destroyed at AC 10. |
 
 ## Relationships
 
 - **[[Binks Stonevein]]:** Most trusted party member. Arrived in the same caravan. Kit broke his shackles using Tactical Mind (S02). Kit trusts Binks implicitly.
 - **[[Darby Stonefeather]]:** Deepened respect (S08). Kit witnessed Darby's first rage and the whirlwind that saved the party. They fought side by side and landed the killing blow together on Black Pudding Half 1.
-- **[[Jorlan Duskryn]]:** Transactional. Jorlan approached Kit with the escape offer (S01). Confirmed dead per Addison's notes.
+- **[[Jorlan Duskryn]]:** Evolved from transactional to deeply personal. Jorlan approached Kit with the escape offer (S01). In S14, Kit delivered a Persuasion speech to reach him and was with him when he died. Jorlan passed on key lore (Drizzt, Society of Brilliance) and faith in Artaxle. Kit carries his gear as memorial and proof of their bond.
 - **[[Sarith Kzekarit]]:** Paired for guard duty (S01). Sarith told her to find him at Neverlight Grove.
 - **[[Ilvara Mizzrym]]:** Primary captor. Kit has studied her command structure and mapped the outpost around her.
 - **[[Turvy]]:** Evolved from hostile to conditional alliance (S06). Kit killed Topsy and openly wanted to kill Turvy. In S06, Kit set clear terms: "The what's best for the party will come first in every situation." Turvy accepted. Kit internally acknowledged Turvy's wererat form is "really convenient sometimes."
@@ -113,10 +119,11 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 06 — The Long Way Down]]:** Descended shaft to rescue Binks (athletics 24 — clean descent). Caught Blarg during his slip (with Darby). Negotiated conditional terms with Turvy: party first, no tolerance for losing control. Initiated tactical command during rescue operation. Combat 3: nat 20 initiative (23). Slashed ooze A for 13 damage, noticed ooze remains reforming into statue (perception 16). Slashed ooze B for 11 (Savage Attacker reroll). Took 9 acid damage from ooze (-1 AC). Caught Amanita when she fell into flagstone pit trap. Dragged Darby and Amanita forward when Darby couldn't see in the dark.
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Adrenaline Rush for triple movement to scout lower tunnel (impassable). **First explicit tactical command in crisis** — distributed rope as safety line, moved through party giving instructions with calm authority. Athletics 16 to climb over party (succeeded, but Darby failed support check — Kit fell back). Squeezed through friendly spaces instead. Session ended with Kit holding the rope line, party trapped between [[Black Pudding]] and [[Glabbagool]].
 - **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** First Battle Master maneuver use: Trip Attack (D8, rolled 3) knocked Black Pudding prone. Greatsword hit (25) revealed slashing is ineffective vs. pudding — mass reforms. Dropped to 0 HP from pseudopod (8 bludgeoning + 17 acid); returned to 1 HP via Relentless Endurance — first use in campaign. Landed Nat 20 opportunity attack on retreating pudding for 19 damage (first campaign crit). Combined with Darby's OA to destroy Pudding Half 1. Armor permanently degraded -1 AC from acid. Action Surged through difficult terrain. Leveled to 4.
-- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Centralized herself in a near-meditative listening stance — Perception 21 (19 adjusted), confirmed area safe. History nat 20 (18 adjusted) on rothe lore: descended from surface bovines, brought underground by the drow. Explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe ("There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy"). Body inaccessible in the sealed safe house, so party chose the rothe. Significant character development moment — Blarg noted the "180" from the person who killed Topsy in S04.
+- **[[Session 09 —  Every Party Needs A Little Guy|Session 09]]:** Centralized herself in a near-meditative listening stance — Perception 21 (19 adjusted), confirmed area safe. History nat 20 (18 adjusted) on rothe lore: descended from surface bovines, brought underground by the drow. Explicitly advocated for using the Resurrection scroll on [[Topsy]] rather than the rothe ("There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy"). Body inaccessible in the sealed safe house, so party chose the rothe. Significant character development moment — Blarg noted the "180" from the person who killed Topsy in S04.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Spooked [[Roxanne]] with failed animal handling (5). Dodged charging rothe (Dex save 12). Sensed insectoid creature ambush at portal — screamed "Go now!" as party fled through. Separated from party in Feydark fog; entered warrior meditation (closed eyes, drew greatsword, defensive stance). **Only PC who did not receive a vision, comfort, or empowered trinket.** Perception 9 (11-2) during meditation — heard water, leaves, gliding sounds but no danger. In combat: hit Myconid A for 10 damage, received free Riposte from DM when Myconid A rolled nat 1 (9 damage), used Savage Attacker to reroll damage to exactly 12 (killed Myconid A). **Killed the Myconid Sovereign** — leaped off bear-Blarg's back, greatsword + Trip Attack for 13 damage, landed in superhero pose. Most cinematic kill of the campaign. Insight 13 on fae goblins — determined not hostile. Learned Goblin as new language at level-up. Kit understands Goblin, which became immediately relevant when fae goblins arrived.
 - **[[Session 12 — Return to Velkynvelve|Session 12]]:** Returned to Velkynvelve via Psilofyr's portal. Confirmed Fey Touched spell: Hunter's Mark. Ran through magical darkness with greatsword out (9 damage to drow via Dex save). Killed Drow F: Precision Attack (13+4=17 to hit), max damage double sixes (16 total). Killed Drow D in darkness: perception 22 to sense location, greatsword (11 dmg) + Trip Attack (7 dmg, killing blow). Took 15 radiant from Asha's Guiding Bolt. Noted need for finesse weapon for Sneak Attack — drow carry dirks. Emotional through-line: "I already feel so much better" after first real combat post-S11 nightmare. Two drow kills fighting blind. — surrounded by undead soldiers, weaponless. Used Tactical Mind (+5 to Dex contest, still failed vs 17), Riposte (hit for 1 damage), multiple unarmed strikes. Six soldiers dealt 26 slashing. Reduced to 0 HP; **Relentless Endurance did NOT trigger** (dream suppression). Death save **nat 20** — Doll of the Fallen Soldier animated, grew to medium size, smiled down at Kit. Kit accepted the nightmare as karma. Received **Doll of the Fallen Soldier** (+1 CHA, death save protection, growth item). Saw Topsy alive (resurrected by Carrion King) — fell to knees sobbing, first open emotional breakdown. Punched Darby in the shin on instinct when Darby stood over her sleeping. Received **Fey Touched** feat from Psilofyr. Voted with majority for Velkynvelve. Entered Nexus Pool portal.
-- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Battle of Velkynvelve concluded. Trinket empowerment confirmed: Ring of Mind Shielding +1 STR. Frustrating session mechanically — missed repeatedly (13, 15, 12, 13 to hit), burned Action Surge for nothing. Dropped to 1 HP by Drow Elite crit (24 damage: 12 piercing + 12 poison) — **Relentless Endurance triggered** (second campaign use). Used Riposte on the Elite's miss for 14 damage. Second Wind used twice. Only successful greatsword hit: 21 to hit, 14 damage + 5 Hunter's Mark (first use of Hunter's Mark in combat — forgot to pre-declare, DM allowed). Took 12 damage from Ilvara's Insect Plague (passed Con save with nat 20). Survived through healing from Blarg (Healing Word 12 HP) and Binks (Cure Wounds 12 HP). Turvy's Silver Barbs saved her from another Drow Elite hit. Session defined by endurance over damage output — Kit held the line at 1 HP while others delivered the killing blows. Witnessed Ilvara's death (Roxy's gore), Jorlan's crossbow betrayal, and Derendil's return.
+- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Battle of Velkynvelve concluded.
+- **[[Session 14 — Far From the Sun|Session 14]]:** Session's emotional center. At 3 HP, delivered a nat 20 Persuasion speech (with Binks Help) to the drow elite, asking to pay respects to [[Jorlan Duskryn]]. Drow surrendered, said Kit earned his "respect" in halting Common. DM awarded inspiration. Climbed to northern watchpost and was with Jorlan when he died. Received key lore: [[Drizzt Do'Urden]] (legendary drow, alive near Gauntlgrym), [[Society of Brilliance]] (intelligent monsters investigating faerzress, includes mind flayer [[Grazilaxx]]), and faith in [[Artaxle]]. Closed Jorlan's eyes. Took his gear: Bracers of Defense (+2 AC), +1 Short Sword, +1 Dagger, lieutenant cloak with family crest. Offered Artaxle a spot in the party; he declined, heading to [[Menzoberranzan]] with false intel. Let fleeing drow go ("I got better things to do"). Party chose [[Sloobludop]] as next destination (8 days travel). Long rest at Velkynvelve. Trinket empowerment confirmed: Ring of Mind Shielding +1 STR. Frustrating session mechanically — missed repeatedly (13, 15, 12, 13 to hit), burned Action Surge for nothing. Dropped to 1 HP by Drow Elite crit (24 damage: 12 piercing + 12 poison) — **Relentless Endurance triggered** (second campaign use). Used Riposte on the Elite's miss for 14 damage. Second Wind used twice. Only successful greatsword hit: 21 to hit, 14 damage + 5 Hunter's Mark (first use of Hunter's Mark in combat — forgot to pre-declare, DM allowed). Took 12 damage from Ilvara's Insect Plague (passed Con save with nat 20). Survived through healing from Blarg (Healing Word 12 HP) and Binks (Cure Wounds 12 HP). Turvy's Silver Barbs saved her from another Drow Elite hit. Session defined by endurance over damage output — Kit held the line at 1 HP while others delivered the killing blows. Witnessed Ilvara's death (Roxy's gore), Jorlan's crossbow betrayal, and Derendil's return.
 
 ## Key Quotes
 
@@ -147,6 +154,13 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "We're not splitting the party." — S11 [Funny]
 - "You wake up on moss. Okay, great. And then everything goes down from there immediately." — S11 [Funny]
 - "Fuck darkness. I hate darkness so bad." — S12, frustrated by magical darkness [Funny]
+- "You know when you're playing Mortal Kombat and you're about to die and you're just— the character is standing there just like wobbling back and forth? That's Kit right now. I have 3 hit points." — S14 [Funny]
+- "There's a man up there who is just like you, and he helped us, and it doesn't matter that you're drow, and it doesn't matter that you think we're enemies." — S14, Persuasion speech to drow elite [Serious/Defining]
+- "I wish to honor someone who showed me kindness." — S14, to the drow elite [Serious]
+- "We're very far from the sun right now." — S14, to dying Jorlan [Poignant/Important]
+- "I can't make any promises, but I don't have any choice but to try." — S14, to Jorlan [Serious]
+- "I want one. You could ride a fucking lizard?" — S14, re: riding lizards [Funny]
+- "Quick little jaunt to Mordor." — S14, re: 2-3 month walk to Gauntlgrym [Funny]
 - "I already feel so much better because the last time I was in a fight, it was a dream and it was really bad." — S12 [Serious]
 - "It's hurting them to have this darkness up more than it's hurting us." — S12 [Banter/Tactical]
 - "They bring it down and we're like, no, put it back up. We're doing fine." — S12 [Funny]
@@ -167,10 +181,14 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 — The Whirlwind and the Depths]]
-- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
+- [[Session 14 — Far From the Sun]]
+- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
+- [[Artaxle]]
+- [[Garruk]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[04-World-Lore/Locations/The Feydark]]
 - [[Oozing Temple]]

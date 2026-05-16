@@ -3,17 +3,17 @@ type: npc
 race: Myconid Sprout
 class: N/A
 affiliation: Party companion, bonded with Amanita via rapport spores
-status: Critical — 0 HP (1 death save success, as of S13)
+status: Alive — Stabilized and healed (S14)
 player: N/A (DM-controlled)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve cavern floor (on Darby's head, S13)
+location: Velkynvelve, with party (departing for Sloobludop, S14)
 ---
 
 # Stool
 
 > **Type:** NPC (Companion)
 > **Race:** Myconid Sprout (growing toward adult transition)
-> **Status:** Alive — actively growing
+> **Status:** Alive — Stabilized (S14), healed to near full HP
 > **Affiliation:** Party companion, bonded with [[Amanita de'Champignon]]
 
 ---
@@ -48,10 +48,11 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - **[[Session 02 — Come Get Your Shit]]:** Latched onto Turvy during escape. Released spore cloud. Escaped into pool with party.
 - **[[Session 05 — Silvered]]:** Senses fungal presence below safe house floor. Gave Turvy a slimy hug. DEX save 17 during floor collapse. Rescued by Darby and Amanita.
 - **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** Tied to rope by Amanita as a flotation device during flooding.
-- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Said "feels like home is closer" near the Fungal Pond.
+- **[[Session 09 —  Every Party Needs A Little Guy|Session 09]]:** Said "feels like home is closer" near the Fungal Pond.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Said "Home is way, way closer now." First combat rapport spores — persuasion 16 convinced Myconid C to stand down. Physically grew during forced long rest.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Present throughout. No individual scene or dialogue. Traveled with party through Velkynvelve portal.
-- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Empowered with Pacifying Spores, Dissonant Whispers, and Misty Step (confirmed by Addison pre-session). Misty Stepped onto unconscious [[Darby Stonefeather]]'s head and woke her as an action — "Darby, Darby, Darby! Oh my gosh, are you awake?" One of the session's most memorable moments. **Dropped to 0 HP by [[Ilvara Mizzrym]]'s Insect Plague** (failed Con save). 1 death save success as of session end. Must be stabilized in S14. ⚠️ CRITICAL CONDITION.
+- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Empowered with Pacifying Spores, Dissonant Whispers, and Misty Step (confirmed by Addison pre-session). Misty Stepped onto unconscious [[Darby Stonefeather]]'s head and woke her as an action — "Darby, Darby, Darby! Oh my gosh, are you awake?" One of the session's most memorable moments. **Dropped to 0 HP by [[Ilvara Mizzrym]]'s Insect Plague** (failed Con save). 1 death save success as of session end.
+- **[[Session 14 — Far From the Sun|Session 14]]:** Stabilized by [[Amanita de'Champignon]] (Spare the Dying) while Kit was giving her Persuasion speech. Healed by [[Blarg]] (Cure Wounds in bear form, 9 HP restored — near full, max HP 12). Communicating telepathically throughout. Asked excitedly "Neverlight Grove? Are we going home? We'll be safe there" when party discussed destinations. Hugged Kit's calf. Riding on Amanita's shoulder.
 
 ## Key Quotes
 
@@ -67,7 +68,7 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 05 — Silvered]]
 - [[Session 08 — The Whirlwind and the Depths]]
-- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]

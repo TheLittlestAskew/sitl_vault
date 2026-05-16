@@ -25,8 +25,8 @@ Each column = a vault file or file group. Each row = a session. ✅ = updated, �
 | S11 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
 | S12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
 | S13 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
-| S14 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| S15 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| S14 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| S15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
@@ -108,16 +108,14 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 
 ## Current Gaps Summary
 
-**Fully synced through:** S13 (all applicable columns ✅)
+**Fully synced through:** S15 (all applicable columns ✅)
 
 **Partially synced:** None
 
-**Not started:** S14–S15
-- Raw transcripts exist through S15
-- No session notes, vault updates, or propagation done
+**Not started:** None
 
 **Priority catch-up order:**
-1. S14–S15: Full pipeline (Convo 1 + Convo 2)
+1. S04 corrected transcript still missing (legacy gap)
 
 ---
 
@@ -128,3 +126,5 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 | 2026-05-14 | Claude (vault audit) | Initial matrix created from vault inspection. S01–S08 marked fully synced. S09–S11 marked partial. S12–S15 marked not started. S04 corrected transcript missing noted. |
 | 2026-05-14 | Claude (Convo 2, S12) | S12 fully synced. Session note, dashboard, loot, quotes, profanity, journal, all PC pages (Kit/Binks/Aeolus/Darby/Amanita/Blarg), NPC pages (Shoor/Asha/Ilvara/Stool/Topsy), Velkynvelve location, roll stats (S12 row), house rules all updated. Flora/Fauna marked N/A (pure combat session). |
 | 2026-05-15 | Claude (Convo 2, S13) | S13 fully synced. Session note, corrected transcript (confirmed in vault), dashboard, loot, quotes, profanity, journal, all PC pages (Kit/Binks/Aeolus/Blarg/Amanita/Darby), all NPC pages (Ilvara→Dead, Shoor→Dead, Jorlan→Alive, Derendil→Rescued, Stool→0HP, Roxy kill update, Topsy/Turvy leveled), Velkynvelve location, roll stats (S13 row, 63 DDB rolls). Flora/Fauna marked N/A (pure combat session). House rules updated (S13 rulings + trinket stat bonuses). Jorlan status clarified (alive — no death ever narrated). Binks trinket accepted as confirmed from S11. |
+| 2026-05-15 | Claude (Convo 2, S14) | S14 fully synced. Session note, corrected transcript (confirmed in vault from Convo 1), dashboard (S14 row, NPCs/antagonists/locations/threads/timeline all updated), loot tracker (4 subsections: Jorlan/Shoor/Ilvara/armory), quote board (~35 quotes), profanity ledger (Kit hits 30, Binks jumps to 8), house rules (6 S14 rulings), journal (S14 collapsible entry), all PC pages (Kit: Bracers+weapons+Jorlan lore+Persuasion speech; Binks: Command+Ceremony+madness; Blarg: moonstone+Religion 21; Darby: killed Asha; Amanita: Spare the Dying+vrock exam; Aeolus: NPC'd), NPC pages (Jorlan→Dead, Asha→Dead, Artaxle NEW, Garruk NEW, Derendil updated, Stool→healed), roll stats (S14 row, 20 DDB + 5 transcript-only). Flora/Fauna ✅ (vrock exam noted on Amanita page; riding lizard noted on Garruk page — no standalone creature pages needed). Mechanics ✅ (house rules covers S14 rulings). |
+| 2026-05-15 | Claude (Convo 2, S15) | S15 fully synced. Session note created (SITL_15_050326_The_Long_Road_to_Sloobludop.md). Corrected transcript confirmed in vault from Convo 1. Dashboard updated: S15 row, Sloobludop distance corrected 8→7 days, Fungal Cavern added to locations, 7 new/updated open threads (Travel, Cloak of Elvenkind, Déjà Vu, Bracers +1 AC, Ring of Spell Storing, Darkness Safety Word, Topsy/Turvy rummaging), old Jorlan's Cloak thread removed (superseded), timeline through S15 (~7–8 days post-escape). Loot tracker: S15 section with full armory inventory, Ormu harvest, Fungal Cavern fungi, bracers/cloak corrections applied to S14 entries. Quote board: ~20 quotes. Profanity: Kit to 33, Darby ties Addison at 7. House rules: 5 S15 rulings (24hr Bless, +1 AC bracers, Cloak attunement, Bless on skill checks, Sloobludop distance). Journal: S15 collapsible entry. All 6 PC pages updated (Kit: Cloak/bracers/déjà vu/humming; Blarg: Ormu/botany; Amanita: Fungal Cavern/teaching; Binks: language class/Ring discussion; Darby: nat 20 Undercommon; Aeolus: AC 12 flagged/Sylvan/Ring). NPC pages: Topsy + Turvy updated (rummaging). Location: Fungal Cavern (Day 4) page created. Flora/Fauna: Ormu, Tongue of Madness, Nightlight, Waterorb pages created; Timmask updated with S15 encounter. Roll stats: S15 row (28 DDB, 0 nat 20s DDB, 3 nat 1s). Mechanics: house rules covers S15 rulings. |

@@ -638,6 +638,133 @@ Roxy did that.
 
 ---
 
+## Session 14 — Far From the Sun
+
+<details>
+<summary>Click to expand</summary>
+
+**THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR**
+
+**Day ~4:**
+
+Three hit points. That is what stood between me and the stone floor. Three hit points and stubbornness and the fact that the world had not yet finished with me.
+
+The battle was over but the drow did not know it yet. The small one — the priestess, Asha — was trying to summon that cursed darkness again, because of course she was. Binks stopped her with a word. Literally a word: halt. She froze mid-cast like a puppet with its strings cut. The goliath tried to scare her into submission and said something about pinning her down that sounded less like a threat and more like an invitation to dinner. Asha was not impressed. Neither was anyone else.
+
+Then a voice from above. Someone shouting that Jorlan was dying.
+
+I do not remember deciding to move. One moment I was standing there wobbling like a drunk at dawn, and the next I was looking at the drow who had been trying to kill me five minutes ago and asking him to let me go up there. To pay my respects to a man who had helped us escape. A man who had unlocked our cage and smiled when the world burned around him.
+
+Binks translated. I said the words in Common and some broken Undercommon that I had cobbled together from six days in a cell. Stop. Listen. I told them that I did not care that they were drow. That Jorlan was one of them and he had shown me kindness, and I wanted to return it. That if they wanted to fight afterward, I would be here. I was not going anywhere.
+
+The elite warrior looked at me like I had grown a second head. Then something changed in his face — this slow collapse of everything he had been taught. He told Garruk to drop his weapon. He dropped his own. He fell to his knees and looked past me and said, in Common, the first Common word he had ever bothered to learn: respect.
+
+Binks, of course, immediately ruined the moment by asking why the drow could speak Common this whole time when Binks had been translating for free.
+
+Asha used the distraction to run. She cast her darkness and bolted. Darby caught her with that fire mace — I heard the impact more than I saw it. When the darkness dropped, the mace was still embedded in her skull. The crossbow drow, Garruk, ran too. Took Ilvara’s body and a lizard and disappeared into the dark.
+
+I let them go. All of them. I had somewhere to be.
+
+The stairs were narrow. The bridges were worse. Blarg climbed the wall in bear form because apparently bears can do that, and fast. We passed dead things — vrocks, drow, quaggoths, a spider hanging in its own webs. Amanita stopped to poke at the vrock corpse and declared it had come through a portal. The sprout was on her shoulder, alert and alive, because she had stabilized it while I was giving speeches. Blarg nuzzled it with the bear’s nose and pushed healing magic through, and the little one perked up like nothing had happened.
+
+Jorlan was in the northern watchpost. Back against the wall. Armor torn open by claws. Breathing the way people breathe when they have decided to stop.
+
+A young drow — Artaxle — had been trying to keep him alive. Jorlan had refused. When he saw me, he smiled. The same slight smile he wore when he unlocked the gate.
+
+Hello again, warrior.
+
+Hello again, friend.
+
+He told me things. He told me about a drow named Drizzt who had broken free of Lolth’s power, who lives among the dwarves far to the west. He told me about a group called the Society of Brilliance — intelligent monsters investigating what is happening to the magic down here. A mind flayer among them. I looked at Binks when he said that. Binks looked at me. We did not say anything. We will say something later.
+
+He told me he had wanted revenge at first. That watching Ilvara’s cruelty and seeing Artaxle’s eyes — the good in a young man who should have had none — had changed something in him. That he believed his people could be different.
+
+He said he wished he could see a sunrise.
+
+I told him we were very far from the sun right now.
+
+He said maybe Artaxle would see one someday.
+
+He reached out and gripped my hand. His eyes widened, and then dimmed, and the grip went slack.
+
+I closed his eyes. Folded his arms across his chest. Told him to rest.
+
+I took his bracers. They are magical — I can feel the protection in them, a warmth against my forearms. His short sword and his dagger, both fine drow steel with an edge I could shave with. His lieutenant’s cloak, folded tight, with the crest of whatever house he belonged to stitched into the fabric. Proof that I knew him. Proof that he mattered.
+
+Afterward, we looted everything. Shoor’s quarters: gold, a mask with silver spiderwebs, a flask of something blue and thick. Ilvara’s quarters: healing potions, more gold, a moonstone that Blarg took because it speaks to him the way the moon speaks to him. He held it and said it was early morning. Almost sunrise. Somewhere up there, the sun was rising, and we were as far from it as we had ever been.
+
+Binks went into the shrine.
+
+I was not there for this. I heard about it later. He cast something on the statue of Lolth — some gnomish prayer to Garl Glittergold, the trickster god. The statue started to change. Half of it melted and reformed into this cartoonish gnome erupting from Lolth’s body, turning around, and giving her the finger. The gem eyes turned from black to gold. The purple light in the walls shifted to gold. The whole outpost shuddered.
+
+Binks walked out stunned, bleeding from his nose, holding up his middle finger in solidarity with the statue. He said he felt pretty good.
+
+The quaggoths fled after that. Derendil stayed. He said he had no idea how he had controlled them and asked if we could find a shower.
+
+I talked to Artaxle before we left. Offered him a place with us. He declined. He is going to Menzoberranzan to feed them false information about what happened here — to blame the demons, to buy us time. It is brave and probably suicidal. Jorlan would be proud.
+
+We ate. We rested. We slept in the beds of the people who had enslaved us, in an outpost that smelled like blood and spider silk and something new and golden in the walls.
+
+Sloobludop is eight days away. I do not know what we will find there. I do not know if Artaxle will make it to Menzoberranzan before Garruk does. I do not know if Drizzt is real or if the Society of Brilliance will help us or if Lolth felt what Binks did to her shrine.
+
+But Jorlan is dead, and he died believing we could make this place better. Ilvara is dead, and she died believing she was better than all of us. The difference between them is the difference between this story and a different one.
+
+I have new bracers. New blades. A cloak with a dead man’s crest folded in my pack.
+
+We are very far from the sun. But the walls are glowing gold now, and that is something.
+
+</details>
+
+**
+
+---
+
 ## Related
 - [[Kit Aluri]]
 - [[Campaign Dashboard]]
+
+---
+
+## Session 15 — The Long Road to Sloobludop
+
+**
+
+<details><summary>Day 5 (continued) through Day 8 of freedom — somewhere between Velkynvelve and Sloobludop</summary>
+
+We left Velkynvelve behind. I thought I would feel something — relief, maybe, or triumph. What I felt was the weight of a dead man's cloak in my pack and the weight of his bracers on my forearms and the weight of everything he told me before he stopped talking.
+
+Seven days, Artaxle said. Seven days to Sloobludop, down through the tunnels, following the water. The route is clear enough. We have maps now. We have enough rope to hang a small army. We have caltrops and crossbows and chainmail and more dried food than we have had since before the cells. Roxy carries most of it on her back, along with half the party. Darby rides up front. Aeolus sits behind her. Amanita sprawls across the saddlebags sorting through spell pouches and muttering about yew leaves and substitutes and the terroir of the Underdark.
+
+I walk. Binks walks beside me, scouting. Blarg walks behind us, close enough to heal if something jumps out of the dark. The twins trail Binks like a pair of shadows. Derendil lumbers along somewhere in the rear, enormous and polite.
+
+The first two days are nothing. Tunnels. The sound of water trickling. Skittering things in the walls that do not show themselves. I keep my hand on my sword and my eyes on the dark and nothing comes.
+
+Blarg and Amanita spend their walking hours talking about mushrooms. Not the way soldiers talk about rations — the way scholars talk about texts. Amanita is a terrible teacher in the most charming way possible. She wanders off on tangents about the flavor profiles of things that could kill you and circles back to the useful information only when Blarg gently steers her there. He found something on his own, though — a bright green moss growing on the tunnel wall, shedding its own pale light. Ormu, Amanita called it. She said if you eat it your tongue glows. Blarg said that sounded super useful. He cut some with his sickle anyway. Apparently you can dry it into a powder that makes things light up like a torch. Could be useful for marking enemies, or for throwing in someone's face when the dark is working against you.
+
+I took Jorlan's cloak out on the second day.
+
+I have always taken care of my weapons. Back before all of this — before the cells, before the spiders — I sharpened and oiled every blade I carried. It is the one thing that was always mine to control. The edge, the balance, the readiness. I talk to them while I work. Or I used to talk. Somewhere in the dark, between the safe house and the temple and the Feydark and the battle, it turned into humming. Low. Quiet. Not a song I know. Not a song anyone taught me. Just something that lives in the back of my throat when my hands are busy and my mind is empty.
+
+I was humming over the cloak — cleaning the fabric, working oil into the stitching around the crest — and I felt it. The sound moved. Not the way sound moves through air — the way water moves through cloth. I felt it soak into the weave, felt something settle and hold, and for one moment the cloak felt less like cloth and more like — I do not have the word. A second skin. A silence I could wear.
+
+And then something else. A memory. Not mine, or maybe mine from so long ago I had forgotten it. Familiar. Right there at the edge, the way a name sits on the tip of your tongue when you know you know it. I reached for it and it dissolved, and Addison's voice cut out, and when he came back everyone was talking about bracers.
+
+The bracers are not what we thought. Not the kind that need bare arms and no armor. They are simpler — just a steady, quiet reinforcement. Plus one to the armor, as long as I keep the shield off. That is fine. I do not use a shield. I use a greatsword, and now I use two drow blades that were carried by a man who died believing I was worth trusting.
+
+Binks held classes. Undercommon and Sylvan, back to back, like a schoolhouse in a tunnel. He is a fine cleric and a fine thief and a middling teacher at best. Darby somehow pulled a perfect score out of the lessons — that Goliath has a gift for absorbing things nobody expects her to absorb. Amanita got a streak of brilliance sandwiched between two disasters. I did not attend. I was too deep in my own work, too deep in whatever the cloak was showing me, and Undercommon was not going to come to me in one afternoon anyway. I know two words: stop and listen. Prison taught me those.
+
+Aeolus asked for Sylvan specifically. He has his reasons. I do not ask.
+
+On the fourth day, Amanita found another cavern full of fungi. Of course she did. She has a nose for the stuff the way hunting dogs have a nose for blood. She walked us through it, pointing out the things that would explode, the things that would make us mad, and the things we could drink. We filled some waterskins. We moved on.
+
+Binks and Aeolus talked about filling the ring. The one from Naos — the Ring of Spell Storing. It already has Darkness in it. There is room for more. They tossed around ideas — Shield of Faith, Invisibility, a few others. I told them what I think about Darkness, which is that it hurts us as much as it hurts them unless we have a plan. Aeolus can see through it. The rest of us cannot. So if he is going to cast it, we need a word. One word that means everybody gets close and grabs a shoulder and trusts him to lead us out. We did not pick the word. We will.
+
+The twins go through our gear every night. It is not stealing — or if it is, it is the kind of stealing that sorts and inventories and puts everything back in a slightly more organized pile. Thieves' habits. They are also hammering armor into shapes that fit gnome bodies. I keep an eye on them the way I keep an eye on everything, but not because I think they will betray us. Because I promised I would.
+
+We are halfway to Sloobludop. Four days down. Three to go. The tunnels are getting wetter. The air smells different — not the dry mineral smell of the deep passages, but something damp and alive. We are descending.
+
+I still do not know what that memory was.
+
+</details>
+
+**

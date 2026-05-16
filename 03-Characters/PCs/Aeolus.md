@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: En route to Sloobludop (Day 4 of 7, as of S15)
 ---
 
 # Aeolus
@@ -14,7 +14,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 > **Player:** Sirius (SiriusTheStar)
 > **Race:** Tiefling
 > **Class:** Warlock (Archfey Patron)
-> **Level:** 4 (as of S10)
+> **Level:** 5 (as of S13)
 > **Background:** Noble
 > **DDB userId:** 118690437
 > Character Sheet: [[Aeolus.pdf]]
@@ -88,11 +88,12 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 06 — The Long Way Down]]:** *Page was not updated for S06 events. Known S06 actions: Granted Darby 10 temp HP via Steps of the Fey. Used Misty Step to walk down vertical shaft (first in party to reach Binks). Additional S06 details pending transcript audit.*
 - **[[Session 07 — Escape from the Oozing Temple]]:** Used Misty Step twice during flooding escape to teleport ahead through the tunnel. Granted [[Blarg]] 6 temp HP via Steps of the Fey. Used his final Misty Step — all 4 daily spell slots spent by end of session. Party resource management concern going forward.
 - **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** Voluntarily passed through [[Glabbagool]], taking 5 acid damage (halved from 10 per DM friendly-passage ruling). Dashed to continue moving up tunnel ahead of combat. Moved farthest ahead via fey magic from previous session.
-- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Perception 5 (3 adjusted) during tunnel scouting — worst roll of the session. Arcana 17 (15 adjusted) on the sealed chest — determined it is password-locked with lingering magic. Cast Speak with Animals on the newly resurrected [[Roxanne]] — confirmed no memories of past life, name, or location. Warned party "Don't check it out!" when Amanita rushed toward the Feydark portal. Had to leave early (Sirius), contributing to the cliffhanger ending.
+- **[[Session 09 —  Every Party Needs A Little Guy|Session 09]]:** Perception 5 (3 adjusted) during tunnel scouting — worst roll of the session. Arcana 17 (15 adjusted) on the sealed chest — determined it is password-locked with lingering magic. Cast Speak with Animals on the newly resurrected [[Roxanne]] — confirmed no memories of past life, name, or location. Warned party "Don't check it out!" when Amanita rushed toward the Feydark portal. Had to leave early (Sirius), contributing to the cliffhanger ending.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Entered the Feydark via portal. Met Echo (patron raven). Participated in Myconid Sovereign trial.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Dream/vision with Naos (Archfey patron). Naos revealed: fell in love with Aeolus, bonded them without consent, infiltrated the corrupted entity (female, from the Abyss) and is now in danger. Naos offered wedding ring — Aeolus accepted. Naos dissolved into spores. Echo pecked at the ring: "So dramatic." Received **Ring of Spell Storing** (+1 WIS, growth item). Received **Fey Touched** from Psilofyr. Caught Blarg in goblin form (insight nat 20). Chose Velkynvelve. Entered Nexus Pool portal.
 - **[[Session 12 — Return to Velkynvelve|Session 12]]:** Used Devil's Sight to full tactical advantage — 120ft perfect vision through both Darkness spheres while the rest of the party fought blind. Hit Drow Elite with Eldritch Blast (7 damage) from the tunnel. **Broke [[Shoor Vandree|Shore]]'s Darkness concentration with Witch Bolt (level 2): 22 lightning damage, Shore failed concentration save.** Single most impactful spell of the session — restored vision for the entire party. Rolled physical dice exclusively — zero DDB archive entries. Fey Touched spell choice not yet stated. Giant spiders in S12 did not specifically target Aeolus — spider curse may be lifted (needs DM confirmation).
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Continued Witch Bolt connection to [[Shoor Vandree|Shoor]] — dealt 11 bonus lightning damage via bonus action. Hit Shoor with Eldritch Blast (26 to hit, 7 damage). Took 14 radiant damage from [[Asha Vandree]]'s Guiding Bolt (dirty 20 to hit). Used Misty Step to teleport beside [[Roxanne]] and granted her 8 temporary HP via Steps of the Fey. Spotted [[Jorlan Duskryn]] on the north tower (perception 17) — witnessed the crossbow shot and Derendil's tackle. Rolled physical dice exclusively — zero DDB archive entries (S13).
+- **[[Session 14 — Far From the Sun|Session 14]]:** NPC'd by Addison (Sirius absent). Attempted Command (Grovel) on the drow elite — elite resisted (WIS save 20). Stayed at cavern floor with Darby and Roxy, interested in examining the vrock corpses for insight into the demonic situation connected to Naos.
 
 ## Key Quotes
 
@@ -105,6 +106,14 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "Don't check it out!" — S09, warning party about the portal [Funny]
 - "I guess I have no idea how I'm feeling. I'm really confused, let's say." — S11 [Poignant]
 - "Can we reach the depths of hell?" — S03 [Banter]
+- "I'm a squishy warlock." — S15, re: AC 12 discussion [Funny]
+- "Just tell him how to call someone stupid and he's going to be happy." — S15, re: learning Sylvan [Funny]
+
+### S15 Key Events
+- Riding Roxy during travel. Requested Sylvan lessons from Binks specifically.
+- **AC crisis flagged:** AC 12 noted by multiple party members and DM as dangerously low. Suggestions included Mage Armor, Shield spell, Bracers of Defense, Cloak of Protection. No resolution yet.
+- Discussed Ring of Spell Storing loading with Binks. Darkness already stored (2nd level). 3 levels free. Considered Shield of Faith (+2 AC), Invisibility, but no decision made.
+- Languages known (confirmed S15): Draconic, Elvish, Infernal, Common. Learning Sylvan.
 
 ---
 
@@ -118,10 +127,13 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 — The Whirlwind and the Depths]]
-- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
+- [[Session 13 — Reckoning at Velkynvelve]]
+- [[Session 14 — Far From the Sun]]
+- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

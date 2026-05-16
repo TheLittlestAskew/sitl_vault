@@ -36,7 +36,7 @@ Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[04-World-Lor
 - **[[Session 04 — Life Isn't Faer-zress]]:** Present in safe house during wererat attack. Took defensive position.
 - **[[Session 05 — Silvered]]:** Took watch with [[Amanita de'Champignon]]. Commented the passage down likely leads somewhere safe.
 - **S06-S08:** Present with party throughout descent, Oozing Temple, and flooding escape. No individually documented actions.
-- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Read the Dwarvish collar tag on the resurrected rothe — "Roxanne." Read the Dwarvish inscription revealing the chest's password. Only party member capable of reading Dwarvish.
+- **[[Session 09 —  Every Party Needs A Little Guy|Session 09]]:** Read the Dwarvish collar tag on the resurrected rothe — "Roxanne." Read the Dwarvish inscription revealing the chest's password. Only party member capable of reading Dwarvish.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** **Departed the party.** Walked to the Gauntlgrym Nexus Pool, turned back to the party, and promised to warn the dwarven kings and bring reinforcements. Emotional farewell. Stepped through the portal. First voluntary party split.
 
 ## Relationships
@@ -55,7 +55,7 @@ Shield dwarf scout from the city of [[Gauntlgrym]]. Imprisoned at [[04-World-Lor
 - [[Session 03 — Into the Dark]]
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 05 — Silvered]]
-- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Darby Stonefeather]]

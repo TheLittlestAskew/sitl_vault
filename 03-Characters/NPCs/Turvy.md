@@ -69,6 +69,11 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 - "It wasn't supposed to be you. It was supposed to be me. Damn it." — S05 [Poignant]
 - "Orphans are not. We used to take bets on who would go first? Because we just knew. Supposed to be me." — S05 [Poignant]
 
+### S15 Key Events
+- Traveling with party en route to Sloobludop. Walking near Binks in the marching order with [[Topsy]].
+- Observed rummaging through party gear daily with Topsy — methodical, not malicious. Thieves' habits.
+- Working with Topsy to manipulate/fit armor to gnome-sized bodies.
+
 ## Related
 - [[Topsy]]
 - [[04-World-Lore/Locations/Blingdenstone]]

@@ -6,7 +6,7 @@ affiliation: Party
 status: Alive
 player: Florian (TwinkeyKrieger)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: Velkynvelve — departing for Sloobludop (as of S14)
 ---
 
 # Blarg
@@ -14,7 +14,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 > **Player:** Florian (TwinkeyKrieger)
 > **Race:** Dwarf
 > **Class:** Cleric / Druid (Circle of the Moon) multiclass
-> **Level:** 4 (as of S10)
+> **Level:** 5 (as of S13)
 > **Background:** TBD
 > **DDB userId:** 113530950
 > Character Sheet: [[Blarg CS.pdf]]
@@ -72,6 +72,7 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 | Full starting gear + pack | S02 (armory recovery) | Equipped |
 | Enhanced Family Carving (was D4 trinket) | S02 / S11 (empowered by Chris) | **Growth item.** +1 CHA. Shifts between dwarven and goblin family forms. Grants goblin wild shape (own stats, goblin appearance + Fury of the Small). Permanent welcome among goblin tribes. |
 | Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + 1st-level spell TBD |
+| Moonstone (small) | S14 (from Ilvara's quarters) | Carried. Claimed by Blarg. Grants stronger connection to the moon. Can sense lunar phase, position, and approximate time of day. Selûne connection. |
 
 ## Relationships
 
@@ -95,11 +96,13 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - **[[Session 06 — The Long Way Down]]:** Discussed Topsy burial (retcon). Slipped during descent, caught by Kit and Darby. Diagnosed Binks (medicine 25). Healed Binks (15 HP). Tremorsense detected 2 signatures. Wild shaped to giant spider twice. Moonbeam on oozes. **Florian awarded heroic inspiration for checking on Taylor.**
 - **[[Session 07 — Escape from the Oozing Temple]]:** Nearly fell into trapdoor pit. Blarg's webbing saved him. Received Longstrider and 6 temp HP.
 - **[[Session 08 — The Whirlwind and the Depths|Session 08]]:** Moonbeam on Black Pudding (30 total radiant). Religion 9: impeded moon connection at depth. Healed Kit 19 HP after Relentless Endurance.
-- **[[Session 09 —  Every Party Needs A “Little Guy”|Session 09]]:** Help action for Binks's Resurrection check. Arcana 25 on Feydark portal. Commented "quite the 180" on Kit.
+- **[[Session 09 —  Every Party Needs A Little Guy|Session 09]]:** Help action for Binks's Resurrection check. Arcana 25 on Feydark portal. Commented "quite the 180" on Kit.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Stabilized portal (Arcana 23). Bear form combat. Killed Myconid A (nat 20 claw). Kit used bear-Blarg as launching platform.
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Met Chris, fae goblin leader. Backstory exchange about Carbra. Family carving empowered (+1 CHA, goblin wild shape, permanent tribe welcome). Wild shaped into goblin to hang out with Chris's band. Aeolus caught him (insight nat 20). Received **Fey Touched** from Psilofyr. Chose Velkynvelve. Entered Nexus Pool portal.
 - **[[Session 12 — Return to Velkynvelve|Session 12]]:** Florian absent. DM allowed present players to cast Blarg's prepared spells by proxy. **Hold Person on patrol drow** (Wis 9 vs DC 15 — failed). Enabled Binks's auto-crit sneak attack kill. First instance of absent-PC spellcasting by proxy — established as house ruling. Fey Touched spell choice not yet stated.
-- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Trinket empowerment confirmed: Goblin Carving +1 CHA. Restrained by spider webbing — used Primal Savagery (17 to hit, 5 damage) to claw free. Cast Healing Word on Kit (12 HP) after seeing her take a knee. Arcana 21 to identify Ilvara's Insect Plague as concentration. Failed Insect Plague Con save (rolled 2, total 5) — took 25 piercing damage. Cast Moonbeam on Ilvara and giant spider (rolled double 1s on 2d10 — 2 total damage; "fuck off"). Wild shaped into bear — clawed and bit prone Ilvara for 20 total damage (8 claw + 12 bite). Moved to shield unconscious Darby. Took 14 spider bite damage (9 reduced to 4 via poison resistance + 5 piercing). Failed Roxy trample Dex save (13 damage). Blarg was physically present this session (Florian returned). Nat 20 on final Insect Plague Con save.
+- **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Trinket empowerment confirmed: Goblin Carving +1 CHA.
+- **[[Session 14 — Far From the Sun|Session 14]]:** Cast Cure Wounds on self during stair climb. Cast Cure Wounds on [[Stool]] in bear form (nuzzled Stool, 9 HP healed — near full, max HP 12). Climbed wall in bear form (30ft climb speed) to reach upper levels while party took stairs. Religion 21 — detailed knowledge of Lolth (queen of spiders, gains power through malice/deception/destruction, banished to the Abyss) and drow devotion levels (priestesses fanatical, grunts just getting by). Provided Bless and Help action for Binks's Ceremony on the Shrine of Lolth. Claimed moonstone from Ilvara's quarters — sensed waxing moon past apex, estimated early morning near sunrise. First concrete time-of-day reading the party has had underground. Restrained by spider webbing — used Primal Savagery (17 to hit, 5 damage) to claw free. Cast Healing Word on Kit (12 HP) after seeing her take a knee. Arcana 21 to identify Ilvara's Insect Plague as concentration. Failed Insect Plague Con save (rolled 2, total 5) — took 25 piercing damage. Cast Moonbeam on Ilvara and giant spider (rolled double 1s on 2d10 — 2 total damage; "fuck off"). Wild shaped into bear — clawed and bit prone Ilvara for 20 total damage (8 claw + 12 bite). Moved to shield unconscious Darby. Took 14 spider bite damage (9 reduced to 4 via poison resistance + 5 piercing). Failed Roxy trample Dex save (13 damage). Blarg was physically present this session (Florian returned). Nat 20 on final Insect Plague Con save.
+- **[[SITL_15_050326_The_Long_Road_to_Sloobludop|Session 15]]:** Began Underdark botany training with [[Amanita de'Champignon]]. Insight 9 (with Bless d4) — no immediate bonus but learning underway. Nature 23 — discovered and harvested **Ormu** (bioluminescent green moss; Faerie Fire application when dried into powder). Harvested with sickle. Walking on foot during march. Offered Guidance for scouting (DM declined — not a Perception check). Tried to impose disadvantage on himself for Underdark inexperience — DM declined. Also has herbalist tools proficiency, assisted Amanita's Investigation in Fungal Cavern.
 
 ## Key Quotes
 
@@ -114,6 +117,9 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - "I can barely feel the moon down here. It's like shouting into a pillow." — S08 [Banter]
 - "That's quite the 180." — S09, re: Kit advocating for Topsy's resurrection [Banter]
 - "I mean, I guess it's the smell. You can usually tell by the smell." — S11, re: recognizing goblin scent [Banter]
+- "I'm not getting up there as well. I don't trust it." — S15, re: riding Roxy [Banter]
+- "Look, Amanita, I think I found something. Isn't that useful?" — S15, re: Ormu [Funny]
+- "That sounds super useful." — S15, re: tongue glowing from Ormu [Banter]
 
 ---
 
@@ -127,10 +133,12 @@ location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
 - [[Session 06 — The Long Way Down]]
 - [[Session 07 — Escape from the Oozing Temple]]
 - [[Session 08 — The Whirlwind and the Depths]]
-- [[Session 09 —  Every Party Needs A “Little Guy”]]
+- [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
-- [[Session 12 — Return to Velkynvelve]]
+- [[Session 13 — Reckoning at Velkynvelve]]
+- [[Session 14 — Far From the Sun]]
+- [[SITL_15_050326_The_Long_Road_to_Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

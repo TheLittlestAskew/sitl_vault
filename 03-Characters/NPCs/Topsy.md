@@ -58,6 +58,11 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - Topsy's resurrection is the emotional climax of S11 — Kit's breakdown is the payoff for five sessions of guilt
 - Topsy's current mechanical condition is unclear (DM to clarify: can she fight? What are her stats?)
 
+### S15 Key Events
+- Traveling with party en route to Sloobludop. Walking near Binks in the marching order.
+- Observed rummaging through party gear daily with [[Turvy]] — methodical, not malicious. Described as thieves' habits (sorting, inventorying). Occasionally goes through other party members' stuff without thinking.
+- Working with Turvy to manipulate/fit armor to gnome-sized bodies.
+
 ---
 
 ## Related

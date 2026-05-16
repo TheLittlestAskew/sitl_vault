@@ -36,7 +36,7 @@
 
 - [[Topsy]] — Deep gnome, wererat. Resurrected by the Carrion King via mycelial fibers (S11). Leveled up between S12-S13 (Fey-Touched spell pending Matt's choice). Traveling with party.
 - [[Turvy]] — Deep gnome, wererat. Leveled up between S12-S13; assigned Silver Barbs (Fey-Touched). Traveling with party.
-- [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. ⚠️ At 0 HP as of S13 end (1 death save success). Critical condition.
+- [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Stabilized by Amanita (Spare the Dying, S14). Healed by Blarg (Cure Wounds, 9 HP restored → near full). Traveling with party.
 - [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Compressed into Amanita's waterskin (S09). Long rest achieved in Feydark (S10) — should be fully reconstituted.
 - [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve.
 - [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). **Rescued (S13):** Leaped from a stalactite to tackle [[Ilvara Mizzrym]], knocking her to the ground. Quaggoths shifted allegiance to Derendil as new alpha. Rejoined party.
@@ -52,31 +52,34 @@
 
 - ~~[[Ilvara Mizzrym]]~~ — **DEAD (S13).** Drow priestess, Velkynvelve commander, primary antagonist. Shot by [[Jorlan Duskryn]]'s crossbow. Tackled from stalactite by [[Derendil]]. Killed by [[Roxanne]]'s gore attack (27 damage trample). Her own Insect Plague killed [[Shoor Vandree]]. Primary antagonist arc from S01 is closed.
 - ~~[[Shoor Vandree]]~~ — **DEAD (S13).** Drow warrior, Ilvara's lieutenant/lover. Killed by Ilvara's own Insect Plague spell after she lost concentration control.
-- [[Asha Vandree]] — Junior drow priestess. Alive as of S13 end but severely wounded (<10 HP). Last active combatant from the Velkynvelve drow command.
-- [[Jorlan Duskryn]] — Scarred drow elite warrior. **ALIVE (S13).** Shot Ilvara with a crossbow and smiled as Derendil tackled her. Turncoat confirmed across S01, S02, and S13.
-- Drow Elite (unnamed) — Alive as of S13 end. Badly wounded.
+- ~~[[Asha Vandree]]~~ — **DEAD (S14).** Junior drow priestess. Attempted to cast Darkness but was stopped by Binks's Command (Halt). Killed by [[Darby Stonefeather]]'s Fire Mace attack of opportunity (20 damage, mace spike embedded in skull) when she tried to flee into magical darkness.
+- ~~[[Jorlan Duskryn]]~~ — **DEAD (S14).** Scarred drow elite warrior, former Ilvara lieutenant. Turncoat confirmed across S01, S02, S13, and S14. Died in Kit's presence in the northern watchpost. Passed on lore: [[Drizzt Do'Urden]], [[Society of Brilliance]], and faith in young drow [[Artaxle]]. Gave Kit his bracers, swords, and lieutenant cloak.
+- ~~Drow Elite (unnamed)~~ — **Surrendered (S14).** Persuaded by Kit's nat 20 Persuasion speech (with Binks translating). Dropped weapons and knelt. Ordered Garruk to stand down.
+- [[Garruk]] — Drow crossbowman. Escaped Velkynvelve under cover of his own Darkness spell. Took [[Ilvara Mizzrym]]'s body and Shoor's riding lizard. Currently fleeing.
+- [[Artaxle]] — Young drow from Velkynvelve. Jorlan's protégé. Eyes flash purple. Declined to join party; heading to [[Menzoberranzan]] with false intel to buy the party time. First appearance S14.
 - The Corrupted Entity — Female, from the Abyss. A twisted reflection of [[Psilofyr]]. Seeks to control death and rot. Naos attempted to infiltrate her and is now in danger. Name unknown — Naos "dare not speak" it. Likely Zuggtmoy (do not metagame). (S11)
 
 ---
 
 ## Sessions
 
-| #   | Date       | Title                         | Notes                                              |
-| --- | ---------- | ----------------------------- | -------------------------------------------------- |
-| 01  | 10/12/2025 | Prisoners of the Underdark    | [[Session 01 — Prisoners of the Underdark]]        |
-| 02  | 10/26/2025 | "Come Get Your Shit"          | [[Session 02 — Come Get Your Shit]]                |
-| 03  | 11/09/2025 | Into the Dark                 | [[Session 03 — Into the Dark]]                     |
-| 04  | 11/23/2025 | Life Isn't Faer-zress         | [[Session 04 — Life Isn't Faer-zress]]             |
-| 05  | 12/07/2025 | Silvered                      | [[Session 05 — Silvered]]                          |
-| 06  | 12/21/2025 | The Long Way Down             | [[Session 06 — The Long Way Down]]                 |
-| 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]]     |
-| 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 — The Whirlwind and the Depths]]      |
-| 09  | 02/01/2026 | Adopt-a-Rothe                 | [[Session 09 —  Every Party Needs A "Little Guy"]] |
-| 10  | 02/15/2026 | Through the Fungal Gate       | [[Session 10 — 021526_Echoes_in_the_Feydark]]      |
-| 11  | 03/01/2026 | Gifts of the Carrion King     | [[Session 11 — Gifts_of_the_Carrion_King]]         |
-| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12 — Return to Velkynvelve]]             |
+| #   | Date       | Title                         | Notes                                            |
+| --- | ---------- | ----------------------------- | ------------------------------------------------ |
+| 01  | 10/12/2025 | Prisoners of the Underdark    | [[Session 01 — Prisoners of the Underdark]]      |
+| 02  | 10/26/2025 | "Come Get Your Shit"          | [[Session 02 — Come Get Your Shit]]              |
+| 03  | 11/09/2025 | Into the Dark                 | [[Session 03 — Into the Dark]]                   |
+| 04  | 11/23/2025 | Life Isn't Faer-zress         | [[Session 04 — Life Isn't Faer-zress]]           |
+| 05  | 12/07/2025 | Silvered                      | [[Session 05 — Silvered]]                        |
+| 06  | 12/21/2025 | The Long Way Down             | [[Session 06 — The Long Way Down]]               |
+| 07  | 01/04/2026 | Escape from the Oozing Temple | [[Session 07 — Escape from the Oozing Temple]]   |
+| 08  | 01/18/2026 | The Whirlwind and the Depths  | [[Session 08 — The Whirlwind and the Depths]]    |
+| 09  | 02/01/2026 | Adopt-a-Rothe                 | [[Session 09 —  Every Party Needs A Little Guy]] |
+| 10  | 02/15/2026 | Through the Fungal Gate       | [[Session 10 — 021526_Echoes_in_the_Feydark]]    |
+| 11  | 03/01/2026 | Gifts of the Carrion King     | [[Session 11 — Gifts_of_the_Carrion_King]]       |
+| 12  | 03/29/2026 | Return to Velkynvelve         | [[Session 12 — Return to Velkynvelve]]           |
 | 13  | 04/11/2026 | Reckoning at Velkynvelve      | [[Session 13 — Reckoning at Velkynvelve]]        |
-| 14  | 04/12/2026 | —                             | [[Session 14]]                                     |
+| 14  | 04/12/2026 | Far From the Sun               | [[Session 14 — Far From the Sun]]                |
+| 15  | 05/03/2026 | The Long Road to Sloobludop    | [[SITL_15_050326_The_Long_Road_to_Sloobludop]]   |
 
 ---
 
@@ -87,47 +90,48 @@
 - [[The Northdark]] · [[04-World-Lore/Locations/The Darklake]]
 
 ### Key Campaign Locations
-- [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03). Party assaulted and decisively won the Battle of Velkynvelve (S12-S13). Ilvara and Shoor dead. Outpost effectively neutralized.
+- [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03). Party assaulted and decisively won the Battle of Velkynvelve (S12-S14). All drow command killed or fled. Shrine of Lolth partially desecrated by Binks (S14). Faerzress shifted from purple to gold. Quaggoths fled after shrine disruption. Party took long rest and looted the outpost before departing for Sloobludop.
 - [[04-World-Lore/Locations/Blingdenstone]] — Deep gnome city; party's intended destination as of S03
 - [[04-World-Lore/Locations/Gracklstugh]] — Duergar city
 - [[04-World-Lore/Locations/Menzoberranzan]] — Iconic drow city
 - [[04-World-Lore/Locations/Neverlight Grove]] — Myconid settlement; Stool's home; Sarith's destination
 - [[04-World-Lore/Locations/Mantol-Derith]] — Trade enclave; Kit has connections there (S11)
 - [[04-World-Lore/Locations/The Silken Paths]] — Webbed travel route
-- [[Sloobludop]] — Kuo-toa settlement; identified as closer option (~10 days) but off-path (S03)
+- [[Sloobludop]] — Kuo-toa settlement near [[04-World-Lore/Locations/The Darklake]]; 7 days travel from Velkynvelve (S15 corrected from 8). Party's next destination. Artaxle offered to guide party there before splitting off toward Menzoberranzan. Party halfway through journey as of S15 (Day 4 of 7).
+- [Fungal Cavern (Day 4)] — Large cavern filled with fungi and mushrooms of all sizes and types, encountered on Day 4 of travel to Sloobludop. Contains Timmask (explosive), Tongue of Madness, Nightlight, Waterorb, and other fungi. Groundwater trickling through. Amanita guided party safely through. (S15)
 
 ### Campaign-Specific Locations
 - [[04-World-Lore/Locations/The Feydark]] — Fey-touched Underdark region (party visited S10-S11). Realm of [[Psilofyr]]. Near the Court of Stars. Time is non-linear. Party departed S11.
 - Feydark Cliffside Clearing — Clearing atop a cliff overlooking a massive gorge. Site of the Myconid Sovereign trial (S10) and party camp/awakening (S11). Zurkhwood huts, goblin camp, waterfall sounds.
-- Nexus Pools Glade — Glade of autumn trees with seven circular pools and archway mirrors. Each pool shows a different Underdark/surface destination. Psilofyr's departure point. Connected via mycelial tunnels from the cliffside clearing. (S11)
+- [Nexus Pools Glade] — Glade of autumn trees with seven circular pools and archway mirrors. Each pool shows a different Underdark/surface destination. Psilofyr's departure point. Connected via mycelial tunnels from the cliffside clearing. (S11)
 - Ancient Dwarvish/Duergar Safe House — Hidden waystation in northern passage, faerzress-suffused (S03-S05). Self-repairing magic sealed it shut, entombing Topsy's body (S04-S09). Carrion King retrieved Topsy's body from here (S11).
-- Bone Cavern — Below safe house shaft. Ancient bones, oily substance, gray ooze (S06)
+- [Bone Cavern] — Below safe house shaft. Ancient bones, oily substance, gray ooze (S06)
 - Glabbagool's Corridor — Corridor occupied by awakened gelatinous cube, below bone cavern (S06)
 - [[Oozing Temple]] — Underground temple beneath safe house. Dragon statue, fountain treasure, tentacle/wave reliefs. Gray oozes, flooding (S06-S07)
-- Upper Cavern (NE exit) — Cavern connected to ancient Dwarvish safe house area; dry ground, lichen, trickling water (S08)
-- Mushroom Caverns — Vast fungal ecosystem below the upper cavern; bioluminescent fungi, zurkhwood forests, rothe skeletons (S08)
-- Fungal Pond / Portal Room — Shallow pond in southern tunnel with unusual fungal growth, flickering Feydark portal, and skeletal rothe remains (pre-resurrection). Portal is Faerzress-destabilized, neutral origin, connected to fungal network. (S09). Party entered portal S10.
+- [Upper Cavern] (NE exit) — Cavern connected to ancient Dwarvish safe house area; dry ground, lichen, trickling water (S08)
+- [Mushroom Caverns] — Vast fungal ecosystem below the upper cavern; bioluminescent fungi, zurkhwood forests, rothe skeletons (S08)
+- [Fungal Pond] / [Portal Room] — Shallow pond in southern tunnel with unusual fungal growth, flickering [[The Feydark]] portal, and skeletal rothe remains (pre-resurrection). Portal is [Faerzress]-destabilized, neutral origin, connected to fungal network. (S09). Party entered portal S10.
 
 ---
 
 ## Open Threads & Mysteries
 
 ### Active
-- [ ] Aeolus's Spider Curse — Cursed by Lolth gemstone (S01). All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper. Aeolus confirmed in S11 he "gave away the diamond" and no longer has the curse (needs DM confirmation). Giant spiders in S12 did not specifically target Aeolus — curse may be lifted.
-- [ ] Sarith Kzekarit / Neverlight Grove — Sarith escaped during S02, told Kit to find him at Neverlight Grove. Said "They're coming"
-- [ ] Jimjar's Disappearance — Taken from cell overnight (S01); no one saw what happened
-- [ ] Buppido's Fate — Sacrificed to spiders but dropped into pool; body not recovered (S01). Per Addison: "Buppido escaped his execution"
-- [ ] Shuushar's Fate — Fell into pool (S01). Per Addison: if alive, likely went toward Sloobludop
+- [ ] Aeolus's Spider Curse — Cursed by Lolth gemstone (S01). All spiders attack on sight. Requires Remove Curse or returning gem to a drow worshipper. Aeolus confirmed in S11 he "gave away the diamond" and no longer has the curse (needs DM confirmation). [[Giant Spider]] in S12 did not specifically target Aeolus — curse may be lifted.
+- [ ] [[Sarith Kzekarit]] / [[Neverlight Grove]] — Sarith escaped during S02, told Kit to find him at Neverlight Grove. Said "They're coming"
+- [ ] [[Jimjar]]'s Disappearance — Taken from cell overnight (S01); no one saw what happened
+- [ ] [[Buppido]]'s Fate — Sacrificed to spiders but dropped into pool; body not recovered (S01). Per Addison: "Buppido escaped his execution"
+- [ ] [[Shuushar]]'s Fate — Fell into pool (S01). Per Addison: if alive, likely went toward Sloopludop
 - [ ] Amanita's D4 Loot — Rolled 4 additional items from barracks chest (S01); DM never specified what they were
-- [ ] Kit's Crowbar Silvering — Crowbar tip spontaneously silvered during/before Topsy's death (S04-S05). Transmutation magic confirmed; source unknown
-- [ ] Faerzress Corruption — The ambient magical energy in the Underdark appears corrupted by chaotic/fiendish influence. Caused involuntary wererat transformation (S04). Destabilizes the Feydark portal (S09). Connected to the corrupted entity (S11).
-- [ ] The Corrupted Entity — Female entity from the Abyss. Twisted reflection of Psilofyr. Seeks to control death/rot. Naos infiltrated her and is now in danger. Name unknown — Naos "dare not speak" it. Psilofyr, Naos, and Binks/Darby visions all warn of this threat. (S10-S11)
+- [ ] Kit's [[Silvered Crowbar]] Silvering — Crowbar tip spontaneously silvered during/before Topsy's death (S04-S05). Transmutation magic confirmed; source unknown
+- [ ] Faerzress Corruption — The ambient magical energy in the Underdark appears corrupted by chaotic/fiendish influence. Caused involuntary wererat transformation (S04). Destabilizes [[The Feydark]] portal (S09). Connected to the corrupted entity (S11).
+- [ ] The Corrupted Entity — Female entity from the Abyss. Twisted reflection of Psilofyr. Seeks to control death/rot. Naos infiltrated her and is now in danger. Name unknown — Naos "dare not speak" it. [[Psilofyr]], [[Naos]], and Binks/Darby visions all warn of this threat. (S10-S11)
 - [ ] Naos Rescue — Naos's avatar dissolved after giving Aeolus the ring. His "real form" is infiltrating the corrupted entity and is in danger. Aeolus must rescue him. (S11)
-- [ ] Demon Lords in the Underdark — Gray ooze telepathically broadcast "Flesh for the Faceless Lord" (first Juiblex reference, S03). Vrock and chasmes appeared at Velkynvelve (S01-S02). Dragon statue in Oozing Temple may be connected (S06). Psilofyr's visions warned of a "great evil" / "chaotic entity" threatening the balance of life and death (S10-S11).
+- [ ] Demon Lords in the Underdark — [[Gray Ooze]] telepathically broadcast "Flesh for the Faceless Lord" (first Juiblex reference, S03). Vrock and chasmes appeared at Velkynvelve (S01-S02). Dragon statue in Oozing Temple may be connected (S06). Psilofyr's visions warned of a "great evil" / "chaotic entity" threatening the balance of life and death (S10-S11).
 - [ ] Topsy & Turvy's Reluctance — Both twins were reluctant to return to Blingdenstone; reason unknown
 - [ ] Amanita's Corruption Dreams — Increasingly bad dreams of Neverlight Grove being corrupted by dark, oily presence (S01-S02)
 - [ ] Purple Eyes — A drow guard's eyes briefly turned from red to purple during Amanita's barracks interaction (S01); possible early sign of demonic corruption
-- [ ] Stool's Empowerment Arc — Sprout developing toward adult transition. ⚠️ At 0 HP (S13 end, 1 death save success). Critical condition. Must be stabilized S14.
+- [ ] Stool's Empowerment Arc — Sprout developing toward adult transition. Stabilized (Spare the Dying, S14) and healed (Cure Wounds 9 HP, S14). Near full HP. Communicating telepathically. Excited about possibly heading to Neverlight Grove.
 - [ ] Dragon Statue Mystery — Ooze remains reformed into dragon statue in Oozing Temple. Eyes lit up when last ooze died. Identity/purpose unknown. (S06)
 - [ ] Blarg's Moon Flask — Flask with moon shard that brightens/dims. Found in safe house. Given to Turvy (S05). Mechanics not yet established.
 - [ ] Darby's Green Flame Mace — Magical mace. Fire damage baseline; dealt radiant during S08. DM upgraded extra damage from +1 flat to D4 (S08). May alternate between fire and radiant.
@@ -142,13 +146,27 @@
 - [ ] Binks's Duplicate Mind Shielding — Binks has both the Ring of Mind Shielding (pre-campaign) and the loot pick with Mind Shielding properties (S11). Redundancy/stacking TBD.
 - [ ] Insectoid Creature in the Pool — Large insectoid creature with tentacles emerged from the Fungal Pond pool as party entered the portal. Nat 1 attack on Kit — missed. Identity unknown. (S10)
 - [ ] Eldeth's Mission — Departed through Gauntlgrym portal (S11) to warn the dwarven kings. Promised to bring reinforcements and return.
-- [ ] Asha Vandree's Fate — Alive but <10 HP as of S13 end. Last surviving member of Velkynvelve drow command structure.
-- [ ] Drow Elite's Fate — Unnamed drow elite still alive as of S13 end. Badly wounded.
-- [ ] Jorlan Duskryn's Status — Alive. Appeared in S13 despite earlier DM notes listing him as dead. No death was ever narrated in any transcript; the 11/22/25 note likely reflected in-world assumptions.
+- [x] Asha Vandree's Fate — **DEAD (S14).** Killed by Darby's Fire Mace (attack of opportunity, 20 damage) when she attempted to flee into Garruk's magical darkness.
+- [x] Drow Elite's Fate — **Surrendered (S14).** Persuaded by Kit's nat 20 Persuasion speech. Dropped weapons and knelt. Said Kit had earned his "respect."
+- [x] Jorlan Duskryn's Status — **DEAD (S14).** Died in Kit's arms in the northern watchpost. Refused healing. Passed on key lore: Drizzt Do'Urden, Society of Brilliance, and faith in Artaxle.
 - [ ] Kit's Sentient Doll — Uses "Sentient Armor" stat block per Addison (S13). Exact capabilities TBD.
 - [ ] Sylophir — Feydark NPC. 3 different spellings in S13 transcript. Standardized to "Sylophir" pending DM confirmation.
 - [ ] Quaggoth Allegiance Shift — Quaggoths shifted allegiance to [[Derendil]] as new alpha after Ilvara's fall (S13). Implications for party's control of Velkynvelve TBD.
 - [ ] Binks's Trinket Empowerment — Not explicitly reviewed in Addison's S13 pre-session, but S11 documented it as +1 STR with Ring of Mind Shielding properties. No dispute at table. Accepted as confirmed.
+- [ ] Binks's Madness Points — Binks gained 1 madness point (S14) from desecrating the Shrine of Lolth. Rolled 84 on d100 madness table → stunned condition. Track across sessions.
+- [ ] Garruk's Escape — Drow crossbowman escaped Velkynvelve with Ilvara's body and Shoor's riding lizard under cover of Darkness (S14). If he reaches Menzoberranzan before Artaxle, the drow will know what really happened.
+- [ ] Artaxle's Mission to Menzoberranzan — Young drow heading to Menzoberranzan with false intel (blaming demons for Velkynvelve's fall). If caught as a deceiver, likely executed. Jorlan's protégé. Eyes flash purple (possible demonic corruption connection). (S14)
+- [ ] Society of Brilliance — Group of intelligent monsters investigating faerzress anomalies. Members include a mind flayer (Grazilaxx), a derro, a troglodyte, and a kuo-toa. Travel throughout the Underdark. Prefer diplomacy. May be found between Velkynvelve and Menzoberranzan. Jorlan's deathbed intel (S14).
+- [ ] Drizzt Do'Urden — Legendary drow who overcame Lolth's power. Ally of dwarves. Still alive. May be found near Gauntlgrym with King Bruenor Battlehammer. Jorlan asked Kit to tell Drizzt about him. (S14)
+- [ ] Shoor's Black Velvet Mask — Silver-threaded spiderweb pattern. Needs Identify for potential magical properties. Found in Shoor's quarters. (S14)
+- [ ] Shrine of Lolth Desecration — Binks cast Ceremony (Atonement) on the Lolth statue. Half transformed into Garl Glittergold giving Lolth the middle finger. 4 jet eyes turned to gold. Faerzress shifted purple to gold. Entire party gained Blessed (d4 to attacks/saves) for 24 hours. Quaggoths fled. Lolth may now be aware of the party. (S14)
+- [ ] Travel to Sloobludop — 7 days travel from Velkynvelve (corrected from 8, S15). Party's next destination. Party established marching order with Roxy carrying riders (Darby, Aeolus, Amanita, Stool). Binks and Kit scouting on foot. Blarg walking. Topsy/Turvy near Binks. Days 1–2 quiet (no encounters). Day 3 quiet. Day 4: Fungal Cavern found. Halfway through journey. Downtime activities: Binks teaching Undercommon/Sylvan, Blarg/Amanita foraging, Kit attuning to gear. (S14–S15)
+- [ ] Jorlan's Cloak — Lieutenant cloak with family crest. Confirmed as Cloak of Elvenkind (S15). Kit attuned via humming ritual during travel. Grants stealth bonus. Kit experienced a brief déjà vu/memory during attunement that she couldn't place before Addison's connection froze. Possible story hook. (S14–S15)
+- [ ] Kit's Déjà Vu During Attunement — While humming and attuning to Jorlan's cloak, Kit felt a familiar memory at the tip of her mind — something she recognized but couldn't place. Addison's connection froze mid-narration (~00:35:35). Possible lost content. Ask DM what Kit was about to remember. (S15)
+- [ ] Jorlan's Bracers — +1 AC (not Bracers of Defense). DM ruling: effective as long as not wearing a shield; can still wear armor. (S14–S15)
+- [ ] Ring of Spell Storing Loading — Binks offered to cast spells into Aeolus's Ring of Spell Storing (3 levels free, Darkness already stored). Discussed Shield of Faith, Invisibility, Bless, Disguise Self, Tasha's Hideous Laughter. No decision made this session. (S15)
+- [ ] Darkness Safety Word — Party agreed they need a coordinated safety word for when Aeolus casts Darkness. Meaning: "get close to Aeolus." Word not yet chosen. (S15)
+- [ ] Topsy & Turvy Rummaging — Twins observed methodically going through party gear and Roxy's saddlebags on a daily basis. Not malicious but noted. Also working on fitting armor to themselves. (S15)
 
 ### Completed
 - [x] Escape Velkynvelve — Completed (S02). Party jumped into pool during vrock/chasme chaos
@@ -188,7 +206,9 @@
 | S10: Feydark portal entry, visions, Myconid Sovereign trial, forced long rest, level-up | S10 | ~2 days subjective / ~1 hr Underdark time |
 | S11: Feydark boons, Nexus Pools, departure to Velkynvelve | S11 | Unknown subjective Feydark time / portal transit |
 | S12-S13: Return combat at Velkynvelve (Battle of Velkynvelve) | S12-S13 | ~4-5 hours |
-| **Total post-escape through S13** | | **~2-3 full days** |
+| S14: Battle aftermath, Jorlan's death, shrine desecration, looting, long rest | S14 | ~2-3 hours active + 8 hours long rest |
+| S15: Travel Days 1–4 of 7 toward Sloobludop. Quiet travel, downtime, foraging, Kit attunement, language lessons, Fungal Cavern. | S15 | ~4 days |
+| **Total post-escape through S15** | | **~7–8 full days** |
 
 ---
 
