@@ -36,7 +36,7 @@ Scarred drow elite warrior stationed at [[04-World-Lore/Locations/Velkynvelve]].
 - **[[Session 01 — Prisoners of the Underdark]]:** Approached Kit at night and whispered an offer to leave the cell unlocked during the next guard shift. Kit's nat 20 history revealed his backstory. Insight 5 gave no read on motives.
 - **[[Session 02 — Come Get Your Shit]]:** Unlocked the cell early when demon chaos created an opportunity. Stood aside during the escape. Directed party with information about the armory and jumping into the pool. Let [[Derendil]] leap past him. Said something like "Looks like luck came early." Remained behind at Velkynvelve.
 
-## Status: Alive
+## Status: Dead
 Per Addison's notes (11/22/25): Jorlan was listed as "Older drow who helped the party and died." No death was ever narrated in any transcript. Jorlan appeared alive in [[Session 13 — Reckoning at Velkynvelve|Session 13]] — wounded but standing on the north tower of Velkynvelve. The 11/22/25 note likely reflected assumed in-world information rather than confirmed fact.
 
 ## Key Events (continued)
@@ -57,7 +57,7 @@ Per Addison's notes (11/22/25): Jorlan was listed as "Older drow who helped the 
 - "That's fair. I have my reasons. You either take what I offer or you rot here." — S01 [Serious]
 - "Hello again, warrior." — S14, greeting Kit in the watchpost [Poignant]
 - "I can't say that this forgotten outpost in the middle of nowhere was where I wanted to die. I don't think I have the strength to see a sunrise. Would have been nice." — S14 [Poignant]
-- "They call themselves the Society of Brilliance. More like the Society of Arrogance." — S14 [Serious/Important]
+- "They call themselves the [Society of Brilliance]. More like the Society of Arrogance." — S14 [Serious/Important]
 - "I hope you can make it a better place than those who come after." — S14, final words to Kit [Poignant]
 
 ---
@@ -73,3 +73,5 @@ Per Addison's notes (11/22/25): Jorlan was listed as "Older drow who helped the 
 - [[Ilvara Mizzrym]]
 - [[Shoor Vandree]]
 - [[Kit Aluri]]
+- [[Session 01 — Prisoners of the Underdark]]
+- [[Session 02 — Come Get Your Shit]]
