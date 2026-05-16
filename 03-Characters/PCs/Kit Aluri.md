@@ -60,6 +60,57 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - S10: When the Feydark fog separated the party, Kit defaulted to warrior meditation — closed eyes, drew sword, entered a defensive stance. Chose vigilance over vulnerability. The only PC who did not receive comfort, guidance, or an empowered trinket from Psilofyr's realm. Kit's response to the absence was characteristically stoic: she waited, listened, and did not complain. In combat, delivered the killing blow on the Myconid Sovereign by leaping off bear-Blarg's back — the most cinematic combat moment of the campaign. Picked Goblin as her new language at level-up, and was immediately glad she did when fae goblins arrived.
 - S15: Kit's private humming ritual during attunement reveals a deeply personal, meditative side she hides from the party (Stealth 20). She sings/hums to her weapons while maintaining them. The attunement to Jorlan's Cloak of Elvenkind triggered a déjà vu/memory she couldn't place — first hint of something deeper in Kit's past possibly connecting to the drow or to magic. Did not attend Binks's Undercommon lessons (busy with gear). Participated in Darkness tactics discussion — pushed for a coordinated "safety word" strategy.
 
+## Inner Life & Evolution
+
+### Core Identity
+
+- Survivor first. Loyalty is earned through action, not words.
+- Trusts what people do under pressure more than what they say in safety.
+- Anger is the default emotional channel; vulnerability comes out sideways — as sarcasm, deflection, or sudden violence.
+- Controls information instinctively. Shares what people need; withholds what could be leveraged.
+- Will not ask for help. Will accept it without acknowledgment if offered casually.
+- Leadership is reflexive, not chosen. She steps into command the way other people flinch.
+
+### Sensory Filter
+
+- **Always notices:** Exits, chokepoints, who's armed, who's watching, tactical terrain, body language that signals deception or fear.
+- **Drawn to:** Quality craftsmanship in weapons and armor, evidence of rank or hierarchy, signs of past violence on a person or place.
+- **Ignores or misses:** Magical subtlety (unless it hits her), emotional subtext between others, beauty or wonder unless it's also useful.
+- **Sensory habits:** Counts exits when entering a space. Tests the weight and balance of new weapons by feel. Hums to her gear during maintenance — private ritual she hides from the party.
+
+### Active Emotional State
+
+*Updated: Session 15 (05/03/26)*
+
+- Grounded by Jorlan's gear — carrying his weapons and cloak feels like carrying a promise. The attunement humming triggered a memory she can't place, and it's nagging at her.
+- Protective of the party but framing it as tactical necessity. The Sloobludop trek is long and she's quietly counting supplies.
+- Processing Jorlan's death. Not grieving outwardly — channeling it into purpose (find Drizzt, find the Society of Brilliance, honor the information Jorlan trusted her with).
+- Frustrated by her own combat performance in S14 — missed repeatedly at 3 HP while others carried the fight. Relentless Endurance saved her again. Starting to feel like she survives on stubbornness, not skill.
+- Still hasn't fully dealt with the S11 nightmare. The Doll of the Fallen Soldier is a comfort object she won't admit she needs.
+
+### Turning Points
+
+| Session | Event | Internal Shift |
+|---|---|---|
+| S04 | Killed Topsy without hesitation | Proved she'd choose survival over mercy — and discovered that bothered her more than expected |
+| S05 | Delivered the "I'm a fucking orc" speech to Turvy | First time she used her own ugliness as a weapon. Owned the violence instead of justifying it. |
+| S07 | First tactical command during the flood | Soldier instincts resurfaced — not rage but trained calm. Realized she *is* a leader whether she wants to be or not. |
+| S09 | Advocated for resurrecting Topsy | Visible 180 from S04. Guilt became louder than pragmatism for the first time. |
+| S10 | Only PC with no Feydark vision or gift | Kit's isolation from Psilofyr crystallized — she is not chosen, not comforted, not special. She waited, and nobody came. |
+| S11 | Nightmare death + Topsy's resurrection | Accepted death as karma. Then saw Topsy alive and broke. First open emotional collapse. The Doll became real. |
+| S14 | Nat 20 Persuasion speech to the drow elite | First conflict resolved through words, not violence. Kit can be heard, not just feared. Jorlan's death gave the words weight. |
+
+### Relationship Undercurrents
+
+*Updated: Session 15 (05/03/26)*
+
+- **[[Binks Stonevein]]:** Implicit trust, forged before the campaign started. Kit doesn't examine this bond — it just is. Would die for him without calculating the odds first.
+- **[[Darby Stonefeather]]:** Deepened respect since S08. Kit saw Darby rage and recognized a kindred violence. Comfortable fighting beside him. Doesn't overthink it.
+- **[[Jorlan Duskryn]]:** Gone but present. Kit carries his gear like a memorial. The lore he passed on (Drizzt, Society of Brilliance, Artaxle) is now her mission compass. Grieving through action, not words.
+- **[[Topsy]]:** Guilt that won't resolve. Kit killed her, then begged for her resurrection, then watched someone else bring her back. Overcompensates with protectiveness. Can't look at Topsy without remembering the crowbar.
+- **[[Turvy]]:** Conditional respect. Kit set the terms; Turvy accepted. The wererat form is useful. Trust is transactional and Kit is comfortable with that.
+- **[[Psilofyr]]:** Unspoken resentment wrapped in stoicism. Everyone got a vision, a gift, a connection. Kit got a nightmare. She won't complain about it, but it sits in her chest.
+
 ## Abilities & Class Features
 
 - **Darkvision:** 120ft (S01)
