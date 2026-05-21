@@ -37,16 +37,16 @@ Each column = a vault file or file group. Each row = a session. ✅ = updated, �
 | **Session Note** | `01-Sessions/Session ## — Title.md` | Full session notes markdown exists with all 8 sections and backlinks |
 | **Corrected Transcript** | `Session_Sources/Transcripts/Corrected/` | Script-formatted, spell-checked transcript saved to vault |
 | **Dashboard** | `00-Campaign-Hub/Campaign Dashboard.md` | Sessions table row complete, NPCs/antagonists/locations/threads/timeline updated |
-| **Loot Tracker** | `00-Campaign-Hub/Loot Tracker.md` | Session section added with all items |
-| **Quote Board** | `00-Campaign-Hub/Quote Board Master.md` | Session section added with all verbatim quotes and tags |
-| **Profanity Ledger** | `00-Campaign-Hub/Profanity Ledger.md` | Session section added, running totals updated |
-| **Roll Stats** | `05-Mechanics/Roll_Statistics.md` | Session row in session-by-session table, per-character breakdowns updated, records/superlatives checked |
+| **Loot Tracker** | `00-Campaign-Hub/Trackers/` (active file) | Session section added with all items |
+| **Quote Board** | `00-Campaign-Hub/Trackers/` (active file) | Session section added with all verbatim quotes and tags |
+| **Profanity Ledger** | `00-Campaign-Hub/Trackers/` (active file) | Session section added, running totals updated |
+| **Roll Stats** | `00-Campaign-Hub/Trackers/` (active file) | Session row in session-by-session table, per-character breakdowns updated, records/superlatives checked |
 | **POV Journal** | `02-Character_Journal/Kit Aluri Journal.md` | Collapsible section added for this session |
 | **PC Pages** | `03-Characters/PCs/*.md` | All PCs updated with new info from this session (abilities, inventory, relationships, events, quotes) |
 | **NPC Pages** | `03-Characters/NPCs/*.md` | New NPCs created, existing NPCs updated with session info |
 | **Locations** | `04-World-Lore/Locations/*.md` | New locations created, existing updated with events/inhabitants/connections |
 | **Flora/Fauna** | `07-Flora_Fauna/**/*.md` | New creatures/plants documented, existing updated with encounter info |
-| **Mechanics** | `05-Mechanics/*.md` | New rulings, class features, spell usage documented. Also includes `House Rules & Rulings.md` and `Spell_Usage.md` |
+| **Mechanics** | `00-Campaign-Hub/House Rules & Rulings.md` + `05-Mechanics/Spell_Usage.md` | New rulings, class features, spell usage documented |
 
 ---
 
@@ -61,9 +61,12 @@ Session Notes (.docx from Convo 1)
     │
     ├── 00-Campaign-Hub/
     │   ├── Campaign Dashboard (sessions table, NPCs, antagonists, locations, threads, timeline)
-    │   ├── Loot Tracker (new session section)
-    │   ├── Quote Board Master (new session section)
-    │   └── Profanity Ledger (new session section + running totals)
+    │   ├── Vault Format Reference (update if formats change)
+    │   └── Trackers/
+    │       ├── Loot Tracker (active file — new session section)
+    │       ├── Quote Board (active file — new session section)
+    │       ├── Profanity Ledger (active file — new session section + running totals)
+    │       └── Roll Statistics (active file — session row + per-character + records)
     │
     ├── 02-Character_Journal/
     │   └── Kit Aluri Journal (new collapsible section)
@@ -78,8 +81,9 @@ Session Notes (.docx from Convo 1)
     │   └── Factions/ (if applicable)
     │
     ├── 05-Mechanics/
-    │   ├── Roll_Statistics.md (session row + per-character + records)
-    │   ├── Spell_Usage.md (if applicable)
+    │   └── Spell_Usage.md (if applicable)
+    │
+    ├── 00-Campaign-Hub/
     │   └── House Rules & Rulings.md (if new rulings)
     │
     └── 07-Flora_Fauna/
@@ -89,12 +93,26 @@ Session Notes (.docx from Convo 1)
 
 ---
 
+## Tracker File Rotation
+
+Tracker files in `00-Campaign-Hub/Trackers/` rotate every 10 sessions. The legacy batch covers S01-S15 (pre-restructure). Going forward: S16-S25, S26-S35, etc.
+
+**Active tracker files:**
+- `Loot Tracker S01-S15.md` → next: `Loot Tracker S16-S25.md`
+- `Quote Board S01-S15.md` → next: `Quote Board S16-S25.md`
+- `Profanity Ledger S01-S15.md` → next: `Profanity Ledger S16-S25.md`
+- `Roll Statistics S01-S15.md` → next: `Roll Statistics S16-S25.md`
+
+When the current session exceeds the active file's range, create the next file and begin appending there. Carry forward running totals (Profanity Ledger) and records (Roll Statistics) into the new file's header.
+
+---
+
 ## How To Use This File
 
 ### During Convo 2
 1. Claude reads this file at the start of every Convo 2
 2. Identifies the first ❌ in the matrix — that's where work begins
-3. Works through the 19-item checklist for that session
+3. Works through the propagation chain for that session
 4. Updates this matrix as each column is completed
 5. If MCP times out, the matrix shows exactly where to resume
 
@@ -128,3 +146,4 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 | 2026-05-15 | Claude (Convo 2, S13) | S13 fully synced. Session note, corrected transcript (confirmed in vault), dashboard, loot, quotes, profanity, journal, all PC pages (Kit/Binks/Aeolus/Blarg/Amanita/Darby), all NPC pages (Ilvara→Dead, Shoor→Dead, Jorlan→Alive, Derendil→Rescued, Stool→0HP, Roxy kill update, Topsy/Turvy leveled), Velkynvelve location, roll stats (S13 row, 63 DDB rolls). Flora/Fauna marked N/A (pure combat session). House rules updated (S13 rulings + trinket stat bonuses). Jorlan status clarified (alive — no death ever narrated). Binks trinket accepted as confirmed from S11. |
 | 2026-05-15 | Claude (Convo 2, S14) | S14 fully synced. Session note, corrected transcript (confirmed in vault from Convo 1), dashboard (S14 row, NPCs/antagonists/locations/threads/timeline all updated), loot tracker (4 subsections: Jorlan/Shoor/Ilvara/armory), quote board (~35 quotes), profanity ledger (Kit hits 30, Binks jumps to 8), house rules (6 S14 rulings), journal (S14 collapsible entry), all PC pages (Kit: Bracers+weapons+Jorlan lore+Persuasion speech; Binks: Command+Ceremony+madness; Blarg: moonstone+Religion 21; Darby: killed Asha; Amanita: Spare the Dying+vrock exam; Aeolus: NPC'd), NPC pages (Jorlan→Dead, Asha→Dead, Artaxle NEW, Garruk NEW, Derendil updated, Stool→healed), roll stats (S14 row, 20 DDB + 5 transcript-only). Flora/Fauna ✅ (vrock exam noted on Amanita page; riding lizard noted on Garruk page — no standalone creature pages needed). Mechanics ✅ (house rules covers S14 rulings). |
 | 2026-05-15 | Claude (Convo 2, S15) | S15 fully synced. Session note created (SITL_15_050326_The_Long_Road_to_Sloobludop.md). Corrected transcript confirmed in vault from Convo 1. Dashboard updated: S15 row, Sloobludop distance corrected 8→7 days, Fungal Cavern added to locations, 7 new/updated open threads (Travel, Cloak of Elvenkind, Déjà Vu, Bracers +1 AC, Ring of Spell Storing, Darkness Safety Word, Topsy/Turvy rummaging), old Jorlan's Cloak thread removed (superseded), timeline through S15 (~7–8 days post-escape). Loot tracker: S15 section with full armory inventory, Ormu harvest, Fungal Cavern fungi, bracers/cloak corrections applied to S14 entries. Quote board: ~20 quotes. Profanity: Kit to 33, Darby ties Addison at 7. House rules: 5 S15 rulings (24hr Bless, +1 AC bracers, Cloak attunement, Bless on skill checks, Sloobludop distance). Journal: S15 collapsible entry. All 6 PC pages updated (Kit: Cloak/bracers/déjà vu/humming; Blarg: Ormu/botany; Amanita: Fungal Cavern/teaching; Binks: language class/Ring discussion; Darby: nat 20 Undercommon; Aeolus: AC 12 flagged/Sylvan/Ring). NPC pages: Topsy + Turvy updated (rummaging). Location: Fungal Cavern (Day 4) page created. Flora/Fauna: Ormu, Tongue of Madness, Nightlight, Waterorb pages created; Timmask updated with S15 encounter. Roll stats: S15 row (28 DDB, 0 nat 20s DDB, 3 nat 1s). Mechanics: house rules covers S15 rulings. |
+| 2026-05-21 | Claude + Taylor (vault restructure) | Tracker files moved from hub root to `00-Campaign-Hub/Trackers/`. Files renamed with S01-S15 suffix. Roll Statistics moved from `05-Mechanics/` to Trackers. Vault Format Reference created in `00-Campaign-Hub/`. Column definitions and dependency map updated to reflect new paths. Tracker file rotation: S01-S15 (legacy batch), then every 10 sessions (S16-S25, S26-S35, etc.). |
