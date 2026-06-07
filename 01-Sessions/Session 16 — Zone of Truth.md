@@ -151,7 +151,7 @@ Night camp at the edge of the Day-4 fungal cavern, inside Roxy's manifested Zurk
 
 ## Artifacts (Loot & Items)
 
-*See [[Loot Tracker#Session 16 — Zone of Truth]] for full details.*
+*See [[00-Campaign-Hub/Trackers/Loot Tracker S16-S25#Session 16 — Zone of Truth|Loot Tracker S16-S25]] for full details.*
 
 Key updates:
 - **The horn** *(origin/name [Unknown/Ambiguous] — likely lost-pt1 content)*: focus of the Roxy-storage ritual. Partial success; retry possible; "something else" inside is controllable.
@@ -228,7 +228,7 @@ Key updates:
 
 ## Quotes & Language
 
-*See [[Quote Board Master#Session 16 — Zone of Truth]] for all verbatim quotes and [[Profanity Ledger#Session 16 — Zone of Truth]] for the profanity record.*
+*See [[00-Campaign-Hub/Trackers/Quote Board S16-S25#Session 16 — Zone of Truth|Quote Board S16-S25]] for all verbatim quotes and [[00-Campaign-Hub/Trackers/Profanity Ledger S16-S25#Session 16 — Zone of Truth|Profanity Ledger S16-S25]] for the profanity record.*
 
 ### Alternate Title Options
 

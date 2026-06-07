@@ -10,10 +10,11 @@
 
 ## Quick References
 
-- [[00-Campaign-Hub/Trackers/Roll Statistics S01-S15|📊 Roll Statistics (Campaign-Wide)]]
-- [[00-Campaign-Hub/Trackers/Quote Board S01-S15|💬 Quote Board]]
-- [[00-Campaign-Hub/Trackers/Profanity Ledger S01-S15|🤬 Profanity Ledger]]
-- [[00-Campaign-Hub/Trackers/Loot Tracker S01-S15|🎒 Loot Tracker]]
+- [[00-Campaign-Hub/Trackers/Roll Statistics S16-S25|📊 Roll Statistics (active)]] · [[00-Campaign-Hub/Trackers/Roll Statistics S01-S15|S01-S15 archive]]
+- [[00-Campaign-Hub/Trackers/Quote Board S16-S25|💬 Quote Board (active)]] · [[00-Campaign-Hub/Trackers/Quote Board S01-S15|S01-S15 archive]]
+- [[00-Campaign-Hub/Trackers/Profanity Ledger S16-S25|🤬 Profanity Ledger (active)]] · [[00-Campaign-Hub/Trackers/Profanity Ledger S01-S15|S01-S15 archive]]
+- [[00-Campaign-Hub/Trackers/Loot Tracker S16-S25|🎒 Loot Tracker (active)]] · [[00-Campaign-Hub/Trackers/Loot Tracker S01-S15|S01-S15 archive]]
+- [[00-Campaign-Hub/Trackers/Exhaustion & Madness Tracker|🧠 Exhaustion & Madness Tracker]]
 - [[House Rules & Rulings|📜 House Rules]]
 - [[Vault Sync Status|🔄 Vault Sync Status]]
 - [[Vault Format Reference|📋 Vault Format Reference]]
@@ -120,7 +121,7 @@
 ## Quick Links
 
 - [[House Rules & Rulings]]
-- [[00-Campaign-Hub/Trackers/Loot Tracker S01-S15|Loot Tracker]]
-- [[00-Campaign-Hub/Trackers/Quote Board S01-S15|Quote Board]]
-- [[00-Campaign-Hub/Trackers/Profanity Ledger S01-S15|Profanity Ledger]]
+- [[00-Campaign-Hub/Trackers/Loot Tracker S16-S25|Loot Tracker]]
+- [[00-Campaign-Hub/Trackers/Quote Board S16-S25|Quote Board]]
+- [[00-Campaign-Hub/Trackers/Profanity Ledger S16-S25|Profanity Ledger]]
 - [[Vault Format Reference]]
