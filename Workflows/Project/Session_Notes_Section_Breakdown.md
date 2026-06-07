@@ -45,6 +45,7 @@ Spelling Checked | \[Yes/No]
 
 
 
+
 #### \[CHARACTER POV]
 
 KIT ALURI POV JOURNAL (STORYTELLING EXCEPTION)
@@ -332,8 +333,10 @@ Record all noted Ambiguities, continuity discrepancies, or \[inaudible] segments
 
 
 
+
 \*END TEMPLATE\*
 
 
 
 NOTE: All sections of the session notes that should be formatted as tables should be generated in a structure table already without the need for me to insert the table from text
+
