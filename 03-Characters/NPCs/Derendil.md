@@ -11,6 +11,8 @@ location: With party, ~1 day from Sloobludop (S16)
 
 Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a polymorphed elven prince. Speaks Elvish. Wearing clothing — unusual for a quaggoth.
 
+The kingdom of Nelrindenvane in the high forest is where Dereindil said he was from
+
 ## Description / Appearance
 
 - Quaggoth body — large, ape-like Underdark creature

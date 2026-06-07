@@ -89,3 +89,5 @@ Sloopidoop
 
 ![[Pasted image 20260607135531.png|251]]
 	- Sloopidoop is a cleric that serves The Sea Mother Blidoolvpoolp
+
+- The kingdom of Nelrindenvane in the high forest is where Dereindil said he was from
