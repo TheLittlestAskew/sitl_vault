@@ -255,12 +255,12 @@ Key updates:
 ### Continuity Flags/Missing Info/Ambiguities
 
 - ⚠️ **Pt1 recording lost (unrecoverable).** ~1.25+ hours unrecorded. DDB rolls 15:45–16:32 UTC partially reconstruct it: travel checks, then a History + 3×Arcana cluster — almost certainly **the horn's introduction/identification** (Kit nat-20 Arcana 22). **The horn's origin, name, and properties as established in pt1 are [Unknown/Ambiguous] — ask Addison or the table for a recap.**
-- ⚠️ **Where did the horn come from?** No prior vault record of any horn item. First on-record appearance is mid-ritual at pt2 00:00.
+- ⚠️ **Where did the horn come from?** No prior vault record of any horn item. First on-record appearance is mid-ritual at pt2 00:00. *Per Taylor (2026-06-07): there will be a recap at the top of the next session (06/07) — expect the horn's origin there.*
 - ⚠️ **Binks's real name** — deliberately withheld. Addison's sign-off "I'm sorry, Binks. *Ormik.*" `[unclear]` may be a name tease or a mishear. Flag for next session.
 - ⚠️ **"Thanks, Steph"** (Austin, 1:16:50) `[unclear]` — unknown referent.
 - ⚠️ **Aeolus's curse** — "I was cursed recently when I stole—" cuts off. Pre-existing thread; no new detail captured.
 - ⚠️ **Who heard Clementine?** Taylor's "the rest of us understand Clementine" was not clearly ruled on-mic. POV journal hedges accordingly.
-- ⚠️ **Party level discrepancy:** [[Open Threads & Mysteries]] lists "Level-Up to 5 — Completed (between S12-S13)," but S15 notes and this session's "you're all pretty low level" + level-up-at-Sloobludop ruling indicate the party is Level 4 with Level 5 pending. Reconcile with DM.
+- ✅ **Party level — RESOLVED (2026-06-07, per Taylor):** Party is Level 4; the level-up is not complete. Addison is giving the players the option to take Level 5 in the near future, timed by their own feeling of when it's right (at/after reaching Sloobludop). The erroneous "Level-Up to 5 (S12-S13)" entry in [[Open Threads & Mysteries]] has been corrected.
 - Hannah absent — Amanita's watches rolled by Blarg; Amanita beats are DM-voiced color only.
 - Speaker diarization split label C reattributed by context in the corrected transcript; 14 short interjections marked [AMBIGUOUS].
 

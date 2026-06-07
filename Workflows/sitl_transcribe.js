@@ -92,6 +92,9 @@ const SITL_KEYTERMS = [
   "Sarith Kzekarit",
   "Sarith",
   "Glabbagool",
+  "Clementine",
+  "Roxanne",
+  "Roxy",
 
   // ── Drow Antagonists ──
   "Ilvara Mizzrym",
@@ -131,8 +134,9 @@ const SITL_KEYTERMS = [
   "Vizeran DeVir",
   "Grin Ousstyl",
   "Karazikar",
-  "Artaxel",
+  "Artaxle",
   "Garruk",
+  "Terrestor",
 
   // ── Demon Lords ──
   "Demogorgon",
@@ -151,6 +155,8 @@ const SITL_KEYTERMS = [
   "Deep Duerra",
   "Callarduran Smoothhands",
   "Garl Glittergold",
+  "Psilofyr",
+  "Carrion King",
 
   // ── Major Locations ──
   "Velkynvelve",
@@ -211,6 +217,10 @@ const SITL_KEYTERMS = [
   "hook horror",
   "derro",
   "troglodyte",
+  "carrion crawler",
+  "carrion crawlers",
+  "violet fungus",
+  "violet fungi",
 
   // ── Underdark Materials / Flora ──
   "Zurkhwood",
@@ -336,7 +346,7 @@ const SITL_CUSTOM_SPELLING = [
   // NPC names
   { from: ["Jorlin", "Jorland"], to: "Jorlan" },
   { from: ["Sareth", "Sarath"], to: "Sarith" },
-  { from: ["Darindel", "Derendal"], to: "Derendil" },
+  { from: ["Darindel", "Derendal", "Darendil"], to: "Derendil" },
   { from: ["Eldith"], to: "Eldeth" },
   { from: ["Jimmer"], to: "Jimjar" },
   { from: ["Shushar"], to: "Shuushar" },
@@ -347,7 +357,7 @@ const SITL_CUSTOM_SPELLING = [
   { from: ["Belkinvelve", "Velkenvelve"], to: "Velkynvelve" },
   { from: ["Mendobarranzan", "Menzobaranzan"], to: "Menzoberranzan" },
   { from: ["Blingdonstone"], to: "Blingdenstone" },
-  { from: ["Sloopludop", "Sloopidoop", "Slooplidoop", "Slooploopeen"], to: "Sloobludop" },
+  { from: ["Sloopludop", "Sloopidoop", "Slooplidoop", "Slooploopeen", "Sloopladop"], to: "Sloobludop" },
   { from: ["Gracklestug"], to: "Gracklstugh" },
   { from: ["Gontulgrim", "Gontelgrim", "Gontalgrim"], to: "Gauntlgrym" },
 
@@ -366,6 +376,9 @@ const SITL_CUSTOM_SPELLING = [
 
   // Legendary NPCs
   { from: ["Griszt", "Drizzit"], to: "Drizzt" },
+  { from: ["Terastor", "Terrastor"], to: "Terrestor" },
+  { from: ["Silith", "Sylophir", "Sylophyr"], to: "Psilofyr" },
+  { from: ["Artaxel"], to: "Artaxle" },
   { from: ["Brunner"], to: "Bruenor" },
 
   // Spells
