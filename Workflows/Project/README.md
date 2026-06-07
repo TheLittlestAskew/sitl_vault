@@ -31,12 +31,19 @@ Every campaign vault uses the same filenames in this folder. A campaign may not 
 
 | Standard filename | Status |
 |---|---|
-| `Project_Instructions.md` | ⚠️ Present as `Claude_Project_Instructions.md` — rename to standard name pending |
-| `Convo_1_Instructions.md` | 🛑 Missing |
-| `Convo_2_Instructions.md` | ✅ Present |
+| `Project_Instructions.md` | ⚠️ Present as `Claude_Project_Instructions.md` — rename pending |
+| `Convo_1_Instructions.md` | ⚠️ Present as `SITL_Convo_1_Instructions.md` — rename pending |
+| `Convo_2_Instructions.md` | ✅ Present (standard name) |
 | `Session_Notes_Section_Breakdown.md` | 🛑 Missing |
 | `Session_Notes_Template_Instructions.md` | 🛑 Missing |
-| `Convo2_Handoff_Template.md` | 🛑 Missing |
+| `Convo2_Handoff_Template.md` | ⚠️ Present as `Convo 2 Handoff Template.md` — rename pending |
+
+### Also present (beyond the standard set — pending review)
+
+- `ADDENDUM_AssemblyAI_Transcription_Process.md` — transcription process notes (tooling doc, may belong with automation rather than here)
+- `SITL_Vault_Structure_Guide.md` — vault structure reference
+- `Vault Format Reference.md` — **copy of a live vault file** (`00-Campaign-Hub/Vault Format Reference.md`); duplicate, drift risk
+- `sitl_transcribe.js` — **duplicate** of the automation script in `Workflows/` root
 
 ## Sync discipline
 
