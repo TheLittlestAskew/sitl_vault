@@ -27,6 +27,7 @@ Each column = a vault file or file group. Each row = a session. ✅ = updated, �
 | S13 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
 | S14 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | S15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| S16 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
@@ -126,7 +127,7 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 
 ## Current Gaps Summary
 
-**Fully synced through:** S15 (all applicable columns ✅)
+**Fully synced through:** S16 (all applicable columns ✅)
 
 **Partially synced:** None
 
@@ -134,6 +135,8 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 
 **Priority catch-up order:**
 1. S04 corrected transcript still missing (legacy gap)
+2. ⚠️ **Tracker restructure incomplete (found 2026-06-07):** All files in `00-Campaign-Hub/Trackers/` are 0-byte placeholders (`Loot Tracker S01-S15.md`, `Loot Tracker S16-S30.md`, `Quote Board S01-S15.md`, `Profanity Ledger S01-S15.md`, `Roll Statistics S01-S15.md`) except a duplicate Exhaustion & Madness Tracker. The real content still lives in the hub-root files (`Loot Tracker.md`, `Quote Board Master.md`, `Profanity Ledger.md`) and `05-Mechanics/Roll_Statistics.md` — S16 was appended there. The Dashboard's Quick References links point at the empty Trackers/ files. Either complete the migration (move content into Trackers/, fix links) or delete the placeholders and revert the Dashboard links. Note the existing empty file uses an S16-S30 range, not the documented S16-S25 rotation — pick one.
+3. ⚠️ **Party level discrepancy:** Open Threads "Completed" list says "Level-Up to 5 (between S12-S13)" but S15/S16 notes track the party at Level 4 with the next level unlocking at Sloobludop. Reconcile with DM.
 
 ---
 
@@ -147,3 +150,4 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 | 2026-05-15 | Claude (Convo 2, S14) | S14 fully synced. Session note, corrected transcript (confirmed in vault from Convo 1), dashboard (S14 row, NPCs/antagonists/locations/threads/timeline all updated), loot tracker (4 subsections: Jorlan/Shoor/Ilvara/armory), quote board (~35 quotes), profanity ledger (Kit hits 30, Binks jumps to 8), house rules (6 S14 rulings), journal (S14 collapsible entry), all PC pages (Kit: Bracers+weapons+Jorlan lore+Persuasion speech; Binks: Command+Ceremony+madness; Blarg: moonstone+Religion 21; Darby: killed Asha; Amanita: Spare the Dying+vrock exam; Aeolus: NPC'd), NPC pages (Jorlan→Dead, Asha→Dead, Artaxle NEW, Garruk NEW, Derendil updated, Stool→healed), roll stats (S14 row, 20 DDB + 5 transcript-only). Flora/Fauna ✅ (vrock exam noted on Amanita page; riding lizard noted on Garruk page — no standalone creature pages needed). Mechanics ✅ (house rules covers S14 rulings). |
 | 2026-05-15 | Claude (Convo 2, S15) | S15 fully synced. Session note created (SITL_15_050326_The_Long_Road_to_Sloobludop.md). Corrected transcript confirmed in vault from Convo 1. Dashboard updated: S15 row, Sloobludop distance corrected 8→7 days, Fungal Cavern added to locations, 7 new/updated open threads (Travel, Cloak of Elvenkind, Déjà Vu, Bracers +1 AC, Ring of Spell Storing, Darkness Safety Word, Topsy/Turvy rummaging), old Jorlan's Cloak thread removed (superseded), timeline through S15 (~7–8 days post-escape). Loot tracker: S15 section with full armory inventory, Ormu harvest, Fungal Cavern fungi, bracers/cloak corrections applied to S14 entries. Quote board: ~20 quotes. Profanity: Kit to 33, Darby ties Addison at 7. House rules: 5 S15 rulings (24hr Bless, +1 AC bracers, Cloak attunement, Bless on skill checks, Sloobludop distance). Journal: S15 collapsible entry. All 6 PC pages updated (Kit: Cloak/bracers/déjà vu/humming; Blarg: Ormu/botany; Amanita: Fungal Cavern/teaching; Binks: language class/Ring discussion; Darby: nat 20 Undercommon; Aeolus: AC 12 flagged/Sylvan/Ring). NPC pages: Topsy + Turvy updated (rummaging). Location: Fungal Cavern (Day 4) page created. Flora/Fauna: Ormu, Tongue of Madness, Nightlight, Waterorb pages created; Timmask updated with S15 encounter. Roll stats: S15 row (28 DDB, 0 nat 20s DDB, 3 nat 1s). Mechanics: house rules covers S15 rulings. |
 | 2026-05-21 | Claude + Taylor (vault restructure) | Tracker files moved from hub root to `00-Campaign-Hub/Trackers/`. Files renamed with S01-S15 suffix. Roll Statistics moved from `05-Mechanics/` to Trackers. Vault Format Reference created in `00-Campaign-Hub/`. Column definitions and dependency map updated to reflect new paths. Tracker file rotation: S01-S15 (legacy batch), then every 10 sessions (S16-S25, S26-S35, etc.). |
+| 2026-06-07 | Claude (Convo 2, S16) | S16 fully synced. ⚠️ Session pt1 recording lost — notes reconstruct pt1 partially from 12 DDB rolls; pt2 transcript via AssemblyAI. Hannah absent. Session note created (Session 16 — Zone of Truth). Corrected transcript 16_052426_corrected.md (from Convo 1). Dashboard: S16 row, Derendil/Clementine/Roxanne companion updates, Lolth added to antagonists, timeline through S16 (~9–10 days post-escape). Open Threads: 5 new threads (Horn/Roxy Storage, Shelter Form, Binks's Real Name, Derendil Curse-Breaking, Dream Journaling, Level 5 at Sloobludop), 4 updated (Madness, Shrine Desecration→Lolth confirmed, Travel, Sylophir/Psilofyr), level-5 discrepancy flagged. House Rules: 7 S16 rulings. Loot Tracker (hub root): horn + Roxy shelter form. Quote Board (hub root): ~30 quotes. Profanity (hub root): Kit +17 → 50; Binks 12; first Aeolus f-bomb. Roll Stats (05-Mechanics): S16 row + S14/S15 missing-row backfill (drift found). Exhaustion & Madness: S16 avoided-madness entry (both copies synced). Journal: S16 entry. All 6 PC pages. NPCs: Derendil (Terrestor, episode, passed save), Clementine page CREATED, Topsy, Turvy, Roxy (horn + shelter). Locations: The Darklake (region entered), Fungal Cavern S16 camp, Location Index. Flora/Fauna: Violet Fungus + Carrion Crawler pages created. ⚠️ Discovered Trackers/ restructure incomplete (0-byte placeholders) — S16 content appended to hub-root files; see Gaps. |

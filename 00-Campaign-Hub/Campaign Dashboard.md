@@ -42,9 +42,9 @@
 - [[Turvy]] — Deep gnome, wererat. Leveled up between S12-S13; assigned Silver Barbs (Fey-Touched). Traveling with party.
 - [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Stabilized by Amanita (Spare the Dying, S14). Healed by Blarg (Cure Wounds, 9 HP restored → near full). Traveling with party.
 - [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Compressed into Amanita's waterskin (S09). Long rest achieved in Feydark (S10) — should be fully reconstituted.
-- [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve.
-- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). **Rescued (S13):** Leaped from a stalactite to tackle [[Ilvara Mizzrym]], knocking her to the ground. Quaggoths shifted allegiance to Derendil as new alpha. Rejoined party.
-- [[Clementine]] — [[Darby Stonefeather]]'s pet spider. Grew in size in the Feydark. Size/stats TBD by Addison.
+- [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve. **New capabilities (S16):** can be partially drawn into the horn (full storage possible with a better ritual roll); manifests a Zurkhwood tent-cabin **shelter form** from her dimensional saddlebags.
+- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Rescued (S13). **S16:** Sleep-"hunted" on all fours, returned with self-torn clothes and no memory. Passed the Zone of Truth save (only Binks knows). Named his curse-wizard: Terrestor. Requests the party break his curse.
+- [[Clementine]] — [[Darby Stonefeather]]'s pet spider. Grew in size in the Feydark. Size/stats TBD by Addison. **S16:** Found "waiting" on Binks's shoulder after his arachnid dream. Via Speak with Animals: senses "The Master of Spiders" with Binks — "she knows him now."
 
 ### Former / Departed Companions
 - [[Eldeth]] — Shield dwarf scout from Gauntlgrym. Departed through the Gauntlgrym Nexus Pool portal (S11) to warn the dwarven kings and bring reinforcements. Promised to return.
@@ -62,6 +62,7 @@
 - [[Garruk]] — Drow crossbowman. Escaped Velkynvelve under cover of his own Darkness spell. Took [[Ilvara Mizzrym]]'s body and Shoor's riding lizard. Currently fleeing.
 - [[Artaxle]] — Young drow from Velkynvelve. Jorlan's protégé. Eyes flash purple. Declined to join party; heading to [[Menzoberranzan]] with false intel to buy the party time. First appearance S14.
 - The Corrupted Entity — Female, from the Abyss. A twisted reflection of [[Psilofyr]]. Seeks to control death and rot. Naos attempted to infiltrate her and is now in danger. Name unknown — Naos "dare not speak" it. Likely Zuggtmoy (do not metagame). (S11)
+- **Lolth / "The Master of Spiders"** — Following Binks's shrine desecration (S14), her attention on him is confirmed (S16): dream-connection through arachnid eyes, "dormant, not that it went away." Per Clementine: "she knows him now." Not yet a direct appearance.
 
 ---
 
@@ -84,6 +85,7 @@
 | 13  | 04/11/2026 | Reckoning at Velkynvelve      | [[Session 13 — Reckoning at Velkynvelve]]        |
 | 14  | 04/12/2026 | Far From the Sun               | [[Session 14 — Far From the Sun]]                |
 | 15  | 05/03/2026 | The Long Road to Sloobludop    | [[Session 15 — The Long Road to Sloobludop]]   |
+| 16  | 05/24/2026 | Zone of Truth                  | [[Session 16 — Zone of Truth]]                 |
 
 ---
 
@@ -110,7 +112,8 @@
 | S12-S13: Return combat at Velkynvelve (Battle of Velkynvelve) | S12-S13 | ~4-5 hours |
 | S14: Battle aftermath, Jorlan's death, shrine desecration, looting, long rest | S14 | ~2-3 hours active + 8 hours long rest |
 | S15: Travel Days 1–4 of 7 toward Sloobludop. Quiet travel, downtime, foraging, Kit attunement, language lessons, Fungal Cavern. | S15 | ~4 days |
-| **Total post-escape through S15** | | **~7–8 full days** |
+| S16: Night camp at Fungal Cavern (horn ritual, watches, Binks's dream, Derendil episode, Zone of Truth), then travel Days 5–6. Ends ~1 day from Sloobludop, in the Darklake region. | S16 | ~2 days (incl. 1 long rest) |
+| **Total post-escape through S16** | | **~9–10 full days** |
 
 ---
 

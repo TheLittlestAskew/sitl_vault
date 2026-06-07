@@ -63,6 +63,12 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 ### [[Session 11 — Gifts_of_the_Carrion_King|Session 11]]
 - Led [[Binks Stonevein]] to the zurkhwood tent where Topsy lay alive. Overjoyed at her resurrection. Speaking Gnomish to her. Traveling with party through Velkynvelve portal.
 
+### [[Session 16 — Zone of Truth|Session 16]]
+- Second watch with [[Kit Aluri]] (party rule: the twins "don't go together and they don't go alone"). Kit rolled her flat d20s by proxy. Stealth 15 helped the party stay hidden from the passing [[Carrion Crawler]].
+- **DM updated the twins' passive perception to 12** (+1 on Perception rolls; can grant Help action).
+- Kit rolled a d20 (13) for Turvy's Zone of Truth save "just in case."
+- Grumbled something gruff at Kit's trust speech; Kit: "No, Miss Turvy, you're perfect and I love you." Kit acknowledged to her: "I'm sorry, your situation was fucked."
+
 ## Key Quotes
 - "B needs help. Gnomes protect gnomes. At least that's what they should. Top would want that." — S06 [Poignant]
 - "I think I got a handle on this. Now, I know turning was what got my sister killed, but she wasn't in her mind. And we can be in her mind. It is a curse, but it's one I can use. Won't use it if you tell me no." — S06 [Serious]

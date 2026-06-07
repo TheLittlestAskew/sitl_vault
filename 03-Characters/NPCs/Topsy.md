@@ -50,6 +50,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 ## Key Quotes
 
 - "Oh, hey, hey, Kit. What? I feel like absolute garbage, but you look worse than I did. Are you okay?" — S11 [Funny]
+- "Maybe we take it easy on the use of force." — S16, to Kit [Poignant]
 
 ## Notes
 
@@ -62,6 +63,12 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - Traveling with party en route to Sloobludop. Walking near Binks in the marching order.
 - Observed rummaging through party gear daily with [[Turvy]] — methodical, not malicious. Described as thieves' habits (sorting, inventorying). Occasionally goes through other party members' stuff without thinking.
 - Working with Turvy to manipulate/fit armor to gnome-sized bodies.
+
+### S16 Key Events ([[Session 16 — Zone of Truth|Session 16]])
+- Party watch rule established: the twins "don't go together and they don't go alone" — each takes watch paired with a PC.
+- First watch with [[Binks Stonevein]] (Perception 8, rolled by Matt).
+- **DM updated the twins' passive perception to 12** (+1 on Perception rolls; can also give the Help action).
+- After Kit's trust speech, reached up, patted Kit's side: **"Maybe we take it easy on the use of force."** — One of only two party members with standing to check Kit's aggression, and she used it.
 
 ---
 

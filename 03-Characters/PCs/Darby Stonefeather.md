@@ -121,11 +121,24 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - "Come on, she trusts me." — S15, to Blarg re: riding Roxy [Funny]
 - "I was home in the cold, so used to locking in in small class sizes." — S15, re: excelling at Undercommon [Funny]
 - "Not the Darkness safety word." — S15, re: party Darkness tactics [Funny]
+- "Yeah, that's good to know that it's possible now. It's kind of like a Pokémon if we can get it right." — S16, re: storing Roxy in the horn [Funny]
+- "Sweet darling girl." — S16, re: Clementine [Funny]
+- "Let's uncomplicate it." — S16 [Funny]
 
 ### S15 Key Events
 - Riding Roxy at front of the column. Fashioning armor onto Roxy during rest periods using building hammers and iron spikes.
 - **Nat 20 on Undercommon Insight check** (with disadvantage!) during Binks's language class. Excelled at learning despite Binks's poor teaching. Described as innate goliath aptitude.
 - Languages discussed: Darby's language list not fully stated. Undercommon learning in progress.
+
+### S16 Key Events ([[Session 16 — Zone of Truth|Session 16]])
+- **Led the horn ritual on [[Roxanne|Roxy]]** (~10 min concentration with [[Aeolus]] 23 and [[Blarg]]'s Guidance+Bless). Her Animal Handling 12 ([1,1] on the 2d4) fell short of the DC 25 — Roxy partially dissolved into spores, entered the horn, then reconstituted. Learned full storage is possible on retry and "something else" inside is controllable. "It's kind of like a Pokémon if we can get it right."
+- Witnessed **Roxy's shelter form** manifest — Zurkhwood tent-cabin from the dimensional saddlebags. ⚠️ The horn's origin/identification likely happened in lost pt1 (her DDB History 8 / Arcana 3 fit an examination scene).
+- Woken roughly by Binks ("get your spider and keep her away from me") — "Gasp."
+- Third watch with Amanita: Perception 17 (adv) — quiet.
+- **Failed the Zone of Truth save on accident** (CHA save 9 vs DC 14, −1 mod): "I will not be able to speak a deliberate lie."
+- **Cast Speak with Animals to interrogate [[Clementine]]** — first real conversation with her ("I don't think I've actually ever talked to her in any other form"). Clementine: "The Master of Spiders… knows him now," and admitted she doesn't like her own "master" — "she's not as cool as you."
+- Confirmed she speaks **Undercommon** now ("I speak Undercommon now, so it doesn't really matter").
+- Insight 11 vs Binks. Gained Heroic Inspiration with the party.
 
 ---
 
@@ -146,6 +159,7 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Session 13 — Reckoning at Velkynvelve]]
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
+- [[Session 16 — Zone of Truth]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

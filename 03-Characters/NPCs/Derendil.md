@@ -2,9 +2,9 @@
 type: npc
 race: Quaggoth
 affiliation: Claims to be elven royalty (polymorphed by a curse)
-status: Alive — Rescued (S13); New Quaggoth Alpha
+status: Alive — Traveling with party; nocturnal episodes (S16)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve, with party (departing for Sloobludop, S14)
+location: With party, ~1 day from Sloobludop (S16)
 ---
 
 # Prince Derendil
@@ -22,6 +22,7 @@ Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a 
 - Claims to have been polymorphed by a curse (per Addison's notes)
 - Speaks Elvish
 - Non-hostile despite quaggoth form
+- **S16 (his own account, under no detected lie):** A prince of the High Forest, usurped and cursed into quaggoth form by **the evil wizard Terrestor**, then exiled. Does not know the nature of the curse himself: "If I wasn't usurped and had all of my wealth taken from me, I would have been cured already." Asked the party to find a way to break it.
 
 ## Personality
 
@@ -41,13 +42,24 @@ Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a 
 
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Leaped from a stalactite and crashed into [[Ilvara Mizzrym]], knocking her off the giant spider and to the ground. Attacked Ilvara in melee (multi-attack with advantage — one hit for 6 slashing). The other quaggoths recognized Derendil as the new alpha and shifted allegiance, turning on the remaining drow. **Rescued and rejoined the party.** His return resolves the thread from S02.
 - **[[Session 14 — Far From the Sun|Session 14]]:** No memory of controlling the quaggoths; the last couple of hours were "just a blur." Asked the party: "Can we please get out of here and find a shower?" Quaggoths fled after Binks's shrine desecration shifted the faerzress from purple to gold. Derendil stayed with the party. Traveling with the group to [[Sloobludop]].
+- **[[Session 16 — Zone of Truth|Session 16]]:** **The beast bled through.** Left camp unnoticed during the night watches, returned **walking on all fours** — "not his normal attitude" — and collapsed in a heap outside Roxy's shelter, unconscious, clothes **torn by his own claws** (no other injuries, no blood found). No memory of leaving: "I was asleep in this ghastly shelter, if you call it one." Defensive under questioning (Blarg Insight 10 inconclusive). Under Kit's Intimidation 22, admitted: **"I dreamt that I was hunting… I dreamt that I was a beast, that I was what I appear to be, and that I was chasing something. I don't know what."** Also dreamt of being "in a hole underground covered in dirt." Blamed the curse for the erratic behavior: "peaceful elven prince." Named his curser — **Terrestor** — and asked the party to break the curse. **Passed the Zone of Truth CHA save — the only one in the party who did (DM rolled). Only Binks knows.** Spoke no detectable lie, including "I don't know how to hit anything" — yet Kit recalled he tore through combat "like a quaggoth" at Velkynvelve (in defense of Topsy and Turvy). His hunting-dream occurred the same night as Binks's arachnid dream — possibly the same Faerzress dream mechanism.
 
 ---
+
+## Key Quotes
+
+- "Can we please get out of here and find a shower?" — S14
+- "I dreamt that I was hunting, right? I dreamt that I was a beast, that I was what I appear to be, and that I was chasing something. I don't know what." — S16
+- "Am I going to be a problem? Do you— how dare you! I am a prince of the High Forest. I was usurped By the evil wizard Terrestor, who trapped me and cursed me in this form and exiled me." — S16
+- "I don't like your insinuations." — S16
 
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
+- [[Session 16 — Zone of Truth]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Topsy]]
 - [[Turvy]]
+- [[Kit Aluri]]
+- [[Blarg]]

@@ -5,7 +5,7 @@ class: N/A
 affiliation: Party companion
 status: Alive — transformed (rothe/fungal hybrid)
 first_appearance: "[[Session 08 — The Whirlwind and the Depths]]"
-location: Velkynvelve (arriving via Nexus Pool portal, as of S11)
+location: With party, ~1 day from Sloobludop (S16)
 ---
 
 # Roxanne
@@ -41,6 +41,8 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - **Beast of Burden / Mount:** Large creature; can carry multiple riders with saddles
 - **Goring Attack:** Used in S10 — gored Myconid D for 7 piercing damage
 - **Fungal Hybrid Body (S11):** Mixture of natural rothe and fungal material. The transformation occurred during the Feydark stay.
+- **Horn-Storable (S16, partial):** Can be dissolved into spores and drawn into the horn. First attempt (ritual total 12 vs DC 25) drew her partway in before she reconstituted unharmed. DM: full storage possible with a better roll; "something else" inside the horn is controllable. Interference: her own dimensional saddlebags entering another dimensional space + Faerzress.
+- **Shelter Form (S16, new):** Her saddlebags open and stored matter congeals into a Zurkhwood tent-cabin. Immobile while assumed. Sleeps the whole party snugly. NOT Tiny Hut-level wards yet; DM says it improves with practice/attunement/leveling and may eventually solve her narrow-passage problem. Can also "conjure up a bunch of chairs" per DM color.
 
 ---
 
@@ -59,6 +61,7 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - **[[Session 09 —  Every Party Needs A Little Guy|S09]]:** Fully resurrected by Binks. Named from Dwarvish collar tag. Darby pinned for 6 damage.
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|S10]]:** Bolted toward Feydark portal. Carried Aeolus, Blarg, Amanita through. Gored Myconid D in combat.
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** **Delivered the killing blow on [[Ilvara Mizzrym]] — 27 damage gore attack (4d8+5).** Charged and impaled Ilvara on her horns, sending the High Priestess flying. The decisive blow of the Battle of Velkynvelve. Also took 13 damage from Insect Plague (failed save) and spider attacks. [[Aeolus]] gave her 8 temp HP via Misty Step. Rolled a nat 1 on an earlier gore attempt against Shoor. Low HP by session end but alive.
+- **[[Session 16 — Zone of Truth|Session 16]]:** Subject of the horn ritual at the Fungal Cavern camp — stopped eating, lay down next to Darby, partially dissolved into spores and entered the horn before reconstituting. Then **manifested her shelter form for the first time**: saddlebags opened, stored matter flooded out and congealed into a Zurkhwood tent-cabin that housed the whole party for the night.
 
 ---
 
@@ -68,6 +71,7 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - [[Session 08 — The Whirlwind and the Depths]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
+- [[Session 16 — Zone of Truth]]
 - [[Amanita de'Champignon]]
 - [[Darby Stonefeather]]
 - [[Binks Stonevein]]

@@ -1,9 +1,16 @@
 # The Darklake
-> **Type:** Underdark Location
-> **Status:** Not yet visited by party
+> **Type:** Underdark Region
+> **Status:** Party entered the region at the end of [[Session 16 — Zone of Truth|Session 16]] (~1 day from [[Sloobludop]])
 
 ## Notes
-- *[To be expanded when party visits or references this location]*
+
+- Vast water-dominated region of the Underdark. [[Sloobludop]], the kuo-toa settlement, sits on its banks — the party's current destination.
+- **Approach (S15–S16):** The terrain between [[04-World-Lore/Locations/Velkynvelve]] and the Darklake grows steadily wetter — trickling groundwater in the tunnels (S15), then the far north end of the [[Fungal Cavern (Day 4)]] sloping downward with pooling water (S16).
+- DM (S16): "You're now officially in the region of The Darklake," ending the session ~1 day from Sloobludop.
+- Per [[Notes From Addison]] (11/22/25): if [[Shuushar]] survived his fall into the pool at Velkynvelve, he likely went toward Sloobludop.
 
 ## Related
-[[Campaign Dashboard]]
+- [[Session 16 — Zone of Truth]]
+- [[Sloobludop]]
+- [[Fungal Cavern (Day 4)]]
+- [[Campaign Dashboard]]

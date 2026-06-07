@@ -1,5 +1,5 @@
 
-- 10/12/25![[Shushar stool topsy turvy.png]]![[jimjar ront sarith.png]]
+###### - 10/12/25![[Shushar stool topsy turvy.png]]![[jimjar ront sarith.png]]
 	![[Buppido Derendil Eldeth.png]]
 	- [Jimjar], the deep gnome gambler, was escorted from his cell by guards in the middle of the night some days ago and never returned. 
 	- [Buppido], the [derro] who allegedly attempted to make a ritual using the dead body of a slain drow, was sacrificed to [Lolth] but dropped into the pool, the body not recovered. 
@@ -14,7 +14,7 @@
 	- [Topsy and Turvy], the two rather hairy deep gnome twins. Turvy usually only mutters in a strange gnomish dialect and Topsy translates.
 	- [Priestess Ilvara] is the commander of Velkynvelve. She gives the impression that she believes her current post to be beneath her.
 	![[Ilvara 1.png]]
-- 11/09/25
+###### - 11/09/25
 	- **Session 3 - “Taking the Plunge” - 11/9/25**
 
 		- Last time, on Sky is the Limit…. The party felt their second moment of unnatural calm, as they heard nothing but the sound of rushing wind and their own heartbeats, as they fall…twenty…fourty…sixty feet - and then a thundering CRASH as all are immediately immersed in... actually pretty temperate water, once the immediate shock wears off. Everyone in the party individually knows that impacting the water from that heigh should have hurt far worse than it did, maybe even killed them outright… yet everyone individually feels…stronger…healthier…more powerful and more free than they’ve felt in what feels like forever. 
@@ -33,7 +33,7 @@
 		- A few more hours passed in relative silence. The events of the day sunk in as the party sank deeper into the tunnels. Believing to be heading in the general direction of the northern reaches of [Deeplake] and the [Svirfneblin] city of [Blingdenstone] beyond, the party emerged from the narrow tunnels into a series of wider passages that teemed with **Underdark vegetation and fungi**. Moss and wide swaths of fruiting fungal bodies of all shapes, sizes, and colors covering the floors, walls, and ceilings, various bioluminescent strings of mycelium dimly illuminating the way. Water trickles down the walls and the air itself feels damp and humid, though not unpleasant. What seems to be an [**underground rainforest**] spreads out in front of them. The party notices a path veering west that has actual stairs, clearly cut by the hands of a tool-wielding intelligent creature, likely [Duregar] - yet the stairs must be ancient given the level of overgrowth. Following this path, the party comes to an underground stream flowing in a northwesterly meander. Along the eastern bank, the party encounters a swarm of **[giant firebeetles]**,  but they seem to be docile, calmly munching on the buffet of mushrooms, and they are easily avoided.
 	
 		- As the group stealthily travels through the brightly lit beetle swarm, [Binks] spots an almost imperceptible irregularity in the stone wall - a slight crease here, thin cracks that don’t quite match there…could it be an **outline of a door**? Quietly signaling to the party, Aeolus investigates the door for any magical quality, and finds magically hidden etchings in the rock - Dwarven runes that seem old even by Dwarvish standards, as [Eldeth] approaches. Her eyes widen as she reads the words but doesn’t share them with the party. Instead, she stands close to the rock, muttering quietly in what the party only assumes is Dwarvish. After some awkwardly long minutes, [Eldeth] suddenly lifts her head and smiles as a rumbling begins, and indeed, stone slides stiffly along stone, and a doorway opens in front of them. Where does the narrow passage lead? To safe refuge from their pursuers, or to further danger? Maybe both? Maybe it’s a room with a magical portal that can take them home? Who knows - the Sky is the Limit.
-- 11/22/25
+###### - 11/22/25
 	- More information on the original list of NPC prisoners and the "final four" that are currently with the party ([Topsy and Turvy] come as a pair unless something happens to one of them): 
 	- The only confirmed death out of the original ten was Ront. 
 	- [Buppido] escaped his execution.
@@ -54,7 +54,7 @@
 	- [Jorlan], Older drow who helped the party
 	- [The Society of Brilliance], sect of highly intelligent monsters who have banded together to solve the Underdark's problems
 	- Includes a [derro] and [orog], [Grazilaxx] the mind flayer, and a [troglodyte], and a [kua-toa]
-- 11/2325
+###### - 11/2325
 	- Session 4: “Life isn’t Faer-zress” - 11/23/025
 
 	Last time, on “Sky is the Limit”....
@@ -75,7 +75,7 @@
 
 	- [6:18 PM]Sunday, November 23, 2025 6:18 PM
 		- As the fight came to an abrupt and violent end, the party took stock of their situation. Turvy unconscious, Topsy dead, and the revelation that both had been hiding their lycanthropic curse from the rest of the group. The walls around the party, only a couple hours ago providing a sense of safety and secrecy, now vaguely seemed to be closing in on all sides. The glow of the room seems to shift to match the dark mood of the escaped prisoners, as they realize that the natural power of the Faerzress may not be so natural anymore, and their recently discovered safehouse was not as safe as they first believed. What will they do now? Can they rally their morale and press on, if not for the betterment of the whole, then for the sake of their own survival? Anything can happen when only the Sky is the Limit.
-- 12/23/25
+###### - 12/23/25
 	- Session 5: "Safe is Good" - 12/7/25, day 2 post-Velkynvelve
 		- The session opens in the aftermath of a violent were-rat transformation involving Topsy and Turvy within a secret Duergar safe room. Kit Aluri, bitten during the struggle, executed Topsy with a crowbar. The party, exhausted and still lacking a long rest, faces the moral dilemma of what to do with the incapacitated and restrained Turvy.
 
@@ -83,3 +83,9 @@
 
 		- Following a long rest, the party investigates a suspicious table and discovers a mycelial network beneath the floor. Amanita smashes through the floor with a mithril pickaxe, revealing a three-way escape route: a dwarf-sized northern tunnel, an eastern ladder, and a southern slide. While attempting to choose the "safe" northern path through Binks's Augury, the unstable floor crumbles. Binks fails his save and is sent plummeting down the southern slide, ending the session as the party is once again split by the terrain. (edited)Tuesday, December 23, 2025 1:19 AM
 
+###### - ###### 06/07/26
+
+Sloopidoop
+
+![[Pasted image 20260607135531.png|251]]
+	- Sloopidoop is a cleric that serves The Sea Mother Blidoolvpoolp

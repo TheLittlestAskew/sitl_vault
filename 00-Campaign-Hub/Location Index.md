@@ -20,8 +20,9 @@
 - [[04-World-Lore/Locations/Neverlight Grove]] — Myconid settlement; Stool's home; Sarith's destination
 - [[04-World-Lore/Locations/Mantol-Derith]] — Trade enclave; Kit has connections there (S11)
 - [[04-World-Lore/Locations/The Silken Paths]] — Webbed travel route
-- [[Sloobludop]] — Kuo-toa settlement near [[04-World-Lore/Locations/The Darklake]]; 7 days travel from Velkynvelve (S15 corrected from 8). Party's next destination. Artaxle offered to guide party there before splitting off toward Menzoberranzan. Party halfway through journey as of S15 (Day 4 of 7).
-- [Fungal Cavern (Day 4)] — Large cavern filled with fungi and mushrooms of all sizes and types, encountered on Day 4 of travel to Sloobludop. Contains Timmask (explosive), Tongue of Madness, Nightlight, Waterorb, and other fungi. Groundwater trickling through. Amanita guided party safely through. (S15)
+- [[Sloobludop]] — Kuo-toa settlement near [[04-World-Lore/Locations/The Darklake]]; 7 days travel from Velkynvelve (S15 corrected from 8). Party's next destination. **Party ~1 day out as of S16 end (Day 6 of 7). Level 5 unlocks on arrival (player-chosen timing).**
+- [[04-World-Lore/Locations/The Darklake]] — Vast Underdark water region. **Party officially entered the region at the end of S16** — far north end of the fungal cavern slopes downward with pooling water, ~1 day from Sloobludop.
+- [[Fungal Cavern (Day 4)]] — Large cavern filled with fungi and mushrooms of all sizes and types, encountered on Day 4 of travel to Sloobludop. Contains Timmask (explosive), Tongue of Madness, Nightlight, Waterorb, and other fungi. Groundwater trickling through. Amanita guided party safely through. (S15) **S16: party night-camped here in Roxy's shelter form — violet fungi spotted within the cavern (Watch 1) and a wild carrion crawler passed by (Watch 2). Site of the horn ritual, Binks's dream, Derendil's episode, and the Zone of Truth confrontation. Party exited toward the Darklake.**
 
 ---
 

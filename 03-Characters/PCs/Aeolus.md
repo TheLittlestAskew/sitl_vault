@@ -108,12 +108,20 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - "Can we reach the depths of hell?" — S03 [Banter]
 - "I'm a squishy warlock." — S15, re: AC 12 discussion [Funny]
 - "Just tell him how to call someone stupid and he's going to be happy." — S15, re: learning Sylvan [Funny]
+- "I know, mine, they're really cool because fuck Lolth, first off." — S16, re: messing with shrines [Funny]
 
 ### S15 Key Events
 - Riding Roxy during travel. Requested Sylvan lessons from Binks specifically.
 - **AC crisis flagged:** AC 12 noted by multiple party members and DM as dangerously low. Suggestions included Mage Armor, Shield spell, Bracers of Defense, Cloak of Protection. No resolution yet.
 - Discussed Ring of Spell Storing loading with Binks. Darkness already stored (2nd level). 3 levels free. Considered Shield of Faith (+2 AC), Invisibility, but no decision made.
 - Languages known (confirmed S15): Draconic, Elvish, Infernal, Common. Learning Sylvan.
+
+### S16 Key Events ([[Session 16 — Zone of Truth|Session 16]])
+- **Key assist in the horn ritual:** Animal Handling **23** (with d4 boost) — "the 23 was good for full benefits." His roll carried the partial success; Darby's 12 was the shortfall. Roll not in DDB (physical dice — pattern continues).
+- Chose to fail the Zone of Truth on purpose.
+- When Kit asked the group about curses: "I'm thinking what exactly I know about curses other than I was cursed recently when I stole—" *(cuts off — ties to his existing curse thread; no new detail captured)*.
+- "Fuck Lolth, first off" — re: why he messes with shrines. First on-record profanity.
+- Quiet session otherwise; gained Heroic Inspiration with the party.
 
 ---
 
@@ -134,6 +142,7 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Session 13 — Reckoning at Velkynvelve]]
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
+- [[Session 16 — Zone of Truth]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

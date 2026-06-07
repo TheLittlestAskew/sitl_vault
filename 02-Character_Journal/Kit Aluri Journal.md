@@ -767,4 +767,40 @@ I still do not know what that memory was.
 
 </details>
 
+---
+
+## Session 16 — Zone of Truth
+
+<details><summary>Day 8–10 of freedom — the fungal cavern camp, and what crawled out of our dreams</summary>
+
+The horn took Roxy.
+
+Not all the way — but I watched it happen. Darby and the others sat in a circle around that horn, concentrating, and after a while pieces of Roxy started coming off her like ash off a burning log, spores streaming into the mouth of the thing like water down a drain. She faded. She went *in*. And then it all came rushing back out and she stood there reconstituted, chewing, like nothing had happened. Darby says it can work. I say a beast that can be poured into a horn and poured back out is the kind of thing I am glad is on our side.
+
+The night did not stay quiet, though it started that way. The shelter helped — when Roxy settled in for the night, her saddlebags opened and everything she has been eating came back out as a cabin. Walls of Zurkhwood grown in minutes. A ceiling over our heads for the first time since the cells. I did not sleep worse for it.
+
+I took second watch with Turvy. She is decent company — she grumbles and she does not fill silence with talk. Something insectoid went by in the dark, long as a wagon, skittering along the far wall. A carrion crawler. They eat the dead and leave the living alone, mostly, and this one had no harness — wild, not some drow's mount. We got low and let it pass. I will admit the Underdark keeps finding new shapes for things I do not want to look at. How do you even put a saddle on that?
+
+The trouble came in the dark hours, and it came from inside the camp.
+
+Binks woke the whole shelter ripping Darby out of her sleep, shoving her spider at her, telling her to keep it away from him. And in the morning Derendil came back to camp on all fours like a beast, clothes torn by his own claws, and dropped in a heap outside the shelter with no memory of leaving.
+
+So Binks drew us all together and called for a talk. A zone of truth — and this time the real thing, not the kind people just say and hope you honor. I let it take me. I had nothing to hide, and I wanted everyone to see me not hiding.
+
+What came out: Binks has been dreaming since he defiled that statue in Velkynvelve. Last night he says he was looking out through Clementine's eyes — crawling walls, hunting someone, and when the head turned, the face was his own. He tried to tell us he was not possessed and the words would not leave his mouth. *Would not leave his mouth.* And when I asked if I was talking to Binks, he said no — and then explained that Binks is not his name. Never has been. He named himself after someone. He swears he is the same person we met, and the spell did not catch him on it, so I believe that much.
+
+The spider — Darby talked to her, the way Darby does. What I gathered, between Darby's translating and the way Binks went pale, is that the Spider Queen those drow pray to has noticed him. Knows him now. The dream went quiet, Binks says, but quiet is not gone. Dormant is not dead.
+
+And Derendil — I put my hand on my hilt and then I took it off, because frightened people do stupid things and he was already frightened of me. I intimidated him anyway. Could not help it; it is what I am good at, and it worked. He dreamt he was hunting. He dreamt he was the beast he appears to be. He swears it is the curse — some wizard named Terrestor, an usurped throne, the same story as always. The truth spell never caught him in a lie. I noticed that. I noticed it and I am still deciding what it means.
+
+I gave them all what was left of my speech. I used the good one four days ago and have not recharged, so they got the plain version: I am tired of not being able to trust the people around me. If anyone in this group raises a hand against the rest, I will answer it. Otherwise — speak your truth, get your shit together, and walk. Topsy patted my side and told me maybe to go easy on the use of force. Out of anyone, the twins have earned the right to say that to me. I told Turvy her situation was different. It was. It is.
+
+Binks called it a team building exercise. The worst part is he might be right. We did grow closer, the way people do when they shake out the lies in front of each other.
+
+Two more days of walking. The cavern let us out at last, and the ground slopes down now, and the water pools deeper. Everything smells like a lake that has never seen the sun. One more day to Sloobludop.
+
+Don't trust dreams. Unless you are Amanita. She is the only one allowed.
+
+</details>
+
 **

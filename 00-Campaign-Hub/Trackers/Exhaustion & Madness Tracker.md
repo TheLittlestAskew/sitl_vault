@@ -4,12 +4,12 @@ Levels of exhaustion and instances of madness across the party — PCs and trave
 
 ---
 
-## Current Status (through Session 15)
+## Current Status (through Session 16)
 
 | Member | Exhaustion | Madness Points | Active Effect | Last Updated |
 |---|---|---|---|---|
 | [[Kit Aluri]] | 0 | 0 | — | S10 (cleared) |
-| [[Binks Stonevein]] | 0 | **1** | — | S14 |
+| [[Binks Stonevein]] | 0 | **1** | Dormant Lolth dream-connection (not madness; see S16) | S16 |
 | [[Aeolus]] | 0 | 0 | — | S10 (cleared) |
 | [[Blarg]] | 0 | 0 | — | S10 (cleared) |
 | [[Amanita de'Champignon]] | 0 | 0 | — | S05 (resolved) |
@@ -33,8 +33,10 @@ Levels of exhaustion and instances of madness across the party — PCs and trave
 |---|---|---|---|---|---|---|
 | S05 | [[Amanita de'Champignon]] | Cast Detect Magic on corrupted faerzress | — | Short-term | Short-term madness (specific effect not logged) | Resolved |
 | S14 | [[Binks Stonevein]] | Desecrated the Shrine of Lolth (Ceremony / Atonement) | d100 = 84 | Short-term | **Stunned**; +1 madness point; 7 psychic damage | Resolved (point persists) |
+| S16 | [[Binks Stonevein]] | Vivid arachnid-POV dream (Lolth connection); woke with Clementine "waiting" on his shoulder | WIS save **16** — success | — | **Avoided** another madness point (his 3rd dodge — count stays at 1). Follow-up Religion 19 diminished the shrine connection: "dormant, not that it went away." | Avoided |
 
 > Binks's Ring of Mind Shielding blocked Lolth from reading his thoughts but did **not** prevent the psychic damage or the madness (S14).
+> Per Matt (S16): "How many chances had madness come after me? 3. I only have 1 point of madness."
 
 ---
 

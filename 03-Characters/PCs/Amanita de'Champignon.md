@@ -140,6 +140,12 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - "Oh yeah, that's great stuff. You know, if you eat it, your tongue glows." — S15, re: Ormu [Funny]
 - "That's my superpower. I'm psychic and I'm drawn to—" — S15, re: finding another fungal cavern [Funny]
 
+### S16 Key Events ([[Session 16 — Zone of Truth|Session 16]])
+- **Hannah absent** — Amanita DM-voiced/rolled by proxy only.
+- Assigned to watches 3 and 4 (she only needs 4 hours — trance). Party deliberately paired her so she's "not alone, doesn't wander off." [[Blarg]] rolled her watch perception by proxy.
+- DM-voiced beat: "Keep on dreaming" (Taylor: "your Amanita impression is spot on"). Party joke: "Amanita is the only one allowed to dream."
+- No rolls, decisions, or character development attributed — proxy color only.
+
 ---
 
 ## Related
@@ -159,6 +165,7 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Session 13 — Reckoning at Velkynvelve]]
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
+- [[Session 16 — Zone of Truth]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

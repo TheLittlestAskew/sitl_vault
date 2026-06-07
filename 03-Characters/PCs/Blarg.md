@@ -103,6 +103,7 @@ location: Velkynvelve — departing for Sloobludop (as of S14)
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Trinket empowerment confirmed: Goblin Carving +1 CHA.
 - **[[Session 14 — Far From the Sun|Session 14]]:** Cast Cure Wounds on self during stair climb. Cast Cure Wounds on [[Stool]] in bear form (nuzzled Stool, 9 HP healed — near full, max HP 12). Climbed wall in bear form (30ft climb speed) to reach upper levels while party took stairs. Religion 21 — detailed knowledge of Lolth (queen of spiders, gains power through malice/deception/destruction, banished to the Abyss) and drow devotion levels (priestesses fanatical, grunts just getting by). Provided Bless and Help action for Binks's Ceremony on the Shrine of Lolth. Claimed moonstone from Ilvara's quarters — sensed waxing moon past apex, estimated early morning near sunrise. First concrete time-of-day reading the party has had underground. Restrained by spider webbing — used Primal Savagery (17 to hit, 5 damage) to claw free. Cast Healing Word on Kit (12 HP) after seeing her take a knee. Arcana 21 to identify Ilvara's Insect Plague as concentration. Failed Insect Plague Con save (rolled 2, total 5) — took 25 piercing damage. Cast Moonbeam on Ilvara and giant spider (rolled double 1s on 2d10 — 2 total damage; "fuck off"). Wild shaped into bear — clawed and bit prone Ilvara for 20 total damage (8 claw + 12 bite). Moved to shield unconscious Darby. Took 14 spider bite damage (9 reduced to 4 via poison resistance + 5 piercing). Failed Roxy trample Dex save (13 damage). Blarg was physically present this session (Florian returned). Nat 20 on final Insect Plague Con save.
 - **[[Session 15 — The Long Road to Sloobludop|Session 15]]:** Began Underdark botany training with [[Amanita de'Champignon]]. Insight 9 (with Bless d4) — no immediate bonus but learning underway. Nature 23 — discovered and harvested **Ormu** (bioluminescent green moss; Faerie Fire application when dried into powder). Harvested with sickle. Walking on foot during march. Offered Guidance for scouting (DM declined — not a Perception check). Tried to impose disadvantage on himself for Underdark inexperience — DM declined. Also has herbalist tools proficiency, assisted Amanita's Investigation in Fungal Cavern.
+- **[[Session 16 — Zone of Truth|Session 16]]:** Supported the horn ritual with Guidance + Bless ("you get +2d4 basically"); noted too late he could have granted advantage via his own Animal Handling proficiency. Took the fourth watch with [[Amanita de'Champignon]] (Perception 11 adv) — found [[Derendil]] collapsed outside the shelter at watch's end. **First responder on Derendil:** assessed him (size-up — clothes torn by his own claws, no other injuries, no blood on claws/fangs), woke him, Insight 10 (inconclusive). Pressed the party's lesson: "We dealt with similar things before… someone almost permanently died. So you should probably try to tell us all you know." Chose to fail the Zone of Truth on purpose. **Insight 21 vs Binks — the decisive read**: received the DM's exposition that Binks is still Binks, but the Faerzress dream-connection is real and Lolth has noticed him. Asked the session's best question: "Why do you guys keep messing with shrines?" Also rolled Amanita's watch checks (Hannah absent). ⚠️ Pt1 (lost): DDB shows Survival 17, Nature 27, Perception 20, Arcana 16 — travel + likely horn examination. Gained Heroic Inspiration with the party.
 
 ## Key Quotes
 
@@ -120,6 +121,10 @@ location: Velkynvelve — departing for Sloobludop (as of S14)
 - "I'm not getting up there as well. I don't trust it." — S15, re: riding Roxy [Banter]
 - "Look, Amanita, I think I found something. Isn't that useful?" — S15, re: Ormu [Funny]
 - "That sounds super useful." — S15, re: tongue glowing from Ormu [Banter]
+- "Why do you guys keep messing with shrines?" — S16 [Funny]
+- "I mean, that's fine, but it's still a god, you know." — S16, re: "fuck Lolth" [Funny/Poignant]
+- "You seem like the cursed kind." — S16, to Aeolus [Funny]
+- "Keep on dreaming, champion." — S16 [Funny]
 
 ---
 
@@ -139,6 +144,7 @@ location: Velkynvelve — departing for Sloobludop (as of S14)
 - [[Session 13 — Reckoning at Velkynvelve]]
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
+- [[Session 16 — Zone of Truth]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
@@ -147,6 +153,7 @@ location: Velkynvelve — departing for Sloobludop (as of S14)
 - [[Turvy]]
 - [[Binks Stonevein]]
 - [[Roxanne]]
+- [[Derendil]]
 - [[Evermoors]]
 - [[Campaign Dashboard]]
 #pc

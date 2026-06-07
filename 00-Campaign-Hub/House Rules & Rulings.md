@@ -68,6 +68,15 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Bless applies to non-combat skill checks (S15):** The 24-hour Bless d4 was applied to Blarg's Insight check and discussed for other skill checks during travel. DM allowed it broadly.
 - **Sloobludop travel distance corrected (S15):** DM stated 7 days travel from Velkynvelve to Sloobludop (S14 stated 8). S15 ruling takes precedence.
 
+### Session 16 Rulings
+- **Level-up agency at Sloobludop (S16):** Upon reaching Sloobludop, each player may take their next level at any narratively-chosen moment — beginning, middle, or end of a session, even mid-combat. Mirrors the prior milestone approach.
+- **Topsy & Turvy passive perception raised to 12 (S16):** DM updated the twins' passive perception to 12, granting +1 on their Perception rolls (previously +0 WIS, flat). Topsy and Turvy can roll their own watch checks or grant the Help action.
+- **Horn ritual DC stacking (S16):** Storing Roxy in the horn required 25 for full success ("the 23 was good for full benefits, just to overcome the roll you would have needed a 25") due to nested dimensional magic — a creature with dimensional saddlebags entering another dimensional space — plus Faerzress interference. Partial success granted knowledge instead of failure consequences: "nothing went horribly wrong."
+- **Zone of Truth, choose-to-fail (S16):** DM allowed any creature in the zone to voluntarily fail the CHA save (2024 rules). Caster (Binks) knows who succeeds/fails. DM rolled saves privately for NPCs (Derendil, Clementine). Partial-truth statements "catch" — Binks could not complete "I am not possessed," and "she tried to bite me" snagged because Clementine was prepared but not attempting.
+- **Heroic Inspiration for the heart-to-heart (S16):** Everyone without Heroic Inspiration gained a point after the Zone of Truth trust scene.
+- **Long rest preserved despite night drama (S16):** The party (including Binks, who shrugged off madness mid-rest) still received the full long rest.
+- **Madness check vs. Binks's dream (S16):** WIS save 16 avoided a madness point (not framed as a magical effect). A follow-up forced Religion check (19) diminished his shrine connection — "dormant, not that it went away."
+
 ### Campaign Setting
 - **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04), triggered short-term madness in Amanita when she cast Detect Magic on it (S05), and destabilizes the Feydark portal (S09). Connected to the corrupted entity's influence (S11).
 - **No day/night cycle in the Underdark:** Long rest = 8 hours. Short rest = ~1 hour.

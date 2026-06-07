@@ -128,6 +128,12 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - "So we kill Jorlan." — S14, during bio break [Funny]
 - "Honestly, fuck Lolth. She deserves everything bad that comes to her." — S14 [Funny/Defining]
 - "It's better than were-rat." — S15, re: Taylor arriving late [Funny]
+- "If it isn't the consequences of my actions." — S16, waking from the dream [Funny/Poignant]
+- "Okay, we're gonna have to have a talk. Zone of Truth." — S16 [Important]
+- "I am in the zone." — S16 [Funny]
+- "My name's not Binks… I'm not the guy that I named myself after." — S16 [Important/Defining]
+- "I think we've grown closer. That was a good time. I learned stuff about myself that I did not know. That was great." — S16 [Funny]
+- "Don't trust dreams." — S16 [Thematic]
 
 ### S15 Key Events
 - Scouting on foot with Kit at front of marching order.
@@ -135,6 +141,18 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - Discussed loading spells into Aeolus's Ring of Spell Storing. Offered Invisibility, Pass without a Trace, Silence, Bless, Disguise Self, Tasha's Hideous Laughter. No decision made.
 - Reminded party that 24-hour Bless was still active from shrine desecration.
 - Languages known (confirmed S15): Undercommon, Sylvan, Deep Speech, Common, Gnomish.
+
+### S16 Key Events ([[Session 16 — Zone of Truth|Session 16]])
+- First watch with [[Topsy]] (Perception 16; flat d20 **nat 20**) — spotted [[Violet Fungus|violet fungi]] flashing purple in the distance.
+- **The dream escalated:** revealed he's had restless dreams since the shrine desecration (glades, family with dead eyes, flying through passages). Tonight: skittering through tunnels as something arachnid, toward "the one that created this disruption" — a molten, reshaping shrine of "conflicting divine power" — climbed his target and saw **his own face**. Woke with [[Clementine]] on his shoulder "as if waiting." Voice in his head: **"What stand will you take? Which stance will take you?"**
+- WIS save 16 — **avoided a third madness point** (count stays at 1). Forced Religion check **19**: connection to the Velkynvelve act diminished — "protected from something that would have been very, very bad" — but it went **dormant, not away**. He was seeing through arachnid eyes.
+- Woke Darby: "Get your spider and keep her away from me."
+- **Cast Zone of Truth** (DC 14) on the whole party — and failed his own save. Caught attempting "I am not possessed." Admitted he "might be possessed" by something tied to the Lolth statue.
+- **Revealed his name is not Binks:** "I'm not the guy that I named myself after. I've been the same person through and through." Real name withheld. (DM's wrap-up aside "I'm sorry, Binks. Ormik." `[unclear]` — possible tease.)
+- Persuasion 4 vs party Insight; Blarg's 21 + DM exposition: not true possession yet, but via Faerzress dreams he has "made a connection" — Lolth has "gained that attention." Clementine: "she knows him now."
+- **Only Binks knows [[Derendil]] passed his save.** ("Fuck.")
+- Proposed dream journaling: "Don't trust dreams." Defused the confrontation: "I think we've grown closer… team building exercise."
+- Retained his long rest despite the madness episode. All rolls physical dice — zero DDB entries (pattern continues).
 
 ---
 
@@ -154,6 +172,7 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Session 13 — Reckoning at Velkynvelve]]
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
+- [[Session 16 — Zone of Truth]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
@@ -161,6 +180,7 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Topsy]]
 - [[Turvy]]
 - [[Roxanne]]
+- [[Clementine]]
 - [[Garl Glittergold]]
 - [[04-World-Lore/Locations/Blingdenstone]]
 - [[Campaign Dashboard]]
