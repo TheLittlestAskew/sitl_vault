@@ -56,6 +56,14 @@ Build the final document using `sitl_v8.js` constants and helpers (via the `sitl
 ### Step 8: Convo 2 Handoff
 Output a copy-pasteable handoff block using the template in `CONVO2_HANDOFF_TEMPLATE.md`. Taylor pastes this into a new conversation to start Convo 2.
 
+### Step 9: CHARACTER DESCRIPTORS (for the handoff)
+While processing the transcript, note any NEW character details that surface in
+play — physical descriptions, mannerisms, quirks, values, fears, or backstory
+reveals — for PCs and Major NPCs. Quote/paraphrase faithfully; never invent.
+List them in the handoff under "Character Descriptors Surfaced This Session,"
+each tagged to the character and to one of the three sections (Appearance /
+Personality & Quirks / Backstory). If none surfaced, write "none."
+
 ---
 
 ## SOURCE FILES

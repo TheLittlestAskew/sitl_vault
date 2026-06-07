@@ -221,6 +221,14 @@ Draft updates to:
 
 **Other PCs** → `03-Characters/PCs/[Name].md` (APPEND)
 
+DESCRIPTOR FILING
+From the handoff's "Character Descriptors Surfaced This Session" list, APPEND each
+detail as a session-tagged bullet to the matching section on that character's page:
+  Appearance  /  Personality & Quirks  /  Backstory
+Format:  - (S##) [detail] — [[Session ## — Title|S##]]
+APPEND ONLY — never edit or delete existing bullets; log changes as new bullets.
+If a PC page lacks these sections, create them (above Inner Life & Evolution) per
+the Vault Format Reference. Skip characters with no new descriptors.
 For each present PC with notable events, draft:
 - `### S## Key Events` sub-header with key moments
 - Inventory, relationship, conditions updates if applicable
@@ -236,6 +244,14 @@ Skip PCs who were absent or had nothing notable happen.
 **New NPCs** → `03-Characters/NPCs/[Name].md` (CREATE)
 - Use template from `Vault Format Reference.md`, scaled to NPC importance
 
+DESCRIPTOR FILING
+From the handoff's "Character Descriptors Surfaced This Session" list, APPEND each
+detail as a session-tagged bullet to the matching section on that character's page:
+  Appearance  /  Personality & Quirks  /  Backstory
+Format:  - (S##) [detail] — [[Session ## — Title|S##]]
+APPEND ONLY — never edit or delete existing bullets; log changes as new bullets.
+If a PC page lacks these sections, create them (above Inner Life & Evolution) per
+the Vault Format Reference. Skip characters with no new descriptors.
 ### 8. Location Updates
 
 **Existing locations** → `04-World-Lore/Locations/[Name].md` (APPEND)
