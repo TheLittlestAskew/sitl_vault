@@ -301,8 +301,8 @@ const SITL_CUSTOM_SPELLING = [
   { from: ["Sareth", "Sarath"], to: "Sarith" },
   { from: ["Darindel", "Derendal"], to: "Derendil" },
   { from: ["Eldith", "eldest"], to: "Eldeth" },
-  { from: ["Asha Vandry"], to: "Asha Vandree" },
-  { from: ["Shore", "Shure", "Sure Vandree"], to: "Shoor Vandree" },
+  { from: ["Vandry"], to: "Vandree" },          // surname (AssemblyAI 'to' must be one word)
+  { from: ["Shure"], to: "Shoor" },             // first name; dropped "Shore"/"Sure" — too common to remap safely
   { from: ["Jim Jar", "Jimmer"], to: "Jimjar" },
   { from: ["Shushar", "Shu shar"], to: "Shuushar" },
   { from: ["Toppsy", "Tossi", "Dopsy"], to: "Topsy" },
@@ -335,8 +335,8 @@ const SITL_CUSTOM_SPELLING = [
   // Spells
   { from: ["Augery"], to: "Augury" },
   { from: ["Prestidigitation"], to: "Prestidigitation" },
-  { from: ["fairy fire", "fairy Fire"], to: "Faerie Fire" },
-  { from: ["Eldritch blast"], to: "Eldritch Blast" },
+  // "Faerie Fire" / "Eldritch Blast" corrections removed — AssemblyAI custom_spelling 'to'
+  // must be a single word. Both are already in word_boost, and Phase A fixes any stragglers.
 ];
 
 // Merge auto-discovered vault terms (managed by sitl_keyterms_sync.js)
@@ -390,6 +390,14 @@ async function uploadFile(filePath) {
 async function submitTranscription(audioUrl) {
   log("Submitting transcription with SITL vocabulary...");
 
+  // AssemblyAI requires each custom_spelling 'to' to be a single word. Drop any
+  // multi-word corrections (with a warning) so one bad entry can't fail the whole job.
+  const customSpelling = SITL_CUSTOM_SPELLING.filter((r) => {
+    if (r.to && !/\s/.test(r.to.trim())) return true;
+    log(`  ⚠ skipping custom_spelling "${r.to}" — 'to' must be one word`);
+    return false;
+  });
+
   const requestBody = {
     audio_url: audioUrl,
 
@@ -405,7 +413,7 @@ async function submitTranscription(audioUrl) {
 
     // ── Custom Spelling Corrections ──
     // Post-transcription find-and-replace for common misheard words
-    custom_spelling: SITL_CUSTOM_SPELLING,
+    custom_spelling: customSpelling,
 
     // ── Speaker Diarization ──
     // Identifies different speakers (DM + up to 6 players)

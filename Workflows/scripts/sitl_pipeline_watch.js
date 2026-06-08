@@ -36,9 +36,16 @@ const RAW_DIR       = path.join(VAULT_ROOT, 'Session_Sources', 'Transcripts', 'R
 const PIPELINE_DIR  = path.join(VAULT_ROOT, '_pipeline');                       // scratch / review files
 const PROMPTS_DIR   = path.join(VAULT_ROOT, 'Workflows', 'Project', 'automation'); // the 3 prompt templates
 
-// Transcriber location + entry file (set to wherever sitl_transcribe.js lives)
-const TRANSCRIBE_CWD = path.join(VAULT_ROOT, 'Workflows', 'sitl_transcribe');
+// Transcriber location + entry file. sitl_transcribe.js lives directly in Workflows\.
+const TRANSCRIBE_CWD = path.join(VAULT_ROOT, 'Workflows');
 const TRANSCRIBE_JS  = 'sitl_transcribe.js';
+
+// Toast notifier + approve launcher (created alongside this script)
+const NOTIFY_PS   = path.join(__dirname, 'sitl_notify.ps1');
+const APPROVE_CMD = path.join(__dirname, 'Approve-SITL.cmd');
+
+// The watcher runs hidden in the background, so everything it prints also goes here.
+const LOG_FILE = path.join(PIPELINE_DIR, 'watcher.log');
 
 // Headless Claude permission flags.  acceptEdits = auto-accept file edits.
 // If git push / bash prompts during unattended runs, see PIPELINE_SETUP.md
@@ -50,12 +57,27 @@ const CLAUDE_FLAGS = '--permission-mode acceptEdits';
 const isWin  = process.platform === 'win32';
 const catCmd = isWin ? 'type' : 'cat';
 
-const log    = (m) => console.log(`[${new Date().toLocaleTimeString()}] ${m}`);
-const banner = (m) => console.log('\n' + '═'.repeat(64) + `\n  ${m}\n` + '═'.repeat(64) + '\n');
+function fileLog(s) {
+  try { fs.mkdirSync(PIPELINE_DIR, { recursive: true }); fs.appendFileSync(LOG_FILE, s + '\r\n'); } catch {}
+}
+const log    = (m) => { const s = `[${new Date().toLocaleTimeString()}] ${m}`; console.log(s); fileLog(s); };
+const banner = (m) => { const s = '\n' + '═'.repeat(64) + `\n  ${m}\n` + '═'.repeat(64); console.log(s + '\n'); fileLog(s); };
 
+// Fire a Windows toast via BurntToast. opts.review / opts.approve add buttons.
+function toast(title, message, opts = {}) {
+  const args = ['-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', NOTIFY_PS,
+                '-Title', title, '-Message', message];
+  if (opts.review)  args.push('-ReviewPath',  opts.review);
+  if (opts.approve) args.push('-ApprovePath', opts.approve);
+  try { spawnSync('powershell.exe', args, { windowsHide: true }); }
+  catch (e) { log(`toast failed: ${e.message}`); }
+}
+
+// Console banner + bell + a text-only toast (used for failures / completion).
 function notify(message) {
   banner(message);
   process.stdout.write('\x07'); // terminal bell
+  toast('SITL pipeline', message.split('\n')[0]);
 }
 
 // Newest .md/.txt in a directory (the transcript we just made)
@@ -68,13 +90,40 @@ function newestTranscript(dir) {
   return files.length ? path.join(dir, files[0].f) : null;
 }
 
-// Pull session number + date out of a filename like "16_031526_..." or "16 - 031526"
-function parseSession(basename) {
-  const m = basename.match(/(\d{1,2})\D+(\d{6})/);
-  if (!m) return { nn: 'XX', mmddyy: 'UNKNOWN', iso: 'UNKNOWN' };
-  const nn = m[1].padStart(2, '0');
-  const d  = m[2];
-  return { nn, mmddyy: d, iso: `20${d.slice(4, 6)}-${d.slice(0, 2)}-${d.slice(2, 4)}` };
+// Derive the session date from the recording filename and assign the next
+// sequential session number by scanning existing raw transcripts.
+function nextSession(mp3) {
+  const base = path.basename(mp3);
+  const dm = base.match(/(\d{6})/); // first 6-digit run = MMddyy
+  const mmddyy = dm ? dm[1] : 'UNKNOWN';
+  const iso = mmddyy !== 'UNKNOWN'
+    ? `20${mmddyy.slice(4, 6)}-${mmddyy.slice(0, 2)}-${mmddyy.slice(2, 4)}`
+    : 'UNKNOWN';
+  let maxNn = 0;
+  if (fs.existsSync(RAW_DIR)) {
+    for (const f of fs.readdirSync(RAW_DIR)) {
+      const m = f.match(/^(\d{1,3})\D/);
+      if (m) maxNn = Math.max(maxNn, parseInt(m[1], 10));
+    }
+  }
+  return { nn: String(maxNn + 1).padStart(2, '0'), mmddyy, iso };
+}
+
+// Count proposed corrections and how many are at/below a confidence threshold (%).
+function analyzeSpellcheck(file, threshold = 60) {
+  let total = 0, low = 0;
+  if (!fs.existsSync(file)) return { total, low };
+  for (const raw of fs.readFileSync(file, 'utf8').split(/\r?\n/)) {
+    const line = raw.trim();
+    if (!line.startsWith('|')) continue;
+    const cells = line.split('|').slice(1, -1).map((c) => c.trim());
+    if (cells.length < 4) continue;
+    if (cells[0].toLowerCase() === 'original' || /^:?-{2,}/.test(cells[0])) continue; // header / separator
+    total++;
+    const pct = cells[3].match(/(\d{1,3})\s*%/);
+    if (pct && parseInt(pct[1], 10) <= threshold) low++;
+  }
+  return { total, low };
 }
 
 // Read a prompt template, substitute {{VARS}}, write a temp prompt file, return its path
@@ -98,19 +147,26 @@ function runClaude(promptFile) {
 // ── WATCH-MODE handler: new recording → transcribe → Phase A → stop ──
 function processRecording(mp3) {
   banner(`New recording: ${path.basename(mp3)}`);
+  toast('SITL pipeline', `Processing ${path.basename(mp3)} — transcribing…`);
 
-  log('Refreshing keyterms from vault…');
-  spawnSync(`node "sitl_keyterms_sync.js"`, { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });
+  const sess = nextSession(mp3);
+  fs.mkdirSync(RAW_DIR, { recursive: true });
+  const transcriptOut = path.join(RAW_DIR, `${sess.nn}-${sess.mmddyy}_raw_transcript.md`);
 
-  log('Transcribing… (this can take several minutes)');
-  const t = spawnSync(`node "${TRANSCRIBE_JS}" "${mp3}"`,
+  const keytermsScript = path.join(TRANSCRIBE_CWD, 'sitl_keyterms_sync.js');
+  if (fs.existsSync(keytermsScript)) {
+    log('Refreshing keyterms from vault…');
+    spawnSync('node "sitl_keyterms_sync.js"', { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });
+  }
+
+  log(`Transcribing S${sess.nn} (${sess.mmddyy})… (this can take several minutes)`);
+  const t = spawnSync(`node "${TRANSCRIBE_JS}" "${mp3}" "${transcriptOut}"`,
     { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });
-  if (t.status !== 0) return notify('Transcription FAILED — see console output above.');
+  if (t.status !== 0) return notify('Transcription FAILED — see _pipeline\\watcher.log.');
 
-  const transcript = newestTranscript(RAW_DIR);
-  if (!transcript) return notify(`No transcript found in ${RAW_DIR} — check the transcriber output path in CONFIG.`);
+  const transcript = fs.existsSync(transcriptOut) ? transcriptOut : newestTranscript(RAW_DIR);
+  if (!transcript) return notify(`No transcript produced in ${RAW_DIR} — check the transcriber (watcher.log).`);
 
-  const sess = parseSession(path.basename(transcript));
   const pdir = path.join(PIPELINE_DIR, `S${sess.nn}`);
   fs.mkdirSync(pdir, { recursive: true });
 
@@ -124,13 +180,17 @@ function processRecording(mp3) {
   fs.writeFileSync(path.join(PIPELINE_DIR, 'state.json'),
     JSON.stringify({ pendingFolder: pdir, transcript, ...sess, stage: 'awaiting_approval' }, null, 2));
 
-  if (!ok) return notify('Phase A FAILED — see console output above.');
-  notify(
-    `READY FOR REVIEW — Session ${sess.nn}\n` +
-    `  Review:   ${path.join(pdir, 'spellcheck.md')}\n` +
-    `  Flags:    ${path.join(pdir, 'flags.md')}\n` +
-    `  Then run: node sitl_pipeline_watch.js --approve`
-  );
+  if (!ok) return notify('Phase A FAILED — see _pipeline\\watcher.log.');
+
+  const spellcheck = path.join(pdir, 'spellcheck.md');
+  const { total, low } = analyzeSpellcheck(spellcheck, 60);
+
+  banner(`READY FOR REVIEW — Session ${sess.nn}`);
+  process.stdout.write('\x07'); // terminal bell
+  const msg = `Session ${sess.nn}: ${total} proposed correction${total === 1 ? '' : 's'}` +
+              `, ${low} at/under 60% confidence. Review them, or approve to apply.`;
+  toast(`SITL S${sess.nn} — ready for review`, msg, { review: spellcheck, approve: APPROVE_CMD });
+  log(`READY — review: ${spellcheck} | approve: double-click ${APPROVE_CMD} (or run --approve)`);
 }
 
 // ── APPROVE-MODE handler: Phase B + Convo 2 ──

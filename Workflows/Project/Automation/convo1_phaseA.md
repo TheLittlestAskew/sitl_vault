@@ -18,8 +18,9 @@ Do exactly this:
 
 3. Write the proposed corrections table to {{PIPELINE_DIR}}/spellcheck.md as a markdown table, one row per change:
    | Original | Proposed | Reason | Confidence | Transcript line(s) |
-   - Confidence is High / Med / Low.
-   - Any proposed proper-noun change that is NOT already an established campaign/Underdark term must be marked Low.
+   - Confidence is a percentage 0–100% (your calibrated certainty the correction is right). Write it as e.g. `95%`.
+     Rough guide: established campaign/Underdark terms 90–100%; plausible context-based fixes 65–85%; anything uncertain ≤60%.
+   - Any proposed proper-noun change that is NOT already an established campaign/Underdark term must be ≤60%.
    - If you propose zero changes, still create the file and say so.
 
 4. Write any ambiguity or attribution issues (e.g., a DM line that may belong to an NPC, an [inaudible] segment) to {{PIPELINE_DIR}}/flags.md.
@@ -28,6 +29,6 @@ Do exactly this:
 
 6. Create an empty marker file: {{PIPELINE_DIR}}/READY_FOR_REVIEW
 
-7. Print one status line: "Phase A complete for S{{NN}} — N proposed corrections (M low-confidence), K flags. Awaiting approval."
+7. Print one status line: "Phase A complete for S{{NN}} — N proposed corrections (M at/under 60% confidence), K flags. Awaiting approval."
 
 Write nothing outside {{PIPELINE_DIR}} in this phase.
