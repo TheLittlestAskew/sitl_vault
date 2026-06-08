@@ -99,6 +99,9 @@ function runClaude(promptFile) {
 function processRecording(mp3) {
   banner(`New recording: ${path.basename(mp3)}`);
 
+  log('Refreshing keyterms from vault…');
+  spawnSync(`node "sitl_keyterms_sync.js"`, { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });
+
   log('Transcribing… (this can take several minutes)');
   const t = spawnSync(`node "${TRANSCRIBE_JS}" "${mp3}"`,
     { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });

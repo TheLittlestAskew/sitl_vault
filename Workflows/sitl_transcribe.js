@@ -30,7 +30,7 @@ const path = require("path");
 
 // ── CONFIG ──────────────────────────────────────────────────
 // Set your API key here OR use the ASSEMBLYAI_API_KEY env var
-const API_KEY = process.env.ASSEMBLYAI_API_KEY || "";
+const API_KEY = process.env.ASSEMBLYAI_API_KEY || " ";
 const BASE_URL = "https://api.assemblyai.com";
 
 // ── SITL CAMPAIGN VOCABULARY ────────────────────────────────
@@ -339,6 +339,12 @@ const SITL_CUSTOM_SPELLING = [
   { from: ["Eldritch blast"], to: "Eldritch Blast" },
 ];
 
+// Merge auto-discovered vault terms (managed by sitl_keyterms_sync.js)
+let KEYTERMS_EXTRA = [];
+try {
+  KEYTERMS_EXTRA = JSON.parse(fs.readFileSync(path.join(__dirname, "keyterms_extra.json"), "utf-8"));
+} catch { /* no extra file yet — fine */ }
+const ALL_KEYTERMS = [...new Set([...SITL_KEYTERMS, ...KEYTERMS_EXTRA])];
 
 // ── HELPER FUNCTIONS ────────────────────────────────────────
 
@@ -387,13 +393,15 @@ async function submitTranscription(audioUrl) {
   const requestBody = {
     audio_url: audioUrl,
 
-    // Use Universal-3 Pro for best accuracy + keyterms support,
-    // fall back to Universal-2 if U3 Pro can't handle the audio
-    speech_models: ["universal-3-pro", "universal-2"],
+   // Pin to Universal-2 — phonetic ASR, no world-knowledge prior,
+    // so it will NOT substitute Critical Role names for your players.
+    speech_models: ["universal-2"],
 
     // ── SITL Campaign Vocabulary ──
-    // Boosts recognition of all campaign-specific terms
-    keyterms_prompt: SITL_KEYTERMS,
+    // Universal-2 boosts via word_boost. (keyterms_prompt is U3-only
+    // and is silently ignored on U2 — leaving it = zero boosting.)
+    word_boost: ALL_KEYTERMS,
+    boost_param: "default",
 
     // ── Custom Spelling Corrections ──
     // Post-transcription find-and-replace for common misheard words
