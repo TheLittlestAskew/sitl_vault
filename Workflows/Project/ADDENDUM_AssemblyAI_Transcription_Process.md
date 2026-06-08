@@ -10,7 +10,7 @@
 
 Session recordings are now transcribed locally via a Node.js script that calls the AssemblyAI API with campaign-specific vocabulary pre-loaded. This replaces the previous workflow of using raw speech-to-text output from the recording platform and dramatically reduces the number of spelling corrections needed in Step 2.
 
-The script produces a raw transcript saved as `.md` in the vault. This raw transcript is then reviewed, corrected, and moved to the Corrected folder as part of the normal Convo 1 workflow.
+The script produces a Raw/Unedited Transcript saved as `.md` in the vault. This Raw/Unedited Transcript is then reviewed, corrected, and moved to the Corrected folder as part of the normal Convo 1 workflow.
 
 ---
 
@@ -42,7 +42,7 @@ node "C:\Users\theli\sitl_vault\Workflows\sitl_transcribe.js" "041226_Sky_Is_The
 1. Script uploads the audio file to AssemblyAI
 2. Submits transcription request with 206 campaign-specific keyterms and 31 custom spelling corrections
 3. Polls until transcription completes (typically 2–5 minutes depending on length)
-4. Saves formatted transcript to `sitl_vault\Session_Sources\Transcripts\Raw\[filename]_transcript.md`
+4. Saves formatted transcript to `sitl_vault\Session_Sources\Transcripts\Raw_Unedited\[filename]_transcript.md`
 5. Prints summary with duration, confidence score, word count, and speaker count
 
 ---
@@ -54,15 +54,15 @@ Session_Sources/
 ├── Recordings/
 │   └── 041226_Sky_Is_The_Limit_Recording.mp3      ← original audio
 └── Transcripts/
-    ├── Raw/
+    ├── Raw_Unedited/
     │   └── 041226_Sky_Is_The_Limit_Recording_transcript.md  ← script output
     └── Corrected/
         └── 14_041226_corrected.md                  ← after spell check + formatting
 ```
 
 **Raw → Corrected process:**
-1. Run `sitl_transcribe.js` → raw transcript lands in `Transcripts/Raw/`
-2. Claude performs Step 2 spell check against the raw transcript
+1. Run `sitl_transcribe.js` → Raw/Unedited Transcript lands in `Transcripts/Raw_Unedited/`
+2. Claude performs Step 2 spell check against the Raw/Unedited Transcript
 3. Taylor confirms corrections
 4. Claude applies corrections, reformats to script format, saves to `Transcripts/Corrected/` as `[Session#]_[MMddyy]_corrected.md`
 
@@ -136,12 +136,12 @@ The script points to the vault copy. Originals remain in OneDrive as backup.
 
 The transcription script changes the **input** to Convo 1 but not the process itself:
 
-| Step | Before | After |
-|---|---|---|
-| **Input** | Raw transcript from recording platform (.docx) | Raw transcript from AssemblyAI via script (.md) |
-| **Step 2: Spell Check** | 30+ corrections typical | ~5–10 corrections typical |
-| **Step 3: Corrected Transcript** | Apply corrections + reformat | Apply corrections + reformat (same process, less work) |
-| **Steps 4–8** | No change | No change |
+| Step | Before | After                                                    |
+| -------------------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| **Input** | Raw/Unedited Transcript from recording platform (.docx) | Raw/Unedited Transcript from AssemblyAI via script (.md) |
+| **Step 2: Spell Check** | 30+ corrections typical | ~5–10 corrections typical                                |
+| **Step 3: Corrected Transcript** | Apply corrections + reformat | Apply corrections + reformat (same process, less work)   |
+| **Steps 4–8** | No change | No change                                                |
 
 The spell check step is still required. The script catches most campaign-specific terms but will miss new names, unusual pronunciations, and context-dependent corrections (e.g., "chasm" the geographic feature vs. "chasme" the demon). Claude still performs the full cross-reference against source files.
 

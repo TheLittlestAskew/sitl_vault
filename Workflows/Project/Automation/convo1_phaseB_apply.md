@@ -8,11 +8,11 @@ Read and obey these vault files before doing anything (read them now):
 The spell-check at {{PIPELINE_DIR}}/spellcheck.md has been REVIEWED AND APPROVED by Taylor (she may have edited the table). Treat that table as final and authoritative.
 
 Session number: {{NN}}    Session date (MMddyy): {{DATE}}    ISO date: {{ISO_DATE}}
-Raw transcript: {{TRANSCRIPT_PATH}}    Review folder: {{PIPELINE_DIR}}
+raw_unedited_unedited transcript: {{TRANSCRIPT_PATH}}    Review folder: {{PIPELINE_DIR}}
 
 Do all of the following without stopping:
 
-1. Apply ONLY the approved corrections from {{PIPELINE_DIR}}/spellcheck.md to the raw transcript. Use word-boundary replacements so partial words aren't corrupted. Make no change that isn't in the approved table.
+1. Apply ONLY the approved corrections from {{PIPELINE_DIR}}/spellcheck.md to the raw_unedited_unedited transcript. Use word-boundary replacements so partial words aren't corrupted. Make no change that isn't in the approved table.
 
 2. Save the corrected transcript to:
    Session_Sources/Transcripts/Corrected/{{NN}} - {{DATE}}_corrected.md

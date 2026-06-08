@@ -44,7 +44,7 @@ The Underdark is full of weird stuff. This tracks all of it.
 - **Plants & Fungi/** — Zurkhwood, Timmask, Rapport Spores, Fire Lichen, Tongue of Madness, and more. This campaign is *very* fungus-heavy.
 
 ### [Session_Sources/Transcripts/](Session_Sources/Transcripts/)
-Corrected and raw transcripts from every session. The corrected versions are spell-checked against official D&D sources and formatted in script style with speaker labels and timestamps.
+Corrected and raw/unedited transcripts from every session. The corrected versions are spell-checked against official D&D sources and formatted in script style with speaker labels and timestamps.
 
 ### [DND_Sources/](DND_Sources/)
 Reference files — Underdark character and location lists, notes from Addison.

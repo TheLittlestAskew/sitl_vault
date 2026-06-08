@@ -30,7 +30,7 @@ Every Convo 1 follows this sequence. Do not skip steps. Do not ask which step to
 Before doing anything else, confirm the session date with Taylor. Do not assume the date from transcript titles, filenames, or other context. Ask explicitly and wait for confirmation.
 
 ### Step 2: Spell Check
-Read the raw transcript. Cross-reference all D&D names, locations, creatures, and spells against source files. Output the spell check table:
+Read the Raw/Unedited Transcript. Cross-reference all D&D names, locations, creatures, and spells against source files. Output the spell check table:
 `| Speaker (timestamp) | Transcript spelling | Suggested change | Confidence % | Source |`
 Wait for Taylor to confirm corrections before proceeding.
 

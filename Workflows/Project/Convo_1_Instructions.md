@@ -2,7 +2,7 @@
 
 **Last updated:** 06/07/2026 (reconstructed)
 
-This document defines the step-by-step workflow for **Convo 1**: turning a raw session transcript into a complete, verified, styled session-notes `.docx`. It is a companion to `SKY_IS_THE_LIMIT_PROJECT_INSTRUCTIONS_TRIMMED.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
+This document defines the step-by-step workflow for **Convo 1**: turning a raw/unedited session transcript into a complete, verified, styled session-notes `.docx`. It is a companion to `SKY_IS_THE_LIMIT_PROJECT_INSTRUCTIONS_TRIMMED.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
 
 > Convo 1 produces two things: (1) the finished session-notes `.docx`, and (2) the **Convo 2 Handoff Block**. Convo 2 then propagates everything into the Obsidian vault. Convo 1 never touches the vault.
 
@@ -10,7 +10,7 @@ This document defines the step-by-step workflow for **Convo 1**: turning a raw s
 
 ## PURPOSE
 
-Convo 1 takes the raw transcript (plus the DDB roll archive and source files) and produces an accurate, fully-populated session-notes document. Accuracy and verbatim canon win over polish everywhere except Kit's POV Journal. Nothing is invented; every data point is tagged to the originating real-world session date.
+Convo 1 takes the Raw/Unedited Transcript (plus the DDB roll archive and source files) and produces an accurate, fully-populated session-notes document. Accuracy and verbatim canon win over polish everywhere except Kit's POV Journal. Nothing is invented; every data point is tagged to the originating real-world session date.
 
 ---
 
@@ -18,7 +18,7 @@ Convo 1 takes the raw transcript (plus the DDB roll archive and source files) an
 
 Before starting Convo 1, you need:
 
-1. **The raw transcript** for the session — from `Session_Sources/Transcripts/Raw_Unedited/`, or pasted/uploaded into this conversation. Filename format: `##_MMddyy_`.
+1. **The Raw/Unedited Transcript** for the session — from `Session_Sources/Transcripts/Raw_Unedited/`, or pasted/uploaded into this conversation. Filename format: `##_MMddyy_`.
 2. **Session identity confirmed** — session number, real-world play date (MMddyy), party present, absent players.
 3. **Supabase MCP connected** — for the DDB roll archive (`sitl_session_rolls` view). Confirm Taylor has run the post-session sync (there is a delay after a session before rolls appear).
 4. **The `sitl-v8-docx` skill** — the condensed styling reference for the `.docx`. Only read the full `sitl_v8.js` if the skill says to.
@@ -57,7 +57,7 @@ Step 7  Convo 2 Handoff Block
 ## STEP 1 — INTAKE & SESSION IDENTIFICATION
 
 1. Confirm: **Session number** (formatted `01`, `02`, …), **session date** (`MM/DD/YYYY`), **party present**, **absent players**.
-2. Locate the raw transcript. Reading mechanics:
+2. Locate the Raw/Unedited Transcript. Reading mechanics:
    - `.docx` transcripts are plain ASCII inside — read with `cat` + `grep -n`, **not** `pandoc` or `python-docx`.
    - Large transcripts (~1700+ paragraphs): read in ~200-line batches via `sed -n 'START,ENDp'`.
 3. Note **unusual circumstances** up front: split session, absent players, short run time, guest player (8th speaker). These must surface in the notes and the handoff.

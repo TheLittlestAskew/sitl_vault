@@ -516,7 +516,7 @@ Any plant, fungus, mushroom, moss, or similar organism encountered. **This campa
 
 ### `Session_Sources/`
 
-Raw and processed source material for session notes generation.
+Raw/Unedited and processed source material for session notes generation.
 
 ---
 
@@ -540,7 +540,7 @@ Original, unedited speech-to-text transcripts exactly as they came out of transc
 
 **Examples:** `01-101226_Raw_Transcript.md`, `15-050326_raw_transcript.md`
 
-**Rules:** These are READ ONLY source material. Never edit the raw transcripts.
+**Rules:** These are READ ONLY source material. Never edit the Raw/Unedited Transcripttranscripts.
 
 ---
 
@@ -688,20 +688,20 @@ Backlinks are the connective tissue of the vault. Every note should link to rela
 
 ## File Naming Conventions Summary
 
-| Type | Format | Example |
-|---|---|---|
-| Session Notes | `Session [##] — [Title].md` | `Session 06 — The Long Way Down.md` |
-| Raw Transcripts | `[##]-[MMddyy]_raw_transcript.md` | `06-122125_raw_transcript.md` |
-| Corrected Transcripts | `[##] - [MMddyy]_corrected.md` | `06 - 122125_corrected.md` |
-| Spell Check Logs | `[MMddyy]_Spell_Check_Log.md` | `122125_Spell_Check_Log.md` |
-| PCs | `[Character Name].md` | `Kit Aluri.md` |
-| NPCs | `[NPC Name].md` | `Ilvara Mizzrym.md` |
-| Locations | `[Location Name].md` | `Velkynvelve.md` |
-| Regions | `[Region Name].md` | `The Underdark.md` |
-| Factions | `[Faction Name].md` | `House Mizzrym.md` |
-| Creatures | `[Creature Name].md` | `Gelatinous Cube.md` |
-| Plants/Fungi | `[Plant or Fungus Name].md` | `Zurkhwood.md` |
-| Media | Descriptive name | `Velkynvelve_map.png` |
+| Type                    | Format                            | Example                             |
+| ----------------------- | --------------------------------- | ----------------------------------- |
+| Session Notes           | `Session [##] — [Title].md`       | `Session 06 — The Long Way Down.md` |
+| Raw/Unedited Transcript | `[##]-[MMddyy]_raw_transcript.md` | `06-122125_raw_transcript.md`       |
+| Corrected Transcripts   | `[##] - [MMddyy]_corrected.md`    | `06 - 122125_corrected.md`          |
+| Spell Check Logs        | `[MMddyy]_Spell_Check_Log.md`     | `122125_Spell_Check_Log.md`         |
+| PCs                     | `[Character Name].md`             | `Kit Aluri.md`                      |
+| NPCs                    | `[NPC Name].md`                   | `Ilvara Mizzrym.md`                 |
+| Locations               | `[Location Name].md`              | `Velkynvelve.md`                    |
+| Regions                 | `[Region Name].md`                | `The Underdark.md`                  |
+| Factions                | `[Faction Name].md`               | `House Mizzrym.md`                  |
+| Creatures               | `[Creature Name].md`              | `Gelatinous Cube.md`                |
+| Plants/Fungi            | `[Plant or Fungus Name].md`       | `Zurkhwood.md`                      |
+| Media                   | Descriptive name                  | `Velkynvelve_map.png`               |
 
 ---
 
