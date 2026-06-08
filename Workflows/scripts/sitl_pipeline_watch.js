@@ -170,11 +170,13 @@ log('Leave this window open. Ctrl+C to stop.');
 
 const seen = new Set();
 chokidar
-  .watch(path.join(RECORDINGS, '*.mp3'), {
+  .watch(RECORDINGS, {
     ignoreInitial: true,
-    awaitWriteFinish: { stabilityThreshold: 5000, pollInterval: 500 }, // wait for copy to finish
+    depth: 0, // don't descend into subfolders
+    awaitWriteFinish: { stabilityThreshold: 5000, pollInterval: 500 },
   })
   .on('add', (p) => {
+    if (!p.toLowerCase().endsWith('.mp3')) return; // chokidar v4 dropped globs — filter ourselves
     if (seen.has(p)) return;
     seen.add(p);
     processRecording(p);
