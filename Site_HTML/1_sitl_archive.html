@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Descent — Sky Is The Limit · Rectrix Caedere</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=Cinzel+Decorative:wght@400;700&family=Raleway:wght@300;400;500&family=Alegreya+Sans+SC:wght@400;500;700&family=Lora:ital@0;1&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#050A0E;--card:#0D141C;--smoked:#162230;--gold:#C7A369;--gold-bright:#DA9565;--gold-pale:#E8C690;
+  --amber:#AF755A;--copper:#8C5D3F;--coral:#B7634D;--info:#6B8AAD;--success:#4A9E6E;--danger:#B44A4A;--mystic:#8B6BB5;
+  --text:#E8E4DC;--text2:#9A9590;--muted:#5E5A55;--vellum:#F5EFE2;
+  --border:rgba(199,163,105,.25);--border-strong:rgba(199,163,105,.45);--glow:rgba(199,163,105,.30);
+  --fd:'Cinzel Decorative','Cinzel',serif;--fdisp:'Cinzel',serif;
+  --fb:'Raleway',system-ui,sans-serif;--fl:'Alegreya Sans SC','Raleway',sans-serif;--fs:'Lora',serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+html,body{min-height:100%}
+body{font-family:var(--fb);color:var(--text);background:var(--navy);min-height:100vh;position:relative;overflow-x:hidden}
+/* The descent gradient: lighter cavern mouth at top, abyssal black at the bottom */
+.depthbg{position:fixed;inset:0;z-index:-2;
+  background:linear-gradient(180deg,#0c161f 0%,#0a121b 22%,#070d14 48%,#04080c 74%,#02050a 100%)}
+/* Strangeness overlay deepens with scroll progress (--depth 0..1) */
+.depthveil{position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:radial-gradient(140% 80% at 50% 8%,rgba(199,163,105,.06),transparent 46%),
+             radial-gradient(120% 90% at 50% 110%,rgba(139,107,181,calc(.04 + .14*var(--depth,0))),transparent 55%);
+  transition:background .25s linear}
+body::after{content:'';position:fixed;inset:0;pointer-events:none;z-index:60;opacity:.05;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+
+.back{position:fixed;top:20px;left:22px;z-index:30;font-family:var(--fl);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-pale);text-decoration:none;border:1px solid var(--border);border-radius:3px;padding:9px 16px;background:rgba(13,20,28,.6);backdrop-filter:blur(4px);transition:border-color .35s,color .35s,box-shadow .4s}
+.back:hover{border-color:var(--gold);color:var(--gold-bright);box-shadow:0 0 22px -8px var(--glow)}
+.subnav{position:fixed;top:20px;right:22px;z-index:30;display:flex;gap:8px}
+.subnav a{font-family:var(--fl);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-pale);text-decoration:none;border:1px solid var(--border);border-radius:3px;padding:9px 14px;background:rgba(13,20,28,.6);backdrop-filter:blur(4px);transition:border-color .3s,color .3s}
+.subnav a:hover{border-color:var(--border-strong);color:var(--gold-bright)}
+
+/* ── Header ── */
+header{text-align:center;padding:74px 22px 10px;position:relative;z-index:2}
+.logo{height:42px;margin-bottom:20px;filter:drop-shadow(0 0 14px rgba(218,149,101,.35))}
+.page-eye{font-family:var(--fl);font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);margin-bottom:10px}
+.page-eye::before,.page-eye::after{content:'';display:inline-block;width:22px;height:1px;vertical-align:middle;background:linear-gradient(90deg,transparent,var(--copper))}
+.page-eye::before{margin-right:10px}.page-eye::after{margin-left:10px;background:linear-gradient(270deg,transparent,var(--copper))}
+h1.title{font-family:var(--fd);font-weight:700;font-size:clamp(34px,7vw,62px);color:var(--vellum);line-height:1.02;text-shadow:0 2px 28px rgba(0,0,0,.7);margin-bottom:12px}
+.sub{font-family:var(--fs);font-style:italic;font-size:16px;color:var(--text);max-width:540px;margin:0 auto 30px}
+
+/* ── Stat bar ── */
+.stats{display:flex;flex-wrap:wrap;max-width:760px;margin:0 auto 12px;background:rgba(13,20,28,.55);border:1px solid var(--border);border-radius:12px;overflow:hidden;backdrop-filter:blur(3px)}
+.stat{flex:1;min-width:90px;padding:15px 14px;text-align:center;border-right:1px solid var(--border)}
+.stat:last-child{border-right:none}
+.stat .v{font-family:var(--fdisp);font-size:24px;color:var(--text);line-height:1}
+.stat .v.up{color:var(--success)}.stat .v.dn{color:var(--danger)}
+.stat .l{font-family:var(--fl);font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--text2);margin-top:6px}
+.hint{text-align:center;font-family:var(--fl);font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);margin:20px 0 4px}
+.hint .chev{display:block;margin-top:6px;color:var(--gold);animation:bob 1.8s var(--ease,ease) infinite}
+@keyframes bob{0%,100%{transform:translateY(0);opacity:.5}50%{transform:translateY(5px);opacity:1}}
+@media(max-width:560px){.stats{flex-wrap:wrap}.stat{min-width:33%}}
+
+/* ── The descent spine ── */
+.descent{position:relative;max-width:880px;margin:34px auto 10px;padding:30px 0 60px}
+.descent::before{content:'';position:absolute;left:50%;top:0;bottom:0;width:2px;transform:translateX(-50%);
+  background:linear-gradient(180deg,transparent,var(--border) 4%,var(--border-strong) 50%,var(--gold-alpha,rgba(199,163,105,.4)) 88%,transparent);
+  box-shadow:0 0 16px -2px var(--glow)}
+
+/* waypoint region marker on the spine */
+.waypoint{position:relative;text-align:center;margin:8px 0 22px;z-index:3}
+.waypoint span{display:inline-block;font-family:var(--fl);font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold-pale);
+  background:rgba(7,13,20,.92);border:1px solid var(--border-strong);border-radius:30px;padding:7px 20px;
+  box-shadow:0 0 22px -8px var(--glow)}
+
+/* each session row places a card to one side, a node on the spine */
+.depth{position:relative;display:flex;align-items:center;min-height:142px;margin:6px 0;
+  opacity:0;transform:translateY(26px);transition:opacity .7s var(--ease,ease),transform .7s var(--ease,ease)}
+.depth.in{opacity:1;transform:none}
+.depth.left{justify-content:flex-start}.depth.right{justify-content:flex-end}
+.depth .node{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:16px;height:16px;border-radius:50%;
+  background:radial-gradient(circle,var(--gold-bright),var(--copper));border:2px solid var(--gold);z-index:4;
+  box-shadow:0 0 18px -2px var(--glow)}
+.depth .connector{position:absolute;top:50%;height:1px;width:calc(50% - 86px - 8px);background:linear-gradient(90deg,var(--border-strong),transparent);z-index:1}
+.depth.left .connector{left:calc(50% + 8px);transform:rotate(0)}
+.depth.left .connector{left:auto;right:50%;background:linear-gradient(270deg,var(--border-strong),transparent)}
+.depth.right .connector{left:50%;background:linear-gradient(90deg,var(--border-strong),transparent)}
+
+/* ── Tarot card (face-down → flip to reveal) ── */
+.tcard{width:172px;height:268px;perspective:1100px;text-decoration:none;display:block;flex:0 0 auto;cursor:pointer}
+.tcard .flip{position:relative;width:100%;height:100%;transition:transform .7s cubic-bezier(.2,.7,.2,1);transform-style:preserve-3d}
+.tcard:hover .flip,.tcard:focus-visible .flip,.tcard.flip-on .flip{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;border-radius:12px;overflow:hidden;
+  border:1px solid var(--border);box-shadow:0 10px 30px rgba(0,0,0,.6)}
+.face img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+/* front (face-down back art) */
+.front .scrim{position:absolute;inset:0;background:radial-gradient(80% 60% at 50% 42%,transparent,rgba(3,6,10,.55))}
+.front .num{position:absolute;left:0;right:0;bottom:18px;text-align:center;font-family:var(--fd);font-weight:700;font-size:34px;color:var(--gold-pale);text-shadow:0 2px 10px rgba(0,0,0,.8);letter-spacing:.04em}
+.front .numlbl{position:absolute;left:0;right:0;top:18px;text-align:center;font-family:var(--fl);font-size:9px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold)}
+/* back (revealed) */
+.back-face{transform:rotateY(180deg);background:var(--card);display:flex;flex-direction:column;padding:16px 15px}
+.back-face .tex{position:absolute;inset:0;opacity:.16;object-fit:cover;filter:saturate(.6)}
+.back-face .bd{position:relative;z-index:2;display:flex;flex-direction:column;height:100%}
+.back-face .region{font-family:var(--fl);font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold)}
+.back-face .date{font-family:var(--fl);font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--text2);margin-top:2px}
+.back-face h3{font-family:var(--fdisp);font-weight:500;font-size:16px;color:var(--vellum);line-height:1.16;margin:9px 0}
+.back-face .arc{font-family:var(--fs);font-style:italic;font-size:11px;color:var(--text2);line-height:1.4}
+.back-face .tally{margin-top:auto;display:flex;gap:6px;flex-wrap:wrap;padding-top:10px}
+.pip{font-family:var(--fl);font-size:9px;letter-spacing:.06em;text-transform:uppercase;color:var(--text2);border:1px solid var(--border);border-radius:20px;padding:3px 8px}
+.pip.up{color:var(--success);border-color:rgba(74,158,110,.4)}
+.pip.dn{color:var(--danger);border-color:rgba(180,74,74,.4)}
+.back-face .open{font-family:var(--fl);font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-bright);margin-top:10px}
+.tcard.fin .front .num{color:var(--gold-bright)}
+.finbadge{position:absolute;top:14px;right:0;left:0;text-align:center}
+
+@media(max-width:620px){
+  .descent{padding:20px 0 50px}
+  .descent::before{left:26px}
+  .depth{justify-content:flex-start!important;padding-left:54px;min-height:0;margin:14px 0}
+  .depth .node{left:26px}
+  .depth .connector{display:none}
+  .waypoint{text-align:left;padding-left:8px}
+  .tcard{width:150px;height:236px}
+}
+
+footer{text-align:center;font-family:var(--fl);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding:30px 22px 60px;position:relative;z-index:2}
+footer .dot{color:var(--copper);margin:0 8px}
+footer a{color:var(--gold-pale);text-decoration:none}footer a:hover{color:var(--gold-bright)}
+</style>
+</head>
+<body>
+<div class="depthbg"></div>
+<div class="depthveil" id="veil"></div>
+<a class="back" href="/sky-is-the-limit/index.html">&#8592;&nbsp;&nbsp;Sky Is The Limit</a>
+<nav class="subnav"><a href="/dashboard.html?c=1">Roll Dashboard</a></nav>
+
+<header>
+  <img class="logo" src="/assets/img/logo_only-transparent2.webp" alt="Rectrix Caedere">
+  <div class="page-eye">The Archive</div>
+  <h1 class="title">The Descent</h1>
+  <p class="sub">Out of the Abyss is a journey downward. Every session is one more step into the dark &mdash; turn a card to see where it led.</p>
+  <div class="stats" id="stats">
+    <div class="stat"><div class="v">15</div><div class="l">Sessions</div></div>
+    <div class="stat"><div class="v" id="s-rolls">&mdash;</div><div class="l">Rolls Logged</div></div>
+    <div class="stat"><div class="v up" id="s-n20">&mdash;</div><div class="l">Nat 20s</div></div>
+    <div class="stat"><div class="v dn" id="s-n1">&mdash;</div><div class="l">Nat 1s</div></div>
+    <div class="stat"><div class="v" style="font-size:15px;line-height:1.5">Sloobludop</div><div class="l">Deepest Reach</div></div>
+  </div>
+  <div class="hint">Descend<span class="chev">&#10507;</span></div>
+</header>
+
+<main class="descent" id="descent"></main>
+
+<footer>Rectrix Caedere <span class="dot">&#10022;</span> Sky Is The Limit <span class="dot">&#10022;</span> <a href="/dashboard.html?c=1">Roll Dashboard</a></footer>
+
+<script>
+var SB='https://vtrtyagltwdrbastpppl.supabase.co';
+var AK='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ0cnR5YWdsdHdkcmJhc3RwcHBsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYzNTY5NTAsImV4cCI6MjA5MTkzMjk1MH0.hnpwjHGIqiUN_VmmIkOAAFGGCKsyYgl7AO3FW5vDIeM';
+
+var ARC=[
+  {n:'01',d:'2025-10-12',lbl:'Oct 12, 2025',t:'Prisoners of the Underdark',r:'Velkynvelve',arc:'Prison cell \u2192 across the outpost',wp:'Velkynvelve'},
+  {n:'02',d:'2025-10-26',lbl:'Oct 26, 2025',t:'Come Get Your Shit',r:'Velkynvelve',arc:'The work sites \u2192 the pool below'},
+  {n:'03',d:'2025-11-09',lbl:'Nov 9, 2025',t:'Into the Dark',r:'Into the Dark',arc:'The pool \u2192 a hidden dwarven door',wp:'Into the Dark'},
+  {n:'04',d:'2025-11-23',lbl:'Nov 23, 2025',t:'Life Isn\u2019t Faer-zress',r:'The Safe House',arc:'A dwarvish safe house, and a wererat attack',wp:'The Safe House'},
+  {n:'05',d:'2025-12-07',lbl:'Dec 7, 2025',t:'Silvered',r:'Beneath the Safe House',arc:'Safe house \u2192 the tunnels below'},
+  {n:'06',d:'2025-12-21',lbl:'Dec 21, 2025',t:'The Long Way Down',r:'The Oozing Temple',arc:'The shaft \u2192 the Oozing Temple',wp:'The Oozing Temple'},
+  {n:'07',d:'2026-01-04',lbl:'Jan 4, 2026',t:'Escape from the Oozing Temple',r:'The Oozing Temple',arc:'Fountain chamber \u2192 the exit tunnels'},
+  {n:'08',d:'2026-01-18',lbl:'Jan 18, 2026',t:'The Whirlwind and the Depths',r:'Toward the Feydark',arc:'Flooded tunnels \u2192 the mushroom caverns'},
+  {n:'09',d:'2026-02-01',lbl:'Feb 1, 2026',t:'Adopt-a-Rothe',r:'The Fungal Gate',arc:'Upper caverns \u2192 the Portal Room',wp:'The Fungal Gate'},
+  {n:'10',d:'2026-02-15',lbl:'Feb 15, 2026',t:'Through the Fungal Gate',r:'The Feydark',arc:'Portal Room \u2192 a Feydark cliffside',wp:'The Feydark'},
+  {n:'11',d:'2026-03-01',lbl:'Mar 1, 2026',t:'Gifts of the Carrion King',r:'The Feydark',arc:'Cliffside \u2192 home through the Nexus Pool'},
+  {n:'12',d:'2026-03-29',lbl:'Mar 29, 2026',t:'Return to Velkynvelve',r:'Velkynvelve',arc:'Back where it began',wp:'Return to Velkynvelve'},
+  {n:'13',d:'2026-04-11',lbl:'Apr 11, 2026',t:'Reckoning at Velkynvelve',r:'Velkynvelve',arc:'The drow reckoning'},
+  {n:'14',d:'2026-04-12',lbl:'Apr 12, 2026',t:'Far From the Sun',r:'Velkynvelve',arc:'Cavern floor \u2192 the barracks'},
+  {n:'15',d:'2026-05-03',lbl:'May 3, 2026',t:'The Long Road to Sloobludop',r:'The Road to Sloobludop',arc:'Velkynvelve \u2192 the Darklake road',wp:'The Road to Sloobludop'}
+];
+
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+function build(){
+  var host=document.getElementById('descent');var html='';
+  ARC.forEach(function(s,i){
+    if(s.wp){html+='<div class="waypoint"><span>'+esc(s.wp)+'</span></div>';}
+    var side=(i%2===0)?'left':'right';
+    html+='<div class="depth '+side+'" data-n="'+s.n+'">'
+      +'<span class="node"></span><span class="connector"></span>'
+      +'<a class="tcard'+(s.fin?' fin':'')+'" href="/sky-is-the-limit/session.html?n='+s.n+'" tabindex="0">'
+        +'<div class="flip">'
+          +'<div class="face front">'
+            +'<img src="/assets/img/tarotcard_back.webp" alt="">'
+            +'<div class="scrim"></div>'
+            +'<div class="numlbl">Session</div>'
+            +'<div class="num">'+s.n+'</div>'
+          +'</div>'
+          +'<div class="face back-face">'
+            +'<img class="tex" src="/assets/img/Sky_tarot_face.webp" alt="">'
+            +'<div class="bd">'
+              +'<div class="region">'+esc(s.r)+'</div>'
+              +'<div class="date">'+esc(s.lbl)+'</div>'
+              +'<h3>'+esc(s.t)+'</h3>'
+              +(s.arc?'<div class="arc">'+esc(s.arc)+'</div>':'')
+              +'<div class="tally" id="tal-'+s.n+'"><span class="pip">rolls \u2026</span></div>'
+              +'<div class="open">Open the notes \u2192</div>'
+            +'</div>'
+          +'</div>'
+        +'</div>'
+      +'</a>'
+    +'</div>';
+  });
+  host.innerHTML=html;
+
+  // reveal on scroll
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.18});
+  document.querySelectorAll('.depth').forEach(function(d){io.observe(d);});
+
+  // tap-to-flip on touch (hover handles desktop)
+  document.querySelectorAll('.tcard').forEach(function(c){
+    c.addEventListener('click',function(e){
+      if(window.matchMedia('(hover:none)').matches && !c.classList.contains('flip-on')){e.preventDefault();c.classList.add('flip-on');}
+    });
+  });
+}
+
+// scroll depth -> --depth var for the strangeness veil
+function onScroll(){
+  var h=document.documentElement;var max=h.scrollHeight-h.clientHeight;
+  var p=max>0?Math.min(1,h.scrollTop/max):0;
+  document.getElementById('veil').style.setProperty('--depth',p.toFixed(3));
+}
+
+async function tallies(){
+  try{
+    var r=await fetch(SB+'/rest/v1/sitl_session_rolls?select=session_date,dice_notation,individual_values&limit=5000',{headers:{apikey:AK,Authorization:'Bearer '+AK}});
+    if(!r.ok)return;var rows=await r.json();
+    var by={};rows.forEach(function(x){var d=x.session_date;if(!d)return;if(!by[d])by[d]={t:0,n20:0,n1:0};by[d].t++;
+      if(x.dice_notation&&/^1d20/.test(x.dice_notation)){var v=x.individual_values;if(typeof v==='string'){try{v=JSON.parse(v);}catch(e){}}if(Array.isArray(v)&&v.length){if(v[0]===20)by[d].n20++;if(v[0]===1)by[d].n1++;}}});
+    var T=0,N20=0,N1=0;
+    ARC.forEach(function(s){var g=by[s.d];var el=document.getElementById('tal-'+s.n);if(!el)return;
+      if(!g){el.innerHTML='<span class="pip">no rolls synced</span>';return;}
+      T+=g.t;N20+=g.n20;N1+=g.n1;
+      el.innerHTML='<span class="pip">'+g.t+' rolls</span>'+(g.n20?'<span class="pip up">nat 20 \u00d7'+g.n20+'</span>':'')+(g.n1?'<span class="pip dn">nat 1 \u00d7'+g.n1+'</span>':'');
+    });
+    document.getElementById('s-rolls').textContent=T;
+    document.getElementById('s-n20').textContent=N20;
+    document.getElementById('s-n1').textContent=N1;
+  }catch(e){}
+}
+
+build();
+onScroll();
+window.addEventListener('scroll',onScroll,{passive:true});
+window.addEventListener('resize',onScroll,{passive:true});
+tallies();
+</script>
+</body>
+</html>
