@@ -18,6 +18,7 @@ DND_Sources/*.pdf
 .smart-env/
 .claude/
 .trash/
+_pipeline/
 
 # ── OS / Editor Junk ────────────────────────────────────────
 .DS_Store
