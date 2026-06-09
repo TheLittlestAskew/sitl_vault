@@ -31,3 +31,6 @@ desktop.ini
 # ── Node / Build Artifacts ───────────────────────────────────
 node_modules/
 package-lock.json
+
+# ── Archived Files ───────────────────────────────────────────
+xx_Archive_xx/
