@@ -889,3 +889,1094 @@
 [01:13:13] ADDISON (DM): Does not. Does not quite do it. Are you blessed? Okay.
 
 [01:13:17] AEOLUS: Yes. But 15.
+
+[01:13:22] AEOLUS: Yeah.
+
+[01:13:22] ADDISON (DM): So, yeah, you. Chill touch is not actually cold damage, is it?
+
+[01:13:27] AMANITA: No.
+
+[01:13:28] BLARG: Necrotic.
+
+[01:13:28] ADDISON (DM): I think it's necrotic.
+
+[01:13:30] AMANITA: Yeah.
+
+[01:13:31] ADDISON (DM): So, yeah, because of this thing's aberrant nature and resistance to necrosis and poison, it just kind of. The carapace just Absorbs it and it doesn't have the effect that you. All right, anything else on your turn?
+
+[01:13:58] AMANITA: Let's see. I don't think so. Because I did not. I don't think it's worth doing anything else. But it. I. Oh, it will. I'll deal 1d4 of necrotic damage to it anyway. But it's resistant. But that's just my reaction from Halo of Spores, so. It needs to make sure how I
+
+[01:14:39] ADDISON (DM): feel about using the reaction in your own turn. I feel. Feel like that means like the Pathfinder. That's. It has to be outside of your turn and you. But it's. It's also like part of your character. It's fine. I'll allow it. All right, so 1d4.
+
+[01:15:02] AMANITA: It has to make a con saving throw. 15.
+
+[01:15:09] ADDISON (DM): All right. What was. Roll the 15?
+
+[01:15:14] AMANITA: Yeah.
+
+[01:15:19] ADDISON (DM): 15 was your DC. Yeah. So it doesn't take any. Any damage there.
+
+[01:15:27] AMANITA: Okay,
+
+[01:15:29] ADDISON (DM): that brings us to stool's turn.
+
+[01:15:32] AMANITA: Stool's gonna try and hit it, see. Oh, I forgot to bring up stools. Stat block. But grab that.
+
+[01:15:44] ADDISON (DM): Stool is also a little bit bigger. He's. He's kind of a mix between myconid sprout and adult. So I think the damage. Let me bring up. Let me bring up the myconid. Adult here. One moment. The myconid adult slam deals is a D8 plus three. So let's. Or plus three poison damage. So let's bring that down to. So it's a D6 bludging damage and a D4 poison damage.
+
+[01:16:29] AMANITA: Okay,
+
+[01:16:31] KIT: let's see.
+
+[01:16:37] AMANITA: So to hit,
+
+[01:16:40] KIT: it's gonna be a
+
+[01:16:41] AMANITA: D20 plus one, I think.
+
+[01:16:45] ADDISON (DM): Yep.
+
+[01:16:46] AMANITA: Okay, so that'll be 19 to hit. And then what'd you say for bludgeoning damage? I've got a D4 minus one D6.
+
+[01:17:02] ADDISON (DM): We'll say D6 still with the minus one and then D4 poison damage.
+
+[01:17:18] AMANITA: Not a lot. So one for both of those. The minus one other. So no poison damage or no bludgeoning damage? One poison damage.
+
+[01:17:33] ADDISON (DM): So.
+
+[01:17:33] AMANITA: Oh, wait, sorry. In my notes, I've got that we'd added 2e Force poison damage. But I don't know if we.
+
+[01:17:46] ADDISON (DM): Hey, you know, if that's in your notes. That's in your notes. That's fine. I'm just gonna say it'll do one. One point of poison damage with the resistance. So stool just managed to manage to get off a single point. Brings. It brings. Brings the chuul down to an even six hit points.
+
+[01:18:13] AMANITA: Stool's pretty excited about its contribution.
+
+[01:18:17] ADDISON (DM): Die beast. So this is great. Because now we're at the top of the turn order and Derendil is at the top of the turn order. Derendil emerges from his stupor and is in full chaos and leaps across the pool and a feat of just unrealistic strength. And lands right on it and just, just rips into it, starts eating
+
+[01:18:55] AEOLUS: and
+
+[01:18:56] ADDISON (DM): just absolutely destroys like this thing. So, so yeah, just cuts it up into pieces. Rips off the legs, rips off the. The pincers and just starts gouging to like, it just. I mean, it's so gruesome. Even after everything you guys have seen, you guys are just kind of like instinctively step back and you're just watching this quaggoth that only moments ago was getting upset at being splashed with water is now soaking wet, covered in gore. Just, just, just a strange thing.
+
+[01:19:40] AMANITA: Oh, man, he's gonna need another bath.
+
+[01:19:45] KIT: Well, he's in water,
+
+[01:19:50] ADDISON (DM): So at this point, we're not going to say that we're out of initiative, but yet. But you're. You take this pause as you're kind of watching this thing in shock. Blarg. I would like you to give me a perception check, please.
+
+[01:20:17] BLARG: You're coming right up. 15.
+
+[01:20:29] ADDISON (DM): You hear the sound of I don't know what seems like soggy wet.
+
+[01:20:38] KIT: That's nasty steps
+
+[01:20:41] ADDISON (DM): come towards from behind you.
+
+[01:20:46] KIT: Oh, from behind.
+
+[01:20:48] BLARG: I would like to turn around and try to see if what. I. If I see anything,
+
+[01:20:55] ADDISON (DM): you. You look behind you. Unfortunately, I don't know why, but there's no monster token for this creature. I need to figure out how I'm gonna get these guys in here because. No, no, you are definitely not Derendil. Derendil ripped off the pincer that had you grappled. So you, you just like pry yourself off actually, just for, just for shits. Give me a strength check.
+
+[01:21:29] KIT: Okay.
+
+[01:21:30] ADDISON (DM): Because it's. That's now. This like, it's now just latched around you. Oh, yeah. 2117 plus. Yeah, you just pull this thing off easily. So we're so. Blarg. A sense hears these footsteps coming from this passageway to the right here to the east. And you see it's still pretty large and kind of just heavy ish. Like creature emerge. And this creature has this big, this, this big necklace of beads and bone and stone carved trinkets, a few pieces of dulled, corroded metal, and this. These kind of like robes that look like they're almost like fish nets draped over its body. And it approaches you slowly, confidently, reminding you quite vividly another prisoner that you had, but not. Not the same. Not the same creature, but definitely the same species. This is a kuo-toa, a little bit. A little bit thinner. Shuushar the Awakened. This, the prisoner that was there with you was a. Was, like, really big, like, kind of almost had like a. Just a. Just a really heavy, like, fish mixed with, like, a salamander kind of face. This one is a little bit taller, a little bit skinnier, but still pretty large. Just slowly walking to you, and it says, That was impressive. However, that is going to be a problem. And he's pointing at Derendil. Is that a friend of yours? Because he is not friendly.
+
+[01:24:19] BLARG: Kind of a friend, I would say. But, yeah, I can see how he may be causing trouble. I've become a bit unsure about him lately as well, but, yeah, well, he just got worried, and I would just turn a little bit to the other guys and make them aware of the kuo-toa and. How do I pronounce it?
+
+[01:24:49] ADDISON (DM): Yeah, and so, yeah, this kuo-toa, you know, Binks as you turn. It definitely gives you the vibe of, like, a priestly garb, and it is. The creature seems to be unassuming. Its hands are kind of out. Seems to just have this very peaceful, intelligent nature, as it just is, like, slow. It's kind of just now standing next to Blarg, watching Derendil ferociously tear into this creature, seemingly distracted as of now, but it's just kind of standing there kind of shaking his head like, this is a problem. What does the rest.
+
+[01:25:36] BLARG: Can I try to.
+
+[01:25:38] ADDISON (DM): Yep. No, go ahead.
+
+[01:25:42] BLARG: I would just maybe try to talk to Derendil to see if he's like. I mean, I just dared. Stop, stop. It's over. Maybe just to see if he's responding at all. If he's just.
+
+[01:25:53] KIT: I mean, what. He's eating it. He's not hurting anybody.
+
+[01:25:57] BLARG: Yeah, but he seems to unsettle the fish. Yeah, he seems to unsettle my fish friends.
+
+[01:26:06] ADDISON (DM): Give me a persuasion check with disadvantage.
+
+[01:26:09] BLARG: Okay. That's gonna be tough. Persuasion minus 1 16. Not bad. My roles are actually crazy.
+
+[01:26:30] ADDISON (DM): Derendil stops and looks up at you with just glossed, like, just rage in its eyes. It looks up at you, it tracks you, and then looks at the rest of the party. Looks at this other kuo-toa and growls heavily at this kuo-toa with just gore dripping from its mouth, seems to have gotten a taste for seafood. Oh, it's already used its turn. Binks, what do you do? You are next in initiative.
+
+[01:27:19] BINKS: Binks just pokes his head up From Roxy. Like, he's still sitting up in the saddle and he's just like he is. Don't worry. I mean, it's kind of weird. He's a cursed elf. He's actually not a quaggoth. So sorry, he's.
+
+[01:27:44] ADDISON (DM): Is that what this creature told you?
+
+[01:27:48] BINKS: Yeah. I mean, he's kind of annoying, but he is not a bad guy.
+
+[01:27:59] ADDISON (DM): Well, I am sorry to disappoint in turn, but that is no elf. That is a quaggoth, and he will kill you.
+
+[01:28:10] BINKS: I understand, but he's already saved her life twice, so I think that gives him enough benefit of the doubt that we can vouch for. Or I can vouch for him at least.
+
+[01:28:28] ADDISON (DM): Very well. I admire your trust in your comrades, but it will be to your doom.
+
+[01:28:39] BINKS: Are you saying that because he's a quaggoth or because he's just devouring crab?
+
+[01:28:51] ADDISON (DM): Both. That is no elf.
+
+[01:28:55] BINKS: He's cursed. He's royalty.
+
+[01:29:01] KIT: Like. Do you have some sort of, like, knowledge that you're not telling us? Are you just saying he looks like a quaggoth?
+
+[01:29:14] ADDISON (DM): That is a quaggoth. Okay, that's. That's not okay. And yes, I do have knowledge. It is my primary. This is my primary weapon.
+
+[01:29:31] BLARG: Enlighten us, brother.
+
+[01:29:39] ADDISON (DM): We're gonna. So we're gonna say that you kind of use your turn having this conversation, this back and forth with the kuo-toa priest.
+
+[01:29:50] BLARG: Wait, can I use my turn to hold an action?
+
+[01:29:55] ADDISON (DM): Sure. You're next in the turn order.
+
+[01:29:58] BLARG: Because I would just. If Derendil decides to attack the fish guy, because I saw him looking at him funny, I would like to try to use a hold person on him.
+
+[01:30:12] ADDISON (DM): So you're going to hold. Hold person?
+
+[01:30:15] BLARG: Yes, I'm going to hold. Hold person.
+
+[01:30:18] AEOLUS: Hold.
+
+[01:30:19] ADDISON (DM): Hold person.
+
+[01:30:20] BLARG: Yes, yes, yes.
+
+[01:30:23] ADDISON (DM): That's going to bring us to. Sorry, I put. I gave Roxy the wrong initiative. Give me a moment. Darby's initiative was 8, so we're gonna make that a 7 instead. Accidentally put the AC for initiative. So, from Kit,
+
+[01:30:49] KIT: I'll ask, like, do. Is there anything else you see about him? He did say that, like, his memory was kind of messed up. He's having trouble remembering things. Is there anything other than him not being an elf, that is. That looks like a quaggoth that you could see that's going on over there?
+
+[01:31:17] ADDISON (DM): Well, to give benefit of doubt, this quaggoth is, in some ways a victim. A victim of chaotic magic that has infected its mind, perhaps giving it false memory of something.
+
+[01:31:39] KIT: How do we fix that?
+
+[01:31:40] ADDISON (DM): It is a quaggoth. Nonetheless.
+
+[01:31:44] BLARG: How do you know? Is it like a common thing here?
+
+[01:31:52] ADDISON (DM): Sadly, it is becoming more so. This is what I have been investigating with my own comrades. However, there is no cure that I know of besides the piece of death.
+
+[01:32:13] KIT: I mean does. Yeah, so. I mean, okay, so his mind is messed up and his memory is wiped. Why would that lead to death? Or is is he going to keep devolving into a worse condition?
+
+[01:32:33] ADDISON (DM): From what I currently understand as I am still studying the chaotic energies infusing the affairs with he will devolve back to his original state which is that of a violent beast. I am truly sorry.
+
+[01:33:08] KIT: Is Derendil reacting to any of this?
+
+[01:33:13] ADDISON (DM): We're in initiative. Derendil is. Has stopped eating but is like about to attack and has its eyes set on the kuo-toa.
+
+[01:33:24] KIT: Okay then I will. Move up behind Derendil. Quietly and just hold my action to restrain him.
+
+[01:33:45] ADDISON (DM): As you move up, it's gonna. Derendil is gonna use his reaction to attack you. That's going to be. It is bloodied so it has advantage on attack rolls. That's going to be 17 to hit you on the first attack and a natural 20 on the second. So the first deals 13 slashing damage and the second I will roll.
+
+[01:34:42] KIT: Well before this happens, I'd like to point out that Barg has an action saved. Would you like to take advantage of that before I go down?
+
+[01:34:59] ADDISON (DM): So I'll say that it got it got one attack off. If you want to. If you want to use your held action to do anything at this point. Okay.
+
+[01:35:11] BLARG: I would love to try to cast hold person on him which is a DC15 wisdom saving throw.
+
+[01:35:21] ADDISON (DM): Okay, can you give me the. Can you give me the wording on hold person?
+
+[01:35:29] BLARG: Please choose a humanoid that you can see within range. The target must succeed on a wisdom saving throw or have the power paralyzed condition for the duration. At the end of each of its turns, the target repeats the safe ending the spell on itself on success.
+
+[01:35:45] ADDISON (DM): Okay, so you feel yourself cast the spell and it washes over Derendil.
+
+[01:35:52] BLARG: No way. He's not humanoid.
+
+[01:35:57] ADDISON (DM): Derendil is a monstrosity. So that's going to be 13 on first and 24 points on the second.
+
+[01:36:15] KIT: So it just actually one I'm down to one. I will go. It'll be relentless endurance. I'll drop to 1hp.
+
+[01:36:27] ADDISON (DM): So in this. In this bloody fury, what was your confusing. Just too quick and down you go. You splash into the water and you come back with 1 HP. You've just been baptized in water and your own Blood. Can you take your reaction?
+
+[01:36:55] KIT: Not my. I mean, my actual action.
+
+[01:36:59] ADDISON (DM): Well, this was its reaction. We're still in initiative, and it's my turn. It is your turn now? Yes, it is.
+
+[01:37:09] KIT: Okay. Do I need to. Well, I guess it won't matter. I'm not trying to go anywhere, so if I need to use half of my speed or whatever to get up, I'll do that. And I'm gonna take a minute. I'm gonna look at. By the way, we're very Topsy and Turvy. We kind of forgot about.
+
+[01:37:31] ADDISON (DM): God damn it, I forgot about Topsy.
+
+[01:37:36] KIT: So did I. Don't. Don't feel bad.
+
+[01:37:39] ADDISON (DM): We're gonna say. We're just gonna say. Again, I'm gonna own it for the recording that Topsy and Turvy are awesome. And I keep forgetting about them. They. They as a pair went to explore the. The cave to the left.
+
+[01:37:54] KIT: Could we.
+
+[01:37:55] ADDISON (DM): While you guys were. While you guys were fishing. And so they. They didn't see any of this happen.
+
+[01:38:00] KIT: Okay, well, then. Okay, it was. I was just gonna glance at Topsy, so if they're not back, then I guess I will glance at Binks and probably Darby as well. Like just a moment of. In the last session, I said that I wasn't gonna tolerate this. And why does this keep happening to me? So is anybody besides me within five feet of Derendil?
+
+[01:38:38] AMANITA: Amanita is.
+
+[01:38:40] KIT: Okay, beautiful. Then I will. What. What is the wording here for sneaking?
+
+[01:38:56] ADDISON (DM): Say that. They will say that they heard Derendil's roar and came running back and they've got. They've got some things under their arm as they run back into the. Into the opening, into the.
+
+[01:39:11] KIT: Okay, I'm just going to use sneak attack to get advantage on this. And then I will. Hit. That's going to be 25 to hit him. It's going to be six. Seven damage.
+
+[01:39:34] BINKS: Plus sneak attack.
+
+[01:39:36] KIT: Plus sneak attack, which is another nine. I'm sorry, six. So what was it? Was it seven plus six? 13 damage. And then with that, she will also
+
+[01:39:51] AMANITA: use
+
+[01:39:55] KIT: a trip attack, so he needs to pass a third. You know, I can use either one of these.
+
+[01:40:03] AMANITA: Can I.
+
+[01:40:03] KIT: A 14 DC 14 strength save.
+
+[01:40:08] ADDISON (DM): Tell me one more time what the damage was.
+
+[01:40:10] KIT: 13 so far.
+
+[01:40:13] ADDISON (DM): Okay, 13 and. And the save was what?
+
+[01:40:20] KIT: 14.
+
+[01:40:22] ADDISON (DM): 14 strength. Strength fails.
+
+[01:40:30] KIT: Okay, so then in that case, of course, I've navigated away from it already. Okay, so that will add to the damage roll. So that's a. Another D6, which is another 6.
+
+[01:40:52] ADDISON (DM): So
+
+[01:40:54] KIT: 19 damage. And then I have a bonus action I wish I had. No, I only have one Hunter's mark.
+
+[01:41:05] ADDISON (DM): Well, bonus. You can move, but you have to do that before you attack.
+
+[01:41:09] KIT: No, I'm not trying to use a bonus action. I'm not trying to move.
+
+[01:41:11] ADDISON (DM): No, not move yourself. Move. Hunter's mark. You can move. Hunter's mark over. Oh, has this action. You have to do it. You have to. You have to state that before you attack.
+
+[01:41:22] KIT: That's fine. I don't. It's. I don't. I won't take it this time.
+
+[01:41:26] ADDISON (DM): Just now. You know, for the future. Because I always mess that up when I was playing. Yeah, I was playing an archer as well.
+
+[01:41:34] KIT: Ranger make a bonus action later.
+
+[01:41:37] ADDISON (DM): His mark is awesome, but it's one of those things like guidance you always have to remember.
+
+[01:41:43] KIT: Okay, then I will. Bonus action to weapon fighting. But I don't have my bonus to it, which is. I'm not even sure what. What is my plus two attack. So I guess it's just not a D20. Eh, it's a nine. So that's not gonna work. But yeah, that'll be. That will be my turn. Actually, Just in case this ends up better, I will also use Savage Attacker to reroll my. My damage dice for the first short sword hit attack and see if it was just better. Which it's not. No, wait, it is. So plus two more than. Than whatever it was before.
+
+[01:42:52] BINKS: So 21 overall damage.
+
+[01:42:54] KIT: Okay, technically 21 damage on one hit. Even though I took two
+
+[01:43:01] ADDISON (DM): attacks, still pretty good. All right, that's going to bring us to Aeolus.
+
+[01:43:16] AEOLUS: Yeah, I'm thinking about what can I do?
+
+[01:43:32] KIT: Oh, wait. What is this? Is Action Surge a bonus action? It just says action type special. Can I still Action Surge and go again. It doesn't say bonus action.
+
+[01:43:51] ADDISON (DM): It says it's a bonus action. Oh, yeah, yeah, sure.
+
+[01:43:55] KIT: Okay. Maybe in 2014 it was a bonus. I don't know what special means, which is why I'm asking, but yeah, then I'll go.
+
+[01:44:04] ADDISON (DM): I mean, it should say in the description.
+
+[01:44:06] KIT: Yeah, it says action type special. And you can push yourself beyond your normal limits. On your turn, you can make one additional action. Except a magic action. Can't do it again for until finish a short or long rest. So it doesn't say bonus action.
+
+[01:44:22] ADDISON (DM): Yeah, you're good.
+
+[01:44:23] KIT: Beautiful. That's why it didn't show up when I clicked bonus action. Okay, so 18 to hit.
+
+[01:44:37] ADDISON (DM): Here we go. Oh, I can't do it. 18 hits.
+
+[01:44:42] KIT: Cool. So then that's another 10 damage.
+
+[01:44:49] ADDISON (DM): Okay, right,
+
+[01:44:57] KIT: So 31 damage on one round
+
+[01:45:03] ADDISON (DM): halfway. Okay. As you come down for this second strike, you see Derendil's eyes flash red and kind of turn in this look of recognition for a moment of just like shock, confusion and pain. And he looks at you for a moment with this look of betrayal and more confusion. This look that kind of says, why did you just hit me? And then he reverts back and just like the eyes glaze over again, back to this animalistic predatory look and growls again and kind of gives this pained howl. We're going to go to Aeolus and then Darby. Yep.
+
+[01:46:14] AEOLUS: I've been checking my spells, but that is a hard decision for me. Which one to choose. But. How far away is key for me.
+
+[01:46:37] ADDISON (DM): Looks about like 20ft.
+
+[01:46:39] KIT: 17.
+
+[01:46:40] AMANITA: 17.
+
+[01:46:41] KIT: 18. About 20.
+
+[01:46:43] AMANITA: I've also got a. I've got a sleep spell that I can use when it gets to my turn too, if we don't want to kill him.
+
+[01:46:52] ADDISON (DM): Yeah.
+
+[01:46:53] AEOLUS: I also been. Been thinking about sleep.
+
+[01:46:56] KIT: Need do it. Yeah.
+
+[01:46:59] ADDISON (DM): Yeah.
+
+[01:47:00] DARBY: I was also attempt to grapple at some point.
+
+[01:47:02] KIT: Yeah. I have no other option but to stab the out of this guy. If you guys want to do something a little more non, lethal, you're more than welcome to.
+
+[01:47:13] AEOLUS: Yeah. I. I think I'm gonna try to put him to sleep, I guess. Wait, what the hell should I. Oh, it's a wisdom saving throw. And my safe is 15.
+
+[01:47:38] ADDISON (DM): It's a natural four. Let's go.
+
+[01:47:42] KIT: Right on.
+
+[01:47:43] BLARG: Good night.
+
+[01:47:44] KIT: Thank you, Aeolus, which I feel like is going to be canon. Yeah, I'm gonna look at Kit and go, thank you, Aeolus. And look like I'm straight up about to fall out. I've got nothing. I should be down. I just happen to not be.
+
+[01:48:06] ADDISON (DM): Good old Orcish blood.
+
+[01:48:08] KIT: Thank God.
+
+[01:48:10] ADDISON (DM): Okay, so pull you out one time.
+
+[01:48:15] KIT: What?
+
+[01:48:15] BLARG: I'm really disappointed.
+
+[01:48:16] ADDISON (DM): You always.
+
+[01:48:16] BLARG: I really want to see the puppet pull you out one time.
+
+[01:48:19] KIT: I'm not. I'm not ever gonna use the puppet. First it's gonna be orcish endurance, and then if I go down again, it'll be the doll.
+
+[01:48:27] BLARG: Yeah. Yeah, let's hope.
+
+[01:48:30] KIT: I mean, that being said, I got one hit point left. So if you want to like punch me or something, we can see what happens. But that means whatever is gonna happen, it's gonna go against you next.
+
+[01:48:45] ADDISON (DM): Okay, so Derendil takes these two slashes of Kit. Looks like it's going to make another leaping attack before it gets a chance. Aeolus. What is your. What does your sleep spell look like? As you. As you put Derendil to bed. Here.
+
+[01:49:06] AEOLUS: You know, it's from my archery stuff. So I think it. You know, I just know it. It has like a violet color maybe, and since it's. It's putting something to sleep, maybe, like, maybe you can just smell something, like, calming in the air, but I have no idea about anything else.
+
+[01:49:38] ADDISON (DM): So this purple energy kind of wafts over Derendil and he, like, he's got this. And like takes this swift, like. Like he's about to sneeze and then just almost like. Like smelling just like. Yeah, just. And then just collapses on top of this. This chuul's corpse. You know, this is interesting how you
+
+[01:50:10] KIT: forgot about Topsy and Turvy, but them arriving when they did could be very interesting for the story because if the last session. Yeah, when that I said. And it kind of made. Made Topsy feel a certain way. And then they go off and come back and I'm stabbing the out of Derendil. Probably doesn't look great.
+
+[01:50:34] BLARG: I see a pet. Are we out of combat?
+
+[01:50:43] ADDISON (DM): Yes. Yes, we are. We are out of combat. Initiative. Combat is over. And combat.
+
+[01:50:51] BLARG: I would definitely run up to Kipton and instantly look at the wounds and cast. Good old Q, I guess. Let me see. Let me see. Can I upcast?
+
+[01:51:13] BINKS: Binks looks over at the cleric, the kuo-toa, and hey, yeah, see, he's just a nice little dog. It's fine. It's. He's chill.
+
+[01:51:26] ADDISON (DM): He just kind of shakes his head sadly. If only it were so simple.
+
+[01:51:42] KIT: Kid's gonna be facing Blarg when he comes up to do the cure wounds. And like, as he's analyzing the. The like stabs to her side or whatever, she's. She's like gonna just like fall over. Like her head's just gonna be on his shoulder. Like, okay, hurry up. This hurts a lot.
+
+[01:52:03] BLARG: I'll do my best. I'll do my best. And I just. From the back, get kill wounds cast. You feel like 15hp re entering your body, however, how much that will help you. Yeah, we'll need you.
+
+[01:52:20] ADDISON (DM): Keep.
+
+[01:52:20] BLARG: Keep on stabbing.
+
+[01:52:23] KIT: See?
+
+[01:52:25] DARBY: Keep on stabbing.
+
+[01:52:28] AMANITA: Amanita is going to reel in Glabbagool real quick. Come on back, buddy. You did great. Look what we got.
+
+[01:52:39] ADDISON (DM): So, yeah, Glabbagool was like wrapped around the gills of the chuul there and managed. Managed to kind of just sink into the rock to get away from Derendil's crazy tirade. So he just like, you just see the eye in just this puddle of jello. Just kind of emerge from the rock and tell pathway Just, oh, oh, hello. Are we done? Did we get enough food?
+
+[01:53:16] KIT: She's gonna. Kids are gonna be like, hey, man, you gotta.
+
+[01:53:18] AMANITA: You gotta do better.
+
+[01:53:19] KIT: You could have told us that was coming, right?
+
+[01:53:24] ADDISON (DM): Didn't see it.
+
+[01:53:30] KIT: Having one eyeball.
+
+[01:53:33] ADDISON (DM): They look in one direction that they die.
+
+[01:53:41] BLARG: Topsy, Turvy, can you tie up Derendil? He's gone a bit crazy. I don't want him going. Snapping back at it again when he comes, when he wakes up, whenever, that will be.
+
+[01:53:53] ADDISON (DM): Yeah, Topsy coming up.
+
+[01:53:56] DARBY: I can grapple them. I could tie him down to something.
+
+[01:54:00] ADDISON (DM): Yeah.
+
+[01:54:00] BLARG: I mean, if you want to wrestle him, go for it.
+
+[01:54:03] ADDISON (DM): Yeah. Turvy looks a little angry, but Topsy's like, again. Oh, no. Okay. Come on, buddy.
+
+[01:54:14] BINKS: We didn't kill this one.
+
+[01:54:18] KIT: Oh, I tried.
+
+[01:54:20] ADDISON (DM): Great. Just sarcastically is like, great personal growth.
+
+[01:54:27] KIT: Hey, man, listen. Look at Turvy and be like, someday somebody else in this party is going to be on the receiving end of some like this, and it's not going to be me.
+
+[01:54:45] ADDISON (DM): Just like.
+
+[01:54:45] BLARG: I mean, I wouldn't be too sure about that. I see a trend.
+
+[01:54:50] KIT: I'm just always going to be standing right next to the person in our party who wants to kill us. Great.
+
+[01:54:58] ADDISON (DM): So they start wrapping Derendil up. Turvy points and mumbles and gnomish to Topsy and is pointing at this kuo-toa who's now standing around in the circle here. And Topsy's like, hey, Blarg, who's your new. Who's your new friend?
+
+[01:55:22] BLARG: I don't know. He didn't even. Did you say tell me your name? I'm Block, by the way.
+
+[01:55:26] KIT: Yeah, who the are you?
+
+[01:55:28] BLARG: Hold up my hand.
+
+[01:55:30] AMANITA: Hey, do you have a friend in Grazilax? Might be a mind flayer.
+
+[01:55:40] ADDISON (DM): Wazalax is indeed a colleague of mine. Quite a strange one. It is hard to claim mind flayers as friends, but we are allies with the same goals. It is nice to meet you. And you. It is pleasure to meet you, Blog. My name is Sloopidoop.
+
+[01:56:12] BLARG: Perfect.
+
+[01:56:13] DARBY: Can you spell that, please?
+
+[01:56:17] KIT: For multiple reasons.
+
+[01:56:18] ADDISON (DM): Please do that, Binks.
+
+[01:56:20] BINKS: No, no hesitation. Just starts laughing and says, that cannot be your name. That. I'm sorry.
+
+[01:56:26] DARBY: Hey, like, hey, it could be a family name.
+
+[01:56:30] KIT: Oh, don't make me laugh at her.
+
+[01:56:31] BINKS: No, be.
+
+[01:56:31] DARBY: Guys, be nice. It could be a family name. Be nice.
+
+[01:56:37] BINKS: Please be a family name. Please be a family name.
+
+[01:56:42] ADDISON (DM): It is. It is a mononym.
+
+[01:56:47] DARBY: Okay, so it's one name. That's great.
+
+[01:56:50] ADDISON (DM): Perhaps to the uncivilized such as yourselves, it May seem funny but it is a common name where I come from.
+
+[01:57:01] KIT: Yeah, I'm uncivilized. Okay.
+
+[01:57:02] DARBY: Is not funny to me it's.
+
+[01:57:06] BINKS: Come on. It's pretty funny.
+
+[01:57:11] KIT: Let me have a little bit of humor in my life.
+
+[01:57:15] ADDISON (DM): Make fun of his love. It's not his name.
+
+[01:57:19] BINKS: I'm sorry. We've been running away from Dr. For like two weeks. Sorry.
+
+[01:57:26] KIT: I've been almost killed like 14 times.
+
+[01:57:34] ADDISON (DM): Give me a minute here. My computer is a little slow. I'm going to put him in the NPC channel. Sloopidoop. So he kind of just looks at you with this like just these big eyes. This is. That's just his normal look. He just looks neutrally at you. Doesn't laugh. That you making fun of his name. Doesn't really react. Seems very neutral.
+
+[01:58:06] DARBY: Arby thinks he's handsome. Now what?
+
+[01:58:14] BINKS: Still funny.
+
+[01:58:15] ADDISON (DM): Well you have done me and my people. In my travels I encountered this chuul who managed to. Who managed to kill an acolyte of mine and take his possessions which I am trying to get back. As well as learn more of these oasis intentions. They have become more hostile late and thwarting my village.
+
+[01:59:10] AMANITA: Yeah man, it did seem pretty hostile. But to be fair, we were trying to catch it. I mean not that one specifically. We thought it was a fish. I thought it was a fish. Guys, did you think it was a fish? It looked like a fish.
+
+[01:59:27] KIT: Right?
+
+[01:59:29] AMANITA: Anyway, it's so good to meet you. We heard all about the Society of Brilliance and we have a lot of questions.
+
+[01:59:37] ADDISON (DM): Yes, I must say going fishing in a random pool in a random clearing is perhaps unwise.
+
+[01:59:48] KIT: Listen, when you're from where you're around every pond is a random pond pond. And you know what? You gotta eat.
+
+[01:59:58] BINKS: True. We caught two good fish before him. So like this is pretty good. Like that. This is a good pond.
+
+[02:00:07] BLARG: I'm not sure if this is like a little insensitive to him.
+
+[02:00:12] AMANITA: Oh yeah, out of the pond.
+
+[02:00:15] KIT: Right. They approached us from behind you.
+
+[02:00:18] ADDISON (DM): This is two. I was merely waiting perhaps for a group like you. Why but it. I take no offense. As we say the big fish eat a little fish.
+
+[02:00:41] KIT: Yeah. And there are plenty of things over
+
+[02:00:42] ADDISON (DM): there that would eat me like this guy. And in the vastness of the Darklake, we all must survive, no?
+
+[02:00:54] BLARG: True. Yeah. So you need someone to get the stuff back or. Why were you waiting for people?
+
+[02:01:02] ADDISON (DM): Yes. It's layer is quite close. It is at the bottom of the pool for any who wish. If you wish to accompany a stranger as myself. Thank you for the Assistance and would gladly share in anything we find down there. That is not the belongings of my sadly unlucky. I can assist you in reaching the layout.
+
+[02:01:51] AMANITA: Yep, Amanita's up for that.
+
+[02:01:56] BLARG: So you want us to go down there?
+
+[02:02:01] ADDISON (DM): I must go down there to investigate and retrieve the belongings of. But if you wish to accompany me, as I said, I can make it so.
+
+[02:02:22] BLARG: What did he have that is so important? Because no offense to you, but I'm not sure how many of those you can take on.
+
+[02:02:33] ADDISON (DM): That is very kind of you. However, chuuls do not pack which isolationary.
+
+[02:02:53] BLARG: I mean, apparently one killed your friend and took his stuff. So themselves I would assume they would attack.
+
+[02:03:00] ADDISON (DM): This one was quite dangerous. And if I was alone, it would likely kill me, which is why I did not attack it alone. And by divine intervention or simple chance you solve the problem. There should be no more danger in the depths.
+
+[02:03:27] BLARG: I'm inclined to not believe you, but one more thing. But why would you want to go there? What? Why is it so important?
+
+[02:03:36] ADDISON (DM): Well, as is. What did he do? My custom as a priest. I must retrieve the remains of my accolade as well as his priestly belongings that belong to my faith.
+
+[02:03:57] BINKS: Quick check. Are you a priest of Lolth?
+
+[02:04:04] ADDISON (DM): This is the first time you see his facial expression change into one of anger. And he very vehemently never.
+
+[02:04:22] BINKS: Okay, I'm on his side.
+
+[02:04:24] BLARG: Wait. Who is your God? Who do you worship?
+
+[02:04:32] ADDISON (DM): That is a great question.
+
+[02:04:41] BLARG: It's fine.
+
+[02:04:41] ADDISON (DM): Oh, wait.
+
+[02:04:42] BLARG: It's a personal question. I know you have to think about it.
+
+[02:04:45] ADDISON (DM): That's fair.
+
+[02:04:46] BINKS: Carl Glimmercald.
+
+[02:04:47] ADDISON (DM): Is this God Sloopidoop? Does does not have to think about it. He would say. Well, one could say that knowledge is my deity, but I. And an ouch please of. Where are they? The sea Mother blip doo boop. I'm gonna. I'm gonna put this. I'm gonna put this in here in the NPC chat. Okay. The mother blip blib blib D.
+
+[02:05:42] BLARG: So
+
+[02:05:42] DARBY: are you puttering out what the hell you say?
+
+[02:05:45] BINKS: Oh, he's not. That's the worst part.
+
+[02:05:48] DARBY: Oh God.
+
+[02:05:50] ADDISON (DM): It just comes out just like this gurgle, like gillish kind of language.
+
+[02:05:58] BLARG: Perfect. Yeah, no, I don't.
+
+[02:06:00] ADDISON (DM): I don't think I've heard of her. Sure. What a nice name.
+
+[02:06:20] BLARG: So do you guys want to help him? I like this little guy.
+
+[02:06:28] ADDISON (DM): I mean Florian. You did say you weren't sure if you trusted. If anybody wants to make an insight check, you're free to do so.
+
+[02:06:38] BLARG: Okay, let's.
+
+[02:06:39] DARBY: Darby. Darby has weird feelings for this, for this man. And it might be kind of like in a crushy kind of way. I'm just excited.
+
+[02:06:51] KIT: Got a 6 insight. So I'm probably just.
+
+[02:06:58] AEOLUS: I tried to roll inside, but I have no idea if it worked.
+
+[02:07:03] KIT: Oh, sorry. Who'll tell.
+
+[02:07:13] ADDISON (DM): You?
+
+[02:07:14] KIT: I don't see anything from you.
+
+[02:07:16] AEOLUS: Okay, I'm gonna try again.
+
+[02:07:17] KIT: Most people though, so it might be.
+
+[02:07:20] BLARG: I don't know the one I do from character sheet now get rolled to DM only. I don't know why.
+
+[02:07:27] BINKS: 19 for Aeolus.
+
+[02:07:29] KIT: Oh, 19.
+
+[02:07:29] AEOLUS: Oh, thank you.
+
+[02:07:36] BLARG: I had an 18, but I don't know why it got rolled to DM and not publicly.
+
+[02:07:57] ADDISON (DM): So anybody below a 15 just wouldn't be able to tell this is. He's hard to read. Anybody above a 15 probably believes that he's being truthful in all that he said. He is assuming. He's clearly not trying to attack you. He knows. He claims to know of the other of Grazilax. And you haven't met many kuo-toa outside son of Shuushar. But Shuushar was more of like. He kind of had more of a demeanor of a pacifist monk. Meets another stoner like. Like Amanita. But this one is very much, very much more well spoken, clearly intelligent.
+
+[02:08:57] BINKS: Hey, bippity boppity boo. Do you know Shuushar?
+
+[02:09:01] BLARG: Hey, that's racist.
+
+[02:09:03] DARBY: Be nice to our friend.
+
+[02:09:10] BINKS: Do you know Shuushar?
+
+[02:09:12] ADDISON (DM): Shuushar? Yes. Quite an interesting character. In fact, he just recently came back to the village on the same time that I was leaving to investigate. Investigate this pool with my acolyte. Wait, are you. Ah, it makes sense now. This is why you are all together such a strange group of different people. Back up. Want you. You escaped from the Dwell outpost.
+
+[02:09:55] KIT: Yeah, but twice.
+
+[02:09:59] BINKS: Wasn't Shuushar dead?
+
+[02:10:02] ADDISON (DM): No.
+
+[02:10:03] AMANITA: Shuushar dove off the waterfall.
+
+[02:10:06] BINKS: That's okay. I was like, I thought he was killed in front of us. I thought that was the guy.
+
+[02:10:10] BLARG: He made it.
+
+[02:10:10] ADDISON (DM): No, the one that was sacrificed in front of everybody to the spiders was the orc. The orc bully. Ront. Ront. In any case, whoever wants to come with this, this he, he. He kind of waves his arms with this staff that just has this kind of strange carving of a. Seems to be like a mix of a flying fish and some kind of insectoid crustacean on top. And some of the water around the pool starts to swirl and kind of the mist of it kind of moves around you and you can all feel yourselves growing these magical gills to Allow you to breathe underwater. And he controls the water a little bit, and it creates, like, a little whirlpool in the. In the middle of the pool. And he. And he says, of respect, I shall lead the way, and you wish to follow, you are welcome. If not, then perhaps I will see you in the village. If you give them this. And he kind of, like, pulls a little thing off of his necklace and hands it to Blarg. If we do not see each other again, this will gain you access to the village. Oh, thank you. He just does this, you know, for, like, such a slow moving creature. He does this surprisingly agile leap and the triple flip and then dives into the whirlpool.
+
+[02:12:17] BLARG: What a cool guy.
+
+[02:12:19] DARBY: I like
+
+[02:12:21] ADDISON (DM): Sloopidoop.
+
+[02:12:22] KIT: Yeah, you do?
+
+[02:12:24] ADDISON (DM): Yeah, I think it's cool.
+
+[02:12:28] BLARG: I. I vote we go help him. I'm pretty sure that guy dies. I think. I'm pretty sure that guy dies if he goes alone.
+
+[02:12:36] KIT: I'm gonna go, but I would also love it if somebody would give me a little extra heels.
+
+[02:12:44] BINKS: Come here.
+
+[02:12:45] KIT: Thank you.
+
+[02:12:54] BINKS: Nine points of healing.
+
+[02:12:58] ADDISON (DM): Beautiful.
+
+[02:13:00] BLARG: Are you still hurt, or is it better?
+
+[02:13:03] KIT: I'm at, like, 25 out of 35.
+
+[02:13:07] ADDISON (DM): Yeah.
+
+[02:13:07] BLARG: Then let's get another quick two. What's in there?
+
+[02:13:17] BINKS: I follow Sloopidoop. I jump in.
+
+[02:13:20] DARBY: I would like to follow Sloopidoop.
+
+[02:13:22] BINKS: Wait, what do we do about Roxy?
+
+[02:13:24] BLARG: Yeah, I was about to say that.
+
+[02:13:26] ADDISON (DM): Oh, wait a second. I'm here. I'm listening. I just have to grab my dungeon master's guide. Okay.
+
+[02:13:36] BINKS: But I use Roxy as, like, a. Like a spring.
+
+[02:13:40] BLARG: Does Roxy have magic guilds as well?
+
+[02:13:44] ADDISON (DM): Roxy does not.
+
+[02:13:46] AMANITA: Roxy needs to breathe. If Roxy's mostly mushroom, I think undead.
+
+[02:13:53] BLARG: I mean, if you put, like, a mushroom colony completely underwater. If they went before, I think that would kill them.
+
+[02:13:59] ADDISON (DM): No, I'm gonna. I'm gonna say that with. With coaxing from. From the party, Roxy attempts to jump in, but because of. Because of Roxy's biology, she floats. So she's just kind of like. She's just kind of just, like, halfway in. Just her nose is just kind of making bubbles, and she's just now a big raft at the surface of the pool and just kind of, like, swirling around the whirlpool, but, like, doesn't go down.
+
+[02:14:40] DARBY: That is very funny.
+
+[02:14:41] ADDISON (DM): Can.
+
+[02:14:42] DARBY: Can I try to, like, strength force her down this toilet? It sounds like.
+
+[02:14:50] ADDISON (DM): No.
+
+[02:14:51] BINKS: No.
+
+[02:14:52] DARBY: Why not?
+
+[02:14:54] ADDISON (DM): Because
+
+[02:14:56] DARBY: this would be funny, though, huh?
+
+[02:15:00] ADDISON (DM): Do you think? You try. You try, but she just kind of. And, like, it doesn't work. She just. You push her down it's like a big giant. It's like a life jacket. It's like trying to push. Trying to push a big, like, air mattress inner tube down under the. You, like, get her to go down and then she just comes back up. There's just. She just keeps going around, just like spinning herself as she's moving around.
+
+[02:15:31] DARBY: It's a very funny visual.
+
+[02:15:33] AMANITA: How about we hitch a rope to her saddle and then that'll help us pull ourselves back up at the end of our exploration.
+
+[02:15:48] ADDISON (DM): You can attempt. You can spend some time if you want to attempt another ritual. It'll take about 10 minutes to try to perfect what you failed to do last time and try to get her into the horn. But otherwise, someone stay up with her. Unless you're by herself.
+
+[02:16:09] AEOLUS: I think another ritual is a great idea.
+
+[02:16:12] ADDISON (DM): Guys.
+
+[02:16:14] DARBY: We got. We're not. We're not pressed for time, right? I would love. We almost had it last time.
+
+[02:16:19] AEOLUS: Yeah. It shouldn't be easier.
+
+[02:16:25] ADDISON (DM): Yeah, I'll say. Like, just from the casting of the spell, you can definitely tell that Sloopidoop is quite powerful because he gave you all the magical ability to breathe underwater. But it's like this amphibious and it's, like, lasting. So you feel a little bit weird kind of breathing. You're like. It's a little bit painful both at first, but yeah. So 10 minutes go by. We're gonna do this again. Amanita and Aeolus, you can each both make arcana checks or one of you can help the other. And again, since Darby is the one attuning to the horn, it's all going to be kind of like your arc. Your arcana checks will help or hinder Austin's animal handling role to attune to make this magical effect happen.
+
+[02:17:35] AMANITA: All right, I will lend assistance with the arcana check.
+
+[02:17:40] ADDISON (DM): Okay, so, Aeolus, you can make an arcana check with advantage. And that roll will determine DC of Austin's animal handling role.
+
+[02:17:50] BLARG: Can I help? Give the help action with the animal handling since I'm proficient in that.
+
+[02:17:55] DARBY: Well, Good.
+
+[02:18:06] AEOLUS: Okay.
+
+[02:18:07] ADDISON (DM): Florian, you can. You can help Austin. Sure.
+
+[02:18:13] DARBY: I was going to ask if casting Animal Friendship would help at all.
+
+[02:18:19] ADDISON (DM): You're already friends.
+
+[02:18:21] DARBY: Okay.
+
+[02:18:22] ADDISON (DM): I don't remember what the wording is on animal friendship.
+
+[02:18:26] DARBY: What about. What about beast sense at all?
+
+[02:18:31] ADDISON (DM): What is.
+
+[02:18:32] KIT: I don't think that's how you touch
+
+[02:18:34] DARBY: a willing beast for the duration. You can perceive the beast's senses as well as your own.
+
+[02:18:38] KIT: That just. That just enables you to, like, see what they're seeing.
+
+[02:18:43] DARBY: I could become one with The Roxy,
+
+[02:18:46] KIT: I don't know, but it doesn't allow you to control them or anything.
+
+[02:18:50] ADDISON (DM): I'm okay with that. I'm okay with that. You expend the spell slot, and I'll give you a plus two on top of your other bonuses.
+
+[02:19:01] DARBY: Doesn't hurt to ask. Okay, cool.
+
+[02:19:03] KIT: That's fair.
+
+[02:19:06] BINKS: Aeolus rolled a 22.
+
+[02:19:09] AEOLUS: Yeah,
+
+[02:19:15] ADDISON (DM): I gotta get to the magic items here. 216. Where are the magic item tables? Magic items A through Z, random magic items. There we go. 6. Okay, Aeolus. What was your Arcana check?
+
+[02:19:46] AEOLUS: 22.
+
+[02:19:48] ADDISON (DM): That was with advantage.
+
+[02:19:50] AEOLUS: Yes. Yes.
+
+[02:19:53] ADDISON (DM): Okay. Okay, so I'm going to say that it's going to lower the DC to an 18. On the animal handling. So go ahead and make that roll. You've got advantage from Blarg, and you got a plus two from your own beast sense.
+
+[02:20:22] BLARG: Okay, please hold. Is that it?
+
+[02:20:30] DARBY: I clicked the right one.
+
+[02:20:31] BLARG: Okay,
+
+[02:20:36] DARBY: Let's go. 18 and 17, plus all the other stuff.
+
+[02:20:42] ADDISON (DM): Awesome. Okay, so this time around, you're able to kind of create this deeper bond and get a better understanding of, like, the magical networking going on here. And. And you see that. That Roxy's starts to shed and the fungal growths, and then her body itself turn into spores and just turn into its own little, like, almost like a. Like a genie going back into the bottle. Everything just into this horn. And you can feel her presence still on the horn. And you know instinctively now that you are fully attuned that simply calling Roxanne out will summon her back. But she's safe and sound now. You don't have access to any of her inventory while she's. While she's in here, but she's in a more transportable form. So we'll fast track this. You all dive down, you follow the whirlpool, and it kind of spits you out back out of the water into this small little cave. And you see various remains of a whole bunch of creatures. You see kuo-toa remains. You see some other insectoid monster remains. You see lots of fish remains and bones scattered around. There's a few items. There's some. There's some just rusted to, like, mostly unusable weapons and armor. Some looks like some random bags and. Shells and just a mix of things.
+
+[02:23:09] KIT: So you said the weapons are all unusable,
+
+[02:23:13] ADDISON (DM): just at least on first glance.
+
+[02:23:15] KIT: Okay.
+
+[02:23:17] ADDISON (DM): But without needing. Without needing to make a. Without needing to make a perception check, you all kind of look around and you. You see. Sloopidoop there. He says, ah, I wasn't sure if you were coming.
+
+[02:23:35] KIT: Me?
+
+[02:23:37] ADDISON (DM): He says that to the party just because it's like 10 minutes after you left.
+
+[02:23:47] AMANITA: Oh, yeah. We had to pack up our pack animal.
+
+[02:23:53] ADDISON (DM): The Awoks quite a fascinating creature. I would love to study them further.
+
+[02:24:01] DARBY: You can study anytime.
+
+[02:24:03] ADDISON (DM): He's pretty cool. This is rock and attempt at birdie, perhaps back at the village. So he's kneeling over one of the fresher bodies there, clearly another kuo-toa with similar garb. And he. He carefully takes the necklace and he's. He's doing some magic over the body to. To essentially preserve it in death. And then he kind of like this, like this film of. This bubbly film of water envelops it, and the bubble itself with the corpse then kind of just shrinks. And he lays out this. He lays out this net that just becomes. As he lays it out, it opens up into what looks like just a hole in the floor under what was this net after it glows. And he carefully lays it down and then, and then wraps the net up and puts it. Puts it back over themselves. And he says, well, you are welcome to the west of the booty of this kuo-toa. Hahaha. But you find this monster horde. Let's see who feels lucky right now,
+
+[02:25:56] BINKS: Amanita.
+
+[02:25:57] ADDISON (DM): Feeling. Who's feeling lucky?
+
+[02:25:59] KIT: All right, what do I get?
+
+[02:26:02] ADDISON (DM): Give me, give me 2. D6.
+
+[02:26:17] AMANITA: Okay, a three and a two. So five.
+
+[02:26:21] ADDISON (DM): You find five gems scattered around the cave, each of which is worth an average of 50 gold pieces, more or less. Ooh. Who else is feeling lucky?
+
+[02:26:39] DARBY: Darby will feel lucky.
+
+[02:26:40] KIT: Oh, okay.
+
+[02:26:41] ADDISON (DM): You go for it, Darby. Oh, okay.
+
+[02:26:44] DARBY: Either or.
+
+[02:26:46] ADDISON (DM): Give me a. Give me a D4.
+
+[02:26:49] BINKS: Okay.
+
+[02:26:54] DARBY: Right there. Three.
+
+[02:27:03] ADDISON (DM): Three. So you and two of your friends, two of your party members can roll. Can each roll a D100.
+
+[02:27:16] DARBY: Who wants to roll a D100? Perhaps. Perhaps Kit and Blarg and you, Emmy.
+
+[02:27:31] BLARG: D100.
+
+[02:27:31] KIT: Here we go.
+
+[02:27:34] BLARG: I went right up.
+
+[02:27:38] KIT: 37.
+
+[02:27:40] ADDISON (DM): 3764. 37.
+
+[02:27:47] BLARG: And 70.
+
+[02:27:50] ADDISON (DM): So we'll start with kit. You rolled a 37. You find. You find a strange. It's strange to you because all of the other metal in here is clearly rusted and corroded to the point of like you picking it up and it just breaks the pieces. This one is in pristine condition. It's a lock, like a deadbolt kind of looking lock. You'll have to do an identify spell or spend some time or have somebody who's proficient in arcana to do a ritual, see more. What was the Other one. Florian, you rolled a 7. 0. 70. 70.
+
+[02:28:43] BLARG: Yes.
+
+[02:28:43] ADDISON (DM): Yes. You find a scroll. You find a scroll that, I mean you have enough magical wherewithal to make a solid pretty confident guess that this is a spell scroll of some kind. And Darby, what did you roll for yours?
+
+[02:29:10] DARBY: 64. 64.
+
+[02:29:13] ADDISON (DM): 64. You find a cord of hempen rope that's similarly to the rest of the rope that like is in some of the gear that's just been pulled in from this creature torn to shreds or just disintegrated. This one is in very good condition. Appears to be some kind of magically enhanced rope. So just for everybody's. Just so I don't forget. Let me see. I. I'll know what it is. Okay, I got that. I've got that and I've got the 37. Yeah. So we can figure out what those technically are and what their effects are later. But you also find. Like some kuo-toa armor. It's like there's. They're, they're like teeth. It's like scale armor that's, that's made of like various teeth and shells and bones. And you also find a kuo-toa weapon, a trident. Both. Both non magical.
+
+[02:30:51] AMANITA: Definitely.
+
+[02:30:52] KIT: Looking at what a trident would do,
+
+[02:30:59] ADDISON (DM): We'll say that you also find like a net that's still in pretty good shape. Like a fishing. A fishing net that's got like a rope around it that you can pull to pull it taut and kind of like enclose the net.
+
+[02:31:17] KIT: Okay. Trident Martial melee.
+
+[02:31:24] AMANITA: If the armor because it's like bone and teeth. So I could use it because I can't use metal. But if it has a better class than my leather, I might take it.
+
+[02:31:40] ADDISON (DM): I mean I think scale armor does classify as medium or heavy. I'll have to have to look at that. But you know, you might have a disadvantage to like stealth but you, you could indeed use it because it is. There is no. There is no metal. That is true. And in fact the neither. Neither is the trident. The trident is itself is. Is made of bone and Zurkhwood.
+
+[02:32:11] KIT: Yeah. It's a pretty basic martial weapon. So anybody who does martial stuff can use it does 1D8 piercing. It's a versatile weapon.
+
+[02:32:31] BINKS: 1d10 throne as well.
+
+[02:32:34] KIT: Yes.
+
+[02:32:37] BINKS: I can just add to the party inventory.
+
+[02:32:40] KIT: Yeah, do that. Is it light?
+
+[02:32:46] BINKS: No.
+
+[02:32:46] ADDISON (DM): I think so.
+
+[02:32:50] BINKS: It's not Properties are thrown versatile and topple.
+
+[02:32:54] KIT: And topple. Yeah.
+
+[02:33:01] BINKS: Armor as well to the part party inventory.
+
+[02:33:04] ADDISON (DM): So we're gonna stay for flavor. Topsy and Turvy really don't like water. So they stayed. They stayed back to keep an eye on Derendil. So you know, while like after you're kind of done collecting your loot, Sloopidoop like inquires further. So tell me more about this for quaggoth come weather viewers. What exactly did they tell you?
+
+[02:33:41] BLARG: I mean basically what we said. That he used to be an elf Elven King and then some evil wizard turned him to what he is now.
+
+[02:33:54] AEOLUS: An elven.
+
+[02:33:57] ADDISON (DM): Noble, you say?
+
+[02:34:01] BLARG: I'm not sure about the titles and stuff.
+
+[02:34:04] ADDISON (DM): He kind of like. He kind of like. It's almost like a scratching beard, but it's just like this big jugular that he kind of just like. Did he tell you of what Elvish kingdom he came from?
+
+[02:34:23] KIT: I can check.
+
+[02:34:25] ADDISON (DM): Yeah. You guys, anybody who thinks they would have. Would have conversed with Derendil in the prison. Actually everybody, because you've been with Derendil for. For a while now and he.
+
+[02:34:40] BINKS: And he explained the story.
+
+[02:34:41] ADDISON (DM): Yeah, he's pretty. He's pretty chatty in terms of just repeating himself on how noble and all awesome he is and how awesome forest
+
+[02:34:51] KIT: us served in curse into quoth by the evil wizard Pterostor.
+
+[02:34:59] ADDISON (DM): Give me. Give me a history.
+
+[02:35:02] KIT: Me.
+
+[02:35:04] ADDISON (DM): Anybody? Everybody. Group. Group History 21 Natural 1 9.
+
+[02:35:18] DARBY: Darby doesn't really care about him anyway.
+
+[02:35:23] BINKS: Darby's flustered over Sloopidoop.
+
+[02:35:26] DARBY: Darby's super buster over Sloopidoop Kit.
+
+[02:35:30] ADDISON (DM): Kit. You were. You were the. You and Binks were the. Were the prisoners there for the longest.
+
+[02:35:36] KIT: Yeah.
+
+[02:35:36] ADDISON (DM): And like the. Despite getting so annoyed with this guy, you have. You have the. The best memory. The kingdom that he said that he stated was Nel Rinden Vain. And I'm going to put that title the K. I'm gonna put that in the NPC chat too. The Kingdom of Nil Ren. I'm going to do an intelligence check for Sloopidoop natural 14 plus 8. So he know. He knows. He ponders or no. Sorry. Plus four. But still I'm going to say 18 is good enough on that one. He thinks. And he says I know of the Elvish Kingdoms above somewhat. Well, I have never heard of this kingdom Nel Rinden Vain. I do know of the High Forest and most of the kingdoms that reside there. And I have never heard of such a place. This only confirms my understanding that this quaggoth is simply mad. Made so helpless by the chaos of this place.
+
+[02:37:19] BLARG: Did he tell us when he was turned? How long ago, Derendil? Did he ever say that?
+
+[02:37:28] ADDISON (DM): No. No he didn't.
+
+[02:37:31] BLARG: Okay. I'm just wondering. They were probably lying there.
+
+[02:37:41] ADDISON (DM): I think his memory started to get a little bit hazy when you asked how long he's been the way that he is. I also have never heard of an evil wizard by the name of Pterostor. But the surface, much like the underdark, has its share of evil. Perhaps there is someone by that name. But to my knowledge, there is no such place as Nell Wind in Vain.
+
+[02:38:19] BLARG: I mean, how have you been there? How would you know? Anyways,
+
+[02:38:25] ADDISON (DM): as I said, I am a scholar first and foremost. Well, I am a priest first and foremost. But I am a scholarly priest and a member of the Society of Brilliance, so naturally I am quite brilliant.
+
+[02:38:42] BLARG: Interesting.
+
+[02:38:43] AMANITA: Dudes. We should tell them about what happened to Topsy and Turvy and the whole thing with the faerzress just going like wa and making everyone a bit nuts.
+
+[02:38:55] ADDISON (DM): Yes, it has had that effect for some time. Which is unfortunately my society's primary goal. To discover why it is so, as you put it.
+
+[02:39:09] AMANITA: Yeah, exactly.
+
+[02:39:13] BLARG: Anything yet?
+
+[02:39:18] ADDISON (DM): I am. I am learning. I have made some experiments and seeing that the chaotic energies are slowly worsening in intensity. However, the origin is as of yet unknown to me. However, chaotic energies such as this are typically demonic.
+
+[02:39:55] BINKS: We might know that it might be kind of fay in nature a little bit.
+
+[02:40:03] ADDISON (DM): So I don't know, you come to learn of such things?
+
+[02:40:14] BINKS: Well, I don't know how much I can say. I've said too much in the past.
+
+[02:40:22] BLARG: I think he's a trustworthy guy.
+
+[02:40:24] BINKS: You think he's trustworthy?
+
+[02:40:25] ADDISON (DM): I trust him. Just because I want to quote Lord of the Rings. Very well, keep your secrets.
+
+[02:40:38] BINKS: I mean, I'll take. Let's take a vote. Besides Darby, because Darby's kind of.
+
+[02:40:48] DARBY: Hey, I get a vote. I'm a voting party.
+
+[02:40:51] BINKS: Fine, fine, you do get a vote. But I'm gonna put an asterisk inside it.
+
+[02:40:59] DARBY: I forget a lady be charmed today.
+
+[02:41:04] BLARG: Yeah, I mean, tell them I'm pro.
+
+[02:41:07] ADDISON (DM): Like all of it.
+
+[02:41:11] BLARG: Like how? What could it hurt? I mean, did he tell us not to tell anyone?
+
+[02:41:21] BINKS: Did he tell anyone?
+
+[02:41:22] BLARG: I don't know. Did anyone tell us not to tell anyone? I don't think. It's fine, go for it.
+
+[02:41:35] ADDISON (DM): I would say, Amanita, you have the strongest connection to Silofirst. You specifically, and your party by proxy are essentially taking on the role of still budding, still young and needing growth and power. But you're his intention for you. Sorry, their. It's intention for you. This archfey is their intention for you. Is to be their champion, save the entirety of the underdark, and preserve the cycle of life and death. However, you also are smart enough to know that a group of highly intelligent monstrosities of the underdark likely have their own intentions, have their own priorities, I would say. Just like this guy seems very not, you know, not unhelpful, but you. You kind of came in and, like, you made it possible for. He's taking advantage of you at this point to, like, get what he needs. And he's offering you a path to his village, which is a show of trust. But also he has witnessed you as a powerful group. So you don't know his. You don't know his plan. Telling. Telling anybody what you know may. May have some benefit, but may also it's drawbacks if they. If they use that knowledge to their own ends.
+
+[02:43:50] AMANITA: All right, so Amanita's thinking. All right, Amanita is just going to say, guys, like, this stool dude is pretty cool, but, you know, I'm trying to learn to, like, be less impulsive and. And see what the network actually needs. I think what it needs is for us to find a way since life and death, and that means balancing everything, you know, so let's tell him what we need to maybe get something from him. I think what we should tell him is not all the details, but that we know, like, that there's some rock that are coming out of the, like, demon dimensions and just messing stuff up. And. And we'd like to know if this run into anything like that. Can they. Can they study it and give us information? And. And also, like, these guys, like, do they want balance or do they want something else? I don't know, man.
+
+[02:45:06] BLARG: Just ask them.
+
+[02:45:07] ADDISON (DM): I'm. I'm assuming that you're saying all this telepathically.
+
+[02:45:11] KIT: Yep.
+
+[02:45:14] ADDISON (DM): Right.
+
+[02:45:14] AMANITA: We're all, like, huddled. Like, there's. There's pipe smoke pouring out of Amanita's mouth just around everybody's heads.
+
+[02:45:29] BINKS: I mean, question for question, might be
+
+[02:45:31] BLARG: good
+
+[02:45:34] BINKS: to get what they know. We don't have to give everything, but we can give some. Like, we know that there is a myconid bad guy. We do know that, but we just don't. So say where we know that from if it's asked. I mean, he could just be like, where'd you guys come from? You know, could be simple.
+
+[02:46:07] AMANITA: Yeah, we just want to make sure he doesn't, like, attack Silo Fear's realm accidentally.
+
+[02:46:16] BINKS: Yeah, let's not implicate Silo Fear.
+
+[02:46:24] ADDISON (DM): At this point.
+
+[02:46:25] AMANITA: I mean, Something's trying to like keep death from like they're. They're giving all the control over to death so that we could tell them, like we've seen imbalance going in the direction of death, right?
+
+[02:46:45] BINKS: Yeah.
+
+[02:46:48] AMANITA: And like undead and all of that. Like controlling death. Which means you don't get the awesome life cycle that you need.
+
+[02:46:59] BINKS: Yeah, let's go ahead. Hey, slip a. Dude.
+
+[02:47:03] ADDISON (DM): What's.
+
+[02:47:05] BINKS: What are you guys trying to do? Like what. What's your goal with the Society of Brilliance? You guys are so smart.
+
+[02:47:15] ADDISON (DM): Yes, yes, we are. But it is understandable of you to question which is such as myself brilliant respects brilliance. Apps. From some of your silence and looking upon each other, I can only guess that you are communicating by some kind of telepathic means. I have some knowledge of this from my colleague, Rasa Lax. Perhaps I can make an offer. My village of. My home village of Sloobludop is a short day's walk from here. Since perhaps not all can swim there, which would make it somewhat faster. But if you accompany me to Sloobludop, we can reveal and speak on it. More on the way. I shall say that the village itself has been affected by the chaos that is slowly permeating the entirety of the underdark they suspect. And if you assist my village, I will assist you in knowledge and aid if it benefits us both. Does that seem reasonable?
+
+[02:49:29] BINKS: Yeah, I mean, we help you, you help us.
+
+[02:49:32] BLARG: My son's there.
+
+[02:49:34] BINKS: Wait, can you guys identify objects?
+
+[02:49:38] ADDISON (DM): Ah, yes. I shall help you there.
+
+[02:49:45] BLARG: And do you have like a mental hospital or something?
+
+[02:49:51] ADDISON (DM): A mental hospital? Sadly, no. The closest we have to that is the. Is the temple to the sea Mother
+
+[02:50:08] BLARG: sounds good too.
+
+[02:50:10] ADDISON (DM): However, what was your name? My orcish.
+
+[02:50:19] KIT: Me.
+
+[02:50:19] ADDISON (DM): What do you call yourself? I did not get your name. I am sorry. Kit. Kit. The item you possess appears to be a lock of twickery.
+
+[02:50:29] KIT: Okay.
+
+[02:50:31] ADDISON (DM): The wope is a rope of mending. Quite useful. And another rope. Where's the last one?
+
+[02:50:48] BLARG: The spell scroll seventy.
+
+[02:50:51] ADDISON (DM): The spell scroll? Yes, the spell squall. This is quite well preserved. The. This is a spell scroll of sand. First level. Nothing too extravagant, but perhaps you can find a use for it.
+
+[02:51:36] BLARG: Probably. Thank you.
+
+[02:51:39] BINKS: I'm going to add that to the party inventory. All that so
+
+[02:51:46] ADDISON (DM): you for allowing me and for defeating the chuul and allowing me to obtain the remains of my acolyte. For this you have my gratitude. Which is no small thing for a member of the society.
+
+[02:52:07] BLARG: That's great, man. Thank you.
+
+[02:52:13] ADDISON (DM): So we're going to call the session there. Thanks for going about 15 minutes late. So we'll end session here with you guys coming back out of the lair, gathering up all the party and making your way the last final leg to Sloobludop and we'll pick up there in a couple of weeks.
+
+[02:52:38] KIT: Okay, nice.
+
+[02:52:41] AMANITA: Next. The next one is that three day weekend. I don't know how many people are traveling. I will do my best to be online for it, but I may be interrupted part way.
+
+[02:52:55] ADDISON (DM): Okay. Yeah, let me look at the schedule. Yeah. 621, June 21, Three day weekend. Oh, because it's Juneteenth.
+
+[02:53:10] AMANITA: Yeah.
+
+[02:53:12] ADDISON (DM): Yeah. Okay. Yeah. If. If nobody is like an outright no, then we'll, we'll plan for it. And I'll check in with everybody. I'll do my best to check in on that Wednesday before on the 17th and make sure that we're all sounds good. All right, Good session everybody. Glad we got a full one in there. Glad everybody was able to make it.
+
+[02:53:37] DARBY: Thank you for your understanding.
+
+[02:53:38] ADDISON (DM): I appreciate it. Yeah. Have a great next couple of weeks.
+
+[02:53:43] BLARG: You too. Was nice.
+
+[02:53:45] ADDISON (DM): See y'. All. Fun times. Bye, everybody. Yeah, Taylor, did you get the full recording?
+
+[02:53:54] KIT: I think so. As a matter of fact, right now I'm making sure that even right now my voice is showing as recorded. So yes, I think I got everything. I appreciate you putting stuff in that NPC chat. I've already put that in some of my stuff and I'll probably run notes right now.
+
+[02:54:13] ADDISON (DM): Cool.
+
+[02:54:14] KIT: Thank you so much.
+
+[02:54:15] ADDISON (DM): Appreciate you. You're awesome. I love these notes. Can't. Can't wait to keep reading. And I'm glad because it's fun for me.
+
+[02:54:23] KIT: Yeah, I can.
+
+[02:54:24] ADDISON (DM): Super, super helpful.
+
+[02:54:25] KIT: Just stop. Like every time I do something I'm like, oh, you know, it would also be cool if I did and then I take it to the next level. So who knows what's gonna be next.
+
+[02:54:36] ADDISON (DM): Yeah. Thanks again, Taylor. I'll see you in a couple weeks.
+
+[02:54:41] KIT: See you.
+
+---
+# END OF CORRECTED TRANSCRIPT — Session 16 (06/07/2026)
