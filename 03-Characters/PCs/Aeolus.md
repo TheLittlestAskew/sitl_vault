@@ -109,6 +109,8 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - "I'm a squishy warlock." — S15, re: AC 12 discussion [Funny]
 - "Just tell him how to call someone stupid and he's going to be happy." — S15, re: learning Sylvan [Funny]
 - "I know, mine, they're really cool because fuck Lolth, first off." — S16, re: messing with shrines [Funny]
+- "I would actually like to cast thorn whip and toss it in and go fishing. Actually, wait. I have a fishing pole. I'm gonna go fishing." — S18 [Funny]
+- "I've landed a fish." — S18 [Funny]
 
 ### S15 Key Events
 - Riding Roxy during travel. Requested Sylvan lessons from Binks specifically.
@@ -122,6 +124,13 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - When Kit asked the group about curses: "I'm thinking what exactly I know about curses other than I was cursed recently when I stole—" *(cuts off — ties to his existing curse thread; no new detail captured)*.
 - "Fuck Lolth, first off" — re: why he messes with shrines. First on-record profanity.
 - Quiet session otherwise; gained Heroic Inspiration with the party.
+
+### S18 Key Events ([[Session 18 — The Big Fish Eat the Little Fish|Session 18]])
+- **Went fishing** with an actual pole, baiting the hook with [[Glabbagool]] (scouted the pool bottom through Glabbagool's eyes — plankton, fish, bones, >15 ft drop). **Landed two large fish** (Animal Handling 22) — "one meal per fish." "I've landed a fish."
+- **Combat 1:** Eldritch Blast (17 to hit, 12 force) on the [[Chuul]]. Initiative 12.
+- **Combat 2 — the clutch beat:** cast **Sleep**, which finally dropped the frenzied [[Derendil]] (Nat 4 WIS save) and **ended the fight non-lethally**, saving both Derendil and Kit. [[Kit Aluri]] thanked him sincerely ("which I feel like is going to be canon").
+- **Insight 19** on [[Sloopidoop]] — believes him truthful. Earlier, **Arcana 22** assisted [[Darby Stonefeather]]'s horn ritual (lowered the DC).
+- Raised his standing open concerns again — **"Clementine"** and the **Darkness safe word** — neither resolved. Briefly noted his own existing curse when curses came up. Physical dice (no DDB entries); transcript-only.
 
 ---
 
@@ -143,11 +152,15 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
+- [[Session 18 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
 - [[Blarg]]
 - [[Roxanne]]
+- [[Chuul]]
+- [[Sloopidoop]]
+- [[Derendil]]
 - [[Naos]]
 - [[Lolth]]
 - [[Campaign Dashboard]]

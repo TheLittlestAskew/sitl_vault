@@ -31,6 +31,7 @@ location: With party, ~1 day from Sloobludop (S16)
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Grew slightly in size during Darby's Feydark father-vision.
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Used the Help action to distract Ilvara. Darby shielded her from spider gore: "Clementine, don't look."
 - **[[Session 16 — Zone of Truth|Session 16]]:** Found on [[Binks Stonevein]]'s shoulder as he woke from his arachnid-POV dream — "steady, as if waiting." Was *prepared* to strike but did not attempt. Interrogated by Darby via Speak with Animals: senses "something familiar but wrong" with Binks — "like **The Master of Spiders** somehow with them, and that's not good. I have this master, but I don't like her very much. She's not as cool as you, but she's very powerful, **and she knows him now.**" First indication Clementine has a "master" connected to Lolth. DM rolled her Zone of Truth save (result unstated).
+- **[[Session 18 — The Big Fish Eat the Little Fish|Session 18]]:** Named once — [[Aeolus]] lists "what are we doing about Clementine?" among the party's open concerns — but **no context or new detail surfaces** this session. [Unknown/Ambiguous] whether this refers to her or a separate concern; flagged in Open Threads for cross-reference.
 
 ## Key Quotes
 

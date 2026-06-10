@@ -11,7 +11,7 @@ location: "[[Velkynvelve]] — Quaggoth Den"
 Large, ape-like Underdark creatures. Typically aggressive and territorial. Used as laborers and muscle by the drow at [[04-World-Lore/Locations/Velkynvelve]]. The Quaggoth Den was the worst duty assignment for prisoners.
 
 ## Notable Individuals
-- **[[Derendil]]** — A quaggoth prisoner who wears clothing, speaks Elvish, and claims to be a polymorphed elven prince. His mannerisms are "very much not quaggoth-like." Captured by other quaggoths during the S02 escape.
+- **[[Derendil]]** — A quaggoth prisoner who wears clothing, speaks Elvish, and claims to be a polymorphed elven prince. His mannerisms are "very much not quaggoth-like." Captured by other quaggoths during the S02 escape. **S18: the kuo-toa priest [[Sloopidoop]] declares him simply a quaggoth** — chaos-deluded into a false royal memory, with "no cure besides the peace of death." Mechanically confirmed a **monstrosity** when [[Blarg]]'s Hold Person (Humanoid-only) failed on him. He frenzied and dropped Kit before being subdued.
 
 ## Encounters
 
@@ -34,5 +34,7 @@ Large, ape-like Underdark creatures. Typically aggressive and territorial. Used 
 ## Related
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
+- [[Session 18 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Derendil]]
+- [[Sloopidoop]]

@@ -28,5 +28,33 @@ _Note: No new physical loot. Heroic Inspiration granted to everyone without it a
 
 ---
 
+## Session 18 — The Big Fish Eat the Little Fish
+
+> ⚠️ Filed as S18 per operator instruction; the 2026-06-07 play date is disputed (likely S17). See [[Vault Sync Status]] / the session note's Archivist Notes.
+
+### From the Chuul's Submerged Lair
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|**Lock of Trickery**|Pristine deadbolt lock — the only intact metal among rusted gear. Recovered (d100 = 37); identified by [[Sloopidoop]].|Carried|
+|Party inventory (via [[Blarg]])|**Spell Scroll of Sand** (1st level)|"Well preserved" scroll (d100 = 70); identified by Sloopidoop. ⚠️ No standard 1st-level spell named "Sand" — intended spell flagged for DM confirmation.|Carried|
+|Party inventory (via [[Darby Stonefeather]])|**Rope of Mending**|Magically enhanced hempen rope, "in very good condition" (d100 = 64); identified by Sloopidoop.|Carried|
+|[[Amanita de'Champignon]]|**5 gems** (~50 gp each)|Scattered in the lair (loot roll 2d6 = 5).|Carried|
+|Party inventory|**Kuo-toa trident** (non-magical)|Bone + [[Zurkhwood]]. Martial, versatile (1d8/1d10 thrown); Thrown/Versatile/Topple. Usable by martial characters.|Party inventory|
+|[[Amanita de'Champignon]]|**Kuo-toa scale armor** (non-magical)|Teeth/shell/bone — **no metal**, so usable by Amanita despite her metal restriction. ⚠️ Medium/heavy classification & stealth penalty DM-pending ("I'll have to look at that").|Party inventory|
+|Party inventory|**Fishing net**|In good shape; rope drawstring closes it taut.|Party inventory|
+|[[Blarg]]|**Village-access bead**|Pulled from [[Sloopidoop]]'s necklace; grants the party access to [[Sloobludop]].|Carried|
+|[[Aeolus]]|Two large **fish** (rations)|Caught fishing (Animal Handling 22) — "one meal per fish."|Consumable|
+
+### Item Updates from This Session
+
+|Character|Item|Update|Status|
+|---|---|---|---|
+|[[Darby Stonefeather]]|**The horn** (Roxy's attunement focus)|**Fully attuned this session.** [[Roxanne]] now storable/summonable by calling "Roxanne." Inventory inaccessible while she is inside. Resolves the S16 partial-storage attempt.|Attuned — Active|
+
+_Note: Sloopidoop also recovered his acolyte's necklace, body, and priestly belongings (magically preserved/shrunk) — these belong to his faith and are NOT party loot. The trident/scale armor/net are non-magical utility items added to party inventory._
+
+---
+
 ## Related
 [[Campaign Dashboard]]

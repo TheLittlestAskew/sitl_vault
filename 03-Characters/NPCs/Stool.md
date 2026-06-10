@@ -53,6 +53,7 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Present throughout. No individual scene or dialogue. Traveled with party through Velkynvelve portal.
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** Empowered with Pacifying Spores, Dissonant Whispers, and Misty Step (confirmed by Addison pre-session). Misty Stepped onto unconscious [[Darby Stonefeather]]'s head and woke her as an action — "Darby, Darby, Darby! Oh my gosh, are you awake?" One of the session's most memorable moments. **Dropped to 0 HP by [[Ilvara Mizzrym]]'s Insect Plague** (failed Con save). 1 death save success as of session end.
 - **[[Session 14 — Far From the Sun|Session 14]]:** Stabilized by [[Amanita de'Champignon]] (Spare the Dying) while Kit was giving her Persuasion speech. Healed by [[Blarg]] (Cure Wounds in bear form, 9 HP restored — near full, max HP 12). Communicating telepathically throughout. Asked excitedly "Neverlight Grove? Are we going home? We'll be safe there" when party discussed destinations. Hugged Kit's calf. Riding on Amanita's shoulder.
+- **[[Session 18 — The Big Fish Eat the Little Fish|Session 18]]:** Pitched into the chuul fight — a **Slam (19 to hit) for 1 poison damage**, the chip that brought the [[Chuul]] to 6 HP right before [[Derendil]] devoured it.
 
 ## Key Quotes
 
@@ -72,8 +73,10 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
+- [[Session 18 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Amanita de'Champignon]]
+- [[Chuul]]
 - [[Psilofyr]]
 - [[04-World-Lore/Locations/Neverlight Grove]]
 - [[04-World-Lore/Locations/The Feydark]]

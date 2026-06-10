@@ -24,13 +24,30 @@ _Note: Kit's biggest profanity session of the campaign (+17) — the throat-grab
 
 ---
 
-## Running Totals (Through S16)
+## Session 18 — The Big Fish Eat the Little Fish
+
+> ⚠️ Filed as S18 per operator instruction; 2026-06-07 play date disputed (likely S17). Transcript-only count.
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "shit" / "shitty" | 4+ | "still shitty Rolls"; "What a piece of shit"; "shitty mood" — venting at the dice |
+| Kit Aluri (Taylor) | "fuck" / "fucking" | 2 | "that wasn't my fucking name"; "you're like, fuck you" (recounting the ambush) |
+| Kit Aluri (Taylor) | [implied] "stab the ___ out of" | 2 | Self-censored in transcript ("stab the out of this guy / Derendil") — not counted in word totals |
+| Addison (DM) | "God damn it" / "damn it" | 3 | Frustration at his own missed attack rolls |
+| Addison (DM) | "fuck you" | 1 | Voicing the party's defiance of the chuul |
+| Darby Stonefeather (Austin) | "Holy ___" | 2 | "Holy." on arriving to the chuul fight (self-censored — word cut; not counted in totals) |
+
+_Note: Conservative, transcript-only count (DDB has no profanity data and the archive was not queried this run). Self-censored entries (Kit's implied "stab," Darby's clipped "Holy ___") are logged but not added to word-column totals._
+
+---
+
+## Running Totals (Through S18)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 10 | 20 | 10 | 9 | 1 | — | 50 |
+| Kit Aluri (Taylor) | 14 | 22 | 10 | 9 | 1 | — | 56 |
+| Addison (DM) | 4 | 5 | 3 | — | 2 | — | 14 |
 | Binks Stonevein (Matt) | 3 | 3 | 2 | 3 | 1 | — | 12 |
-| Addison (DM) | 4 | 4 | — | — | 2 | — | 10 |
 | Darby Stonefeather (Austin) | — | 4 | 2 | 1 | — | — | 7 |
 | Blarg (Florian) | — | 1 | 1 | 1 | — | — | 3 |
 | Aeolus (Sirius) | — | 1 | — | 1 | — | — | 2 |
@@ -38,7 +55,7 @@ _Note: Kit's biggest profanity session of the campaign (+17) — the throat-grab
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit hits the half-century — 50 — with her biggest single-session haul (+17). Binks crosses into double digits at 12. Aeolus finally swears on the record and it's directly at Lolth.*
+*Kit pushes to 56, still lapping the field. Addison's frustration at his own dice (+4: three "damn it"s and a "fuck you") vaults him past Binks into second place at 14. The chuul ambush was a salty one for the DM.*
 
 ---
 

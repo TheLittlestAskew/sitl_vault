@@ -804,3 +804,35 @@ Don't trust dreams. Unless you are Amanita. She is the only one allowed.
 </details>
 
 **
+
+---
+
+## Session 18 — The Big Fish Eat the Little Fish
+
+<details><summary>The Darklake approach — the black pool, the thing that ate the chuul, and a fish-priest with a ridiculous name (one day out from Sloobludop)</summary>
+
+**THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR**
+
+I am beginning to think the water down here hates me as much as everything else does.
+
+We came out of the mushrooms into open air — open for the Underdark, anyway — and a still black pool with steam coming off it. I should have read that for what it was. Still water that quiet is water with something underneath it. But everyone was tired and clean-starved, so the elf with the fishing pole went fishing, and the others went swimming, and I climbed up on a mushroom cap to keep my feet dry and my eyes high, and for one whole half-hour I let myself believe nothing wanted to kill us.
+
+Then the line went tight, and the pool stood up.
+
+It came out of the deep end like a nightmare wearing armor — claws the size of my torso, a mouth full of poison whips. It went for the soft ones first, the way they always do. We were on it before it could drag anyone under. I marked it, opened it up, and for once the dice were on the right side of the table. Roxy came down on its belly like a falling wall. The little eye in the water skin crawled into its gills and started drowning it from the inside. And then — gods — the thing that thinks it's a prince leapt the whole pool and ate it. Just ate it. Tore it to pieces and kept tearing. We've seen a lot of ugly things. I still stepped back.
+
+That's when the fish-priest walked out of the dark.
+
+I'll say this plainly, the way I'd say it if anyone asked: I'm tired of standing next to the one who wants to kill us all. Last time I swore I wouldn't take it again. So when the beast set its eyes on the stranger and the red came up behind them, I moved in to put it down before it could start. It turned on me instead. Two strikes, and the second one should have finished me. I felt the floor of myself drop away — and then the old blood pulled me back up by the collar, the way it always does, one breath left, one heartbeat, *not today.* I came up out of the water with my own blood in my mouth and I kept stabbing. I didn't want to. I wanted it to be anyone else's turn to be the one nobody could save. But it was mine, so I did the work.
+
+The warlock put it to sleep before I had to make it permanent. I looked at the kid and thanked him, and I meant it. Then I let my head fall on the dwarf's shoulder while he stitched me, because I was done pretending I wasn't hurt.
+
+The priest. The fish with the ridiculous name. I laughed — let me have that, I've nearly died fourteen times and a man telling me his name with a straight face is the funniest thing that's happened in weeks. He didn't flinch when we laughed. Big calm eyes, a staff, a way of moving water around like it owed him. He talked like a scholar and asked nothing he couldn't pay for. He gave us a bead that opens his village, took back his dead from the monster's hoard, and led us down through a hole in the water to pick over the bones. A pristine lock that won't open for anyone, a mending rope, a scroll, gemstones, a fish-bone spear. Useful things from a useful death.
+
+He says the chaos that's been making everyone mad is getting *worse.* He says the thing wearing the elf's face will keep rotting back into the beast, and there's no cure but the peace of death. He has never heard of the kingdom the prince keeps naming. I didn't say what I was thinking, which is that I've known that for a while.
+
+We're a day out from a real city now. Walls, people who can pull curses out of a man, maybe a quiet bed. I'll believe it when I'm inside it. Until then I'm keeping my back to a wall and my eye on the prince, and I'm not going swimming again.
+
+</details>
+
+**

@@ -98,5 +98,69 @@
 
 ---
 
+## Session 18 — The Big Fish Eat the Little Fish
+
+**[[Aeolus]] · [Funny]**
+"I would actually like to cast thorn whip and toss it in and go fishing. Actually, wait. I have a fishing pole. I'm gonna go fishing."
+
+**[[Kit Aluri]] · [Funny]**
+"I apologize to Glabbagool. This was not my intention in bringing him up. But now he's bait."
+
+**Addison (DM) · [DM Quip]**
+"Get over here. So, Mortal Kom, are you able to grapple with Thorn Whip?"
+
+**[[Aeolus]] · [Funny]**
+"I've landed a fish."
+
+**[[Binks Stonevein]] · [Banter]**
+"Amanita, the fishermen of the year."
+
+**[[Darby Stonefeather]] · [Banter]**
+"Jet lagged. Slept for 11 hours. I'm so sorry."
+
+**[[Sloopidoop]] · [Important to Story]**
+"I am sorry to disappoint in turn, but that is no elf. That is a quaggoth, and he will kill you."
+
+**[[Sloopidoop]] · [Serious/Important to Story]**
+"There is no cure that I know of besides the peace of death."
+
+**[[Sloopidoop]] · [Funny]**
+"It is a mononym."
+
+**[[Binks Stonevein]] / [[Darby Stonefeather]] · [Funny]**
+"Please be a family name. Please be a family name."
+
+**[[Sloopidoop]] · [Funny/Important to Story]**
+"My name is Sloopidoop."
+
+**[[Binks Stonevein]] / [[Kit Aluri]] · [Banter]**
+"We've been running away from [death] for like two weeks." / "I've been almost killed like 14 times."
+
+**[[Kit Aluri]] · [Poignant]**
+"Thank you, Aeolus, which I feel like is going to be canon."
+
+**Addison (DM) · [DM Quip]**
+"Good old Orcish blood."
+
+**[[Kit Aluri]] · [Poignant]**
+"I'm just always going to be standing right next to the person in our party who wants to kill us. Great."
+
+**[[Sloopidoop]] · [Important to Story]**
+"As we say, the big fish eat a little fish."
+
+**[[Kit Aluri]] · [Funny]**
+"When you're from where you're [from], every pond is a random pond. And you know what? You gotta eat."
+
+**[[Sloopidoop]] · [Important to Story]**
+"Well, one could say that knowledge is my deity… the Sea Mother [gurgle]."
+
+**[[Sloopidoop]] · [Funny/Important to Story]**
+"I am a scholarly priest and a member of the Society of Brilliance, so naturally I am quite brilliant."
+
+**Addison (DM) · [DM Quip]**
+"Very well, keep your secrets."
+
+---
+
 ## Related
 [[Campaign Dashboard]]

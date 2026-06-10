@@ -77,6 +77,14 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Long rest preserved despite night drama (S16):** The party (including Binks, who shrugged off madness mid-rest) still received the full long rest.
 - **Madness check vs. Binks's dream (S16):** WIS save 16 avoided a madness point (not framed as a magical effect). A follow-up forced Religion check (19) diminished his shrine connection — "dormant, not that it went away."
 
+### Session 18 Rulings
+> ⚠️ Filed as S18 per operator instruction; play date 06/07/2026 disputed (likely S17). See [[Vault Sync Status]].
+- **Hold Person fails on a quaggoth (S18):** [[Blarg]]'s readied **Hold Person** had no effect on [[Derendil]] because a quaggoth is a **monstrosity**, not a Humanoid. Confirms Derendil's true creature type for targeting purposes (reinforces [[Sloopidoop]]'s "that is no elf").
+- **War Caster Thorn Whip as opportunity attack to reposition (S18):** [[Amanita de'Champignon]] used **War Caster** to cast **Thorn Whip** as an opportunity attack on the grappling [[Chuul]], hauling it bodily out of the pool ("I've landed a fish"). DM allowed Thorn Whip's pull to drag the aberration onto land, stripping its drown-the-prey advantage.
+- **NPC loot identification in lieu of Identify (S18):** [[Sloopidoop]] identified the Lock of Trickery, Rope of Mending, and Spell Scroll of Sand by inspection — no Identify ritual required.
+- **Kuo-toa scale armor classification — PENDING (S18):** Whether the recovered teeth/shell scale armor is **medium or heavy** (and its stealth penalty) is DM-pending ("I'll have to look at that"). It is non-metal, so [[Amanita de'Champignon]] can use it despite her metal restriction. ⚠️ Awaiting DM ruling.
+- **Spell Scroll of "Sand" — PENDING (S18):** No standard 1st-level spell named "Sand"; intended spell flagged for DM confirmation before the scroll is used. ⚠️
+
 ### Campaign Setting
 - **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04), triggered short-term madness in Amanita when she cast Detect Magic on it (S05), and destabilizes the Feydark portal (S09). Connected to the corrupted entity's influence (S11).
 - **No day/night cycle in the Underdark:** Long rest = 8 hours. Short rest = ~1 hour.

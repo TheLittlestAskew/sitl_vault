@@ -134,6 +134,9 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - "My name's not Binks… I'm not the guy that I named myself after." — S16 [Important/Defining]
 - "I think we've grown closer. That was a good time. I learned stuff about myself that I did not know. That was great." — S16 [Funny]
 - "Don't trust dreams." — S16 [Thematic]
+- "Amanita, the fishermen of the year." — S18 [Banter]
+- "We've been running away from [death] for like two weeks." — S18 [Banter]
+- "Please be a family name. Please be a family name." — S18, on Sloopidoop's name [Funny]
 
 ### S15 Key Events
 - Scouting on foot with Kit at front of marching order.
@@ -154,6 +157,13 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - Proposed dream journaling: "Don't trust dreams." Defused the confrontation: "I think we've grown closer… team building exercise."
 - Retained his long rest despite the madness episode. All rolls physical dice — zero DDB entries (pattern continues).
 
+### S18 Key Events ([[Session 18 — The Big Fish Eat the Little Fish|Session 18]])
+- Opened **Combat 1** with a big hit: **Guiding Bolt (level 2)** — 18 to hit, **20 damage** on the [[Chuul]]. Initiative 18 (second in order).
+- Post-combat, topped up [[Kit Aluri]] with a **+9 heal** ("25 out of 35") after Derendil dropped her.
+- Banter throughout the fishing and the name-reveal ("Amanita, the fishermen of the year"; "Please be a family name"). Still vouches for [[Derendil]].
+- **+1 exhaustion** this session (sleepless nights). Remains the party's **lone madness-carrier** (Lolth thread still open).
+- All rolls physical dice — zero DDB entries (pattern continues); transcript-only.
+
 ---
 
 ## Related
@@ -173,6 +183,7 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
+- [[Session 18 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
@@ -181,6 +192,8 @@ location: En route to Sloobludop (Day 4 of 7, as of S15)
 - [[Turvy]]
 - [[Roxanne]]
 - [[Clementine]]
+- [[Sloopidoop]]
+- [[Chuul]]
 - [[Garl Glittergold]]
 - [[04-World-Lore/Locations/Blingdenstone]]
 - [[Campaign Dashboard]]
