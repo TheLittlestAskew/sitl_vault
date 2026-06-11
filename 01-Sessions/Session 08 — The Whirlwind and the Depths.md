@@ -89,7 +89,7 @@ Starting in the flooded parallel tunnels beneath the ancient Dwarvish safe house
 ## Scene / Timeline Breakdown
 
 - **Scene 1:** Recap and Setup. DM recaps previous session: trapped floor, [[Black Pudding]], rising water, [[Glabbagool]]'s arrival. Amanita confirms Longstrider is active on [[sitl_vault/03-Characters/PCs/Darby Stonefeather|Darby Stonefeather]] and [[03-Characters/PCs/Blarg|Blarg]]. Party is roped together except Aeolus.
-- **Scene 2:** [[03-Characters/PCs/Binks Stonevein|Binks Stonevein]] Pushes Forward. Binks makes an #Athletics check (22) and moves up the tunnel. Kit assists (DM offers help action ruling).
+- **Scene 2:** [[Binks Stonevein|Binks Stonevein]] Pushes Forward. Binks makes an #Athletics check (22) and moves up the tunnel. Kit assists (DM offers help action ruling).
 - **Scene 3:** Darby's First Strike. Darby attacks the Black Pudding with the glowing mace. 16 to hit, 9 bludgeoning damage. DM confirms bludgeoning works.
 - **Scene 4:** Blarg's #Moonbeam. Blarg casts #Moonbeam (2nd level, last slot) on the Black Pudding. Con save DC 14 — pudding fails, takes 15 radiant damage. #Religion check (9) reveals impeded connection to the moon at this depth.
 - **Scene 5:** Kit's Action Surge. Kit dashes through difficult terrain and Action Surges to attack. 25 to hit with greatsword — DM reveals slashing does no damage (mass reforms). Kit uses Trip Attack (first maneuver use): pudding fails Str save, goes prone, takes 3 damage.
