@@ -229,6 +229,16 @@ function processRecording(mp3) {
     spawnSync('node "sitl_keyterms_sync.js"', { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });
   }
 
+  // Refresh party sheets from D&D Beyond (public fetch). Non-fatal: a network
+  // hiccup or unfilled characterId must never block transcription.
+  const partyScript = path.join(__dirname, 'ddb_party_sync.js');
+  if (fs.existsSync(partyScript)) {
+    log('Refreshing party sheets from D&D Beyond…');
+    try {
+      spawnSync('node "ddb_party_sync.js"', { cwd: __dirname, shell: true, stdio: 'inherit' });
+    } catch (e) { log(`Party sheet sync skipped: ${e.message}`); }
+  }
+
   log(`Transcribing S${sess.nn} (${sess.mmddyy})… (this can take several minutes)`);
   setStage('transcribe', 'running', 'AssemblyAI — uploading & transcribing…');
   const t = spawnSync(`node "${TRANSCRIBE_JS}" "${mp3}" "${transcriptOut}"`,

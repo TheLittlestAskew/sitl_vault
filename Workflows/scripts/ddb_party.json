@@ -1,0 +1,13 @@
+{
+  "_README": "Fill in each PC's DDB characterId — the number in the sheet URL: dndbeyond.com/characters/<characterId>. This is NOT the userId (userId is the account/player; it's here only as a cross-reference, confirmed from the Supabase roll data). Get characterIds once from the campaign page (each character links to /characters/<id>). Sheets must be set to Public or Campaign-Only on DDB for the no-login fetch to work; Private sheets return 403 and are skipped. The fetch only reads characterId + name; userId/note are ignored by the script.",
+  "campaign": "Sky Is The Limit",
+  "gameId": 6907990,
+  "characters": [
+    { "name": "Aeolus",              "characterId": 0, "userId": 118690437, "note": "03-Characters/PCs/Aeolus.md" },
+    { "name": "Amanita de'Champignon","characterId": 0, "userId": 117527745, "note": "03-Characters/PCs/Amanita de'Champignon.md" },
+    { "name": "Binks Stonevein",     "characterId": 0, "userId": 107236097, "note": "03-Characters/PCs/Binks Stonevein.md" },
+    { "name": "Blarg",               "characterId": 0, "userId": 113530950, "note": "03-Characters/PCs/Blarg.md" },
+    { "name": "Darby Stonefeather",  "characterId": 0, "userId": 123535156, "note": "03-Characters/PCs/Darby Stonefeather.md" },
+    { "name": "Kit Aluri",           "characterId": 0, "userId": 107965379, "note": "03-Characters/PCs/Kit Aluri.md" }
+  ]
+}
