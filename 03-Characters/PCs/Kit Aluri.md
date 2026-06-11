@@ -7,6 +7,9 @@ status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
 location: En route to Sloobludop (Day 4 of 7, as of S15)
+Character_id: "153130853"
+user_id: "107965379"
+JSON slug / roll_name: kit-aluri
 ---
 
 # Images

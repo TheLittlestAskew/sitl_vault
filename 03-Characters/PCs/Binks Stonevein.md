@@ -7,6 +7,9 @@ status: Alive
 player: Matt (MattOli)
 first_appearance: "[[Session 02 — Come Get Your Shit]]"
 location: En route to Sloobludop (Day 4 of 7, as of S15)
+Character_id: "150676476"
+user_id: "107236097"
+JSON slug / roll_name: binks-stonevein
 ---
 
 # Binks Stonevein

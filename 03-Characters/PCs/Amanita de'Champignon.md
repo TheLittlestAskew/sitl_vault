@@ -7,6 +7,9 @@ status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
 location: En route to Sloobludop (Day 4 of 7, as of S15)
+Character_id: "152970581"
+user_id: "117527745"
+JSON slug / roll_name: amanita-dechampignon
 ---
 
 # Amanita de'Champignon

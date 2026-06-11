@@ -7,6 +7,10 @@ status: Alive
 player: Austin (aus10england)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
 location: En route to Sloobludop (Day 4 of 7, as of S15)
+Character_id: "148838177"
+user_id: "123535156"
+JSON slug / roll_name: darby-stonefeather
+"":
 ---
 
 # Darby Stonefeather

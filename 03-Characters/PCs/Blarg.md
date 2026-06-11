@@ -7,6 +7,9 @@ status: Alive
 player: Florian (TwinkeyKrieger)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
 location: Velkynvelve — departing for Sloobludop (as of S14)
+Character_id: "152910077"
+user_id: "113530950"
+JSON slug / roll_name: blarg
 ---
 
 # Blarg
