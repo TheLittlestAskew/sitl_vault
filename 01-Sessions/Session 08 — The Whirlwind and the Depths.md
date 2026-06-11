@@ -88,7 +88,7 @@ Starting in the flooded parallel tunnels beneath the ancient Dwarvish safe house
 
 ## Scene / Timeline Breakdown
 
-- **Scene 1:** Recap and Setup. DM recaps previous session: trapped floor, [[Black Pudding]], rising water, [[Glabbagool]]'s arrival. Amanita confirms Longstrider is active on [[sitl_vault/03-Characters/PCs/Darby Stonefeather|Darby Stonefeather]] and [[03-Characters/PCs/Blarg|Blarg]]. Party is roped together except Aeolus.
+- **Scene 1:** Recap and Setup. DM recaps previous session: trapped floor, [[Black Pudding]], rising water, [[Glabbagool]]'s arrival. Amanita confirms Longstrider is active on [[sitl_vault/03-Characters/PCs/Darby Stonefeather|Darby Stonefeather]] and [[Blarg|Blarg]]. Party is roped together except Aeolus.
 - **Scene 2:** [[Binks Stonevein|Binks Stonevein]] Pushes Forward. Binks makes an #Athletics check (22) and moves up the tunnel. Kit assists (DM offers help action ruling).
 - **Scene 3:** Darby's First Strike. Darby attacks the Black Pudding with the glowing mace. 16 to hit, 9 bludgeoning damage. DM confirms bludgeoning works.
 - **Scene 4:** Blarg's #Moonbeam. Blarg casts #Moonbeam (2nd level, last slot) on the Black Pudding. Con save DC 14 — pudding fails, takes 15 radiant damage. #Religion check (9) reveals impeded connection to the moon at this depth.
@@ -99,8 +99,8 @@ Starting in the flooded parallel tunnels beneath the ancient Dwarvish safe house
 - **Scene 9:** Darby's Rage and the Whirlwind. Darby enters #Rage for first time, strikes remaining pudding for 12 damage, destroying it. Spectral ax beak feathers erupt, parting the water into a whirlwind of dry ground. Party rides in Darby's vortex.
 - **Scene 10:** Rescue and Retreat. Blarg heals Kit for 19 (Cure Wounds, full HP). Binks sends Spiritual Weapon buoy with rope. Amanita anchors with Stool as flotation. Darby's Con saves (23, then 15 — effect drops) carry party to dry ground. [[Glabbagool]] retreats into wall, exhausted.
 - **Scene 11:** Reunion and Discovery. Party reunites in the [[upper tunnel]]. Binks scouts ahead with #Nat20 Perception, discovers gray ooze and sealed Dwarvish door. Stealth-kills the gray ooze (Nat 20 Guiding Bolt, 27 damage, #one-shot).
-- **Scene 12:** Short Rest and Level-Up. Party takes a short rest. DM raises pursuit level to 4, retcons exhaustion. [[03-Characters/PCs/Kit Aluri|Kit Aluri]] and [[03-Characters/PCs/Darby Stonefeather|Darby Stonefeather]] #levelup to 4.
-- **Scene 13:** Mushroom Caverns and Roxy. Party enters vast mushroom caverns. [[03-Characters/PCs/Amanita de'Champignon|Amanita de'Champignon]] discovers and resurrects a [[rothe]] skeleton — [[Roxy]], activated by "Roxanne." Party continues toward fey-touched territory.
+- **Scene 12:** Short Rest and Level-Up. Party takes a short rest. DM raises pursuit level to 4, retcons exhaustion. [[Kit Aluri|Kit Aluri]] and [[Darby Stonefeather|Darby Stonefeather]] #levelup to 4.
+- **Scene 13:** Mushroom Caverns and Roxy. Party enters vast mushroom caverns. [[Amanita de'Champignon|Amanita de'Champignon]] discovers and resurrects a [[rothe]] skeleton — [[Roxy]], activated by "Roxanne." Party continues toward fey-touched territory.
 
 ---
 

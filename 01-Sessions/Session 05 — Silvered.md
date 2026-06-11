@@ -48,7 +48,7 @@ spelling_checked: true
 
 ### THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR
 
-I don't remember what woke me first — the sound or the smell. Something animal and wrong, the kind of wrongness that hits your body before your brain catches up. One moment I was in the thin, black sleep of the Underdark, and the next I was on my feet with adrenaline searing through my blood and two of our own — [[03-Characters/NPCs/Topsy|Topsy]] and [[03-Characters/NPCs/Turvy|Turvy]] — changed into something feral and coming for us.
+I don't remember what woke me first — the sound or the smell. Something animal and wrong, the kind of wrongness that hits your body before your brain catches up. One moment I was in the thin, black sleep of the Underdark, and the next I was on my feet with adrenaline searing through my blood and two of our own — [[Topsy|Topsy]] and [[Turvy|Turvy]] — changed into something feral and coming for us.
 
 The fight was a blur. Binks saw them first. By the time the rest of us shook off sleep, they were already on us. Topsy came at me — teeth, claws, the works. She bit me. I felt it go deep, felt the hot, wet sting of it, and for a horrible second I thought: this is how it starts. This is how you become one of them.
 
@@ -72,9 +72,9 @@ I crouched down next to him. Put my hand near his throat. Told him: "I killed yo
 
 I tried to knock him out after that. Binks asked me to. I swung the crowbar — missed. Tried again — connected, put him down to almost nothing. Then tried with my fist and missed entirely. That's when Blarg stepped in and took over, speaking to Turvy quietly about family and loss and the kinds of things I don't have words for.
 
-[[03-Characters/PCs/Blarg|Blarg]] found something in the supplies — a flask with a gemstone that pulses with moonlight. Some kind of lunar enchantment. He gave it to Turvy along with healing. Told him it might help him control the changes. Turvy held it like a drowning man holds driftwood.
+[[Blarg|Blarg]] found something in the supplies — a flask with a gemstone that pulses with moonlight. Some kind of lunar enchantment. He gave it to Turvy along with healing. Told him it might help him control the changes. Turvy held it like a drowning man holds driftwood.
 
-We finally rested. The first real sleep since Velkynvelve. I asked [[03-Characters/PCs/Aeolus|Aeolus]] to take watch with Amanita. I do not trust easily, but I trust Aeolus to stay awake and I trust [[03-Characters/PCs/Amanita de'Champignon|Amanita de'Champignon]] to notice things. Turvy cried himself to sleep. Blarg spoke to him first — I don't know what he said. When I closed my eyes, the dark was just dark, and nothing in it moved.
+We finally rested. The first real sleep since Velkynvelve. I asked [[Aeolus|Aeolus]] to take watch with Amanita. I do not trust easily, but I trust Aeolus to stay awake and I trust [[Amanita de'Champignon|Amanita de'Champignon]] to notice things. Turvy cried himself to sleep. Blarg spoke to him first — I don't know what he said. When I closed my eyes, the dark was just dark, and nothing in it moved.
 
 When we woke, [[Binks Stonevein|Binks Stonevein]] started poking at a table that had been bothering him since we arrived — it was positioned wrong, like it had been moved. He slid it aside and the others started investigating the floor. Amanita found something — a network of fungal threads running beneath the stone, connected to something deeper. Stool confirmed: mushrooms below, and [[04-World-Lore/Locations/Neverlight Grove|Neverlight Grove]] is somewhere out there but far.
 
@@ -122,7 +122,7 @@ The second movement begins after the long rest, when the party investigates an u
 
 ### Scene / Timeline Breakdown
 
-- **Scene 1: Aftermath & Crowbar Mystery.** Kit examines her crowbar, discovers the silvered tip. Amanita casts #DetectMagic — transmutation confirmed. [[03-Characters/PCs/Kit Aluri|Kit Aluri]] recalls via History check it was NOT silvered before the fight.
+- **Scene 1: Aftermath & Crowbar Mystery.** Kit examines her crowbar, discovers the silvered tip. Amanita casts #DetectMagic — transmutation confirmed. [[Kit Aluri|Kit Aluri]] recalls via History check it was NOT silvered before the fight.
 - **Scene 2: The Turvy Debate.** Extended moral argument. Kit wants Turvy dead. Darby opposes. Aeolus sides with Kit. Amanita wants to interrogate. Binks provides historical context about [[04-World-Lore/Locations/Blingdenstone]] and wererats. DM corrects Session 3 ruling: wererats normally control their transformations; this attack was involuntary and abnormal.
 - **Scene 3: Turvy Woken.** Binks casts Healing Word (9 HP). Topsy's body hastily covered — arm visible. Turvy wakes, sees it, breaks down. Claims faerzress light changed and he blacked out. Blarg rolls Insight on his account.
 - **Scene 4: Amanita's Detect Magic / Madness.** Amanita casts Detect Magic on faerzress-saturated space. Senses chaotic mix of transmutation, divination, illusion, abjuration. Fails Wisdom save (9). d100 madness roll: 81. Short-term madness (madness level 1). Stunned by hallucination of dark fungal tendrils. Binks punches her to break the stun (2 damage).
