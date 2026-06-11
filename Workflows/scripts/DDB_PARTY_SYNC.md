@@ -45,13 +45,30 @@ warning and the transcription pipeline carries on.
 - Ability scores fold in racial/feat bonuses found in the `modifiers` buckets, plus
   any `overrideStats` — good for the common cases, not a full rules engine.
 
-## Want Private sheets too? (future upgrade)
+## Authenticated mode (unlocks Campaign-Only sheets) — built in
 
-Switch to authenticated fetches using **your** DDB **Cobalt** session cookie:
-1. POST your `cobalt` cookie value to `https://auth-service.dndbeyond.com/v1/cobalt-token`
-   to get a short-lived Bearer token.
-2. Send `Authorization: Bearer <token>` on the character-service request.
+By default the sync is **anonymous** and only sees **Public** sheets. To also pull
+**Campaign-Only** sheets (the common case — visible to you in the app because you're
+a campaign member), authenticate as yourself with your **Cobalt** session cookie:
 
-That lets the DM pull every sheet regardless of each player's sharing setting. It's
-opt-in because it involves handling your login credential — treat the cobalt value
-like a password (store it in `.env`, never commit it).
+1. Log in to D&D Beyond in a browser.
+2. **F12 → Application → Cookies → `https://www.dndbeyond.com`** → copy the value of
+   **`CobaltSession`**. (DevTools can read it even though it's an HttpOnly cookie that
+   page scripts can't — which is also why the roll-sync extension can't grab it.)
+3. Put it in the vault `.env`:  `DDB_COBALT=<value>`  (a commented placeholder is
+   already there). `.env` is gitignored — **keep it secret; it is your live login.**
+4. Re-run `node ddb_party_sync.js`. It now reports `🔑 authenticating as you` and
+   fetches Campaign-Only sheets across **any** campaign you're a member of.
+
+How it works: the script POSTs your Cobalt cookie to
+`auth-service.dndbeyond.com/v1/cobalt-token`, gets back a short-lived **Bearer** token
+(the kind that rotates every few minutes), and sends it on each character request. It
+mints a fresh Bearer **every run**, so you never chase the rotating token — you only
+re-paste the Cobalt cookie every few weeks when it eventually expires (fetches 403 again).
+
+**Limits:** this authenticates as *you*, a player. It unlocks Public + Campaign-Only,
+**not** other players' truly-**Private** sheets (those are invisible even to you in the
+app). Bypassing genuine Private requires the character's owner or the DM's account.
+
+If `DDB_COBALT` is absent or expired, the script logs a warning and falls back to
+anonymous (public-only) — it never hard-fails.

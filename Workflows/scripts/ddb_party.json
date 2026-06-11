@@ -3,11 +3,11 @@
   "campaign": "Sky Is The Limit",
   "gameId": 6907990,
   "characters": [
-    { "name": "Aeolus",              "characterId": 0, "userId": 118690437, "note": "03-Characters/PCs/Aeolus.md" },
-    { "name": "Amanita de'Champignon","characterId": 0, "userId": 117527745, "note": "03-Characters/PCs/Amanita de'Champignon.md" },
-    { "name": "Binks Stonevein",     "characterId": 0, "userId": 107236097, "note": "03-Characters/PCs/Binks Stonevein.md" },
-    { "name": "Blarg",               "characterId": 0, "userId": 113530950, "note": "03-Characters/PCs/Blarg.md" },
-    { "name": "Darby Stonefeather",  "characterId": 0, "userId": 123535156, "note": "03-Characters/PCs/Darby Stonefeather.md" },
-    { "name": "Kit Aluri",           "characterId": 0, "userId": 107965379, "note": "03-Characters/PCs/Kit Aluri.md" }
+    { "name": "Aeolus",              "characterId": 152796710, "userId": 118690437, "note": "03-Characters/PCs/Aeolus.md" },
+    { "name": "Amanita de'Champignon","characterId": 152970581, "userId": 117527745, "note": "03-Characters/PCs/Amanita de'Champignon.md" },
+    { "name": "Binks Stonevein",     "characterId": 150676476, "userId": 107236097, "note": "03-Characters/PCs/Binks Stonevein.md" },
+    { "name": "Blarg",               "characterId": 152910077, "userId": 113530950, "note": "03-Characters/PCs/Blarg.md" },
+    { "name": "Darby Stonefeather",  "characterId": 148838177, "userId": 123535156, "note": "03-Characters/PCs/Darby Stonefeather.md" },
+    { "name": "Kit Aluri",           "characterId": 153130853, "userId": 107965379, "note": "03-Characters/PCs/Kit Aluri.md" }
   ]
 }

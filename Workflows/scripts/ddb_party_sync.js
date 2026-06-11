@@ -18,8 +18,18 @@
  * so a few derived numbers — AC especially — are approximate; verify if it matters).
  *
  * This is the "party info" companion to ddb_sync_supabase.js (which does rolls).
- * No auth, no Cobalt token: it only ever sees what players have shared. To also
- * pull Private sheets you'd add a Cobalt-token auth step (see DDB_PARTY_SYNC.md).
+ *
+ * AUTH (optional):
+ *   By default this runs ANONYMOUS — it only sees sheets shared as Public.
+ *   If a DDB_COBALT value is present in the vault .env, it authenticates AS YOU:
+ *   the Cobalt session cookie is exchanged for a short-lived Bearer token, which
+ *   is sent on every fetch. That unlocks "Campaign Only" sheets for any campaign
+ *   you're a member of. (It does NOT unlock other people's truly-Private sheets.)
+ *
+ *   Get DDB_COBALT once from a logged-in browser:
+ *     F12 → Application → Cookies → https://www.dndbeyond.com → copy CobaltSession.
+ *   Put it in .env as:  DDB_COBALT=<value>   (.env is gitignored — keep it secret;
+ *   it IS your live login session). It lasts weeks; refresh it when fetches 403 again.
  *
  * Requires: Node 18+ (built-in fetch). No npm deps.
  */
@@ -29,9 +39,53 @@ const fs = require('fs');
 
 const VAULT_ROOT = 'C:\\Users\\theli\\sitl_vault';
 const CONFIG     = path.join(__dirname, 'ddb_party.json');
+const ENV_FILE   = path.join(VAULT_ROOT, '.env');
 const OUT_DIR    = path.join(VAULT_ROOT, '03-Characters', 'PCs', 'Party Character Sheets');
 const RAW_DIR    = path.join(OUT_DIR, '_raw');
 const CHAR_API   = (id) => `https://character-service.dndbeyond.com/character/v5/character/${id}`;
+const COBALT_API = 'https://auth-service.dndbeyond.com/v1/cobalt-token';
+
+// Minimal .env reader (no dotenv dependency). Returns {} if the file is missing.
+// Handles KEY=VALUE lines, skips blanks/#comments, strips surrounding quotes.
+function readEnv(file) {
+  const out = {};
+  if (!fs.existsSync(file)) return out;
+  for (const raw of fs.readFileSync(file, 'utf8').split(/\r?\n/)) {
+    const line = raw.trim();
+    if (!line || line.startsWith('#')) continue;
+    const eq = line.indexOf('=');
+    if (eq === -1) continue;
+    const key = line.slice(0, eq).trim();
+    let val = line.slice(eq + 1).trim();
+    if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+      val = val.slice(1, -1);
+    }
+    out[key] = val;
+  }
+  return out;
+}
+
+// Exchange a Cobalt session cookie for a short-lived Bearer token. The token
+// rotates every few minutes on DDB's side, so we mint a fresh one each run
+// rather than trying to capture the rotating header. Returns null on failure
+// (expired/invalid cobalt) so the caller can fall back to anonymous fetching.
+async function getBearerFromCobalt(cobalt) {
+  try {
+    const res = await fetch(COBALT_API, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Cookie': `CobaltSession=${cobalt}` },
+    });
+    if (!res.ok) {
+      log(`  ⚠️ Cobalt exchange failed: HTTP ${res.status} (token expired? re-copy CobaltSession into .env)`);
+      return null;
+    }
+    const data = await res.json();
+    return data.token || null;
+  } catch (e) {
+    log(`  ⚠️ Cobalt exchange error: ${e.message}`);
+    return null;
+  }
+}
 
 const ABILITIES = [
   { id: 1, key: 'strength',     abbr: 'STR' },
@@ -212,8 +266,8 @@ function renderMarkdown(char, meta) {
   return L.join('\n');
 }
 
-async function fetchCharacter(id) {
-  const res = await fetch(CHAR_API(id), { headers: { 'Accept': 'application/json' } });
+async function fetchCharacter(id, authHeaders = {}) {
+  const res = await fetch(CHAR_API(id), { headers: { 'Accept': 'application/json', ...authHeaders } });
   let body = null;
   try { body = await res.json(); } catch { /* non-json */ }
   return { status: res.status, body };
@@ -232,6 +286,22 @@ async function main() {
   log(`DDB Party Sheet Sync  ·  ${cfg.campaign || ''}`);
   log('═══════════════════════════════════════════');
 
+  // Optional auth: if DDB_COBALT is in .env, mint a Bearer and fetch as the user.
+  let authHeaders = {};
+  const env = readEnv(ENV_FILE);
+  if (env.DDB_COBALT) {
+    log('🔑 DDB_COBALT found — authenticating as you (unlocks Campaign-Only sheets)…');
+    const bearer = await getBearerFromCobalt(env.DDB_COBALT);
+    if (bearer) {
+      authHeaders = { 'Authorization': `Bearer ${bearer}` };
+      log('   ✓ Bearer token minted.');
+    } else {
+      log('   → Falling back to anonymous (public-only) fetching.');
+    }
+  } else {
+    log('ℹ️  No DDB_COBALT in .env — anonymous mode (Public sheets only).');
+  }
+
   if (unset.length) {
     log(`⚠️  ${unset.length} character(s) have no characterId yet (skipped): ${unset.map((c) => c.name).join(', ')}`);
     log('    Add their IDs in ddb_party.json — see the _README in that file.');
@@ -248,9 +318,10 @@ async function main() {
   for (const c of chars) {
     process.stdout.write(`• ${c.name} (#${c.characterId})… `);
     try {
-      const { status, body } = await fetchCharacter(c.characterId);
+      const { status, body } = await fetchCharacter(c.characterId, authHeaders);
       if (status === 403 || (body && body.success === false)) {
-        log('🔒 private/unauthorized — skipped');
+        log(authHeaders.Authorization ? '🔒 not visible to you (truly private) — skipped'
+                                       : '🔒 not public (Campaign-Only/Private) — skipped');
         priv++;
         continue;
       }
@@ -274,8 +345,12 @@ async function main() {
   }
 
   log('───────────────────────────────────────────');
-  log(`Done. ${ok} synced, ${priv} private, ${fail} failed, ${unset.length} unset.`);
-  if (priv) log('Private sheets: ask those players to set sharing to "Campaign Only" or "Public" on DDB.');
+  log(`Done. ${ok} synced, ${priv} skipped, ${fail} failed, ${unset.length} unset.`);
+  if (priv) {
+    log(authHeaders.Authorization
+      ? 'Skipped sheets are genuinely Private (invisible even to you) — only their owner or the DM can pull them.'
+      : 'Skipped sheets aren\'t public. Add DDB_COBALT to .env to fetch Campaign-Only sheets, or ask players to set sharing to Public.');
+  }
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
