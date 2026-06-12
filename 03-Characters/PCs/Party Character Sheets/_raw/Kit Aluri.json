@@ -14944,7 +14944,7 @@
   "optionalClassFeatures": [],
   "dateModified": "2026-06-10T03:05:30.993Z",
   "providedFrom": "storage",
-  "canEdit": false,
+  "canEdit": true,
   "status": 0,
   "statusSlug": null,
   "campaignSetting": null
