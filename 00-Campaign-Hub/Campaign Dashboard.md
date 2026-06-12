@@ -28,14 +28,14 @@
 
 ## The Party
 
-| Character                 | Player  | Race       | Class                              | Sheet                     |
-| ------------------------- | ------- | ---------- | ---------------------------------- | ------------------------- |
-| [[Kit Aluri]]             | Taylor  | Orc        | Fighter/Rogue (Battle Master)      | [[Kit Aluri]]             |
-| [[Binks Stonevein]]       | Matt    | Deep Gnome | Cleric/Rogue (Trickery Domain)     | [[Binks Stonevein]]       |
-| [[Aeolus]]                | Sirius  | Tiefling   | Warlock (Archfey Patron)           | [[Aeolus]]                |
-| [[Blarg]]                 | Florian | Dwarf      | Cleric/Druid (Circle of the Moon)  | [[Blarg]]                 |
-| [[Amanita de'Champignon]] | Hannah  | Elf        | Druid (Circle of Spores)           | [[Amanita de'Champignon]] |
-| [[Darby Stonefeather]]    | Austin  | Goliath    | Barbarian (Path of the Wild Heart) | [[Darby Stonefeather]]    |
+| Character                 | Player  | Race       | Class                              | Sheet                     | User_ID   | Character_ID |
+| ------------------------- | ------- | ---------- | ---------------------------------- | ------------------------- | --------- | ------------ |
+| [[Kit Aluri]]             | Taylor  | Orc        | Fighter/Rogue (Battle Master)      | [[Kit Aluri]]             | 107965379 | 153130853    |
+| [[Binks Stonevein]]       | Matt    | Deep Gnome | Cleric/Rogue (Trickery Domain)     | [[Binks Stonevein]]       | 107236097 | 150676476    |
+| [[Aeolus]]                | Sirius  | Tiefling   | Warlock (Archfey Patron)           | [[Aeolus]]                | 118690437 | 152796710    |
+| [[Blarg]]                 | Florian | Dwarf      | Cleric/Druid (Circle of the Moon)  | [[Blarg]]                 | 113530950 | 152910077    |
+| [[Amanita de'Champignon]] | Hannah  | Elf        | Druid (Circle of Spores)           | [[Amanita de'Champignon]] | 117527745 | 152970581    |
+| [[Darby Stonefeather]]    | Austin  | Goliath    | Barbarian (Path of the Wild Heart) | [[Darby Stonefeather]]    | 123535156 | 148838177    |
 
 ---
 
