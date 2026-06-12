@@ -45,6 +45,13 @@ Every campaign vault uses the same filenames in this folder. A campaign may not 
 - `Vault Format Reference.md` — **copy of a live vault file** (`00-Campaign-Hub/Vault Format Reference.md`); duplicate, drift risk
 - `sitl_transcribe.js` — **duplicate** of the automation script in `Workflows/` root
 
+## See also
+
+- [`../TRIGGERABLE_ACTIONS.md`](../TRIGGERABLE_ACTIONS.md) — index of every triggerable
+  action in `Workflows/` (the session pipeline, transcription, roll & party sheet sync, the
+  DDB Roll Sync extension, the scheduled task, and local Supabase): what each does and how to
+  fire it.
+
 ## Sync discipline
 
 Whenever you change an instruction doc in the Claude project:
