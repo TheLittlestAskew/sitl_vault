@@ -69,7 +69,7 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 - Kit rolled a d20 (13) for Turvy's Zone of Truth save "just in case."
 - Grumbled something gruff at Kit's trust speech; Kit: "No, Miss Turvy, you're perfect and I love you." Kit acknowledged to her: "I'm sorry, your situation was fucked."
 
-### [[Session 18 — The Big Fish Eat the Little Fish|Session 18]]
+### [[Session 17 — The Big Fish Eat the Little Fish|Session 18]]
 - Went to **explore the left-hand cave** with [[Topsy]] and **missed both fights** (the [[Chuul]] ambush and [[Derendil]]'s frenzy) — no combat rolls this session.
 - **Returned to help bind the Slept, frenzied [[Derendil]]** after he dropped Kit and was put to sleep.
 
@@ -87,7 +87,7 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 ## Related
 - [[Topsy]]
 - [[Derendil]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Blingdenstone]]
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]

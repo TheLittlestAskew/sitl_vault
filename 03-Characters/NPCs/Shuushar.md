@@ -20,7 +20,7 @@ Kuo-toa prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Pacifist who sought
 ## Key Events
 
 - **[[Session 01 — Prisoners of the Underdark]]:** Knocked off the bridge by [[Ront]] during Ront's rage incident at a guard. Fell into the pool below. A whirlpool appeared briefly when he fell. Fate unknown.
-- **[[Session 18 — The Big Fish Eat the Little Fish|Session 18]]:** Referenced — the new kuo-toa NPC [[Sloopidoop]] is **acquainted with Shuushar**, and per the session's framing Shuushar **survived and recently returned to the village** ([[Sloobludop]]) — consistent with Addison's note that he likely swam there. Strengthens "likely alive."
+- **[[Session 17 — The Big Fish Eat the Little Fish|Session 18]]:** Referenced — the new kuo-toa NPC [[Sloopidoop]] is **acquainted with Shuushar**, and per the session's framing Shuushar **survived and recently returned to the village** ([[Sloobludop]]) — consistent with Addison's note that he likely swam there. Strengthens "likely alive."
 
 ## DM Notes (Addison, 11/22/25)
 
@@ -33,7 +33,7 @@ Kuo-toa are amphibious; Shuushar's ability to breathe underwater makes survival 
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Ront]]
 - [[Sloopidoop]]

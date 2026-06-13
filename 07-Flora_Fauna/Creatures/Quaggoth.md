@@ -34,7 +34,7 @@ Large, ape-like Underdark creatures. Typically aggressive and territorial. Used 
 ## Related
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Derendil]]
 - [[Sloopidoop]]

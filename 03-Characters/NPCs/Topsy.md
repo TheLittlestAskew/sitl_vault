@@ -70,7 +70,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - **DM updated the twins' passive perception to 12** (+1 on Perception rolls; can also give the Help action).
 - After Kit's trust speech, reached up, patted Kit's side: **"Maybe we take it easy on the use of force."** — One of only two party members with standing to check Kit's aggression, and she used it.
 
-### S18 Key Events ([[Session 18 — The Big Fish Eat the Little Fish|Session 18]])
+### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
 - Went to **explore the left-hand cave** with [[Turvy]] and **missed both fights** (the [[Chuul]] ambush and [[Derendil]]'s frenzy) — no combat rolls this session.
 - **Returned to help bind the Slept, frenzied [[Derendil]]** for everyone's safety after he dropped Kit and was put to sleep.
 
@@ -87,7 +87,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - [[Session 04 — Life Isn't Faer-zress]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Aeolus]]
 - [[Derendil]]

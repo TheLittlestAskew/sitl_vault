@@ -160,7 +160,7 @@ JSON slug / roll_name: binks-stonevein
 - Proposed dream journaling: "Don't trust dreams." Defused the confrontation: "I think we've grown closer… team building exercise."
 - Retained his long rest despite the madness episode. All rolls physical dice — zero DDB entries (pattern continues).
 
-### S18 Key Events ([[Session 18 — The Big Fish Eat the Little Fish|Session 18]])
+### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
 - Opened **Combat 1** with a big hit: **Guiding Bolt (level 2)** — 18 to hit, **20 damage** on the [[Chuul]]. Initiative 18 (second in order).
 - Post-combat, topped up [[Kit Aluri]] with a **+9 heal** ("25 out of 35") after Derendil dropped her.
 - Banter throughout the fishing and the name-reveal ("Amanita, the fishermen of the year"; "Please be a family name"). Still vouches for [[Derendil]].
@@ -186,7 +186,7 @@ JSON slug / roll_name: binks-stonevein
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

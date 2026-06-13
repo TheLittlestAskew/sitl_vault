@@ -50,8 +50,8 @@ JSON slug / roll_name: darby-stonefeather
 - S06: beginning to "lock in" — first rage, first magical weapon, first time providing light to the party
 - S08: Ancestral awakening — first rage with spectral manifestation. The farm girl is carrying ancient power.
 - S09: Farmer instincts re-emerge — immediately claimed animal handler role for [[Roxanne]].
-- (S18) **Openly smitten with [[Sloopidoop]]** — "weird feelings… in a crushy kind of way" toward the kuo-toa priest. — [[Session 18 — The Big Fish Eat the Little Fish|S18]]
-- (S18) Upbeat and easygoing even on a late arrival ("Jet lagged. Slept for 11 hours. I'm so sorry") — slots straight into the fight. — [[Session 18 — The Big Fish Eat the Little Fish|S18]]
+- (S18) **Openly smitten with [[Sloopidoop]]** — "weird feelings… in a crushy kind of way" toward the kuo-toa priest. — [[Session 17 — The Big Fish Eat the Little Fish|S18]]
+- (S18) Upbeat and easygoing even on a late arrival ("Jet lagged. Slept for 11 hours. I'm so sorry") — slots straight into the fight. — [[Session 17 — The Big Fish Eat the Little Fish|S18]]
 
 ## Abilities & Class Features
 
@@ -149,7 +149,7 @@ JSON slug / roll_name: darby-stonefeather
 - Confirmed she speaks **Undercommon** now ("I speak Undercommon now, so it doesn't really matter").
 - Insight 11 vs Binks. Gained Heroic Inspiration with the party.
 
-### S18 Key Events ([[Session 18 — The Big Fish Eat the Little Fish|Session 18]])
+### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
 - **Arrived mid-combat** (~1:06:40, "jet lagged, slept for 11 hours") and dropped straight into the chuul fight.
 - Fire mace **missed** the [[Chuul]] (13 to hit — glanced off the carapace), but **controlled [[Roxanne]] for a big gore**: 21 to hit, **17 damage** (2d8+5), helping bring the chuul to the brink.
 - **Completed the horn arc:** [[Aeolus]]'s Arcana 22 lowered the DC and Darby's **Animal Handling 18 (+help +beast sense) stored Roxy in the horn** — Darby now fully attuned; summon by calling "Roxanne."
@@ -176,7 +176,7 @@ JSON slug / roll_name: darby-stonefeather
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

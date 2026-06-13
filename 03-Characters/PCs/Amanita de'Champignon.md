@@ -151,7 +151,7 @@ JSON slug / roll_name: amanita-dechampignon
 - DM-voiced beat: "Keep on dreaming" (Taylor: "your Amanita impression is spot on"). Party joke: "Amanita is the only one allowed to dream."
 - No rolls, decisions, or character development attributed — proxy color only.
 
-### S18 Key Events ([[Session 18 — The Big Fish Eat the Little Fish|Session 18]])
+### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
 - **Hannah returned** after missing the prior session — Amanita played live again.
 - Her fishing line **hooked the [[Chuul]]** (Strength 15), triggering the ambush. **Dodged the paralytic tentacles** (Constitution save 20) on the chuul's whiffed surprise round.
 - **Defining combat beat:** used **War Caster** to cast **Thorn Whip** as an opportunity attack (18, +Bless) on the grappling chuul, **hauling it bodily out of the pool** — stripping its drown advantage (DM: "Mortal Kom… are you able to grapple with Thorn Whip?"). Also Chill Touch (15, missed) and Halo of Spores (chuul CON save 15 — necrotic resisted).
@@ -178,7 +178,7 @@ JSON slug / roll_name: amanita-dechampignon
 - [[Session 14 — Far From the Sun]]
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

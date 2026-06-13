@@ -1,6 +1,8 @@
 ---
-tags: [creature, sitl]
-first_appearance: "[[Session 18 — The Big Fish Eat the Little Fish]]"
+tags:
+  - creature
+  - sitl
+first_appearance: "[[Session 17 — The Big Fish Eat the Little Fish]]"
 type: aberration
 ---
 
@@ -19,11 +21,11 @@ A large lobster-scorpion **aberration** and aquatic ambush predator. Heavily arm
 
 ## Encounters
 
-- [[Session 18 — The Big Fish Eat the Little Fish]]: A single chuul ambushed the party at the [[Darklake Approach Pool]] after [[Amanita de'Champignon]]'s fishing line hooked it. The party ran hot — Guiding Bolt (20), Roxy's gore (17), and a swarm of attacks — and dragged it out of the water; at 6 HP it was **devoured by [[Derendil]]**. It had earlier killed [[Sloopidoop]]'s acolyte and hoarded loot in its submerged lair.
+- [[Session 17 — The Big Fish Eat the Little Fish]]: A single chuul ambushed the party at the [[Darklake Approach Pool]] after [[Amanita de'Champignon]]'s fishing line hooked it. The party ran hot — Guiding Bolt (20), Roxy's gore (17), and a swarm of attacks — and dragged it out of the water; at 6 HP it was **devoured by [[Derendil]]**. It had earlier killed [[Sloopidoop]]'s acolyte and hoarded loot in its submerged lair.
 
 ## Related
 
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Darklake Approach Pool]]
 - [[Sloopidoop]]
 - [[Derendil]]

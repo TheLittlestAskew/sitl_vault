@@ -10,7 +10,7 @@ status: Active — first on-screen contact S18
 
 ## Overview
 
-A group of unusually intelligent, well-spoken Underdark creatures who travel the depths studying the worsening chaotic energy (faerzress corruption). First named to the party by the dying [[Jorlan Duskryn]] (S14); first met on-screen in [[Session 18 — The Big Fish Eat the Little Fish|Session 18]] in the person of [[Sloopidoop]]. They prefer diplomacy and bargaining over force, and operate transactionally.
+A group of unusually intelligent, well-spoken Underdark creatures who travel the depths studying the worsening chaotic energy (faerzress corruption). First named to the party by the dying [[Jorlan Duskryn]] (S14); first met on-screen in [[Session 17 — The Big Fish Eat the Little Fish|Session 18]] in the person of [[Sloopidoop]]. They prefer diplomacy and bargaining over force, and operate transactionally.
 
 ## Known / Reported Members
 
@@ -31,7 +31,7 @@ A group of unusually intelligent, well-spoken Underdark creatures who travel the
 ## Related
 
 - [[Session 14 — Far From the Sun]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Sloopidoop]]
 - [[Wazalax]]
 - [[Jorlan Duskryn]]

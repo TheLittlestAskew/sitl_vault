@@ -16,7 +16,7 @@ sessions_covered: 18
 | Session | Date | Total | Combat | Non-Combat | Nat 20s | Nat 1s | Heaviest Roller | Archive Rows |
 |---|---|---|---|---|---|---|---|---|
 | [[Session 16 — Zone of Truth\|S16]] | 05/24/26 | 33 (+~7 transcript-only) | 0 | 33 | 1 (Kit Arcana, pt1) | 1 (Kit Survival, pt1) | Kit (17) | DDB + transcript ⚠️ pt1 recording lost — 12 rolls have inferred context |
-| [[Session 18 — The Big Fish Eat the Little Fish\|S18]] | 06/07/26 | ~45 (transcript-only) | ~32 | ~13 | 1 (Derendil crit vs Kit) | 2 (chuul surprise Nat 1; party History Nat 1) | Kit | ⚠️ transcript-only — DDB NOT queried this run (Supabase permission denied). Counts approximate. |
+| [[Session 17 — The Big Fish Eat the Little Fish\|S18]] | 06/07/26 | ~45 (transcript-only) | ~32 | ~13 | 1 (Derendil crit vs Kit) | 2 (chuul surprise Nat 1; party History Nat 1) | Kit | ⚠️ transcript-only — DDB NOT queried this run (Supabase permission denied). Counts approximate. |
 
 > ⚠️ **No S17 row.** The 2026-06-07 session is filed as S18 per operator instruction but is most plausibly S17 by play-date ordering (session-number collision — see [[Vault Sync Status]] and the S18 note's Archivist Notes). Roll counts are transcript-only; the DDB archive was not queried and values are not cross-referenced. Binks (Matt) and Aeolus (Sirius) roll physical dice — their zero-DDB presence is expected, not a sync gap.
 

@@ -1,16 +1,18 @@
 ---
-tags: [npc, sitl]
+tags:
+  - npc
+  - sitl
 aliases: []
 status: Alive
 race: Kuo-toa
 affiliations: Society of Brilliance; worships "knowledge" / the Sea Mother (not Lolth)
-first_appearance: "[[Session 18 — The Big Fish Eat the Little Fish]]"
+first_appearance: "[[Session 17 — The Big Fish Eat the Little Fish]]"
 last_known_location: The chuul's submerged lair / en route to Sloobludop
 ---
 
 # Sloopidoop
 
-A kuo-toa scholar-priest of the [[Society of Brilliance]], encountered at the Darklake-approach pool in [[Session 18 — The Big Fish Eat the Little Fish|Session 18]]. The party's first transactional ally of the Society after the pacifist monk [[Shuushar]] (whom he is acquainted with). Delivers his single name — a mononym — without embarrassment despite the table's open laughter.
+A kuo-toa scholar-priest of the [[Society of Brilliance]], encountered at the Darklake-approach pool in [[Session 17 — The Big Fish Eat the Little Fish|Session 18]]. The party's first transactional ally of the Society after the pacifist monk [[Shuushar]] (whom he is acquainted with). Delivers his single name — a mononym — without embarrassment despite the table's open laughter.
 
 ## Description / Appearance
 
@@ -33,11 +35,11 @@ A kuo-toa scholar-priest of the [[Society of Brilliance]], encountered at the Da
 
 ## Key Events
 
-### S18 Key Events ([[Session 18 — The Big Fish Eat the Little Fish|Session 18]])
+### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
 - Walked out of an eastern passage just after [[Derendil]] devoured the chuul, warning: **"that is no elf. That is a quaggoth, and he will kill you."** Declared the quaggoth chaos-deluded into a false memory, with "no cure that I know of besides the peace of death."
 - After the party subdued Derendil non-lethally, introduced himself — **Sloopidoop** — and identified himself as a scholar-priest of the [[Society of Brilliance]].
 - Granted the party **magical gills** and led them down a whirlpool to the chuul's **submerged lair** to recover his acolyte's body and the creature's hoard; preserved and shrank the acolyte's corpse with water-magic.
-- **Identified the recovered loot**: the **Lock of Trickery**, **Rope of Mending**, and **Spell Scroll of Sand** *(spell name flagged — see [[Session 18 — The Big Fish Eat the Little Fish|S18]] Archivist Notes)*.
+- **Identified the recovered loot**: the **Lock of Trickery**, **Rope of Mending**, and **Spell Scroll of Sand** *(spell name flagged — see [[Session 17 — The Big Fish Eat the Little Fish|S18]] Archivist Notes)*.
 - Pressed on [[Derendil]]'s story: knows the **High Forest** kingdoms and has **never heard of "Nel Rinden Vain"** nor of the wizard **"Pterostor"** (Intelligence 18) — confirming, to him, that the quaggoth is simply mad.
 - Confirmed the **chaotic energies are worsening** and that studying their origin is the Society of Brilliance's primary goal (he suspects demonic origin; the party hinted at a **fey** dimension / archfey patron [[Silofirst]] and a death/undeath imbalance).
 - Proposed a **mutual-aid bargain**: escort him to [[Sloobludop]] and help the village against the chaos, in exchange for knowledge and aid. Gave the party a **village-access bead** (to [[Blarg]]) as a show of trust.
@@ -62,7 +64,7 @@ A kuo-toa scholar-priest of the [[Society of Brilliance]], encountered at the Da
 
 ## Related
 
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Society of Brilliance]]
 - [[Wazalax]]
 - [[Shuushar]]

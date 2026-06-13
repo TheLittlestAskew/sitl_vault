@@ -12,7 +12,7 @@
 
 ## Related
 - [[Session 16 — Zone of Truth]]
-- [[Session 18 — The Big Fish Eat the Little Fish]]
+- [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Darklake Approach Pool]]
 - [[Sloobludop]]
 - [[Sloopidoop]]

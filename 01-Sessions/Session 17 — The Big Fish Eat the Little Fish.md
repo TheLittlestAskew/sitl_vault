@@ -1,6 +1,6 @@
 ---
 type: session
-session_number: 18
+session_number: 17
 date: 2026-06-07
 title: The Big Fish Eat the Little Fish
 party_level: 4

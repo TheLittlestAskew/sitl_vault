@@ -1,22 +1,22 @@
 # SITL Session Transcript — CORRECTED (Script Format)
-# Session 16 — 06/07/2026 (raw file labeled 16-060726)
-# Source: Session_Sources/Transcripts/Raw_Unedited/16-060726_raw_transcript.md
-# Audio duration: 175 minutes | Model: universal-3-pro | Stated confidence: 95.5%
-#
-# Corrections applied: ONLY the approved table at _pipeline/S16/spellcheck.md, via
-#   word-boundary replacements (deterministic ruleset preserved at
-#   _pipeline/S16/apply_corrections.ps1 / .pl for re-run when shell execution is available).
-# Speaker labels denote the participant by their character (or the DM). Out-of-character
-#   table talk is preserved verbatim under the same label. Mapping:
-#   A=ADDISON (DM) · B=KIT (Taylor) · C=BLARG (Florian) · D=BINKS (Matt) ·
-#   E=AMANITA (Hannah) · F=AEOLUS (Sirius) · G=DARBY (Austin)
-# Addison voices all NPCs (Sloopidoop, Topsy, Turvy, Glabbagool, etc.) under ADDISON (DM).
-# NOTE: Unenumerated Derendil manglings "Dharndil" (00:00:35 area) and "Darrenville"
-#   (00:39 area) were normalized to Derendil under the approved canonical (logged in notes).
-# Unresolved per the approved table (left AS-HEARD, not changed): the mind-flayer ally
-#   (Wazalax/Grazilax/Rasa Lax), Derendil's claimed kingdom (Nel Rinden Vain variants),
-#   and the archfey patron (Silofirst/Silo Fear). One garbled "Hey, slip a. Dude."
-#   (~01:46) could not be safely regex-normalized to Sloopidoop and is left as-heard.
+#### Session 16 — 06/07/2026 (raw file labeled 16-060726)
+#### Source: Session_Sources/Transcripts/Raw_Unedited/16-060726_raw_transcript.md
+#### Audio duration: 175 minutes | Model: universal-3-pro | Stated confidence: 95.5%
+#### #
+#### Corrections applied: ONLY the approved table at _pipeline/S16/spellcheck.md, via
+####   word-boundary replacements (deterministic ruleset preserved at
+####   _pipeline/S16/apply_corrections.ps1 / .pl for re-run when shell execution is available).
+#### Speaker labels denote the participant by their character (or the DM). Out-of-character
+####   table talk is preserved verbatim under the same label. Mapping:
+####   A=ADDISON (DM) · B=KIT (Taylor) · C=BLARG (Florian) · D=BINKS (Matt) ·
+####   E=AMANITA (Hannah) · F=AEOLUS (Sirius) · G=DARBY (Austin)
+#### Addison voices all NPCs (Sloopidoop, Topsy, Turvy, Glabbagool, etc.) under ADDISON (DM).
+#### NOTE: Unenumerated Derendil manglings "Dharndil" (00:00:35 area) and "Darrenville"
+####   (00:39 area) were normalized to Derendil under the approved canonical (logged in notes).
+#### Unresolved per the approved table (left AS-HEARD, not changed): the mind-flayer ally
+####   (Wazalax/Grazilax/Rasa Lax), Derendil's claimed kingdom (Nel Rinden Vain variants),
+####   and the archfey patron (Silofirst/Silo Fear). One garbled "Hey, slip a. Dude."
+####   (~01:46) could not be safely regex-normalized to Sloopidoop and is left as-heard.
 
 ---
 
