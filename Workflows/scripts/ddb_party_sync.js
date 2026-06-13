@@ -177,6 +177,62 @@ function spellNames(char) {
   return out.filter((s) => (seen.has(s.name) ? false : seen.add(s.name)));
 }
 
+// AC, computed to MATCH the DDB sheet (deterministic, no rules engine):
+// equipped armor + shield + Dex (capped for medium) + class Unarmored Defense.
+// Returns { ac, breakdown } so the sheet shows the math. Deliberately ignores
+// item AC *modifiers* (e.g. Bracers of Defense, which DDB only applies when
+// unarmored) so the number matches the sheet. Trade-off: a genuine magic AC
+// item (Ring of Protection, +1 armor) won't be added — flag by hand if equipped.
+const ARMOR_TYPE = { 1: 'light', 2: 'medium', 3: 'heavy', 4: 'shield' };
+
+function armorClass(char, scores) {
+  const dexMod = mod(scores.DEX);
+  const worn = (char.inventory || []).filter(
+    (i) => i.equipped && i.definition?.filterType === 'Armor'
+  );
+  const body   = worn.find((i) => ARMOR_TYPE[i.definition.armorTypeId] !== 'shield');
+  const shield = worn.find((i) => ARMOR_TYPE[i.definition.armorTypeId] === 'shield');
+
+  const parts = [];
+  let ac;
+  if (body) {
+    const type    = ARMOR_TYPE[body.definition.armorTypeId];
+    const armorAC = body.definition.armorClass || 10;
+    const name    = body.definition.name || 'Armor';
+    if (type === 'heavy') {
+      ac = armorAC;
+      parts.push(`${name} ${armorAC} (heavy, no Dex)`);
+    } else if (type === 'medium') {
+      const dexAdd = Math.min(dexMod, 2);
+      ac = armorAC + dexAdd;
+      parts.push(`${name} ${armorAC}`, `Dex ${signed(dexAdd)}${dexMod > 2 ? ' (capped)' : ''}`);
+    } else {
+      ac = armorAC + dexMod;
+      parts.push(`${name} ${armorAC}`, `Dex ${signed(dexMod)}`);
+    }
+  } else {
+    const cls = (char.classes || []).map((c) => c.definition?.name);
+    if (cls.includes('Barbarian')) {
+      const conMod = mod(scores.CON);
+      ac = 10 + dexMod + conMod;
+      parts.push('Unarmored Defense 10', `Dex ${signed(dexMod)}`, `Con ${signed(conMod)}`);
+    } else if (cls.includes('Monk')) {
+      const wisMod = mod(scores.WIS);
+      ac = 10 + dexMod + wisMod;
+      parts.push('Unarmored Defense 10', `Dex ${signed(dexMod)}`, `Wis ${signed(wisMod)}`);
+    } else {
+      ac = 10 + dexMod;
+      parts.push('Base 10', `Dex ${signed(dexMod)}`);
+    }
+  }
+  if (shield) {
+    const sAC = shield.definition.armorClass || 2;
+    ac += sAC;
+    parts.push(`${shield.definition.name || 'Shield'} ${signed(sAC)}`);
+  }
+  return { ac, breakdown: parts.join(' + ') };
+}
+
 function renderMarkdown(char, meta) {
   const level = totalLevel(char);
   const pb = profBonus(level);
@@ -205,6 +261,8 @@ function renderMarkdown(char, meta) {
   L.push(`- **Total Level:** ${level}  ·  **Proficiency Bonus:** ${signed(pb)}`);
   L.push(`- **Background:** ${backgroundLine(char)}`);
   L.push(`- **Max HP (approx):** ${hp}`);
+  const acInfo = armorClass(char, scores);
+  L.push(`- **AC:** ${acInfo.ac}  ·  *${acInfo.breakdown}*`);
   if (char.currencies) {
     const c = char.currencies;
     L.push(`- **Currency:** ${c.pp || 0}pp ${c.gp || 0}gp ${c.ep || 0}ep ${c.sp || 0}sp ${c.cp || 0}cp`);
