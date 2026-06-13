@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 13
+session_date: 2026-04-11
+title: "Reckoning at Velkynvelve"
+status: corrected
+source_transcript: "13 - 041126_raw_transcript.md"
+corrections_applied: 2026-05-15
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 # Session 13 — Corrected Transcript
 # Date: April 11, 2026 (041126)
 # Status: Spelling corrected, script formatted

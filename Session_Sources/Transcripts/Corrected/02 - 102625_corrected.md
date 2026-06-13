@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 2
+session_date: 2025-10-26
+title: "Come Get Your Shit"
+status: corrected
+source_transcript: "02 - 102625_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 **Addison (DM)** ... in the background for the last 10 minutes of the game. We're in quite a tight spot, so let's see how...
 
 **Amanita (Hannah) Oh, something very funny and coincidental happened. Right after we played the other week, um, my partner surprised me with a VR game.**

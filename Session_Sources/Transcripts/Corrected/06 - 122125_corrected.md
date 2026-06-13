@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 6
+session_date: 2025-12-21
+title: "The Long Way Down"
+status: corrected
+source_transcript: "06 - 122125_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 122125 SKY IS THE LIMIT TRANSCRIPT
 
 00:00

@@ -1,3 +1,21 @@
+---
+type: transcript
+session_number: 10
+session_date: 2026-02-15
+title: "Echoes in the Feydark"
+status: corrected
+source_transcript: "10 - 021526_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 6
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: Aeolus (Sirius)
+---
 021526 SKY IS THE LIMIT TRANSCRIPT
 
 Addison (DM)

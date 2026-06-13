@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 7
+session_date: 2026-01-04
+title: "Escape from the Oozing Temple"
+status: corrected
+source_transcript: "07 - 010426_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 010426 Sky is The Limit Transcript
 
 00:00

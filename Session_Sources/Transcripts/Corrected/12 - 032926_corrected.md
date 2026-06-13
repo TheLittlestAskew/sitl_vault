@@ -1,3 +1,21 @@
+---
+type: transcript
+session_number: 12
+session_date: 2026-03-29
+title: "Return to Velkynvelve"
+status: corrected
+source_transcript: "12 - 032926_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 6
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: Blarg (Florian)
+---
 Addison (DM):
 
 That you think might be pertinent as we jump in today.

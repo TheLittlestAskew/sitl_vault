@@ -1,3 +1,21 @@
+---
+type: transcript
+session_number: 16
+session_date: 2026-05-24
+title: "Zone of Truth"
+status: corrected
+source_transcript: "16 - 052426_raw_transcript.md"
+corrections_applied: 2026-06-07
+speaker_count: 6
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: Amanita (Hannah)
+---
 # Session 16 — Corrected Transcript
 # Original: 052426 pt2_transcript.md (AssemblyAI, 78 min, 90.9% confidence)
 # Corrected: 2026-06-07

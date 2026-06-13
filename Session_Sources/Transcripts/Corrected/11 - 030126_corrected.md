@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 11
+session_date: 2026-03-01
+title: "Gifts of the Carrion King"
+status: corrected
+source_transcript: "11 - 030126_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 030126 SKY IS THE LIMIT TRANSCRIPT
 
 Addison (DM)

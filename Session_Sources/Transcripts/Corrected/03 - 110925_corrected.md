@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 3
+session_date: 2025-11-09
+title: "Into the Dark"
+status: corrected
+source_transcript: "03 - 110925_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
   
 DM (ADDISON): too much into the mechanics of donning equipment because technically I think getting gear on takes longer than a single six second turn seconds. Um it also says turn but the the whole party was able to get out along with Eldeth Turvy and Stool. Um And yeah, kind of latched on to the house that was able to leap with you guys your ambassador.  
 AMANITA DE’CHAMPIGNON (HANNAH): It was another NPC. We had so many NPCs.  

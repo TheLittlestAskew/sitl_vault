@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 17
+session_date: 2026-06-07
+title: "The Big Fish Eat the Little Fish"
+status: corrected
+source_transcript: "17 - 060726_raw_transcript.md"
+corrections_applied: 2026-06-10
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 # SITL Session Transcript — CORRECTED (Script Format)
 # Session 18 — 06/07/2026 (raw file labeled 18-060726)
 # Source: Session_Sources/Transcripts/Raw_Unedited/18-060726_raw_transcript.md

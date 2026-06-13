@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 15
+session_date: 2026-05-03
+title: "The Long Road to Sloobludop"
+status: corrected
+source_transcript: "15 - 050326_raw_transcript.md"
+corrections_applied: 2026-05-15
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 # Session 15 — Corrected Transcript
 # Original: 050326_Sky_Is_The_Limi_Recording_transcript.md
 # Corrected: 2026-05-15

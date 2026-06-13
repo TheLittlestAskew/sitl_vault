@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 8
+session_date: 2026-01-18
+title: "The Whirlwind and the Depths"
+status: corrected
+source_transcript: "08 - 011826_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 011826 Sky Is The Limit Transcript
 
 00:00

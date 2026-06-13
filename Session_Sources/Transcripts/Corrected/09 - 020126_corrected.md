@@ -1,3 +1,21 @@
+---
+type: transcript
+session_number: 9
+session_date: 2026-02-01
+title: "Every Party Needs A Little Guy"
+status: corrected
+source_transcript: "09 - 020126_raw_transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 6
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+absent_players: Darby (Austin)
+---
 **020126 Sky Is the Limit Recording**
 
 Addison (DM):

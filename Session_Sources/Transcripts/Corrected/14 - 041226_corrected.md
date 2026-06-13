@@ -1,3 +1,22 @@
+---
+type: transcript
+session_number: 14
+session_date: 2026-04-12
+title: "Far From the Sun"
+status: corrected
+source_transcript: "14 - 041226_raw_transcript.md"
+corrections_applied: 2026-05-15
+speaker_count: 7
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Binks (Matt)
+  - Darby (Austin)
+absent_players: none
+---
 # SITL Session Transcript
 
 # Transcribed: 2026-05-15T16:24:15.605Z

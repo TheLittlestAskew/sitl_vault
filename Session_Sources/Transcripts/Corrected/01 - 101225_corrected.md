@@ -1,10 +1,20 @@
 ---
-Session: 1
-Session_Date: 2026-01-12
-Corrections Applied: 05/09/2026
-Original: "[101226_Raw_Transcript]"
-Speaker Count: "6"
-Speakers: DM (ADDISON), AMANITA (HANNAH), KIT (TAYLOR(ME)), AEOLUS (SIRIUS), DARBY (AUSTIN), BLARG (FLORIAN)
+type: transcript
+session_number: 1
+session_date: 2025-10-12
+title: "Prisoners of the Underdark"
+status: corrected
+source_transcript: "01 - 101226_Raw_Transcript.md"
+corrections_applied: 2026-05-09
+speaker_count: 6
+speakers:
+  - DM (Addison)
+  - Kit (Taylor)
+  - Amanita (Hannah)
+  - Aeolus (Sirius)
+  - Blarg (Florian)
+  - Darby (Austin)
+absent_players: Binks (Matt)
 ---
 # SESSION 01 — CORRECTED TRANSCRIPT
 
