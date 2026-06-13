@@ -95,7 +95,7 @@ Game_id: "6907990"
 | 16  | 05/24/2026 | Zone of Truth                  | [[Session 16 — Zone of Truth]]                 |
 | 18 ⚠️ | 06/07/2026 | The Big Fish Eat the Little Fish | [[Session 17 — The Big Fish Eat the Little Fish]] |
 
-> ⚠️ **Session-number collision (unresolved).** The 06/07/2026 session is filed as **S18** per operator instruction but is most plausibly **S17** by play-date ordering. The same play date was staged as S16/S17/S18 in pipeline folders; there is no separate S17 session. Human decision needed before retiring duplicates. See [[Vault Sync Status]] and the S18 note's Archivist Notes.
+> ⚠️ **Session-number 04 (unresolved).** Taylor was on vacation and was only able to log in for a short time at the end of the session. It was not recorded. Information from that session comes from [[[Notes from Addison]]]
 
 ---
 
