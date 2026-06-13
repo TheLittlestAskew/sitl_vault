@@ -154,23 +154,10 @@ The notes have **8 sections** (this mapping matches the `sitl_v8.js` structure):
 2. Present for Taylor's choice (tappable options preferred).
 3. **Record the final chosen title** in the Alternate Title Options section ("FINAL CHOSEN TITLE"). Also keep any alternative names suggested during play.
 
----
-
-## STEP 6 — .docx GENERATION
-
-1. **Read the `sitl-v8-docx` skill first** for the condensed styling reference (palette `C`, fonts `F`, helpers). Only open the full `sitl_v8.js` if the skill directs it. Do not hardcode colors/fonts/sizes inline.
-2. Build content using the script's exact constants and cell/table builders.
-3. Generate the buffer with `Packer.toBuffer()`, then **run the required `fix_tbl_borders` post-processing** to strip invalid `<w:left>`/`<w:right>` from `<w:tblBorders>`, then repack with `pack.py --original`.
-4. **Validate** with `validate.py` before delivering.
-5. Copy the final file to `/mnt/user-data/outputs/` and `present_files`.
-
-**File naming:** `SITL_[##]_[MMDDYY]_[Title].docx` (matches the handoff block).
-
-**Styling guardrails (do not override):** section-header rule lives on the blank spacer row, not the fill paragraph; POV/quote body = no fill, gold `#D4A843` 2.25pt left border, `#1E2F6B` text, 9pt Aptos regular; quote "Repeat this block" = `#E8ECF8` fill + gold left border; all table borders white (no grid lines); no header/footer on any page.
 
 ---
 
-## STEP 7 — CONVO 2 HANDOFF BLOCK
+## STEP 6 — CONVO 2 HANDOFF BLOCK
 
 Output the handoff block (from `CONVO2_HANDOFF_TEMPLATE.md`) for Taylor to copy into a fresh Convo 2 chat:
 
