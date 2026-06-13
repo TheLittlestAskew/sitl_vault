@@ -2,9 +2,9 @@
 
 **Last updated:** 06/07/2026 (reconstructed)
 
-This document defines the step-by-step workflow for **Convo 1**: turning a raw/unedited session transcript into a complete, verified, styled session-notes `.docx`. It is a companion to `SKY_IS_THE_LIMIT_PROJECT_INSTRUCTIONS_TRIMMED.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
+This document defines the step-by-step workflow for **Convo 1**: turning a raw/unedited session transcript into complete, verified, styled session notes. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
 
-> Convo 1 produces two things: (1) the finished session-notes `.docx`, and (2) the **Convo 2 Handoff Block**. Convo 2 then propagates everything into the Obsidian vault. Convo 1 never touches the vault.
+> Convo 1 produces two things: (1) the finished session notes, and (2) the **Convo 2 Handoff Block**. Convo 2 then propagates everything into the Obsidian vault.
 
 ---
 
@@ -21,7 +21,6 @@ Before starting Convo 1, you need:
 1. **The Raw/Unedited Transcript** for the session — from `Session_Sources/Transcripts/Raw_Unedited/`, or pasted/uploaded into this conversation. Filename format: `##_MMddyy_`.
 2. **Session identity confirmed** — session number, real-world play date (MMddyy), party present, absent players.
 3. **Supabase MCP connected** — for the DDB roll archive (`sitl_session_rolls` view). Confirm Taylor has run the post-session sync (there is a delay after a session before rolls appear).
-4. **The `sitl-v8-docx` skill** — the condensed styling reference for the `.docx`. Only read the full `sitl_v8.js` if the skill says to.
 
 If the transcript is missing or the roll archive isn't synced yet, say so immediately. Do not draft notes from memory.
 
@@ -38,7 +37,7 @@ If the transcript is missing or the roll archive isn't synced yet, say so immedi
 
 ## PHASED EXECUTION
 
-Convo 1 runs in seven sequential steps. Steps 1–2 (correction) gate everything: **spell check always precedes notes generation.** Step 3 (roll archive) feeds the Logs section. Steps 4–6 build and render the notes. Step 7 hands off to Convo 2.
+Convo 1 runs in six sequential steps. Steps 1–2 (correction) gate everything: **spell check always precedes notes generation.** Step 3 (roll archive) feeds the Logs section. Steps 4–5 draft the notes. Step 6 hands off to Convo 2.
 
 Log progress to `/home/claude/convo1_progress.md` as each step completes, so state survives a tool restart.
 
@@ -48,8 +47,7 @@ Step 2  Spell Check & Transcript Correction   ← review-before-apply, then save
 Step 3  Roll Archive Cross-Reference          ← Supabase sitl_session_rolls
 Step 4  Session Notes Drafting                ← 8 sections, content per SECTION BREAKDOWN
 Step 5  Title Selection                       ← 5 options, confirm final
-Step 6  .docx Generation                      ← sitl-v8-docx skill → sitl_v8.js pipeline
-Step 7  Convo 2 Handoff Block
+Step 6  Convo 2 Handoff Block
 ```
 
 ---
@@ -133,7 +131,7 @@ The DDB roll archive is the **gold standard for roll verification** (verbal tran
 
 **Content authority:** `SESSION_NOTES_SECTION_BREAKDOWN.md`. Do not alter or skip sections. Tables must have **enough rows to cover the full session.** Capture every plot development with equal care — no chronological bias. Every event, roll, quote, and decision is tagged to the correct session date and character.
 
-The notes have **8 sections** (this mapping matches the `sitl_v8.js` structure):
+The notes have **8 sections**:
 
 1. **Session Metadata** — vertical table: Campaign, Session Number, Session Date, Start Location, End Location, Party Present, Total Rolls Logged, Party Level (note level-ups), Spelling Checked.
 2. **Character POV Journal (Kit Aluri)** — the storytelling exception. In-character, in-world. **Apply the POV Journal Hard Limits** from the master ruleset and use the **`kit-pov-journal` skill** for voice. Before writing, read Kit's **Inner Life & Evolution** state so the entry reflects where she currently is. Never include OOC speech, above-table info, metagame knowledge (dice numbers, spell names as mechanical labels, stats, levels, HP), player process, DM-rulings-as-rulings, or any real-world names/session references. Test: *Could Kit know, feel, or observe this from inside the story?*
@@ -166,7 +164,6 @@ Session [##], Convo 2: Vault updates
 
 **Session Title:** [Final chosen title]
 **Session Date:** [MM/DD/YYYY]
-**Session File:** SITL_[##]_[MMDDYY]_[Title].docx (generated in Convo 1)
 
 **Corrected transcript location:** Session_Sources/Transcripts/Corrected/[filename]
 
@@ -208,5 +205,4 @@ Convo 1 is done when:
 3. ✅ All 8 notes sections complete, tables fully populated, every datum date/character-tagged.
 4. ✅ POV Journal passes the Hard Limits test.
 5. ✅ Final title confirmed and recorded.
-6. ✅ `.docx` generated, border-fixed, validated, delivered via `present_files`.
-7. ✅ Convo 2 Handoff Block output.
+6. ✅ Convo 2 Handoff Block output.

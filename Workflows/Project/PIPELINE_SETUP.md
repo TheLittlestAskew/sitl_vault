@@ -9,9 +9,9 @@ Option B: drop an `.mp3` → auto-transcribe → auto spell-check → **you appr
 | File (from this build) | Put it here in the vault |
 |---|---|
 | `sitl_pipeline_watch.js` | `Workflows\` (run it from here) |
-| `automation\convo1_phaseA.md` | `Workflows\Project\automation\` |
-| `automation\convo1_phaseB_apply.md` | `Workflows\Project\automation\` |
-| `automation\convo2_propagate.md` | `Workflows\Project\automation\` |
+| `automation\convo1_phaseA.md` | `Workflows\Project\Automation\` |
+| `automation\convo1_phaseB_apply.md` | `Workflows\Project\Automation\` |
+| `automation\convo2_propagate.md` | `Workflows\Project\Automation\` |
 | `mcp.json` | vault root, **renamed to** `.mcp.json` |
 
 The watcher auto-creates `_pipeline\` (scratch/review files) on first run.
@@ -29,25 +29,22 @@ The watcher auto-creates `_pipeline\` (scratch/review files) on first run.
 4. **Verify the MCP:** in the vault root run `claude` then `/mcp` — `supabase` should show connected. Ask it to run a quick `SELECT COUNT(*) FROM sitl_session_rolls;` to confirm.
 5. **Open `sitl_pipeline_watch.js` and check the CONFIG block** — especially `RAW_DIR`. Your Convo 2 doc says the transcriber writes to `Raw_Unedited`; older notes say `Raw`. Set whichever is real, and confirm `TRANSCRIBE_CWD` points at the folder holding `sitl_transcribe.js`.
 6. **`.gitignore`:** add `_pipeline/` (transient scratch). `.mcp.json` has no secret in it, so committing it is optional/safe.
-7. **Do the `.docx` removal** (next section) — required, or the automated runs will still try to make a `.docx`.
+7. ✅ **`.docx` removal done** (see next section) — completed 2026-06-13.
 
 ---
 
-## 3. Remove `.docx` from the instructions (run once)
+## 3. Remove `.docx` from the instructions — ✅ DONE (2026-06-13)
 
-The automation prompts already say "no `.docx`," but your instruction files still describe the `sitl_v8.js` step. Clean them at the source. Open `claude` in the vault root (interactive, so you see diffs) and paste:
+The `.docx` / `sitl_v8.js` session-notes generation wording has been stripped from the instruction files. The canonical session-notes artifact is now the `01-Sessions/` markdown note, written during Convo 1. Changes made:
 
-```
-Strip all .docx generation from the SITL workflow instruction files in Workflows/Project/. Edit:
-- SITL_Convo_1_Instructions.md: remove the sitl_v8.js generation, fix_tbl_borders, pack/validate, and "deliver the .docx" steps. The canonical session-notes artifact is now the 01-Sessions markdown note, written during Convo 1.
-- SITL_Convo_2_Instructions_v2.md: change the prereq "the .docx from Convo 1" to "the markdown session note from Convo 1"; remove the "Does not generate .docx" line.
-- SKY_IS_THE_LIMIT_PROJECT_INSTRUCTIONS_TRIMMED.md: remove .docx / sitl_v8 references from the Source Files table and anywhere else they appear.
-- CONVO2_HANDOFF_TEMPLATE.md: remove any .docx path field.
-- SITL_Session_Notes_Template_Instructions.md: mark RETIRED at the top — sitl_v8.js is no longer used.
-Use surgical edits. Show me a diff of each file before saving. Change nothing else.
-```
+- `Convo_1_Instructions.md`: removed the `.docx` generation step (flow is now 6 steps), the `sitl-v8-docx` prerequisite, the `.docx` handoff/completion references, and the `sitl_v8.js` structure note.
+- `Convo_2_Instructions.md`: changed "the .docx from Convo 1" → "the markdown note from Convo 1"; removed the "Does not generate .docx" line.
+- `Project_Instructions.md`: removed "Step 7: Generate .docx" (steps renumbered), the `.docx`/`sitl_v8.js` Source Files rows, and the `.docx` deliverable + Drive-storage rows.
+- `Convo2_Handoff_Template.md`: removed the `.docx` Session File field.
+- `Session_Notes_Template_Instructions.md`: marked RETIRED — `sitl_v8.js` is no longer used.
+- `SITL_Vault_Structure_Guide.md`: removed the "adapted from the .docx output" wording.
 
-**Verify after:** grep the five files for `docx` and `sitl_v8` — only the "RETIRED" note should remain. The `sitl-v8-docx` skill is now dead weight; archive it when convenient.
+The only remaining `.docx` mentions are protective "no `.docx`" guards and input-transcript references. The `sitl-v8-docx` skill is now dead weight; archive it when convenient.
 
 ---
 

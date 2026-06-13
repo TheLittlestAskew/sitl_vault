@@ -6,7 +6,7 @@
 
 Session [##], Convo 2: Vault updates
 
-**Session Title:** [Final chosen title] **Session Date:** [MM/DD/YYYY] **Session File:** SITL_[##]_[MMDDYY]_[Title].docx (generated in Convo 1)
+**Session Title:** [Final chosen title] **Session Date:** [MM/DD/YYYY]
 
 **Corrected transcript location:** Session_Sources/Transcripts/Corrected/[filename]
 

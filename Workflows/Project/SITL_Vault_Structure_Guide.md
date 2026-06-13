@@ -257,7 +257,7 @@ One markdown file per session containing the full session notes adapted for Obsi
 - `Session 06 — The Long Way Down.md`
 - `Session 09 —  Every Party Needs A "Little Guy".md`
 
-**Content:** Full session notes in markdown, matching all 8 sections from the session notes template (Metadata, POV Journal, Session Analysis, Character Activity, Artifacts, Logs, Quotes & Language, Archivist Notes). Adapted from the `.docx` output to markdown with `[[backlinks]]` to all characters, locations, and items mentioned.
+**Content:** Full session notes in markdown, matching all 8 sections from the session notes template (Metadata, POV Journal, Session Analysis, Character Activity, Artifacts, Logs, Quotes & Language, Archivist Notes), with `[[backlinks]]` to all characters, locations, and items mentioned.
 
 **Backlink rules within session files:**
 - Every character name (PC and NPC) gets a backlink on first mention: `[[Kit Aluri]]`, `[[Ilvara Mizzrym]]`
@@ -631,37 +631,16 @@ Obsidian template files used by the Templates core plugin (or Templater communit
 
 ## Root-Level Files (Vault Housekeeping)
 
-The following files currently exist at the vault root. Most should be moved or cleaned up:
+**Refreshed 2026-06-13.** The earlier root clutter has been cleaned up — the stray notes (`moon-linked gemstone flask.md`, `Session 01.md`, `Untitled.md`), the `sitl_vault_starter.zip` scaffold, the duplicate `sitl_vault/` subfolder, the malformed batch-`mkdir` folder, the loose `Claude_Project_Instructions.md` copy, and all duplicate root-level `.png` images are gone. Current root contents:
 
-| File | Status | Action |
-|---|---|---|
-| `README.md` | Vault readme | ✅ Keep at root |
-| `Claude_Project_Instructions.md` | Reference copy of project instructions | ✅ Keep at root or move to `DND_Sources/` |
-| `moon-linked gemstone flask.md` | Stray item note | ⚠️ Move to appropriate location or integrate into Loot Tracker |
-| `Session 01.md` | Stray session file | ⚠️ Likely duplicate of `01-Sessions/Session 01 — Prisoners of the Underdark.md` — verify and delete |
-| `Untitled.md` | Empty/stray file | 🗑️ Delete |
-| `sitl_vault_starter.zip` | Original vault scaffold | 🗑️ Archive or delete |
-| `sitl_vault/` (subfolder) | Old/duplicate vault structure with outdated folder numbering | 🗑️ Delete after confirming nothing unique inside |
-| `{00-Campaign-Hub,01-Sessions,02-World-Lore` (folder) | Malformed folder from failed batch mkdir | 🗑️ Delete |
-| Root-level `.png` files (7 duplicates + 3 unique) | Images that belong in `06-Media/` | ⚠️ Move unique files to `06-Media/`, delete root copies — see Image Cleanup section |
+| File | Status |
+|---|---|
+| `ADDISON_README.md` | Vault readme — ✅ keep at root |
+| `SITL_Vault_Structure_Guide.pdf` | PDF export of this guide — ✅ keep (regenerate when the guide changes) |
+| `mcp.json` | MCP config — ⚠️ `PIPELINE_SETUP.md` expects this as `.mcp.json`; rename if the automation can't locate it |
+| `.env`, `.gitignore` | Config dotfiles — ✅ keep |
 
-### Image Cleanup
-
-**Already in both root and `06-Media/` (delete from root):**
-- `Buppido Derendil Eldeth.png`
-- `eldeth.png`
-- `Ilvara.png`
-- `jimjar ront sarith.png`
-- `Shushar stool topsy turvy.png`
-- `stool.png`
-- `topsy_and_turvy.png`
-
-**In root only (move to `06-Media/`):**
-- `Ilvara 1.png`
-- `Screenshot 2025-09-28 133542 1.png`
-- `Screenshot 2025-09-28 133542.png`
-
-**⚠️ Before moving/deleting:** Check if any vault notes embed root-level images with `![[filename]]`. If so, update those links after moving, or set Obsidian's attachment search to all folders (`Settings > Files & Links > Attachment folder path > 06-Media`, and ensure "Detect all file links" is on).
+No stray notes, duplicate session files, or root-level `.png` images remain. Vault images live in `06-Media/`.
 
 ---
 

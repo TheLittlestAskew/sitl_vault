@@ -15,18 +15,18 @@ type: index
 |---|---|---|
 | `Onboard Sky Is The Limit.md` | 2026-06-05 | 2026-06-07 |
 | `Project/ADDENDUM_AssemblyAI_Transcription_Process.md` | 2026-05-15 | 2026-06-08 |
-| `Project/Automation/convo1_phaseA.md` | 2026-06-08 | 2026-06-08 |
-| `Project/Automation/convo1_phaseB_apply.md` | 2026-06-08 | 2026-06-08 |
-| `Project/Automation/convo2_propagate.md` | 2026-06-08 | 2026-06-08 |
-| `Project/Convo2_Handoff_Template.md` | 2026-06-07 | 2026-06-07 |
+| `Project/Automation/convo1_phaseA.md` | 2026-06-08 | 2026-06-13 |
+| `Project/Automation/convo1_phaseB_apply.md` | 2026-06-08 | 2026-06-13 |
+| `Project/Automation/convo2_propagate.md` | 2026-06-08 | 2026-06-13 |
+| `Project/Convo2_Handoff_Template.md` | 2026-06-07 | 2026-06-13 |
 | `Project/Convo_1_Instructions.md` | 2026-06-07 | 2026-06-13 |
-| `Project/Convo_2_Instructions.md` | 2026-05-21 | 2026-06-08 |
-| `Project/PIPELINE_SETUP.md` | 2026-06-08 | 2026-06-08 |
-| `Project/Project_Instructions.md` | 2026-05-09 | 2026-06-08 |
-| `Project/README.md` | 2026-06-07 | 2026-06-11 |
-| `Project/SITL_Vault_Structure_Guide.md` | 2026-05-14 | 2026-06-08 |
+| `Project/Convo_2_Instructions.md` | 2026-05-21 | 2026-06-13 |
+| `Project/PIPELINE_SETUP.md` | 2026-06-08 | 2026-06-13 |
+| `Project/Project_Instructions.md` | 2026-05-09 | 2026-06-13 |
+| `Project/README.md` | 2026-06-07 | 2026-06-13 |
+| `Project/SITL_Vault_Structure_Guide.md` | 2026-05-14 | 2026-06-13 |
 | `Project/Session_Notes_Section_Breakdown.md` | 2026-06-07 | 2026-06-08 |
-| `Project/Session_Notes_Template_Instructions.md` | 2026-06-07 | 2026-06-08 |
+| `Project/Session_Notes_Template_Instructions.md` | 2026-06-07 | 2026-06-13 |
 | `TRIGGERABLE_ACTIONS.md` | 2026-06-11 | 2026-06-11 |
 | `ddb-roll-sync/background.js` | 2026-05-22 | 2026-05-22 |
 | `ddb-roll-sync/manifest.json` | 2026-05-22 | 2026-05-22 |

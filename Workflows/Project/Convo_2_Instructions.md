@@ -2,13 +2,13 @@
 
 **Last updated:** 05/21/2026
 
-This document defines the step-by-step workflow for Convo 2: updating the Obsidian vault after session notes have been generated in Convo 1. It is a companion to `SKY_IS_THE_LIMIT_PROJECT_INSTRUCTIONS_TRIMMED.md` (the master ruleset) and assumes all shared rules, constraints, and definitions from that file apply here.
+This document defines the step-by-step workflow for Convo 2: updating the Obsidian vault after session notes have been generated in Convo 1. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, and definitions from that file apply here.
 
 ---
 
 ## PURPOSE
 
-Convo 2 takes the completed session notes (.docx from Convo 1) and propagates all new information across the Obsidian vault so every page stays current. The vault is the campaign wiki — if it isn't in the vault, it doesn't exist for future reference.
+Convo 2 takes the completed session notes (the markdown note from Convo 1) and propagates all new information across the Obsidian vault so every page stays current. The vault is the campaign wiki — if it isn't in the vault, it doesn't exist for future reference.
 
 ---
 
@@ -17,7 +17,7 @@ Convo 2 takes the completed session notes (.docx from Convo 1) and propagates al
 Before starting Convo 2, you need:
 
 1. **The Convo 2 Handoff Block** — copy-pasted from the end of Convo 1. Contains session metadata, key events summary, flags, and DDB archive status.
-2. **The completed session notes** — either the .docx from Convo 1 or the content pasted/uploaded into this conversation.
+2. **The completed session notes** — the markdown note from Convo 1, or the content pasted/uploaded into this conversation.
 3. **Obsidian MCP connected and responsive** — vault name is `sitl-vault`.
 
 If the MCP is unresponsive, say so immediately. Do not attempt to draft vault updates from memory without verifying current vault state.
@@ -395,7 +395,6 @@ Vault Sync Status updated LAST with ✅/➖ for all columns and a change log ent
 ## WHAT CONVO 2 DOES NOT DO
 
 - **Does not re-read transcripts.** All session content comes from the Convo 1 notes and handoff block.
-- **Does not generate .docx files.** That's Convo 1's job.
 - **Does not spell-check.** That's Convo 1's job.
 - **Does not modify files outside the vault** (no Google Drive, no DDB, no Supabase writes).
 - **Can query Supabase if roll data is missing** from the handoff. This uses a separate connection and does not affect MCP stability.

@@ -45,18 +45,15 @@ SELECT * FROM sitl_session_rolls WHERE session_date = 'YYYY-MM-DD';
 If no rolls are returned, flag a possible sync gap and ask Taylor if she has synced.
 
 ### Step 5: Generate Session Notes
-Generate all 8 sections using the `sitl-v8-docx` skill for styling reference (do not re-read the full `sitl_v8.js` unless the skill says to). Cross-reference transcript rolls against DDB archive rolls. Flag discrepancies.
+Generate all 8 sections per `SESSION_NOTES_SECTION_BREAKDOWN.md`. Cross-reference transcript rolls against DDB archive rolls. Flag discrepancies.
 
 ### Step 6: Title Selection
-Propose 5 alternate titles (Humorous, Dramatic, Serious, Straightforward, Quote-Based). Wait for Taylor to choose before finalizing the .docx.
+Propose 5 alternate titles (Humorous, Dramatic, Serious, Straightforward, Quote-Based). Wait for Taylor to choose before finalizing the notes.
 
-### Step 7: Generate .docx
-Build the final document using `sitl_v8.js` constants and helpers (via the `sitl-v8-docx` skill). Run `fix_tbl_borders` post-processing. Deliver the file.
-
-### Step 8: Convo 2 Handoff
+### Step 7: Convo 2 Handoff
 Output a copy-pasteable handoff block using the template in `CONVO2_HANDOFF_TEMPLATE.md`. Taylor pastes this into a new conversation to start Convo 2.
 
-### Step 9: CHARACTER DESCRIPTORS (for the handoff)
+### Step 8: CHARACTER DESCRIPTORS (for the handoff)
 While processing the transcript, note any NEW character details that surface in
 play — physical descriptions, mannerisms, quirks, values, fears, or backstory
 reveals — for PCs and Major NPCs. Quote/paraphrase faithfully; never invent.
@@ -75,9 +72,6 @@ Personality & Quirks / Backstory). If none surfaced, write "none."
 | Supabase: `ddb_rolls` table (SystemHorizon project) | Complete D&D Beyond roll history. Query via Supabase MCP `execute_sql`. Use `sitl_session_rolls` view for SITL data. |
 | `ddb_sync_supabase.js` | Browser console script for syncing DDB rolls to Supabase |
 | `SITL-project-knowledge-dump-2026-05-03` | Historical project info from prior Claude account |
-| `SITL_Session_Notes_Template_v8_final.docx` | Visual reference for session notes output |
-| `sitl_v8.js` | Canonical Node.js generator — defines all .docx styling. The `sitl-v8-docx` skill contains a condensed reference; only read the full script if the skill says to. |
-| `SITL_Session_Notes_Template_Instructions.md` | Instructions for using sitl_v8.js |
 | `SESSION_NOTES_SECTION_BREAKDOWN.md` | Section-by-section content expectations |
 | `dnd_elapsed_time_from_transcripts_reliability_ranked` | In-story elapsed time tracking |
 | `CONVO2_HANDOFF_TEMPLATE.md` | Template for the Convo 2 handoff block output at end of Convo 1 |
@@ -338,7 +332,7 @@ The roll archive was migrated from `ddb_roll_archive.xlsx` (Google Drive) to Sup
 - Use D&D sources to check transcripts for spelling errors
 
 ### 2. Session Notes
-- Generate full session notes using the `sitl-v8-docx` skill (condensed styling reference) and `SITL_Session_Notes_Template_Instructions.md` — those are the authority on formatting. Do not alter or skip sections.
+- Generate full session notes per `SESSION_NOTES_SECTION_BREAKDOWN.md` — the authority on content and section structure. Do not alter or skip sections.
 - Tables must have enough rows to completely cover the full session
 - Capture every plot development with equal care — do not prioritize by when events occur
 - Associate every event, roll, quote, and major decision with the correct session date and character
@@ -430,7 +424,7 @@ Existing session notes in Google Drive are irrelevant to the current workflow. T
 
 ### Obsidian Vault Session Notes
 If session notes already exist in the Obsidian vault (`sitl_vault/01-Sessions/`) for the session being processed:
-- Do not regenerate the full session notes .docx
+- Do not regenerate the full session notes
 - Instead, check whether all relevant vault files have been updated to include information from that session (per the Convo 2 checklist)
 - If any vault files are missing updates from that session, update only those files
 - If all vault files are already current, confirm that to Taylor and ask if there's anything specific she wants revised
@@ -443,14 +437,12 @@ Produce:
 1. Spell check table (confirmed by Taylor)
 2. Corrected, script-formatted transcript saved to vault (`Session_Sources/Transcripts/Corrected`)
 3. Complete session notes content (all 8 sections)
-4. `.docx` generated via `sitl_v8.js` (using `sitl-v8-docx` skill for styling reference)
-5. DDB roll archive cross-reference (discrepancies flagged)
-6. **Convo 2 handoff block** (copy-pasteable, using `CONVO2_HANDOFF_TEMPLATE.md`)
+4. DDB roll archive cross-reference (discrepancies flagged)
+5. **Convo 2 handoff block** (copy-pasteable, using `CONVO2_HANDOFF_TEMPLATE.md`)
 
 ### Google Drive Storage
 | File type | Primary location | Fallback if inaccessible |
 |---|---|---|
-| Session notes .docx | My Drive > DND Archive > Sky Is The Limit > Session Notes | My Drive root |
 | All other outputs | My Drive > DND Archive > Sky Is The Limit | My Drive root |
 
 Save completed notes for upload to project files before starting Convo 2.
@@ -663,4 +655,4 @@ Session filename notes: session number is zero-padded to 2 digits. Date is the r
 
 ## CONVO 2 DELIVERABLE
 
-All 20 checklist items completed (or documented at which item MCP timed out for easy resumption). No .docx generation — that was Convo 1.
+All 20 checklist items completed (or documented at which item MCP timed out for easy resumption). No `.docx` generation.

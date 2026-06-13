@@ -31,12 +31,12 @@ Every campaign vault uses the same filenames in this folder. A campaign may not 
 
 | Standard filename | Status |
 |---|---|
-| `Project_Instructions.md` | ⚠️ Present as `Claude_Project_Instructions.md` — rename pending |
-| `Convo_1_Instructions.md` | ⚠️ Present as `SITL_Convo_1_Instructions.md` — rename pending |
+| `Project_Instructions.md` | ✅ Present (standard name) |
+| `Convo_1_Instructions.md` | ✅ Present (standard name) |
 | `Convo_2_Instructions.md` | ✅ Present (standard name) |
-| `Session_Notes_Section_Breakdown.md` | 🛑 Missing |
-| `Session_Notes_Template_Instructions.md` | 🛑 Missing |
-| `Convo2_Handoff_Template.md` | ⚠️ Present as `Convo 2 Handoff Template.md` — rename pending |
+| `Session_Notes_Section_Breakdown.md` | ✅ Present (standard name) |
+| `Session_Notes_Template_Instructions.md` | ✅ Present (standard name) — RETIRED stub; `.docx`/`sitl_v8.js` no longer used |
+| `Convo2_Handoff_Template.md` | ✅ Present (standard name) |
 
 ### Also present (beyond the standard set — pending review)
 
