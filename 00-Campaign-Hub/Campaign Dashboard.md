@@ -1,12 +1,15 @@
+---
+Campaign: Sky Is The Limit
+DM: Addison(Kirk_The_Dodger)
+System: D&D 5E (2024 Rules)
+Module: Out Of The Abyss
+Setting: The Underdark
+Leveling: Milestone
+Status: Active
+Game_id: "6907990"
+---
 # Sky Is The Limit — Campaign Dashboard
 
-> **Campaign:** Out of the Abyss (Homebrew)
-> **DM:** Addison (Kirk_The_Dodger)
-> **Setting:** The Underdark
-> **System:** D&D 5E (2024 Rules)
-> **Status:** Active
-> **Leveling**: Milestone
-> Campain_id: 6907990
 
 ---
 

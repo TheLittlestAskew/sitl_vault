@@ -1,3 +1,11 @@
+---
+Session: 1
+Session_Date: 2026-01-12
+Corrections Applied: 05/09/2026
+Original: "[101226_Raw_Transcript]"
+Speaker Count: "6"
+Speakers: DM (ADDISON), AMANITA (HANNAH), KIT (TAYLOR(ME)), AEOLUS (SIRIUS), DARBY (AUSTIN), BLARG (FLORIAN)
+---
 # SESSION 01 — CORRECTED TRANSCRIPT
 
 # Original: 101226_Raw_Transcript.md
@@ -7,7 +15,6 @@
 # See: 101226_Spell_Check_Log.md for full correction log
 
 # Flagged items requiring user review are marked with [transcript: original] or [inaudible]
-
 
 ---
 
