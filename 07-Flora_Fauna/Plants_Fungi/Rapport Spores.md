@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-10
+updated_on: 2026-05-11
 type: plant
 classification: Fungus (Myconid Biology)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"

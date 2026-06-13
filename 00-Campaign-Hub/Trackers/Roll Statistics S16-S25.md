@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-07
+updated_on: 2026-06-13
 type: mechanics
 updated: 2026-06-10
 sessions_covered: 18

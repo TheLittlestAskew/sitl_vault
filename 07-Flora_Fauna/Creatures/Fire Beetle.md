@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-10
+updated_on: 2026-05-13
 type: creature
 classification: Beast
 first_appearance: "[[Session 03 — Into the Dark]]"

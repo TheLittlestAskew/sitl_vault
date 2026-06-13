@@ -1,3 +1,8 @@
+---
+created_on: 2026-06-07
+updated_on: 2026-06-10
+---
+
 # Profanity Ledger — S16-S25
 
 > **Active tracker batch (S16–S25).** Earlier sessions: [[Profanity Ledger S01-S15]]. Rotates every 10 sessions per [[Vault Sync Status]].

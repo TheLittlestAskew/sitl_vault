@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-07
+updated_on: 2026-06-13
 type: transcript
 session_number: 16
 session_date: 2026-05-24
@@ -16,14 +18,9 @@ speakers:
   - Darby (Austin)
 absent_players: Amanita (Hannah)
 ---
-# Session 16 — Corrected Transcript
 # Original: 052426 pt2_transcript.md (AssemblyAI, 78 min, 90.9% confidence)
-# Corrected: 2026-06-07
-# Session date: 2026-05-24 (confirmed by Taylor)
 # Corrections applied: Darendil→Derendil, carrying crawlers→carrion crawlers, Sloopladop→Sloobludop, "split up"→Sloobludop (context), Silith→Psilofyr, Terastor→Terrestor, Amanita de Champignon→Amanita de'Champignon, hand on the hill→hand on the hilt, Big→Binks, "Elden Prince"→elven prince, "Guidance of Plus"→Guidance and Bless, Cory→Corey
 # ⚠️ Notes: Part 1 of this session's recording was lost and could not be recovered — this transcript covers pt2 only (session joined in progress). Hannah (Amanita) was ABSENT; Addison voiced/rolled for Amanita. SPEAKER C was a diarization split label and has been reattributed by context; unattributable interjections are marked [AMBIGUOUS]. Garbled segments retained verbatim and flagged [unclear].
-
----
 
 [00:00:07] TAYLOR (OOC): Hello, hello, hello, hello. Okay, that is getting me.
 

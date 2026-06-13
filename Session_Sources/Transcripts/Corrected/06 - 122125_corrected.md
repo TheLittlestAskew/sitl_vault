@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: transcript
 session_number: 6
 session_date: 2025-12-21
@@ -17,11 +19,6 @@ speakers:
   - Darby (Austin)
 absent_players: none
 ---
-122125 SKY IS THE LIMIT TRANSCRIPT
-
-00:00
-
-220:19
 
 DM (Addison):
 

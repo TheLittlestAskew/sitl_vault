@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: transcript
 session_number: 8
 session_date: 2026-01-18
@@ -17,11 +19,6 @@ speakers:
   - Darby (Austin)
 absent_players: none
 ---
-011826 Sky Is The Limit Transcript
-
-00:00
-
-143:34
 
 DM (Addison):
 

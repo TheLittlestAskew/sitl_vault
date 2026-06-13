@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: transcript
 session_number: 10
 session_date: 2026-02-15
@@ -16,7 +18,6 @@ speakers:
   - Darby (Austin)
 absent_players: Aeolus (Sirius)
 ---
-021526 SKY IS THE LIMIT TRANSCRIPT
 
 Addison (DM)
 

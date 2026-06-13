@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-15
+updated_on: 2026-05-15
 session: 13
 date: 2026-04-11
 title: "Reckoning at Velkynvelve"

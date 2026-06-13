@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-21
+updated_on: 2026-05-21
+---
+
 # Vault Format Reference
 
 > **Purpose:** Single source of truth for all append formats, table structures, and new-page templates used in Convo 2 vault updates. Claude reads this file once at the start of Convo 2 instead of reading each tracker individually to check formatting.

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-13
+updated_on: 2026-05-13
 type: npc
 race: Goblin
 class: Shaman

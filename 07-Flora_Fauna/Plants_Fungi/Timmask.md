@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-10
+updated_on: 2026-05-15
 type: plant
 classification: Fungus (Poisonous/Hallucinogenic)
 first_appearance: "[[Session 03 — Into the Dark]]"

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-11
+updated_on: 2026-06-11
 session: 8
 date: 2026-01-18
 title: "The Whirlwind and the Depths"

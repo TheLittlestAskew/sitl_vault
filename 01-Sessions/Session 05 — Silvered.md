@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-10
+updated_on: 2026-06-11
 session_number: 5
 session_date: 2025-12-07
 session_title: "Silvered"

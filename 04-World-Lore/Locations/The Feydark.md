@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-13
+---
+
 # The Feydark
 
 > **Type:** Fey-touched Underdark region / Archfey domain

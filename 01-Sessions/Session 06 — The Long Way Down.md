@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-11
+updated_on: 2026-05-11
 session: 6
 title: "The Long Way Down"
 date: 2025-12-21

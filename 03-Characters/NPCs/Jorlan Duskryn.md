@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-05-15
 type: npc
 race: Drow
 class: Elite Warrior

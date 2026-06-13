@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-10
+updated_on: 2026-05-11
 session_number: 4
 session_date: 2025-11-23
 start_location: "Ancient Dwarvish/Duergar Safe House"

@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-09
+---
+
 DM (ADDISON)
 
 We are going to we're going to open this. Amanita, you are you open your eyes and you see A lush, absolutely sprawling underground city of mycetes, of mushrooms, of fungus. Beautiful. Some all different colors that range in and out of the visible spectrum. Bioluminescence coming from everywhere. It seems like veins and tendrils. How is your character feeling in this moment of seeing this place?

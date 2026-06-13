@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-10
+---
+
 # Open Threads & Mysteries
 
 > **Purpose:** Running tracker of all unresolved storylines, mysteries, and open questions. Updated every Convo 2.

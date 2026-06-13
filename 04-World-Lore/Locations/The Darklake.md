@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-13
+---
+
 # The Darklake
 > **Type:** Underdark Region
 > **Status:** Party entered the region at the end of [[Session 16 — Zone of Truth|Session 16]] (~1 day from [[Sloobludop]])

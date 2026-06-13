@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: transcript
 session_number: 9
 session_date: 2026-02-01
@@ -16,7 +18,6 @@ speakers:
   - Binks (Matt)
 absent_players: Darby (Austin)
 ---
-**020126 Sky Is the Limit Recording**
 
 Addison (DM):
 

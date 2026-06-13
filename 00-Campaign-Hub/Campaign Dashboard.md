@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 Campaign: Sky Is The Limit
 DM: Addison(Kirk_The_Dodger)
 System: D&D 5E (2024 Rules)
@@ -7,6 +9,9 @@ Setting: The Underdark
 Leveling: Milestone
 Status: Active
 Game_id: "6907990"
+Session Frequency: Bi-Weekly, Sundays
+First Session: 2025-10-12
+Most Recent Session: 2026-06-07
 ---
 # Sky Is The Limit — Campaign Dashboard
 

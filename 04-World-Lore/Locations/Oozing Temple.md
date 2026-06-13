@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-11
+updated_on: 2026-05-11
 type: location
 region: Underdark (beneath ancient Dwarvish safe house)
 first_appearance: "[[Session 06 — The Long Way Down]]"

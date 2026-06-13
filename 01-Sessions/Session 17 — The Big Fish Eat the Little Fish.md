@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-10
+updated_on: 2026-06-13
 type: session
 session_number: 17
 date: 2026-06-07

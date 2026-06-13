@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-07
+---
+
 # Profanity Ledger
 
 > **This tracker has moved to batched files in `00-Campaign-Hub/Trackers/`** (migration completed 2026-06-07).

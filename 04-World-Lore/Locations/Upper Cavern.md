@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-11
+updated_on: 2026-05-13
 type: location
 region: Underdark (beneath Dwarvish safe house network)
 status: Visited

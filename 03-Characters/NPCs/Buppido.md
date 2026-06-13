@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-05-11
 type: npc
 race: Derro
 class: Unknown

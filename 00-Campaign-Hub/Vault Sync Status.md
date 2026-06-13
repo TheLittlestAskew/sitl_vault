@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-14
+updated_on: 2026-06-10
+---
+
 # Vault Sync Status
 
 > **Purpose:** Single source of truth for which sessions have been fully propagated across the vault. Updated at the end of every Convo 2 session.

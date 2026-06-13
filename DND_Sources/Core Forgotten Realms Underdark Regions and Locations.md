@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-05
+updated_on: 2026-05-05
+---
+
 Core Forgotten Realms Underdark Regions
 Location	Type	Notes
 The Underdark	Mega-region	The vast subterranean world beneath Faerûn and other parts of Toril

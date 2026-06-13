@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-13
+updated_on: 2026-05-13
 session_number: 10
 session_date: 2026-02-15
 session_title: "Through the Fungal Gate"

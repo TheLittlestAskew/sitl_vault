@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: npc
 race: Quaggoth
 affiliation: Claims to be elven royalty (polymorphed by a curse)

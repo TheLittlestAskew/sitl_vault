@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-05-11
 session: 1
 date: 2025-10-12
 title: "Prisoners of the Underdark"

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-10
+updated_on: 2026-06-13
 type: creature
 classification: Monstrosity
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"

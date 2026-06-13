@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-13
+updated_on: 2026-05-15
+---
+
 # Glabbagool S09 Update Patch
 
 ## Frontmatter changes:

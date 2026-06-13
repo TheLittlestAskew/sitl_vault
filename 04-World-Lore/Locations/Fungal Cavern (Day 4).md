@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-15
+updated_on: 2026-06-07
 type: location
 region: Underdark (between Velkynvelve and Sloobludop)
 first_appearance: "[[Session 15 — The Long Road to Sloobludop]]"

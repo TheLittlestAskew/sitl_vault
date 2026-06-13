@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: transcript
 session_number: 1
 session_date: 2025-10-12
@@ -16,17 +18,8 @@ speakers:
   - Darby (Austin)
 absent_players: Binks (Matt)
 ---
-# SESSION 01 — CORRECTED TRANSCRIPT
-
-# Original: 101226_Raw_Transcript.md
-
-# Corrections applied: 05/09/2026
-
 # See: 101226_Spell_Check_Log.md for full correction log
-
 # Flagged items requiring user review are marked with [transcript: original] or [inaudible]
-
----
 
 DM (ADDISON)
 

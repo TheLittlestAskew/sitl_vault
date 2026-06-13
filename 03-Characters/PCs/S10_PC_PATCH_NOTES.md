@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-13
+updated_on: 2026-05-13
+---
+
 # S10 PC Page Updates — Patch Notes
 
 Apply these updates to each PC page. For each PC:

@@ -1,3 +1,8 @@
+---
+created_on: {{date:YYYY-MM-DD}}
+updated_on: {{date:YYYY-MM-DD}}
+---
+
 # Session {{number}} — {{title}}
 > **Date:** {{date}}
 > **Campaign:** Sky Is The Limit

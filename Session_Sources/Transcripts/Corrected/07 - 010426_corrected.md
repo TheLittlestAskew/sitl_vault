@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: transcript
 session_number: 7
 session_date: 2026-01-04
@@ -17,11 +19,6 @@ speakers:
   - Darby (Austin)
 absent_players: none
 ---
-010426 Sky is The Limit Transcript
-
-00:00
-
-122:41
 
 Kit (Taylor):
 

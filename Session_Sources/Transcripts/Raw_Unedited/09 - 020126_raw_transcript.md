@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-09
+---
+
 Addison (DM)
 
 And just to give you some text and reference, it's been some time. We're dealing with exhaustion. I'm just gonna. I'm just gonna say that everybody right now is one point of exhaustion.

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-05-15
 type: location
 region: Underdark (Northdark)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"

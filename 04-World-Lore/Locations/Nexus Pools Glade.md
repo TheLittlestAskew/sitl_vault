@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-13
+updated_on: 2026-05-13
 type: location
 region: The Feydark
 status: Active — party departed S11

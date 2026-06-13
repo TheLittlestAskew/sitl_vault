@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-13
+updated_on: 2026-05-13
 type: creature
 classification: Plant (Myconid)
 first_appearance: "[[Session 10 — 021526_Echoes_in_the_Feydark]]"

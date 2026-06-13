@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-21
+updated_on: 2026-06-10
+---
+
 # Location Index
 
 > **Purpose:** Summary index of all campaign locations with brief descriptions and session references. Detailed location pages live in `04-World-Lore/Locations/`.

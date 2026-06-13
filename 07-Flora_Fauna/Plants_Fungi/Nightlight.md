@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-15
+updated_on: 2026-05-15
 type: plant
 classification: Fungus (bioluminescent)
 first_appearance: "[[Session 15 — The Long Road to Sloobludop]]"

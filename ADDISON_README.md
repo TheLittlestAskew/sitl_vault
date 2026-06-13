@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-08
+---
+
 # Sky Is The Limit — Campaign Vault
 
 A living archive for our D&D 5E (2024) campaign set in the Underdark. Everything here is generated from our session recordings, transcripts, and D&D Beyond data — organized in an Obsidian vault and synced to GitHub so the whole group can browse it.

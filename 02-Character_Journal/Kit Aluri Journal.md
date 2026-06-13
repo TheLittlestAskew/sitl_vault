@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-10
+updated_on: 2026-06-10
+---
+
 # Kit Aluri — Character Journal
 
 ## THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR

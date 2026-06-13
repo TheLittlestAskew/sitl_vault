@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-07
+updated_on: 2026-06-13
 type: npc
 race: Spider (beast — species unstated)
 affiliation: "[[Darby Stonefeather]]'s pet"

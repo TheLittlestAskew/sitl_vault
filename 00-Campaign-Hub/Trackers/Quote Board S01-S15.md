@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-07
+---
+
 # Quote Board Master
 
 Verbatim quotes across all sessions. Tagged by character and type.

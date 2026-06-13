@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-09
+---
+
 # Mantol-Derith
 > **Type:** Underdark Location
 > **Status:** Not yet visited by party

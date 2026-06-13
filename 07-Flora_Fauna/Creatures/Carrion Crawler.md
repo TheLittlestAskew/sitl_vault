@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-07
+updated_on: 2026-06-07
 type: creature
 classification: Monstrosity (insectoid scavenger)
 threat_level: Low (unless threatened)

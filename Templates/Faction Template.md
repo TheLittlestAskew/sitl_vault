@@ -1,4 +1,6 @@
 ---
+created_on: {{date:YYYY-MM-DD}}
+updated_on: {{date:YYYY-MM-DD}}
 type: faction
 status: 
 territory: 

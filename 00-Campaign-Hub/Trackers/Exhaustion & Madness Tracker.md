@@ -1,3 +1,8 @@
+---
+created_on: 2026-06-07
+updated_on: 2026-06-07
+---
+
 # Exhaustion & Madness Tracker
 
 Levels of exhaustion and instances of madness across the party — PCs and traveling companions — tracked session by session. Sourced from [[House Rules & Rulings]] and the [[Campaign Dashboard]]. Update each session in Convo 2; never infer a level the DM didn't state.

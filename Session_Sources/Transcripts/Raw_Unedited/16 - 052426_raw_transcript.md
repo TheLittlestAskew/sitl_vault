@@ -1,3 +1,8 @@
+---
+created_on: 2026-06-07
+updated_on: 2026-06-07
+---
+
 # SITL Session Transcript
 # Transcribed: 2026-06-07T15:58:56.559Z
 # Audio duration: 78 minutes

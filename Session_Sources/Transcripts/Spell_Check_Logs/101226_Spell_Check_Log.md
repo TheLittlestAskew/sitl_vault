@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-09
+---
+
 # SPELL CHECK LOG — SESSION 01 (10/12/2026)
 
 **Transcript Source:** `101226_Raw_Transcript.md`

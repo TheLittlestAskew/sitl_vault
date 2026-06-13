@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-10
+---
+
 # House Rules & Rulings
 
 DM Addison's rulings override all published rules. This page tracks confirmed homebrew and table decisions.

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-10
+updated_on: 2026-06-13
 tags: [location, sitl, underdark]
 first_appearance: "[[Session 03 — Into the Dark]]"
 region: Lowerdark

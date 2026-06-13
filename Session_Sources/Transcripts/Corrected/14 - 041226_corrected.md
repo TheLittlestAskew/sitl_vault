@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-15
+updated_on: 2026-06-13
 type: transcript
 session_number: 14
 session_date: 2026-04-12
@@ -17,17 +19,10 @@ speakers:
   - Darby (Austin)
 absent_players: none
 ---
-# SITL Session Transcript
-
 # Transcribed: 2026-05-15T16:24:15.605Z
-
 # Audio duration: 176 minutes
-
 # Model: universal-3-pro
-
 # Confidence: 90.9%
-
----
 
 --00:00:00-- [ADDISON (DM)] Okay, okay, uh, so last session we picked up after a, an unfortunately failed ambush attempt, um, on the Velkynvelve prison right after pretty much right after the demon attack, only about an hour in the aftermath of your escape, despite a few days passing for you back through, uh, the portal of The Feydark to find yourselves pretty much back where you started, not long after you left. Take down one drow. Was there before Shoor, the current lieutenant under, uh, the High Priestess Ilvara Mizzrym, uh, discovered you with a really high perception roll, uh, and battle commenced. Over the course of the last two sessions, you battled drow, drow elites, spiders, and quaggoth. Um, things were not looking good when Ilvara laid down an insect swarm in the middle of all of you. And while she killed Shoor in the process of doing that, and, and, uh, nearly killed Asha Vandree, her Second Command. You were all hurt pretty significantly by that, but in the midst of that, you would have been hearing various sounds, battle you in the tower, sure of what was going on. The battle was suddenly interrupted by Jorlan Duskryn, was the previous Drow lieutenant before he was injured scouting party and replaced by Shoor Vandree. He distracted Ilvara and then was leapt upon from the upper decks by Derendil, who managed to tackle Ilvara to the ground off of her spider. And that was a key turning point for you, uh, because he was able to get some of the surviving quaggoths on his side. And with some extra help and our druid able to shapeshift into a bear, help to maul Ilvara and then hold her up for Roxy to essentially gore and throw, uh, off into the distant cavern, presumably not to get up again. Um, there are still a few drow alive. Asha is still alive, though all of them are looking deeply hurt as well. At this point, um, there's kind of a, um, there's kind of a shock and a stop in, in the battle. Um, we left off Roxy's turn Um, which would mean the, the, uh, troop of quaggoths would go next. But with, with what Roxy just did, as I said, there's momentary pause here for you to kind of assess the current situation. Uh, what are on all of your minds currently? You, uh, you see most of the surviving drow are on the south side of the cavern. Asha's near the water after managing to escape the quaggoth. The other drow is in the shadowy part of the cavern. He'd been trying to snipe with his crossbow, and the last remaining elite is, is flanked between Binks Stonevein and the quaggoth. And Ilvara Mizzrym is laying in a bloody heap further below.
 

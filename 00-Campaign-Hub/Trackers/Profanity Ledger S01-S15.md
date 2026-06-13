@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-07
+---
+
 # Profanity Ledger
 
 Tracking profanity by speaker, word, frequency, and context across all sessions.

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-08
+updated_on: 2026-06-13
 type: transcript
 session_number: 17
 session_date: 2026-06-07
@@ -17,24 +19,21 @@ speakers:
   - Darby (Austin)
 absent_players: none
 ---
-# SITL Session Transcript — CORRECTED (Script Format)
-# Session 18 — 06/07/2026 (raw file labeled 18-060726)
-# Source: Session_Sources/Transcripts/Raw_Unedited/18-060726_raw_transcript.md
+# Session 17 — 06/07/2026
+# Source: Session_Sources/Transcripts/Raw_Unedited/17-060726_raw_transcript.md
 # Audio duration: 175 minutes | Model: universal-3-pro | Stated confidence: 95.5%
 #
-# ⚠️ SESSION-NUMBER COLLISION (UNRESOLVED — human decision required): the 18-060726 raw
-#   transcript is byte-identical (except its transcription-timestamp header) to 17-060726,
-#   and the same play session (real-world date 2026-06-07) was previously staged under
-#   pipeline folders S16 and S17. The vault's "Session 16 — Zone of Truth" is a DIFFERENT,
-#   earlier session (played 2026-05-24) whose own note records "Next Session: 2026-06-07."
-#   By real-world play-date ordering this 06/07/2026 session is most likely Session 17.
-#   Filed here as "18" per explicit operator instruction; see the session note's Archivist
-#   Notes for the full collision write-up. No numbering was silently "fixed."
+# ℹ️ SESSION-NUMBER COLLISION (RESOLVED): this 06/07/2026 session is Session 17. During
+#   processing it was transcribed three times under different numbers (staged in pipeline
+#   folders S16 and S18) before being finalized as Session 17. The raw file was renamed
+#   18-060726 → 17-060726 to match, the byte-identical duplicate transcript was deleted,
+#   and the S16/S18 pipeline folders were archived to xx_Archived_xx/. The vault's
+#   "Session 16 — Zone of Truth" is a DIFFERENT, earlier session (played 2026-05-24). See
+#   the session note's Archivist Notes for the full history.
 #
-# Corrections applied: ONLY the approved table at _pipeline/S18/spellcheck.md (reviewed and
-#   approved by Taylor), via word-boundary replacements. The approved S18 table matches the
-#   S16 correction set by design (identical content); this corrected body is therefore
-#   identical to 16 - 060726_corrected.md except for this header.
+# Corrections applied: ONLY the approved spell-check table (reviewed and approved by Taylor),
+#   via word-boundary replacements. (The approved table was originally staged at
+#   _pipeline/S18/spellcheck.md, now archived under xx_Archived_xx/.)
 # Speaker labels denote the participant by their character (or the DM). Out-of-character
 #   table talk is preserved verbatim under the same label. Mapping:
 #   A=ADDISON (DM) · B=KIT (Taylor) · C=BLARG (Florian) · D=BINKS (Matt) ·

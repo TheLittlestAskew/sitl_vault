@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 session: 2
 date: 2025-10-26
 title: "Come Get Your Shit"

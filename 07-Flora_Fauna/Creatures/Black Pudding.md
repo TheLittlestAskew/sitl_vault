@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-11
+updated_on: 2026-05-13
 type: creature
 classification: Ooze
 first_appearance: "[[Session 07 — Escape from the Oozing Temple]]"

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-11
+updated_on: 2026-06-11
 type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152910077

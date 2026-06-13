@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-09
+---
+
   
 DM (ADDISON): too much into the mechanics of dawning equipment because technically I think getting gear on takes longer than a single six second turn seconds. Um it also says turn but the the whole party was able to get out along with Eldest Eldsy Turvy and Stool. Um And yeah, kind of latched on to the house that was able to leap with you guys your ambassador.  
 AMANITA DE’CHAMPIGNON (HANNAH): It was another NPC. We had so many NPCs.  

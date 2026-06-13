@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-14
+updated_on: 2026-06-13
 type: transcript
 session_number: 13
 session_date: 2026-04-11
@@ -17,9 +19,6 @@ speakers:
   - Darby (Austin)
 absent_players: none
 ---
-# Session 13 — Corrected Transcript
-# Date: April 11, 2026 (041126)
-# Status: Spelling corrected, script formatted
 
 ADDISON (DM): very grateful for you all.
 

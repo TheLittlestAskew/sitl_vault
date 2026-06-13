@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-07
+updated_on: 2026-06-07
 type: creature
 classification: Plant (fungus)
 threat_level: Moderate (ambush hazard)

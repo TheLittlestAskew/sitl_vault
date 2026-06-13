@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: pc
 race: Deep Gnome (Gnome mechanically)
 class: Cleric (Trickery Domain) / Rogue multiclass

@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-06-11
+---
+
 # Loot Tracker
 
 Master list of all items, artifacts, and loot acquired by the party, organized by session.

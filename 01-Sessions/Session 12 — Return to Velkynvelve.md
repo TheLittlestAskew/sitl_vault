@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-14
+updated_on: 2026-05-14
 session: 12
 date: 2026-03-29
 title: "Return to Velkynvelve"

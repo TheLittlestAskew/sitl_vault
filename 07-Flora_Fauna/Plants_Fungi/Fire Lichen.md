@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-13
+updated_on: 2026-05-13
 type: plant
 classification: Fungus/Lichen (Edible)
 first_appearance: "[[Session 03 — Into the Dark]]"

@@ -1,4 +1,6 @@
 ---
+created_on: 2026-06-10
+updated_on: 2026-06-13
 tags: [faction, sitl, underdark]
 first_appearance: "[[Session 14 — Far From the Sun]]"
 status: Active — first on-screen contact S18

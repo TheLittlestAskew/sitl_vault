@@ -1,3 +1,8 @@
+---
+created_on: 2026-06-07
+updated_on: 2026-06-10
+---
+
 # Loot Tracker — S16-S25
 
 > **Active tracker batch (S16–S25).** Earlier sessions: [[Loot Tracker S01-S15]]. Rotates every 10 sessions per [[Vault Sync Status]].

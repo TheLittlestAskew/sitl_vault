@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-09
+---
+
 # Session 01 Spell Check Log — 101226
 
 **Transcript Source:** `101226_Raw_Transcript.md`

@@ -1,3 +1,8 @@
+---
+created_on: 2026-05-09
+updated_on: 2026-05-09
+---
+
 DM
 
 Last session ended a bit hectically. The party had found this secret ancient orvish Duergar. Quite sure yet, but it's old Dwarvish. History. Within this safe room, this kind of like storage and like, like just a reprieve or maybe the builders of some of these caverns and ones that originally marked the path. In any case, you guys came in here looking for some. You learned that it was mostly it was empty. There was nobody here and there were beds, there were some supplies. Although you guys did manage to carve quite a lot from Belkin Bells. And you also notice that this place was suffused with this energy that emits this dim light. And it's an energy that's well known in the Underdark as phaers ris, which almost every society in the Underdark and even creatures, and I mean everything alive down here historically uses and benefits from it. So those of you that were familiar with it weren't afraid of it upon noticing that this place was suffused with it. And you went down for your rest assigning for better or worse, currently looking like worse. Topsy and Turby is the first guard. And the party was awoken with Banks awoke first to see Topsy and Turby writhing in agony, shifting into wererats and then blindly attacking.

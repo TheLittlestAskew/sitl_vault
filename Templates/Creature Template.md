@@ -1,4 +1,6 @@
 ---
+created_on: {{date:YYYY-MM-DD}}
+updated_on: {{date:YYYY-MM-DD}}
 type: creature
 classification: 
 first_encountered: "[[Session — ]]"

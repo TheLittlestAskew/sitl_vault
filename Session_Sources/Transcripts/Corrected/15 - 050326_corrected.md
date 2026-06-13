@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-15
+updated_on: 2026-06-13
 type: transcript
 session_number: 15
 session_date: 2026-05-03
@@ -17,12 +19,7 @@ speakers:
   - Darby (Austin)
 absent_players: none
 ---
-# Session 15 — Corrected Transcript
-# Original: 050326_Sky_Is_The_Limi_Recording_transcript.md
-# Corrected: 2026-05-15
 # Corrections applied: Artaxel→Artaxle, Barg→Blarg, Arby's→Darby's, Nilfgaardian nose→Nilhogg's Nose, temisk→Timmask, water orbs→Waterorb, cloak of elven kind→Cloak of Elvenkind, one Steve's can't→Thieves' Cant
-
----
 
 [00:00:01] MATT (OOC): Welcome, Taylor.
 

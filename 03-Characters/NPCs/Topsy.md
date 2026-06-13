@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-09
+updated_on: 2026-06-13
 type: npc
 race: Svirfneblin (Deep Gnome) — Wererat
 affiliation: Fellow prisoner; twin of Turvy

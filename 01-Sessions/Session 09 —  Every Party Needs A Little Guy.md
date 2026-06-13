@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-13
+updated_on: 2026-05-13
 session_number: 9
 date: 2026-02-01
 title: "Adopt-a-Rothe"

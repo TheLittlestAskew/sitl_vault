@@ -1,4 +1,6 @@
 ---
+created_on: 2026-05-11
+updated_on: 2026-05-11
 session_number: 7
 session_date: 2026-01-04
 session_title: Escape from the Oozing Temple
