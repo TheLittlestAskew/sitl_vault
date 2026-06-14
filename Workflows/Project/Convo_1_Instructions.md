@@ -4,7 +4,7 @@
 
 This document defines the step-by-step workflow for **Convo 1**: turning a raw/unedited session transcript into complete, verified, styled session notes. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
 
-> Convo 1 produces two things: (1) the finished session notes, and (2) the **Convo 2 Handoff Block**. Convo 2 then propagates everything into the Obsidian vault.
+> Convo 1 produces two things: (1) the finished session notes & registry in  (2) the **Convo 2 Handoff Block**. Convo 2 then propagates everything else into the Obsidian vault.
 
 ---
 
