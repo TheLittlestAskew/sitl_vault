@@ -28,7 +28,7 @@ If the transcript is missing or the roll archive isn't synced yet, say so immedi
 
 ## WHAT CONVO 1 DOES NOT DO
 
-- **Does not update the Obsidian vault.** That's Convo 2's job.
+
 - **Does not write to Google Drive or DDB.** Read-only on the roll archive (query, never write).
 - **Does not pull from prior sessions to rewrite history.** Sessions are delineated by real-world play date. Preserve and flag discrepancies; never contaminate.
 - **Does not invent.** Unknown / missing / ambiguous = `[Unknown/Ambiguous]`. The only narrative-license exception is Kit's POV Journal.
@@ -154,8 +154,39 @@ The notes have **8 sections**:
 
 
 ---
+## STEP 6 — WRITE SESSION NOTE
 
-## STEP 6 — CONVO 2 HANDOFF BLOCK
+Write the finished notes as the canonical markdown note in the vault. This is the 8-section notes content from Step 4, adapted to markdown with Obsidian backlinks. **Convo 1 owns this file; Convo 2 verifies it and propagates everywhere else.**
+
+**Target:** `01-Sessions/Session ## — Title.md`
+
+- **Frontmatter** — tags, aliases, session date, session number.
+- **Backlinks** — `[[Character Name]]` for every PC and NPC, `[[Location Name]]` for every location, `[[Session ## — Title]]` for cross-session references.
+- **All 8 sections** exactly as drafted in Step 4 (content authority: `SESSION_NOTES_SECTION_BREAKDOWN.md`).
+- **Filename** — `Session ## — Title.md`: em dash (—), not a hyphen; title matching the final chosen title from Step 5 exactly.
+
+Record the note's path for the handoff block.
+---
+
+## STEP 7 — REGISTER SESSION (ddb_sessions)
+
+**Convo 1's ONLY Supabase write.** The roll archive stays strictly read-only (query, never write) — this writes only the session-registry row, so the website and snapshot views can resolve `session_date`.
+
+Upsert the session into `ddb_sessions`. Escape single quotes in the title by doubling them (e.g. `'Life Isn''t Faer-zress'`):
+
+\```sql
+INSERT INTO ddb_sessions (campaign_id, session_no, session_date, title, source)
+VALUES (1, <NN>, '<YYYY-MM-DD>', '<Title>', 'pipeline')
+ON CONFLICT (campaign_id, session_date)
+DO UPDATE SET session_no = EXCLUDED.session_no,
+              title      = EXCLUDED.title,
+              source     = EXCLUDED.source;
+\```
+
+`campaign_id = 1` is SITL. The upsert is idempotent on `(campaign_id, session_date)` — safe to re-run. Convo 2 verifies this row landed (belt-and-suspenders).
+
+
+# STEP 8 — CONVO 2 HANDOFF BLOCK
 
 Output the handoff block (from `CONVO2_HANDOFF_TEMPLATE.md`) for Taylor to copy into a fresh Convo 2 chat:
 
