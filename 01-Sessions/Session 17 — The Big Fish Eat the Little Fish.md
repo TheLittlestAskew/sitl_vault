@@ -9,7 +9,7 @@ party_level: 4
 absent_players: None (Austin/Darby arrived late ~1:06:40; Hannah/Amanita returned from prior absence)
 ---
 
-# Session 18 — The Big Fish Eat the Little Fish
+# Session 17 — The Big Fish Eat the Little Fish
 
 > **Date:** June 7, 2026
 > **Party Level:** 4 (Level 5 still unlocked-on-arrival at [[Sloobludop]] — not yet reached; player-chosen narrative timing)
@@ -17,7 +17,7 @@ absent_players: None (Austin/Darby arrived late ~1:06:40; Hannah/Amanita returne
 > **Duration:** ~175 min audio (continuous 00:00:00 → 02:54:41); ran ~15 min late ("a full one").
 > **Session Type:** Travel → Fishing → Two linked combats (chuul ambush; Derendil's beast-frenzy) → First contact with a Society of Brilliance kuo-toa priest
 >
-> ⚠️ **SESSION-NUMBER COLLISION — UNRESOLVED (human decision required).** This note is generated from `18-060726_raw_transcript.md` under explicit operator instruction to file it as **Session 18**. However, the source is byte-identical (save its transcription-timestamp line) to `17-060726`, and the same 2026-06-07 play session was previously staged in pipeline folders **S16 and S17**. The vault's [[Session 16 — Zone of Truth]] is a **different, earlier** session (played 2026-05-24) whose own note records *"Next Session: 2026-06-07."* By real-world play-date ordering, this 06/07/2026 session is most plausibly **Session 17**. The number was **not** silently changed. See **Archivist Notes → Continuity Flags** for the full write-up.
+> ✅ **SESSION-NUMBER COLLISION — RESOLVED (operator-confirmed Session 17, 2026-06-14).** This note was generated from `18-060726_raw_transcript.md` under explicit operator instruction to file it as **Session 18**, but the operator has since confirmed the canonical number is **Session 17**. However, the source is byte-identical (save its transcription-timestamp line) to `17-060726`, and the same 2026-06-07 play session was previously staged in pipeline folders **S16 and S17**. The vault's [[Session 16 — Zone of Truth]] is a **different, earlier** session (played 2026-05-24) whose own note records *"Next Session: 2026-06-07."* By real-world play-date ordering, this 06/07/2026 session is **Session 17** (operator-confirmed; filed accordingly). The number was **not** silently changed. See **Archivist Notes → Continuity Flags** for the full write-up.
 
 ---
 
@@ -26,7 +26,7 @@ absent_players: None (Austin/Darby arrived late ~1:06:40; Hannah/Amanita returne
 | Field | Value |
 |---|---|
 | Campaign Name | "Sky Is The Limit" Campaign |
-| Session Number | 18 *(⚠️ disputed — likely 17 by play-date ordering; see Archivist Notes)* |
+| Session Number | 17 *(operator-confirmed 2026-06-14; originally filed 18 — see Archivist Notes)* |
 | Session Date | 06/07/2026 |
 | Start Location | Canal-like tunnels approaching the [[04-World-Lore/Locations/The Darklake\|Darklake]]; a clearing with an underground pool |
 | End Location | The chuul's submerged lair beneath the pool (party then departing for [[Sloobludop]]) |
@@ -363,7 +363,7 @@ Both fights were decisive party wins. The **chuul** — a genuine threat that gr
 
 ### Continuity Flags, Missing Info & Ambiguities
 
-1. **⚠️ SESSION-NUMBER COLLISION (TOP PRIORITY — human decision required).** `18-060726_raw_transcript.md` is byte-identical (except its transcription-timestamp line) to `17-060726`, and the same 2026-06-07 play session was previously staged in `_pipeline/S16/` and `_pipeline/S17/`; a mislabeled `Session_Sources/Transcripts/Corrected/16 - 060726_corrected.md` also exists. The vault's [[Session 16 — Zone of Truth]] is a **different, earlier** session (played **2026-05-24**) whose own metadata reads *"Next Session: 2026-06-07."* **By real-world play-date ordering, this session is most plausibly Session 17, not 18.** Filed as **18** strictly per explicit operator instruction; **the numbering was not silently changed.** *Action needed (human):* decide the true number for the 2026-06-07 play date and retire the duplicate transcripts/pipeline folders. Until then, treat this note's "18" as provisional.
+1. **✅ SESSION-NUMBER COLLISION — RESOLVED (operator-confirmed Session 17, 2026-06-14).** `18-060726_raw_transcript.md` is byte-identical (except its transcription-timestamp line) to `17-060726`, and the same 2026-06-07 play session was previously staged in `_pipeline/S16/` and `_pipeline/S17/`; a mislabeled `Session_Sources/Transcripts/Corrected/16 - 060726_corrected.md` also exists. The vault's [[Session 16 — Zone of Truth]] is a **different, earlier** session (played **2026-05-24**) whose own metadata reads *"Next Session: 2026-06-07."* **By real-world play-date ordering, this session is Session 17, not 18.** Originally filed as **18** strictly per explicit operator instruction; **the numbering was not silently changed.** *Resolution:* the operator confirmed the canonical number for the 2026-06-07 play date is **Session 17** on 2026-06-14; this note is filed as 17. *Remaining cleanup (optional):* retire the duplicate `18-060726`/`16 - 060726_corrected.md` transcripts and consolidate the `_pipeline/S16` & `_pipeline/S17` staging folders.
 2. **DDB roll archive NOT cross-referenced.** The Supabase MCP `execute_sql` permission was **not granted** during this automated phase (two attempts denied). The Full Roll Log is **transcript-only**; no archive verification of values, and no `MAX(timestamp_iso)` sync-gap check was possible. *Action needed:* re-run the roll cross-reference with archive access; confirm whether the 2026-06-07 rolls are synced. Binks's and Aeolus's zero-DDB presence is expected (physical dice), not a sync gap.
 3. **Speaker→identity mapping is inferred.** The raw transcript uses anonymized SPEAKER A–G; the corrected transcript maps A=Addison/DM, B=Kit, C=Blarg, D=Binks, E=Amanita, F=Aeolus, G=Darby (per `_pipeline/S18/flags.md` #2, confirmed against DM address & abilities). Confirm before any downstream use.
 4. **Homebrew proper nouns — unverifiable (≤60% / unresolved in the approved table; left as-heard in the transcript):**
