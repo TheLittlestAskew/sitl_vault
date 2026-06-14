@@ -37,7 +37,7 @@ If the transcript is missing or the roll archive isn't synced yet, say so immedi
 
 ## PHASED EXECUTION
 
-Convo 1 runs in six sequential steps. Steps 1–2 (correction) gate everything: **spell check always precedes notes generation.** Step 3 (roll archive) feeds the Logs section. Steps 4–5 draft the notes. Step 6 hands off to Convo 2.
+Convo 1 runs in **eight** sequential steps. Steps 1–2 (correction) gate everything... Steps 4–5 draft the notes. **Step 6 writes the session note, Step 7 registers the session, and Step 8 hands off to Convo 2.**
 
 Log progress to `/home/claude/convo1_progress.md` as each step completes, so state survives a tool restart.
 
@@ -186,7 +186,8 @@ DO UPDATE SET session_no = EXCLUDED.session_no,
 `campaign_id = 1` is SITL. The upsert is idempotent on `(campaign_id, session_date)` — safe to re-run. Convo 2 verifies this row landed (belt-and-suspenders).
 
 
-# STEP 8 — CONVO 2 HANDOFF BLOCK
+
+## STEP 8 — CONVO 2 HANDOFF BLOCK
 
 Output the handoff block (from `CONVO2_HANDOFF_TEMPLATE.md`) for Taylor to copy into a fresh Convo 2 chat:
 
@@ -237,3 +238,6 @@ Convo 1 is done when:
 4. ✅ POV Journal passes the Hard Limits test.
 5. ✅ Final title confirmed and recorded.
 6. ✅ Convo 2 Handoff Block output.
+
+
+## STEP 7 — REGISTER SESSION (ddb_sessions)
