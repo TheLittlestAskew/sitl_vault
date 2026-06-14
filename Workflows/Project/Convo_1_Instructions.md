@@ -189,7 +189,7 @@ DO UPDATE SET session_no = EXCLUDED.session_no,
 
 ## STEP 8 — CONVO 2 HANDOFF BLOCK
 
-Output the handoff block (from `CONVO2_HANDOFF_TEMPLATE.md`) for Taylor to copy into a fresh Convo 2 chat:
+Output the handoff block (from `Convo2_Handoff_Template.md`) for Taylor to copy into a fresh Convo 2 chat:
 
 ```
 Session [##], Convo 2: Vault updates
