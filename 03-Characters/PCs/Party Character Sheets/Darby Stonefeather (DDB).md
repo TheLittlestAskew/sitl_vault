@@ -1,11 +1,9 @@
 ---
-created_on: 2026-06-11
-updated_on: 2026-06-11
 type: pc-sheet
 source: dndbeyond
 ddb_character_id: 148838177
 ddb_url: https://www.dndbeyond.com/characters/148838177
-synced: 2026-06-12T00:01:27.839Z
+synced: 2026-06-14T19:25:03.642Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -19,6 +17,7 @@ generated_by: ddb_party_sync.js
 - **Total Level:** 4  ·  **Proficiency Bonus:** +2
 - **Background:** Farmer
 - **Max HP (approx):** 45
+- **AC:** 16  ·  *Unarmored Defense 10 + Dex +3 + Con +3*
 - **Currency:** 0pp 9gp 0ep 0sp 0cp
 
 ## Ability Scores
@@ -32,12 +31,11 @@ generated_by: ddb_party_sync.js
 | WIS | 13 | +1 |
 | CHA | 9 | -1 |
 
-## Inventory (11)
+## Inventory (10)
 
 - Mace *(equipped)*
 - Sickle *(equipped)*
 - Whip *(equipped)*
-- Rope, Hempen (50 feet)
 - Backpack
 - Amulet
 - Rations ×7

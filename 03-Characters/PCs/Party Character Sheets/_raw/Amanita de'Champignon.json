@@ -45,7 +45,7 @@
   "baseHitPoints": 23,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 0,
+  "removedHitPoints": 24,
   "temporaryHitPoints": 0,
   "currentXp": 900,
   "alignmentId": 6,
@@ -169,10 +169,14 @@
       "largeAvatarUrl": null,
       "mobileCardBackgroundAvatarUrl": null,
       "desktopCardBackgroundAvatarUrl": "https://www.dndbeyond.com/avatars/54902/768/639068761786705051.jpeg",
-      "detailsBackgroundAvatarUrl": null,
+      "detailsBackgroundAvatarUrl": "https://www.dndbeyond.com/avatars/56704/728/639148030273324237.jpeg",
       "moreDetailsUrl": "/backgrounds/406482-hermit",
       "suggestedCharacteristicsDescription": "",
-      "primaryAbilities": [],
+      "primaryAbilities": [
+        3,
+        5,
+        6
+      ],
       "suggestedProficiencies": null,
       "suggestedLanguages": null,
       "organization": null,
@@ -239,7 +243,7 @@
     "baseRaceId": 1751437,
     "baseRaceTypeId": 1743923279,
     "description": "<p>The elves&rsquo; curiosity led many of them to explore other planes of existence.</p>\r\n<p style=\"font-family: Roboto Condensed;\"><strong>Elf Traits</strong><br />Darkvision, Elven Lineage, Fey Ancestry, Keen Senses,&nbsp;Trance</p>",
-    "longDescription": null,
+    "longDescription": "<p>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon&rsquo;s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon&rsquo;s forgiveness, but that which Corellon had taken from them was lost forever.</p>\r\n<p>No longer able to shape-shift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane&rsquo;s influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.</p>\r\n<p>Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don&rsquo;t sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations.</p>\r\n<p>An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.</p>\r\n<h2 id=\"Drow\" class=\"compendium-hr\">Drow</h2>\r\n<p>Drow typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic. In the Eberron setting, for example, drow dwell in rainforests and cyclopean ruins on the continent of Xen&rsquo;drik.</p>\r\n<h2 id=\"HighElves\" class=\"compendium-hr\">High Elves</h2>\r\n<p>High elves have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names. For example, they call themselves sun or moon elves in the Forgotten Realms setting, Silvanesti and Qualinesti in the Dragonlance setting, and Aereni in the Eberron setting.</p>\r\n<h2 id=\"WoodElves\" class=\"compendium-hr\">Wood Elves</h2>\r\n<p>Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.</p>\r\n<hr />\r\n<h2 id=\"ElfTraits\" class=\"compendium-hr\">Elf Traits</h2>\r\n<p><strong>Creature Type:</strong> Humanoid<br><strong>Size:</strong> Medium (about 5&ndash;6 feet tall)<br><strong>Speed:</strong> 30 feet</p>",
     "slug": "1751437-elf",
     "avatarUrl": "https://www.dndbeyond.com/avatars/43940/466/638607449392207682.png?width=350&height=350&fit=bounds&quality=95&auto=webp",
     "largeAvatarUrl": "https://www.dndbeyond.com/avatars/43940/467/638607449394457692.png?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
@@ -266,7 +270,7 @@
           "snippet": "You are a Humanoid.",
           "hideInBuilder": false,
           "hideInSheet": false,
-          "hideOnDetailsPage": false,
+          "hideOnDetailsPage": true,
           "activation": null,
           "sourceId": 145,
           "sourcePageNumber": 190,
@@ -307,7 +311,7 @@
           "snippet": "You are Medium.",
           "hideInBuilder": false,
           "hideInSheet": false,
-          "hideOnDetailsPage": false,
+          "hideOnDetailsPage": true,
           "activation": null,
           "sourceId": 145,
           "sourcePageNumber": 190,
@@ -348,7 +352,7 @@
           "snippet": "Your speed is 30 ft.",
           "hideInBuilder": false,
           "hideInSheet": false,
-          "hideOnDetailsPage": false,
+          "hideOnDetailsPage": true,
           "activation": null,
           "sourceId": 145,
           "sourcePageNumber": 190,
@@ -594,7 +598,7 @@
           "snippet": "",
           "hideInBuilder": false,
           "hideInSheet": false,
-          "hideOnDetailsPage": false,
+          "hideOnDetailsPage": true,
           "activation": null,
           "sourceId": 145,
           "sourcePageNumber": 189,
@@ -635,7 +639,7 @@
           "snippet": "When determining your character’s ability scores, increase one score by 2 and a different one by 1, or increase three scores by 1.",
           "hideInBuilder": false,
           "hideInSheet": false,
-          "hideOnDetailsPage": false,
+          "hideOnDetailsPage": true,
           "activation": null,
           "sourceId": 145,
           "sourcePageNumber": null,
@@ -685,7 +689,7 @@
           "snippet": "Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it.",
           "hideInBuilder": false,
           "hideInSheet": true,
-          "hideOnDetailsPage": false,
+          "hideOnDetailsPage": true,
           "activation": null,
           "sourceId": 145,
           "sourcePageNumber": 37,
@@ -732,7 +736,7 @@
     "featIds": [],
     "size": null,
     "sizeId": 4,
-    "creatureTypeId": null,
+    "creatureTypeId": 11,
     "cardDescription": "The elves’ curiosity led many of them to explore other planes of existence.",
     "highlights": null,
     "mobileCardImageUrl": null,
@@ -903,6 +907,98 @@
       "originDefinitionKey": null
     },
     {
+      "id": 1033350185,
+      "entityTypeId": 1439493548,
+      "definition": {
+        "id": 6,
+        "baseTypeId": 701257905,
+        "entityTypeId": 701257905,
+        "definitionKey": "701257905:6",
+        "canEquip": true,
+        "magic": false,
+        "name": "Scale Mail",
+        "snippet": null,
+        "weight": 45,
+        "weightMultiplier": 1,
+        "capacity": null,
+        "capacityWeight": 0,
+        "type": "",
+        "description": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</p>",
+        "canAttune": false,
+        "attunementDescription": null,
+        "rarity": "Common",
+        "isHomebrew": false,
+        "version": null,
+        "sourceId": null,
+        "sourcePageNumber": null,
+        "stackable": false,
+        "bundleSize": 1,
+        "avatarUrl": null,
+        "largeAvatarUrl": null,
+        "filterType": "Armor",
+        "cost": 50,
+        "isPack": false,
+        "tags": [
+          "Warding"
+        ],
+        "grantedModifiers": [],
+        "subType": null,
+        "isConsumable": false,
+        "weaponBehaviors": [],
+        "baseItemId": 6,
+        "baseArmorName": "Scale Mail",
+        "strengthRequirement": null,
+        "armorClass": 14,
+        "stealthCheck": 2,
+        "damage": null,
+        "damageType": null,
+        "fixedDamage": null,
+        "properties": null,
+        "attackType": null,
+        "categoryId": null,
+        "range": null,
+        "longRange": null,
+        "isMonkWeapon": false,
+        "levelInfusionGranted": null,
+        "sources": [
+          {
+            "sourceId": 148,
+            "pageNumber": null,
+            "sourceType": 1
+          },
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          }
+        ],
+        "armorTypeId": 2,
+        "gearTypeId": null,
+        "groupedId": null,
+        "canBeAddedToInventory": true,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isLegacy": false
+      },
+      "definitionId": 0,
+      "definitionTypeId": 0,
+      "displayAsAttack": null,
+      "quantity": 1,
+      "isAttuned": false,
+      "equipped": true,
+      "equippedEntityTypeId": 1581111423,
+      "equippedEntityId": 152970581,
+      "chargesUsed": 0,
+      "limitedUse": null,
+      "containerEntityId": 152970581,
+      "containerEntityTypeId": 1581111423,
+      "containerDefinitionKey": "1581111423:152970581",
+      "currency": null,
+      "originEntityTypeId": null,
+      "originEntityId": null,
+      "originDefinitionKey": null
+    },
+    {
       "id": 891723679,
       "entityTypeId": 1439493548,
       "definition": {
@@ -918,7 +1014,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "Shield",
+        "type": "",
         "description": "<p>Shields require the Utilize action to Don or Doff. You gain the Armor Class benefit of a Shield only if you have training with it.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -1073,9 +1169,9 @@
       "displayAsAttack": null,
       "quantity": 1,
       "isAttuned": false,
-      "equipped": true,
-      "equippedEntityTypeId": 1581111423,
-      "equippedEntityId": 152970581,
+      "equipped": false,
+      "equippedEntityTypeId": null,
+      "equippedEntityId": null,
       "chargesUsed": 0,
       "limitedUse": null,
       "containerEntityId": 152970581,
@@ -2034,7 +2130,7 @@
           "Consumable"
         ],
         "grantedModifiers": [],
-        "subType": null,
+        "subType": "Poison",
         "isConsumable": false,
         "weaponBehaviors": [],
         "baseItemId": null,
@@ -6143,7 +6239,12 @@
       "contextTypeId": null
     }
   ],
-  "conditions": [],
+  "conditions": [
+    {
+      "id": 4,
+      "level": 1
+    }
+  ],
   "deathSaves": {
     "failCount": null,
     "successCount": null,
@@ -8222,7 +8323,9 @@
           7132,
           7133,
           7134,
-          7135
+          7135,
+          7195,
+          7194
         ],
         "tagConstraints": []
       }
@@ -8392,7 +8495,8 @@
           2619064,
           2619104,
           2619132,
-          2619151
+          2619151,
+          3269309
         ],
         "tagConstraints": []
       },
@@ -8868,6 +8972,18 @@
           {
             "id": 7135,
             "label": "Survivalist's Kit",
+            "description": null,
+            "sourceId": null
+          },
+          {
+            "id": 7195,
+            "label": "Fingerprint Kit",
+            "description": null,
+            "sourceId": null
+          },
+          {
+            "id": 7194,
+            "label": "Witchboard",
             "description": null,
             "sourceId": null
           }
@@ -9538,6 +9654,12 @@
             "label": "Heroism",
             "description": "<p>A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> You can target one additional creature for each spell slot level above 1.</p>",
             "sourceId": 145
+          },
+          {
+            "id": 3269309,
+            "label": "Insidious Rhythm",
+            "description": "<p>One creature of your choice that you can see within range hears a haunting yet catchy tune that continuously repeats in its mind. The target must succeed on a Wisdom saving throw, or it has Disadvantage on Intelligence checks and on Constitution saving throws made to maintain Concentration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You can target one additional creature for each spell slot level above 1.</p>",
+            "sourceId": 272
           }
         ]
       },
@@ -9788,7 +9910,9 @@
     "definitionKeyNameMap": {
       "feat:1789152": "Healer",
       "feat:1789155": "Hermit Ability Score Improvements",
-      "feat:2048517": "Dark Bargain"
+      "feat:2048517": "Dark Bargain",
+      "feat:2331889": "Runestones",
+      "feat:2331813": "Character Threads"
     }
   },
   "actions": {
@@ -9844,7 +9968,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 0,
+          "numberUsed": 1,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
           "maxUses": 2,
@@ -10268,47 +10392,6 @@
     "item": null,
     "feat": [
       {
-        "componentId": 1789209,
-        "componentTypeId": 1088085227,
-        "id": "9413985",
-        "entityTypeId": "222216831",
-        "limitedUse": null,
-        "name": "Reactive Spell",
-        "description": "<p>When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.</p>",
-        "snippet": "When a creature provokes an Opportunity Attack from you, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.",
-        "abilityModifierStatId": null,
-        "onMissDescription": "",
-        "saveFailDescription": "",
-        "saveSuccessDescription": "",
-        "saveStatId": null,
-        "fixedSaveDc": null,
-        "attackTypeRange": null,
-        "actionType": 3,
-        "attackSubtype": null,
-        "dice": null,
-        "value": null,
-        "damageTypeId": null,
-        "isMartialArts": false,
-        "isProficient": false,
-        "spellRangeType": null,
-        "displayAsAttack": null,
-        "range": {
-          "range": null,
-          "longRange": null,
-          "aoeType": null,
-          "aoeSize": null,
-          "hasAoeSpecialDescription": false,
-          "minimumRange": null
-        },
-        "activation": {
-          "activationTime": null,
-          "activationType": 4
-        },
-        "numberOfTargets": null,
-        "fixedToHit": null,
-        "ammunition": null
-      },
-      {
         "componentId": 1789152,
         "componentTypeId": 1088085227,
         "id": "9413973",
@@ -10344,6 +10427,47 @@
         "activation": {
           "activationTime": null,
           "activationType": 1
+        },
+        "numberOfTargets": null,
+        "fixedToHit": null,
+        "ammunition": null
+      },
+      {
+        "componentId": 1789209,
+        "componentTypeId": 1088085227,
+        "id": "9413985",
+        "entityTypeId": "222216831",
+        "limitedUse": null,
+        "name": "Reactive Spell",
+        "description": "<p>When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.</p>",
+        "snippet": "When a creature provokes an Opportunity Attack from you, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.",
+        "abilityModifierStatId": null,
+        "onMissDescription": "",
+        "saveFailDescription": "",
+        "saveSuccessDescription": "",
+        "saveStatId": null,
+        "fixedSaveDc": null,
+        "attackTypeRange": null,
+        "actionType": 3,
+        "attackSubtype": null,
+        "dice": null,
+        "value": null,
+        "damageTypeId": null,
+        "isMartialArts": false,
+        "isProficient": false,
+        "spellRangeType": null,
+        "displayAsAttack": null,
+        "range": {
+          "range": null,
+          "longRange": null,
+          "aoeType": null,
+          "aoeSize": null,
+          "hasAoeSpecialDescription": false,
+          "minimumRange": null
+        },
+        "activation": {
+          "activationTime": null,
+          "activationType": 4
         },
         "numberOfTargets": null,
         "fixedToHit": null,
@@ -13062,7 +13186,7 @@
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-05-03T16:23:53.603Z",
+  "dateModified": "2026-06-14T18:44:39.319Z",
   "providedFrom": "storage",
   "canEdit": false,
   "status": 0,

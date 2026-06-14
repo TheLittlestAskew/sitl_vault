@@ -1,11 +1,9 @@
 ---
-created_on: 2026-06-11
-updated_on: 2026-06-11
 type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152970581
 ddb_url: https://www.dndbeyond.com/characters/152970581
-synced: 2026-06-12T00:01:27.839Z
+synced: 2026-06-14T19:25:03.642Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -19,6 +17,7 @@ generated_by: ddb_party_sync.js
 - **Total Level:** 4  ·  **Proficiency Bonus:** +2
 - **Background:** Hermit
 - **Max HP (approx):** 39
+- **AC:** 15  ·  *Scale Mail 14 + Dex +1*
 - **Currency:** 0pp 15gp 0ep 7sp 0cp
 
 ## Ability Scores
@@ -32,11 +31,12 @@ generated_by: ddb_party_sync.js
 | WIS | 20 | +5 |
 | CHA | 14 | +2 |
 
-## Inventory (22)
+## Inventory (23)
 
 - Enspelled War Pick *(equipped)*
+- Scale Mail *(equipped)*
 - Shield
-- Leather *(equipped)*
+- Leather
 - Quarterstaff
 - Sickle
 - Sack *(equipped)*
@@ -62,6 +62,10 @@ generated_by: ddb_party_sync.js
 - **Cantrips:** Chill Touch, Druidcraft, Poison Spray, Shillelagh, Spare the Dying, Thorn Whip
 - **Level 1:** Absorb Elements, Detect Poison and Disease, Entangle, Find Familiar, Longstrider, Purify Food and Drink, Sleep, Speak with Animals
 - **Level 2:** Hold Person, Lesser Restoration, Misty Step, Protection from Poison
+
+## Conditions
+
+- 4
 
 ## Notes / Traits
 

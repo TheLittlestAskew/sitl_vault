@@ -42,10 +42,10 @@
   "height": null,
   "weight": null,
   "inspiration": false,
-  "baseHitPoints": 27,
+  "baseHitPoints": 33,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 10,
+  "removedHitPoints": 0,
   "temporaryHitPoints": 0,
   "currentXp": 2700,
   "alignmentId": null,
@@ -1303,9 +1303,9 @@
       "displayAsAttack": null,
       "quantity": 1,
       "isAttuned": false,
-      "equipped": true,
-      "equippedEntityTypeId": 1581111423,
-      "equippedEntityId": 153130853,
+      "equipped": false,
+      "equippedEntityTypeId": null,
+      "equippedEntityId": null,
       "chargesUsed": 0,
       "limitedUse": null,
       "containerEntityId": 153130853,
@@ -3324,7 +3324,7 @@
     {
       "id": 211491402,
       "entityTypeId": 1446578651,
-      "level": 3,
+      "level": 4,
       "isStartingClass": true,
       "hitDiceUsed": 0,
       "definitionId": 0,
@@ -5228,11 +5228,11 @@
             "grantedFeats": []
           },
           "levelScale": {
-            "id": 1605322,
-            "level": 1,
+            "id": 1605323,
+            "level": 4,
             "description": "Second Wind uses",
             "dice": null,
-            "fixedValue": 2
+            "fixedValue": 3
           }
         },
         {
@@ -8017,6 +8017,41 @@
   ],
   "feats": [
     {
+      "componentTypeId": 12168134,
+      "componentId": 10292238,
+      "definition": {
+        "id": 17,
+        "entityTypeId": 1088085227,
+        "definitionKey": "1088085227:17",
+        "name": "Dual Wielder",
+        "description": "<p>You master fighting with two weapons, gaining the following benefits:</p>\r\n<ul>\r\n<li>You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.</li>\r\n<li>You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.</li>\r\n<li>You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.</li>\r\n</ul>",
+        "snippet": "You add a +1 bonus to AC while you are wielding a separate melee weapon in each hand, can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light, and can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.",
+        "slug": "17-dual-wielder",
+        "moreDetailsUrl": "/feats/17-dual-wielder",
+        "activation": {
+          "activationTime": null,
+          "activationType": null
+        },
+        "sourceId": null,
+        "sourcePageNumber": null,
+        "creatureRules": [],
+        "prerequisites": [],
+        "isHomebrew": false,
+        "sources": [
+          {
+            "sourceId": 2,
+            "pageNumber": 165,
+            "sourceType": 1
+          }
+        ],
+        "spellListIds": [],
+        "isRepeatable": false,
+        "repeatableParentId": null,
+        "categories": []
+      },
+      "definitionId": 0
+    },
+    {
       "componentTypeId": null,
       "componentId": null,
       "definition": {
@@ -8104,17 +8139,17 @@
       "definitionId": 0
     },
     {
-      "componentTypeId": 12168134,
-      "componentId": 10292232,
+      "componentTypeId": 67468084,
+      "componentId": 16341,
       "definition": {
-        "id": 1789148,
+        "id": 1789143,
         "entityTypeId": 1088085227,
-        "definitionKey": "1088085227:1789148",
-        "name": "Great Weapon Fighting",
-        "description": "<p><em>Fighting Style Feat (Prerequisite: Fighting Style Feature)</em></p>\r\n<p>When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.</p>",
-        "snippet": "When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property.",
-        "slug": "1789148-great-weapon-fighting",
-        "moreDetailsUrl": "/feats/1789148-great-weapon-fighting",
+        "definitionKey": "1088085227:1789143",
+        "name": "4: Weapon Mastery",
+        "description": "<p>Your training with weapons allows you to use the mastery properties of another Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of your weapon choices.</p>\r\n<p>When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.</p>",
+        "snippet": "",
+        "slug": "1789143-4-weapon-mastery",
+        "moreDetailsUrl": "/feats/1789143-4-weapon-mastery",
         "activation": {
           "activationTime": null,
           "activationType": null
@@ -8122,200 +8157,12 @@
         "sourceId": null,
         "sourcePageNumber": null,
         "creatureRules": [],
-        "prerequisites": [
-          {
-            "description": "Blood Hunter Fighting Style",
-            "prerequisiteMappings": [
-              {
-                "id": 597573,
-                "entityId": 1610582,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "blood-hunter-level-02-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Blood Hunter - Level 02: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "College of Swords Fighting Style",
-            "prerequisiteMappings": [
-              {
-                "id": 597574,
-                "entityId": 654,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "bard-legacy-college-of-swords-level-03-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Bard (Legacy) - College of Swords - Level 03: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Fighter Fighting Style 1",
-            "prerequisiteMappings": [
-              {
-                "id": 597850,
-                "entityId": 10292232,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "fighter-level-01-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Fighter - Level 01: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Fighter Fighting Style 2",
-            "prerequisiteMappings": [
-              {
-                "id": 597576,
-                "entityId": 191,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "fighter-legacy-level-01-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Fighter (Legacy) - Level 01: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Paladin Fighting Style 1",
-            "prerequisiteMappings": [
-              {
-                "id": 597851,
-                "entityId": 10292285,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "paladin-level-02-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Paladin - Level 02: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Paladin Fighting Style 2",
-            "prerequisiteMappings": [
-              {
-                "id": 597578,
-                "entityId": 262,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "paladin-legacy-level-02-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Paladin (Legacy) - Level 02: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Ranger Fighting Style 1",
-            "prerequisiteMappings": [
-              {
-                "id": 597852,
-                "entityId": 10292307,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "ranger-level-02-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Ranger - Level 02: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Ranger Fighting Style 2",
-            "prerequisiteMappings": [
-              {
-                "id": 597580,
-                "entityId": 296,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "ranger-legacy-level-02-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Ranger (Legacy) - Level 02: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Gunslinger Fighting Style",
-            "prerequisiteMappings": [
-              {
-                "id": 799554,
-                "entityId": 11751745,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "gunslinger-level-01-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Gunslinger - Level 01: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "College of Adventurers Fighting Style",
-            "prerequisiteMappings": [
-              {
-                "id": 846811,
-                "entityId": 12075899,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "bard-college-of-adventurers-level-03-adventurers-talents",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Bard - College of Adventurers - Level 03: Adventurer's Talents",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          },
-          {
-            "description": "Monster Hunter Fighting Style",
-            "prerequisiteMappings": [
-              {
-                "id": 880188,
-                "entityId": 12075697,
-                "entityTypeId": 12168134,
-                "type": "class-feature",
-                "subType": "monster-hunter-level-02-fighting-style",
-                "value": null,
-                "friendlyTypeName": "Class Feature",
-                "friendlySubTypeName": "Monster Hunter - Level 02: Fighting Style",
-                "shouldExclude": false
-              }
-            ],
-            "hidePrerequisite": true
-          }
-        ],
+        "prerequisites": [],
         "isHomebrew": false,
         "sources": [
           {
             "sourceId": 145,
-            "pageNumber": 209,
+            "pageNumber": 91,
             "sourceType": 1
           }
         ],
@@ -8324,12 +8171,20 @@
         "repeatableParentId": null,
         "categories": [
           {
-            "id": 420,
+            "id": 412,
             "entityTypeId": 1088085227,
-            "entityId": 1789148,
-            "definitionKey": "1088085227:1789148",
-            "entityTagId": 13,
-            "tagName": "Fighting Style"
+            "entityId": 1789143,
+            "definitionKey": "1088085227:1789143",
+            "entityTagId": 1,
+            "tagName": "__DISGUISE_FEAT"
+          },
+          {
+            "id": 411,
+            "entityTypeId": 1088085227,
+            "entityId": 1789143,
+            "definitionKey": "1088085227:1789143",
+            "entityTagId": 3,
+            "tagName": "__DISPLAY_WITH_DATA_ORIGIN"
           }
         ]
       },
@@ -8426,6 +8281,238 @@
             "definitionKey": "1088085227:1789199",
             "entityTagId": 3,
             "tagName": "__DISPLAY_WITH_DATA_ORIGIN"
+          }
+        ]
+      },
+      "definitionId": 0
+    },
+    {
+      "componentTypeId": 12168134,
+      "componentId": 10292232,
+      "definition": {
+        "id": 1789207,
+        "entityTypeId": 1088085227,
+        "definitionKey": "1088085227:1789207",
+        "name": "Two-Weapon Fighting",
+        "description": "<p><em>Fighting Style Feat (Prerequisite: Fighting Style Feature)</em></p>\r\n<p>When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren’t already adding it to the damage.</p>",
+        "snippet": "When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren’t already adding it to the damage.",
+        "slug": "1789207-two-weapon-fighting",
+        "moreDetailsUrl": "/feats/1789207-two-weapon-fighting",
+        "activation": {
+          "activationTime": null,
+          "activationType": null
+        },
+        "sourceId": null,
+        "sourcePageNumber": null,
+        "creatureRules": [],
+        "prerequisites": [
+          {
+            "description": "Blood Hunter Fighting Style",
+            "prerequisiteMappings": [
+              {
+                "id": 597712,
+                "entityId": 1610582,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "blood-hunter-level-02-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Blood Hunter - Level 02: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "College of Swords Fighting Style",
+            "prerequisiteMappings": [
+              {
+                "id": 597713,
+                "entityId": 654,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "bard-legacy-college-of-swords-level-03-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Bard (Legacy) - College of Swords - Level 03: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Fighter Fighting Style 1",
+            "prerequisiteMappings": [
+              {
+                "id": 597871,
+                "entityId": 10292232,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "fighter-level-01-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Fighter - Level 01: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Fighter Fighting Style 2",
+            "prerequisiteMappings": [
+              {
+                "id": 597872,
+                "entityId": 10292232,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "fighter-level-01-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Fighter - Level 01: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Paladin Fighting Style 1",
+            "prerequisiteMappings": [
+              {
+                "id": 597873,
+                "entityId": 10292285,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "paladin-level-02-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Paladin - Level 02: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Paladin Fighting Style 2",
+            "prerequisiteMappings": [
+              {
+                "id": 597717,
+                "entityId": 262,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "paladin-legacy-level-02-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Paladin (Legacy) - Level 02: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Ranger Fighting Style 1",
+            "prerequisiteMappings": [
+              {
+                "id": 597874,
+                "entityId": 10292307,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "ranger-level-02-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Ranger - Level 02: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Ranger Fighting Style 2",
+            "prerequisiteMappings": [
+              {
+                "id": 597719,
+                "entityId": 296,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "ranger-legacy-level-02-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Ranger (Legacy) - Level 02: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Gunslinger Fighting Style",
+            "prerequisiteMappings": [
+              {
+                "id": 799558,
+                "entityId": 11751745,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "gunslinger-level-01-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Gunslinger - Level 01: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "College of Adventurers Fighting Style",
+            "prerequisiteMappings": [
+              {
+                "id": 846820,
+                "entityId": 12075898,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "bard-college-of-adventurers-level-03-talented-adventurer",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Bard - College of Adventurers - Level 03: Talented Adventurer",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          },
+          {
+            "description": "Monster Hunter Fighting Style",
+            "prerequisiteMappings": [
+              {
+                "id": 846822,
+                "entityId": 12075697,
+                "entityTypeId": 12168134,
+                "type": "class-feature",
+                "subType": "monster-hunter-level-02-fighting-style",
+                "value": null,
+                "friendlyTypeName": "Class Feature",
+                "friendlySubTypeName": "Monster Hunter - Level 02: Fighting Style",
+                "shouldExclude": false
+              }
+            ],
+            "hidePrerequisite": true
+          }
+        ],
+        "isHomebrew": false,
+        "sources": [
+          {
+            "sourceId": 145,
+            "pageNumber": 210,
+            "sourceType": 1
+          }
+        ],
+        "spellListIds": [],
+        "isRepeatable": false,
+        "repeatableParentId": null,
+        "categories": [
+          {
+            "id": 487,
+            "entityTypeId": 1088085227,
+            "entityId": 1789207,
+            "definitionKey": "1088085227:1789207",
+            "entityTagId": 13,
+            "tagName": "Fighting Style"
           }
         ]
       },
@@ -8946,7 +9033,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 1,
+          "numberUsed": 0,
           "minNumberConsumed": null,
           "maxNumberConsumed": 0,
           "maxUses": 1,
@@ -9298,6 +9385,22 @@
           "name": "Shortsword (Vex)",
           "description": "<p>Your training with weapons allows you to use the mastery property of Shortswords:</p>\r\n<p><strong><em>Vex.</em></strong> If you hit a creature with a Shortsword and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.</p>",
           "snippet": "<strong><em>Vex.</em></strong> If you hit a creature with a Shortsword and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn.",
+          "activation": null,
+          "sourceId": null,
+          "sourcePageNumber": null,
+          "creatureRules": [],
+          "spellListIds": []
+        }
+      },
+      {
+        "componentId": 1789143,
+        "componentTypeId": 1088085227,
+        "definition": {
+          "id": 4496717,
+          "entityTypeId": 258900837,
+          "name": "Trident (Topple)",
+          "description": "<p>Your training with weapons allows you to use the mastery property of Tridents:</p><p><strong><em>Topple.</em></strong> If you hit a creature with a Trident, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.</p>",
+          "snippet": "<strong><em>Topple.</em></strong> If you hit a creature with a Trident, you can force it to make a Con. saving throw (DC 8 + {{proficiency#unsigned}} + the ability modifier used to make the attack). On a failed save, the creature has the Prone condition.",
           "activation": null,
           "sourceId": null,
           "sourcePageNumber": null,
@@ -9680,7 +9783,7 @@
         "parentChoiceId": null,
         "type": 6,
         "subType": null,
-        "optionValue": 1789148,
+        "optionValue": 1789207,
         "label": "Choose a Fighting Style feat",
         "isOptional": false,
         "isInfinite": false,
@@ -9700,6 +9803,24 @@
             "tagName": "Fighting Style"
           }
         ]
+      },
+      {
+        "componentId": 10292238,
+        "componentTypeId": 12168134,
+        "id": "6-10292238",
+        "parentChoiceId": null,
+        "type": 6,
+        "subType": null,
+        "optionValue": 17,
+        "label": "Choose a Feat",
+        "isOptional": false,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "displayOrder": null,
+        "itemDefinitionKey": null,
+        "options": [],
+        "optionIds": [],
+        "tagConstraints": []
       },
       {
         "componentId": 10292566,
@@ -10154,7 +10275,6 @@
           4496714,
           4496715,
           4496716,
-          4496717,
           4496718,
           4496719,
           4496721,
@@ -10215,7 +10335,6 @@
           4496714,
           4496715,
           4496716,
-          4496717,
           4496718,
           4496719,
           4496721,
@@ -10276,7 +10395,6 @@
           4496714,
           4496715,
           4496716,
-          4496717,
           4496718,
           4496719,
           4496721,
@@ -10291,6 +10409,66 @@
           4643013,
           4643014,
           4496725
+        ],
+        "tagConstraints": []
+      },
+      {
+        "componentId": 1789143,
+        "componentTypeId": 1088085227,
+        "id": "3-261820-110705920",
+        "parentChoiceId": null,
+        "type": 3,
+        "subType": null,
+        "optionValue": 4496717,
+        "label": null,
+        "isOptional": false,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "displayOrder": null,
+        "itemDefinitionKey": null,
+        "options": [],
+        "optionIds": [
+          4496688,
+          4496689,
+          4496690,
+          4496692,
+          4496693,
+          4496695,
+          4496696,
+          4496697,
+          4496698,
+          4496699,
+          4496700,
+          4496701,
+          4496702,
+          4496703,
+          4496704,
+          4496705,
+          4496706,
+          4496707,
+          4496708,
+          4496709,
+          4496710,
+          4496711,
+          4496712,
+          4496713,
+          4496714,
+          4496715,
+          4496716,
+          4496718,
+          4496719,
+          4496721,
+          4496722,
+          4496724,
+          4642985,
+          4642986,
+          4642987,
+          4642990,
+          4642991,
+          4643012,
+          4643013,
+          4643014,
+          4496717
         ],
         "tagConstraints": []
       },
@@ -10358,7 +10536,6 @@
           4496714,
           4496715,
           4496716,
-          4496717,
           4496718,
           4496719,
           4496721,
@@ -10419,7 +10596,6 @@
           4496714,
           4496715,
           4496716,
-          4496717,
           4496718,
           4496719,
           4496721,
@@ -11923,12 +12099,6 @@
             "sourceId": null
           },
           {
-            "id": 4496717,
-            "label": "Trident (Topple)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Tridents:</p><p><strong><em>Topple.</em></strong> If you hit a creature with a Trident, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.</p>",
-            "sourceId": null
-          },
-          {
             "id": 4496718,
             "label": "Blowgun (Vex)",
             "description": "<p>Your training with weapons allows you to use the mastery property of Blowguns:</p><p><strong><em>Vex.</em></strong> If you hit a creature with a Blowgun and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.</p>",
@@ -12022,6 +12192,12 @@
             "id": 4496725,
             "label": "Shortsword (Vex)",
             "description": "<p>Your training with weapons allows you to use the mastery property of Shortswords:</p>\r\n<p><strong><em>Vex.</em></strong> If you hit a creature with a Shortsword and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.</p>",
+            "sourceId": null
+          },
+          {
+            "id": 4496717,
+            "label": "Trident (Topple)",
+            "description": "<p>Your training with weapons allows you to use the mastery property of Tridents:</p><p><strong><em>Topple.</em></strong> If you hit a creature with a Trident, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.</p>",
             "sourceId": null
           },
           {
@@ -12616,6 +12792,7 @@
       "feat:1789183": "Savage Attacker",
       "feat:1789199": "Soldier Ability Score Improvements",
       "feat:1789142": "Weapon Mastery",
+      "feat:1789143": "4: Weapon Mastery",
       "feat:2048517": "Dark Bargain",
       "feat:2331889": "Runestones",
       "feat:2331813": "Character Threads",
@@ -12744,7 +12921,7 @@
           "numberUsed": 0,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
-          "maxUses": 2,
+          "maxUses": 3,
           "operator": 1,
           "useProficiencyBonus": false,
           "proficiencyBonusOperator": 1,
@@ -12766,8 +12943,8 @@
           "diceCount": 1,
           "diceValue": 10,
           "diceMultiplier": null,
-          "fixedValue": 3,
-          "diceString": "1d10 + 3"
+          "fixedValue": 4,
+          "diceString": "1d10 + 4"
         },
         "value": null,
         "damageTypeId": null,
@@ -12900,7 +13077,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 1,
-          "numberUsed": 2,
+          "numberUsed": 0,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
           "maxUses": 4,
@@ -13280,6 +13457,47 @@
         "name": "Vex (Shortsword)",
         "description": "<p>Your training with weapons allows you to use the mastery property of Shortswords:</p>\r\n<p><strong><em>Vex.</em></strong> If you hit a creature with a Shortsword and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.</p>",
         "snippet": "<strong><em>Vex.</em></strong> If you hit a creature with a Shortsword and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn.",
+        "abilityModifierStatId": null,
+        "onMissDescription": "",
+        "saveFailDescription": "",
+        "saveSuccessDescription": "",
+        "saveStatId": null,
+        "fixedSaveDc": null,
+        "attackTypeRange": null,
+        "actionType": 3,
+        "attackSubtype": null,
+        "dice": null,
+        "value": null,
+        "damageTypeId": null,
+        "isMartialArts": false,
+        "isProficient": false,
+        "spellRangeType": null,
+        "displayAsAttack": null,
+        "range": {
+          "range": null,
+          "longRange": null,
+          "aoeType": null,
+          "aoeSize": null,
+          "hasAoeSpecialDescription": false,
+          "minimumRange": null
+        },
+        "activation": {
+          "activationTime": null,
+          "activationType": 1
+        },
+        "numberOfTargets": null,
+        "fixedToHit": null,
+        "ammunition": null
+      },
+      {
+        "componentId": 1789143,
+        "componentTypeId": 1088085227,
+        "id": "9414129",
+        "entityTypeId": "222216831",
+        "limitedUse": null,
+        "name": "Topple (Trident)",
+        "description": "<p>Your training with weapons allows you to use the mastery property of Tridents:</p>\r\n<p><strong><em>Topple.</em></strong> If you hit a creature with a Trident, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [condition]Prone[/condition] condition.</p>",
+        "snippet": "<strong><em>Topple.</em></strong> If you hit a creature with a Trident, you can force it to make a Con. saving throw (DC 8 + {{proficiency#unsigned}} + the ability modifier used to make the attack). On a failed save, the creature has the Prone condition.",
         "abilityModifierStatId": null,
         "onMissDescription": "",
         "saveFailDescription": "",
@@ -14342,6 +14560,30 @@
       },
       {
         "fixedValue": 1,
+        "id": "600",
+        "entityId": null,
+        "entityTypeId": null,
+        "type": "bonus",
+        "subType": "magic",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "friendlySubtypeName": "Magic",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": 1,
+        "availableToMulticlass": true,
+        "modifierTypeId": 1,
+        "modifierSubTypeId": 312,
+        "componentId": 5225,
+        "componentTypeId": 112130694,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": 1,
         "id": "624",
         "entityId": null,
         "entityTypeId": null,
@@ -14387,33 +14629,57 @@
         "componentId": 9228408,
         "componentTypeId": 112130694,
         "tagConstraints": []
-      },
+      }
+    ],
+    "feat": [
       {
         "fixedValue": 1,
-        "id": "600",
+        "id": "12968",
         "entityId": null,
         "entityTypeId": null,
         "type": "bonus",
-        "subType": "magic",
+        "subType": "dual-wield-armor-class",
         "dice": null,
         "restriction": "",
         "statId": null,
         "requiresAttunement": false,
         "duration": null,
         "friendlyTypeName": "Bonus",
-        "friendlySubtypeName": "Magic",
+        "friendlySubtypeName": "Dual Wield Armor Class",
         "isGranted": true,
         "bonusTypes": [],
         "value": 1,
         "availableToMulticlass": true,
         "modifierTypeId": 1,
-        "modifierSubTypeId": 312,
-        "componentId": 5225,
-        "componentTypeId": 112130694,
+        "modifierSubTypeId": 1039,
+        "componentId": 17,
+        "componentTypeId": 1088085227,
         "tagConstraints": []
-      }
-    ],
-    "feat": [
+      },
+      {
+        "fixedValue": null,
+        "id": "12969",
+        "entityId": null,
+        "entityTypeId": null,
+        "type": "ignore",
+        "subType": "dual-wield-light-restrictions",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Ignore",
+        "friendlySubtypeName": "Dual Wield Light Restrictions",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": null,
+        "availableToMulticlass": true,
+        "modifierTypeId": 31,
+        "modifierSubTypeId": 1040,
+        "componentId": 17,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
       {
         "fixedValue": null,
         "id": "2041",
@@ -14459,6 +14725,30 @@
         "modifierTypeId": 5,
         "modifierSubTypeId": 769,
         "componentId": 18,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": null,
+        "id": "63231658",
+        "entityId": null,
+        "entityTypeId": null,
+        "type": "ignore",
+        "subType": "dual-wield-modifier-restrictions",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Ignore",
+        "friendlySubtypeName": "Dual Wield Modifier Restrictions",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": null,
+        "availableToMulticlass": true,
+        "modifierTypeId": 31,
+        "modifierSubTypeId": 1041,
+        "componentId": 1789207,
         "componentTypeId": 1088085227,
         "tagConstraints": []
       },
@@ -14632,6 +14922,150 @@
       },
       {
         "fixedValue": null,
+        "id": "62627904",
+        "entityId": 31,
+        "entityTypeId": 1782728300,
+        "type": "weapon-mastery",
+        "subType": "topple-trident",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Weapon Mastery",
+        "friendlySubtypeName": "Topple (Trident)",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": null,
+        "availableToMulticlass": true,
+        "modifierTypeId": 43,
+        "modifierSubTypeId": 1958,
+        "componentId": 1789143,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": null,
+        "id": "78272156",
+        "entityId": null,
+        "entityTypeId": null,
+        "type": "weapon-mastery",
+        "subType": "topple-trident-silver",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Weapon Mastery",
+        "friendlySubtypeName": "Topple (Trident, Silver)",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": null,
+        "availableToMulticlass": true,
+        "modifierTypeId": 43,
+        "modifierSubTypeId": 2386,
+        "componentId": 1789143,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": null,
+        "id": "78272157",
+        "entityId": null,
+        "entityTypeId": null,
+        "type": "weapon-mastery",
+        "subType": "topple-trident-wooden",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Weapon Mastery",
+        "friendlySubtypeName": "Topple (Trident, Wooden)",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": null,
+        "availableToMulticlass": true,
+        "modifierTypeId": 43,
+        "modifierSubTypeId": 2387,
+        "componentId": 1789143,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": 1,
+        "id": "62628002",
+        "entityId": 1,
+        "entityTypeId": 1472902489,
+        "type": "bonus",
+        "subType": "strength-score",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "friendlySubtypeName": "Strength Score",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": 1,
+        "availableToMulticlass": true,
+        "modifierTypeId": 1,
+        "modifierSubTypeId": 2,
+        "componentId": 1789199,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": 1,
+        "id": "62628003",
+        "entityId": 2,
+        "entityTypeId": 1472902489,
+        "type": "bonus",
+        "subType": "dexterity-score",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "friendlySubtypeName": "Dexterity Score",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": 1,
+        "availableToMulticlass": true,
+        "modifierTypeId": 1,
+        "modifierSubTypeId": 3,
+        "componentId": 1789199,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": 1,
+        "id": "62628004",
+        "entityId": 3,
+        "entityTypeId": 1472902489,
+        "type": "bonus",
+        "subType": "constitution-score",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "friendlySubtypeName": "Constitution Score",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": 1,
+        "availableToMulticlass": true,
+        "modifierTypeId": 1,
+        "modifierSubTypeId": 4,
+        "componentId": 1789199,
+        "componentTypeId": 1088085227,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": null,
         "id": "62627881",
         "entityId": 29,
         "entityTypeId": 1782728300,
@@ -14773,78 +15207,6 @@
         "componentId": 1874753,
         "componentTypeId": 1088085227,
         "tagConstraints": []
-      },
-      {
-        "fixedValue": 1,
-        "id": "62628002",
-        "entityId": 1,
-        "entityTypeId": 1472902489,
-        "type": "bonus",
-        "subType": "strength-score",
-        "dice": null,
-        "restriction": "",
-        "statId": null,
-        "requiresAttunement": false,
-        "duration": null,
-        "friendlyTypeName": "Bonus",
-        "friendlySubtypeName": "Strength Score",
-        "isGranted": true,
-        "bonusTypes": [],
-        "value": 1,
-        "availableToMulticlass": true,
-        "modifierTypeId": 1,
-        "modifierSubTypeId": 2,
-        "componentId": 1789199,
-        "componentTypeId": 1088085227,
-        "tagConstraints": []
-      },
-      {
-        "fixedValue": 1,
-        "id": "62628003",
-        "entityId": 2,
-        "entityTypeId": 1472902489,
-        "type": "bonus",
-        "subType": "dexterity-score",
-        "dice": null,
-        "restriction": "",
-        "statId": null,
-        "requiresAttunement": false,
-        "duration": null,
-        "friendlyTypeName": "Bonus",
-        "friendlySubtypeName": "Dexterity Score",
-        "isGranted": true,
-        "bonusTypes": [],
-        "value": 1,
-        "availableToMulticlass": true,
-        "modifierTypeId": 1,
-        "modifierSubTypeId": 3,
-        "componentId": 1789199,
-        "componentTypeId": 1088085227,
-        "tagConstraints": []
-      },
-      {
-        "fixedValue": 1,
-        "id": "62628004",
-        "entityId": 3,
-        "entityTypeId": 1472902489,
-        "type": "bonus",
-        "subType": "constitution-score",
-        "dice": null,
-        "restriction": "",
-        "statId": null,
-        "requiresAttunement": false,
-        "duration": null,
-        "friendlyTypeName": "Bonus",
-        "friendlySubtypeName": "Constitution Score",
-        "isGranted": true,
-        "bonusTypes": [],
-        "value": 1,
-        "availableToMulticlass": true,
-        "modifierTypeId": 1,
-        "modifierSubTypeId": 4,
-        "componentId": 1789199,
-        "componentTypeId": 1088085227,
-        "tagConstraints": []
       }
     ],
     "condition": []
@@ -14942,7 +15304,7 @@
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-06-10T03:05:30.993Z",
+  "dateModified": "2026-06-14T18:44:43.229Z",
   "providedFrom": "storage",
   "canEdit": true,
   "status": 0,

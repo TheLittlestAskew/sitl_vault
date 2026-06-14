@@ -1,11 +1,9 @@
 ---
-created_on: 2026-06-11
-updated_on: 2026-06-11
 type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152910077
 ddb_url: https://www.dndbeyond.com/characters/152910077
-synced: 2026-06-12T00:01:27.839Z
+synced: 2026-06-14T19:25:03.642Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -19,6 +17,7 @@ generated_by: ddb_party_sync.js
 - **Total Level:** 4  ·  **Proficiency Bonus:** +2
 - **Background:** Hermit
 - **Max HP (approx):** 35
+- **AC:** 15  ·  *Leather 11 + Dex +2 + Shield +2*
 - **Currency:** 0pp 25gp 0ep 0sp 0cp
 
 ## Ability Scores
