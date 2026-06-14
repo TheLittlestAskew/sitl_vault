@@ -1,6 +1,6 @@
 # SITL Convo 1 Instructions — Session Notes Generation
 
-**Last updated:** 06/07/2026 (reconstructed)
+**Last updated:** 06/13/2026 (reconstructed)
 
 This document defines the step-by-step workflow for **Convo 1**: turning a raw/unedited session transcript into complete, verified, styled session notes. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
 
