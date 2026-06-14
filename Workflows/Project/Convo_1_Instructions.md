@@ -232,12 +232,14 @@ Legacy gap to watch: **S04 corrected transcript** is still missing.
 
 Convo 1 is done when:
 
-1. ✅ Corrected transcript saved to `Session_Sources/Transcripts/Corrected/`.
-2. ✅ Roll archive cross-referenced (or gap explicitly flagged).
-3. ✅ All 8 notes sections complete, tables fully populated, every datum date/character-tagged.
-4. ✅ POV Journal passes the Hard Limits test.
-5. ✅ Final title confirmed and recorded.
-6. ✅ Convo 2 Handoff Block output.
+`Step 1  Intake & Session Identification`
+`Step 2  Spell Check & Transcript Correction   ← review-before-apply, then save corrected transcript`
+`Step 3  Roll Archive Cross-Reference          ← Supabase sitl_session_rolls`
+`Step 4  Session Notes Drafting                ← 8 sections, content per SECTION BREAKDOWN`
+`Step 5  Title Selection                       ← 5 options, confirm final`
+`Step 6  Write Session Note                    ← 01-Sessions/Session ## — Title.md`
+`Step 7  Register Session                      ← ddb_sessions upsert (Convo 1's only Supabase write)`
+`Step 8  Convo 2 Handoff Block`
 
 
 ## STEP 7 — REGISTER SESSION (ddb_sessions)
