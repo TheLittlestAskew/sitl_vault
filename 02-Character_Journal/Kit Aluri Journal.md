@@ -812,7 +812,7 @@ Don't trust dreams. Unless you are Amanita. She is the only one allowed.
 
 ---
 
-## Session 18 — The Big Fish Eat the Little Fish
+## Session 17 — The Big Fish Eat the Little Fish
 
 <details><summary>The Darklake approach — the black pool, the thing that ate the chuul, and a fish-priest with a ridiculous name (one day out from Sloobludop)</summary>
 

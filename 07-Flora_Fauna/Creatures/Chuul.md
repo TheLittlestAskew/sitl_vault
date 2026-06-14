@@ -12,11 +12,11 @@ type: aberration
 
 ## Description
 
-A large lobster-scorpion **aberration** and aquatic ambush predator. Heavily armored, with massive pincers (claws "the size of [Kit]'s torso") and a mouth ringed with **paralytic tentacles**. Lurks in deep water, dragging prey under to drown it. Encountered in the deep underground pool on the approach to [[04-World-Lore/Locations/The Darklake]] (S18).
+A large lobster-scorpion **aberration** and aquatic ambush predator. Heavily armored, with massive pincers (claws "the size of [Kit]'s torso") and a mouth ringed with **paralytic tentacles**. Lurks in deep water, dragging prey under to drown it. Encountered in the deep underground pool on the approach to [[04-World-Lore/Locations/The Darklake]] (S17).
 
 ## Abilities / Behavior
 
-- **Ambush from deep water** — surprised the party erupting from the pool's drop-off (S18).
+- **Ambush from deep water** — surprised the party erupting from the pool's drop-off (S17).
 - **Pincer grapple + drown** — grappled [[Kit Aluri]] (9 damage) and tried to drag her into the depths.
 - **Paralytic tentacles** — a creature bitten must resist paralysis; [[Amanita de'Champignon]] dodged with a Constitution save (20).
 - Vulnerable when removed from the water — [[Amanita de'Champignon]]'s **Thorn Whip** (War Caster opportunity) hauled it bodily ashore, after which the party overwhelmed it.

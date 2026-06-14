@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-10
+updated_on: 2026-06-14
 ---
 
 # House Rules & Rulings
@@ -82,13 +82,22 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Long rest preserved despite night drama (S16):** The party (including Binks, who shrugged off madness mid-rest) still received the full long rest.
 - **Madness check vs. Binks's dream (S16):** WIS save 16 avoided a madness point (not framed as a magical effect). A follow-up forced Religion check (19) diminished his shrine connection — "dormant, not that it went away."
 
+### Session 17 Rulings
+> Play date 06/07/2026. (The earlier S17/S18 number collision is resolved: this chuul session = **S17**; the 06/14/2026 whirlpool session = **S18**.)
+- **Hold Person fails on a quaggoth (S17):** [[Blarg]]'s readied **Hold Person** had no effect on [[Derendil]] because a quaggoth is a **monstrosity**, not a Humanoid. Confirms Derendil's true creature type for targeting purposes (reinforces [[Sloopidoop]]'s "that is no elf").
+- **War Caster Thorn Whip as opportunity attack to reposition (S17):** [[Amanita de'Champignon]] used **War Caster** to cast **Thorn Whip** as an opportunity attack on the grappling [[Chuul]], hauling it bodily out of the pool ("I've landed a fish"). DM allowed Thorn Whip's pull to drag the aberration onto land, stripping its drown-the-prey advantage.
+- **NPC loot identification in lieu of Identify (S17):** [[Sloopidoop]] identified the Lock of Trickery, Rope of Mending, and Spell Scroll of Sand by inspection — no Identify ritual required.
+- **Kuo-toa scale armor classification — PENDING (S17):** Whether the recovered teeth/shell scale armor is **medium or heavy** (and its stealth penalty) is DM-pending ("I'll have to look at that"). It is non-metal, so [[Amanita de'Champignon]] can use it despite her metal restriction. ⚠️ Awaiting DM ruling.
+- **Spell Scroll of "Sand" — PENDING (S17):** No standard 1st-level spell named "Sand"; intended spell flagged for DM confirmation before the scroll is used. ⚠️
+
 ### Session 18 Rulings
-> ⚠️ Filed as S18 per operator instruction; play date 06/07/2026 disputed (likely S17). See [[Vault Sync Status]].
-- **Hold Person fails on a quaggoth (S18):** [[Blarg]]'s readied **Hold Person** had no effect on [[Derendil]] because a quaggoth is a **monstrosity**, not a Humanoid. Confirms Derendil's true creature type for targeting purposes (reinforces [[Sloopidoop]]'s "that is no elf").
-- **War Caster Thorn Whip as opportunity attack to reposition (S18):** [[Amanita de'Champignon]] used **War Caster** to cast **Thorn Whip** as an opportunity attack on the grappling [[Chuul]], hauling it bodily out of the pool ("I've landed a fish"). DM allowed Thorn Whip's pull to drag the aberration onto land, stripping its drown-the-prey advantage.
-- **NPC loot identification in lieu of Identify (S18):** [[Sloopidoop]] identified the Lock of Trickery, Rope of Mending, and Spell Scroll of Sand by inspection — no Identify ritual required.
-- **Kuo-toa scale armor classification — PENDING (S18):** Whether the recovered teeth/shell scale armor is **medium or heavy** (and its stealth penalty) is DM-pending ("I'll have to look at that"). It is non-metal, so [[Amanita de'Champignon]] can use it despite her metal restriction. ⚠️ Awaiting DM ruling.
-- **Spell Scroll of "Sand" — PENDING (S18):** No standard 1st-level spell named "Sand"; intended spell flagged for DM confirmation before the scroll is used. ⚠️
+> Play date 06/14/2026 ([[Session 18 — Trust the Whirlpool]]).
+- **Kit's greatsword — shapeshifting property (S18, Homebrew, "rule of cool"):** On Kit's **natural-20 killing blow** vs. the green [[Sea Hag]], the DM permanently granted her greatsword the ability to **reshape (with concentration) into any weapon Kit is proficient with and has previously carried**, with **extra damage to fey and aquatic creatures.** Explicitly parallels her silvered crowbar (extra vs. lycanthropes) and is tied to the **[[faerzress]]**. Improvised as a birthday gift. ⚠️ **Exact bonus dice/type, attunement, and action economy NOT stated** — pending DM confirmation before mechanics are finalized.
+- **Roxy raft transformation (S18):** DM allowed [[Darby Stonefeather]] to coax [[Roxanne\|Roxy]] (via the attuned horn) into transforming into **two Zurkhwood rafts**, one on each side of the mount (Survival 17; DM scale: 15 = one raft, 20 = more). **Each raft has 20 HP.** Extends Roxy's S16 Zurkhwood shelter form into a vehicle.
+- **Non-caster scroll use via ability/Arcana check (~DC 13) (S18):** A non-caster may attempt to use a spell scroll through an **ability/Arcana check (~DC 13)** at DM discretion. Consistent with the S09 cast-above-level precedent (DC 10 + spell level). Applied to the recovered chuul-lair scroll.
+- **Spell scroll naming — "Sanctuary" vs. "Spell Scroll of Sand" — PENDING (S18):** This session the chuul-lair scroll is read as **"Sanctuary"** (Amanita, Kit), **conflicting with the S17 "Spell Scroll of Sand"** record. ⚠️ Do not silently reconcile — confirm the canonical name/spell with the DM.
+- **Milestone level-up agency / mixed-level party (S18):** [[Kit Aluri]] crossed the milestone threshold by killing the hag and **leveled to 5 on the spot** (chose **Dual Wielder**). The rest of the party **deferred** leveling to a player-chosen narrative moment (DM warned that leveling earlier means harder encounters). Mirrors the S16 level-up-agency ruling. The party is now **mixed-level** (Kit 5, others 4) going into S19.
+- **Whirlpool environmental hazard (S18):** Sloopidoop's directed whirlpool dealt **7 bludgeoning to each party member** and forced a **Constitution save vs. a level of exhaustion** ([[Amanita de'Champignon]] failed). Delivered the party one-way to [[Sloobludop]].
 
 ### Campaign Setting
 - **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04), triggered short-term madness in Amanita when she cast Detect Magic on it (S05), and destabilizes the Feydark portal (S09). Connected to the corrupted entity's influence (S11).

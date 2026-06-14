@@ -52,8 +52,8 @@ JSON slug / roll_name: darby-stonefeather
 - S06: beginning to "lock in" — first rage, first magical weapon, first time providing light to the party
 - S08: Ancestral awakening — first rage with spectral manifestation. The farm girl is carrying ancient power.
 - S09: Farmer instincts re-emerge — immediately claimed animal handler role for [[Roxanne]].
-- (S18) **Openly smitten with [[Sloopidoop]]** — "weird feelings… in a crushy kind of way" toward the kuo-toa priest. — [[Session 17 — The Big Fish Eat the Little Fish|S18]]
-- (S18) Upbeat and easygoing even on a late arrival ("Jet lagged. Slept for 11 hours. I'm so sorry") — slots straight into the fight. — [[Session 17 — The Big Fish Eat the Little Fish|S18]]
+- (S17) **Openly smitten with [[Sloopidoop]]** — "weird feelings… in a crushy kind of way" toward the kuo-toa priest. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
+- (S17) Upbeat and easygoing even on a late arrival ("Jet lagged. Slept for 11 hours. I'm so sorry") — slots straight into the fight. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 
 ## Abilities & Class Features
 
@@ -81,8 +81,8 @@ JSON slug / roll_name: darby-stonefeather
 | Enhanced Totem Carving | S02 / S11 (empowered during Feydark) | **Growth item.** +1 CHA. Shifts between father's face and axe beak. Fourth rage option: Axe Beak (50ft move, +D4 slashing on hits). |
 | Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + Animal Friendship (confirmed S12) |
 | Green Flame Mace (common magical) | S06 (retrieved from [[Glabbagool]]) | **Attuned** — Equipped. Action to light/extinguish. Extra damage upgraded from +1 flat to D4 (S08). Normally fire; dealt radiant during S08. Sap weapon mastery. |
-| The horn (Roxy's attunement focus) | S16 (ritual) / **S18 (fully attuned)** | **Attuned.** [[Roxanne]] now storable in the horn and summoned by calling "Roxanne." Inventory inaccessible while she's inside. |
-| Rope of Mending | S18 (chuul's lair, loot d100 = 64) | Party inventory. Magically enhanced rope; identified by [[Sloopidoop]]. |
+| The horn (Roxy's attunement focus) | S16 (ritual) / **S17 (fully attuned)** | **Attuned.** [[Roxanne]] now storable in the horn and summoned by calling "Roxanne." Inventory inaccessible while she's inside. |
+| Rope of Mending | S17 (chuul's lair, loot d100 = 64) | Party inventory. Magically enhanced rope; identified by [[Sloopidoop]]. |
 
 ## Relationships
 
@@ -134,7 +134,7 @@ JSON slug / roll_name: darby-stonefeather
 - "Yeah, that's good to know that it's possible now. It's kind of like a Pokémon if we can get it right." — S16, re: storing Roxy in the horn [Funny]
 - "Sweet darling girl." — S16, re: Clementine [Funny]
 - "Let's uncomplicate it." — S16 [Funny]
-- "Jet lagged. Slept for 11 hours. I'm so sorry." — S18, arriving mid-fight [Banter]
+- "Jet lagged. Slept for 11 hours. I'm so sorry." — S17, arriving mid-fight [Banter]
 
 ### S15 Key Events
 - Riding Roxy at front of the column. Fashioning armor onto Roxy during rest periods using building hammers and iron spikes.
@@ -151,7 +151,7 @@ JSON slug / roll_name: darby-stonefeather
 - Confirmed she speaks **Undercommon** now ("I speak Undercommon now, so it doesn't really matter").
 - Insight 11 vs Binks. Gained Heroic Inspiration with the party.
 
-### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
+### S17 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 17]])
 - **Arrived mid-combat** (~1:06:40, "jet lagged, slept for 11 hours") and dropped straight into the chuul fight.
 - Fire mace **missed** the [[Chuul]] (13 to hit — glanced off the carapace), but **controlled [[Roxanne]] for a big gore**: 21 to hit, **17 damage** (2d8+5), helping bring the chuul to the brink.
 - **Completed the horn arc:** [[Aeolus]]'s Arcana 22 lowered the DC and Darby's **Animal Handling 18 (+help +beast sense) stored Roxy in the horn** — Darby now fully attuned; summon by calling "Roxanne."

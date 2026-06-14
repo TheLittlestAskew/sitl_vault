@@ -9,17 +9,17 @@ region: Lowerdark
 # Sloobludop
 
 > **Type:** Kuo-toa settlement on the banks of [[04-World-Lore/Locations/The Darklake]]
-> **Status:** Party's current destination — ~1 day out as of [[Session 17 — The Big Fish Eat the Little Fish|Session 18]]. Not yet entered.
+> **Status:** Party's current destination — ~1 day out as of [[Session 17 — The Big Fish Eat the Little Fish|Session 17]]. Not yet entered.
 
 ## Description
 
-A kuo-toa settlement on the [[04-World-Lore/Locations/The Darklake]]. First named in S03 as a destination; confirmed as **7 days travel from [[04-World-Lore/Locations/Velkynvelve]]** (S15, corrected from 8). The home village of the Society of Brilliance scholar-priest [[Sloopidoop]] (S18). Per [[Notes From Addison]], if [[Shuushar]] survived his fall at Velkynvelve he likely went here.
+A kuo-toa settlement on the [[04-World-Lore/Locations/The Darklake]]. First named in S03 as a destination; confirmed as **7 days travel from [[04-World-Lore/Locations/Velkynvelve]]** (S15, corrected from 8). The home village of the Society of Brilliance scholar-priest [[Sloopidoop]] (S17). Per [[Notes From Addison]], if [[Shuushar]] survived his fall at Velkynvelve he likely went here.
 
 ## Notable Features
 
 - **Level-5 milestone:** Reaching Sloobludop unlocks Level 5 for the party, taken at each player's narratively-chosen moment (DM ruling, S16). Party is still Level 4.
-- **Village-access bead (S18):** [[Sloopidoop]] gave [[Blarg]] a bead from his necklace that grants the party access to the village.
-- **Worsening chaos (S18):** The village is affected by the intensifying chaotic energy/faerzress the [[Society of Brilliance]] studies; Sloopidoop's mutual-aid bargain is to help defend it.
+- **Village-access bead (S17):** [[Sloopidoop]] gave [[Blarg]] a bead from his necklace that grants the party access to the village.
+- **Worsening chaos (S17):** The village is affected by the intensifying chaotic energy/faerzress the [[Society of Brilliance]] studies; Sloopidoop's mutual-aid bargain is to help defend it.
 
 ## Events
 

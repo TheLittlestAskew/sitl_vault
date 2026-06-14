@@ -12,7 +12,7 @@ region: Lowerdark
 # Darklake Approach Pool
 
 > **Type:** Underground pool clearing on the approach to [[04-World-Lore/Locations/The Darklake]], with a submerged chuul lair beneath it.
-> **Status:** Visited [[Session 17 — The Big Fish Eat the Little Fish|Session 18]]; party departed for [[Sloobludop]].
+> **Status:** Visited [[Session 17 — The Big Fish Eat the Little Fish|Session 17]]; party departed for [[Sloobludop]].
 
 ## Description
 

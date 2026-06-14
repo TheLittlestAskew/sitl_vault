@@ -114,8 +114,8 @@ JSON slug / roll_name: aeolus
 - "I'm a squishy warlock." — S15, re: AC 12 discussion [Funny]
 - "Just tell him how to call someone stupid and he's going to be happy." — S15, re: learning Sylvan [Funny]
 - "I know, mine, they're really cool because fuck Lolth, first off." — S16, re: messing with shrines [Funny]
-- "I would actually like to cast thorn whip and toss it in and go fishing. Actually, wait. I have a fishing pole. I'm gonna go fishing." — S18 [Funny]
-- "I've landed a fish." — S18 [Funny]
+- "I would actually like to cast thorn whip and toss it in and go fishing. Actually, wait. I have a fishing pole. I'm gonna go fishing." — S17 [Funny]
+- "I've landed a fish." — S17 [Funny]
 
 ### S15 Key Events
 - Riding Roxy during travel. Requested Sylvan lessons from Binks specifically.
@@ -130,7 +130,7 @@ JSON slug / roll_name: aeolus
 - "Fuck Lolth, first off" — re: why he messes with shrines. First on-record profanity.
 - Quiet session otherwise; gained Heroic Inspiration with the party.
 
-### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
+### S17 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 17]])
 - **Went fishing** with an actual pole, baiting the hook with [[Glabbagool]] (scouted the pool bottom through Glabbagool's eyes — plankton, fish, bones, >15 ft drop). **Landed two large fish** (Animal Handling 22) — "one meal per fish." "I've landed a fish."
 - **Combat 1:** Eldritch Blast (17 to hit, 12 force) on the [[Chuul]]. Initiative 12.
 - **Combat 2 — the clutch beat:** cast **Sleep**, which finally dropped the frenzied [[Derendil]] (Nat 4 WIS save) and **ended the fight non-lethally**, saving both Derendil and Kit. [[Kit Aluri]] thanked him sincerely ("which I feel like is going to be canon").

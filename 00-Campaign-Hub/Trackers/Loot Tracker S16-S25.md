@@ -33,9 +33,9 @@ _Note: No new physical loot. Heroic Inspiration granted to everyone without it a
 
 ---
 
-## Session 18 — The Big Fish Eat the Little Fish
+## Session 17 — The Big Fish Eat the Little Fish
 
-> ⚠️ Filed as S18 per operator instruction; the 2026-06-07 play date is disputed (likely S17). See [[Vault Sync Status]] / the session note's Archivist Notes.
+> ⚠️ Filed as S17 per operator instruction; the 2026-06-07 play date is disputed (likely S17). See [[Vault Sync Status]] / the session note's Archivist Notes.
 
 ### From the Chuul's Submerged Lair
 
@@ -58,6 +58,31 @@ _Note: No new physical loot. Heroic Inspiration granted to everyone without it a
 |[[Darby Stonefeather]]|**The horn** (Roxy's attunement focus)|**Fully attuned this session.** [[Roxanne]] now storable/summonable by calling "Roxanne." Inventory inaccessible while she is inside. Resolves the S16 partial-storage attempt.|Attuned — Active|
 
 _Note: Sloopidoop also recovered his acolyte's necklace, body, and priestly belongings (magically preserved/shrunk) — these belong to his faith and are NOT party loot. The trident/scale armor/net are non-magical utility items added to party inventory._
+
+---
+
+## Session 18 — Trust the Whirlpool
+
+> ⚠️ Transcript-only (DDB archive not queried this run). Kit's new weapon mechanics are DM-improvised and **unspecified** — do not invent stats.
+
+### New / Upgraded Items
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|**Greatsword — shapeshifting property (NEW)**|At a **natural-20 killing blow** on the green [[Sea Hag]], the greatsword permanently gained the ability to **reshape (with concentration) into any weapon Kit is proficient with and has previously carried**; the reshaped weapon deals **extra damage to fey and aquatic creatures.** DM-granted ("rule of cool," birthday gift); explicitly parallels her [[Kit Aluri\|silvered crowbar]] (extra vs. lycanthropes). Tied to the [[faerzress]] pulsing in the walls. First reshaped form: a **trident**. ⚠️ Exact bonus dice/type/attunement/action economy **not stated by DM** — flag for confirmation before finalizing.|**Equipped — upgraded**|
+
+### Item Updates from This Session
+
+|Character|Item|Update|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|**Kuo-toa trident** (S17 lair loot)|Kit claimed it to "play around with it" — versatile (1d8/1d10), martial, thrown. Reference point for the greatsword's first reshape form.|Carried|
+|Party inventory|**6× shields** (Velkynvelve armory loot)|Used as improvised **oars/rudders** during the river run; **one shield lost to the current** when Kit's lashing failed (Survival 9, disadvantage). **5 remain.**|Party inventory (5)|
+|Party inventory (via [[Blarg]])|**Spell scroll — called "Sanctuary" this session**|The chuul-lair scroll is read as **Sanctuary** (Amanita, Kit) this session — **conflicts with the S17 record "Spell Scroll of Sand."** ⚠️ Genuine discrepancy; do not silently reconcile — confirm canonical name with DM.|Carried — ⚠️ name disputed|
+|[[Amanita de'Champignon]]|**Kuo-toa scale armor** (S17 lair loot)|Now **worn as heavy non-metal armor.** Prevents her being "clobbered every time" but imposes **disadvantage on Strength/Athletics** (caused her failed swim → submersion in the hag fight). Non-metal, so usable despite her metal restriction. (Medium/heavy classification still DM-pending from S17.)|Equipped|
+|[[Amanita de'Champignon]]|**Glowing mushroom paste**|Smeared over her face underwater (Arcana 22) to be seen and to see in the dark water.|Consumed (this scene)|
+|[[Darby Stonefeather]]|**The horn** (Roxy's attunement focus)|Used to trigger [[Roxanne\|Roxy]]'s **raft transformation** (two Zurkhwood rafts); Roxy returns to the horn as spores at the whirlpool.|Attuned — Active|
+
+_Note: No new permanent treasure looted this session — the principal "acquisition" is Kit's upgraded weapon. The rope (50 ft) was the session's central utility prop (Blarg's rescue, Darby's tether, Kit's throws). Do not invent item statistics._
 
 ---
 

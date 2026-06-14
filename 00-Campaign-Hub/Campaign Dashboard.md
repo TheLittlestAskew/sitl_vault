@@ -53,9 +53,9 @@ Most Recent Session: 2026-06-07
 - [[Turvy]] — Deep gnome, wererat. Leveled up between S12-S13; assigned Silver Barbs (Fey-Touched). Traveling with party.
 - [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Stabilized by Amanita (Spare the Dying, S14). Healed by Blarg (Cure Wounds, 9 HP restored → near full). Traveling with party.
 - [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Compressed into Amanita's waterskin (S09). Long rest achieved in Feydark (S10) — should be fully reconstituted.
-- [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve. **S16:** gained a Zurkhwood tent-cabin **shelter form** from her dimensional saddlebags. **S18: now fully stored in the horn** — Darby attuned; summon by calling "Roxanne." Inventory inaccessible while she's inside.
-- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Rescued (S13). **S16:** Sleep-"hunted" on all fours, returned with self-torn clothes and no memory; named his curse-wizard "Terrestor." **S18: identity debunked** by [[Sloopidoop]] — "no elf" but a chaos-deluded quaggoth, "no cure but the peace of death." Devoured the chuul, then **frenzied and dropped Kit to 0**; Slept by Aeolus and **bound** by Topsy/Turvy. Now **Captured/Restrained** (bound, asleep), +1 exhaustion. Active intra-party danger.
-- [[Sloopidoop]] — Kuo-toa scholar-priest of the [[Society of Brilliance]]; worships "knowledge"/the Sea Mother (not Lolth). **New transactional ally (S18):** struck a mutual-aid bargain (escort him to [[Sloobludop]] + help the village vs. the chaos, for knowledge and aid), identified the party's loot, gave a village-access bead. Traveling with the party.
+- [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve. **S16:** gained a Zurkhwood tent-cabin **shelter form** from her dimensional saddlebags. **S17: now fully stored in the horn** — Darby attuned; summon by calling "Roxanne." Inventory inaccessible while she's inside.
+- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Rescued (S13). **S16:** Sleep-"hunted" on all fours, returned with self-torn clothes and no memory; named his curse-wizard "Terrestor." **S17: identity debunked** by [[Sloopidoop]] — "no elf" but a chaos-deluded quaggoth, "no cure but the peace of death." Devoured the chuul, then **frenzied and dropped Kit to 0**; Slept by Aeolus and **bound** by Topsy/Turvy. Now **Captured/Restrained** (bound, asleep), +1 exhaustion. Active intra-party danger.
+- [[Sloopidoop]] — Kuo-toa scholar-priest of the [[Society of Brilliance]]; worships "knowledge"/the Sea Mother (not Lolth). **New transactional ally (S17):** struck a mutual-aid bargain (escort him to [[Sloobludop]] + help the village vs. the chaos, for knowledge and aid), identified the party's loot, gave a village-access bead. Traveling with the party.
 - [[Clementine]] — [[Darby Stonefeather]]'s pet spider. Grew in size in the Feydark. Size/stats TBD by Addison. **S16:** Found "waiting" on Binks's shoulder after his arachnid dream. Via Speak with Animals: senses "The Master of Spiders" with Binks — "she knows him now."
 
 ### Former / Departed Companions
@@ -128,8 +128,8 @@ Most Recent Session: 2026-06-07
 | S14: Battle aftermath, Jorlan's death, shrine desecration, looting, long rest | S14 | ~2-3 hours active + 8 hours long rest |
 | S15: Travel Days 1–4 of 7 toward Sloobludop. Quiet travel, downtime, foraging, Kit attunement, language lessons, Fungal Cavern. | S15 | ~4 days |
 | S16: Night camp at Fungal Cavern (horn ritual, watches, Binks's dream, Derendil episode, Zone of Truth), then travel Days 5–6. Ends ~1 day from Sloobludop, in the Darklake region. | S16 | ~2 days (incl. 1 long rest) |
-| S18 ⚠️: Day 6 of the journey — the [[Darklake Approach Pool]] clearing. Fishing → chuul ambush → Derendil's frenzy → first contact with [[Sloopidoop]]; loot the submerged lair; bargain to escort him to Sloobludop (~1 day / "a short day's walk" out). | S18 *(disputed; likely S17)* | ~half a day (no long rest narrated) |
-| **Total post-escape through S18** | | **~10–11 full days** |
+| S17 ⚠️: Day 6 of the journey — the [[Darklake Approach Pool]] clearing. Fishing → chuul ambush → Derendil's frenzy → first contact with [[Sloopidoop]]; loot the submerged lair; bargain to escort him to Sloobludop (~1 day / "a short day's walk" out). | S17 *(disputed; likely S17)* | ~half a day (no long rest narrated) |
+| **Total post-escape through S17** | | **~10–11 full days** |
 
 ---
 

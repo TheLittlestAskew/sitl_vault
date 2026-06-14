@@ -103,7 +103,7 @@ updated_on: 2026-06-10
 
 ---
 
-## Session 18 — The Big Fish Eat the Little Fish
+## Session 17 — The Big Fish Eat the Little Fish
 
 **[[Aeolus]] · [Funny]**
 "I would actually like to cast thorn whip and toss it in and go fishing. Actually, wait. I have a fishing pole. I'm gonna go fishing."
@@ -164,6 +164,76 @@ updated_on: 2026-06-10
 
 **Addison (DM) · [DM Quip]**
 "Very well, keep your secrets."
+
+---
+
+## Session 18 — Trust the Whirlpool
+
+**[[Darby Stonefeather]] · [Funny]**
+"You're kind of already a boat when you think about it. So we're just trying to make you a better version of a boat." — to [[Roxanne\|Roxy]]
+
+**[[Roxanne\|Roxy]] (Addison) · [Funny]**
+"What's a boat? … Better like on the water? Okay."
+
+**[[Amanita de'Champignon]] · [Banter]**
+"I think we could try and scavenge some more Zurkhwood and build something."
+
+**[[Darby Stonefeather]] · [Banter]**
+"Look at all of our creatures that we have. That's so fun."
+
+**[[Darby Stonefeather]] · [Funny]**
+"Well, it looks like we're stuck between a rock, sea and a hard place."
+
+**Addison (DM) · [DM Quip]**
+"I was sitting on that one."
+
+**[[Binks Stonevein]] / [[Sloopidoop]] · [Funny]**
+"Are mermaids good down here?" / "I do not think so."
+
+**[[Binks Stonevein]] · [Funny]**
+"I should have went, like, the level of, like, problematic first. I should have went 'boulder.' Hey, mermaid."
+
+**[[Binks Stonevein]] · [Funny/Important to Story]**
+"Every person that's coming to this party that['s] outside of us is evil at some point… besides Roxy and Stool. They're both made of mushrooms, so we trust the mushrooms."
+
+**[[Kit Aluri]] · [Banter]**
+"Super dupe['s] Evil. Calling it now."
+
+**Addison (DM, voicing the hag's illusion) · [DM Quip]**
+"I am Disguise Self, baby."
+
+**[[Amanita de'Champignon]] / [[Binks Stonevein]] · [Funny]**
+"Don't attack the glowy magic crocodile." / "Glowy magic crocodile: safe, but definitely not a threat."
+
+**[[Binks Stonevein]] · [Important to Story]**
+"The mermaid's a hag. The thing in the crocodile's mouth. Hag."
+
+**[[Kit Aluri]] · [Poignant/Important to Story]**
+"Darby, other side!" — mid-leap onto the hag
+
+**[[Kit Aluri]] · [Poignant]**
+"I trust Darby. There's no reason she would have gotten into the water if she can't swim. What was I thinking?"
+
+**[[Sloopidoop]] · [Important to Story]** *(session title source)*
+"Let the whirlpool take you. It will take you straight to [[Sloobludop]]. Do not wait up for me. I will find you there. Go. Trust the whirlpool."
+
+**[[Kit Aluri]] · [Banter]**
+"Trust the whirlpool."
+
+**[[Kit Aluri]] / [[Darby Stonefeather]] · [Funny]**
+"This is going to be like a Disney water ride." / "It already has been. Lots of twists and turns, truly."
+
+**[[Darby Stonefeather]] · [Funny]**
+"Oh, no. Dragon drop. That's a little bit easier."
+
+**Addison (DM) / [[Kit Aluri]] · [Poignant]**
+"Hopefully Sloopy will be okay from that encounter with the other two witches." / "I believe in him."
+
+**[[Kit Aluri]] · [Serious]**
+"It's a reaction to seeing someone else have an issue or watch your friend… It's like when moms lift cars off their babies." — on the "traumatic level-up"
+
+**[[Darby Stonefeather]] · [Banter]**
+"Darby used rage for the first time not in combat mode, so I think that's pretty cool too."
 
 ---
 

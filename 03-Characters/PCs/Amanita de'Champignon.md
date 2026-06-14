@@ -79,8 +79,8 @@ JSON slug / roll_name: amanita-dechampignon
 | Enspelled Warpick (was Mithral Pickaxe) | S05 / S11 (empowered by Psilofyr) | **Growth item.** +1 INT. Earth Tremor. Shillelagh (homebrew). Necrotic damage teased. |
 | [[Glabbagool]] (in waterskin) | S09 (compressed eye + gel into waterskin; cost 1 day water supply) | Recovering — long rest in Feydark should = full reconstitution |
 | Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + Thorn Whip (confirmed S12) |
-| 5 gems (~50 gp each) | S18 (chuul's lair, loot 2d6 = 5) | Carried |
-| Kuo-toa scale armor (non-magical) | S18 (chuul's lair) | Party inventory — **non-metal (teeth/shell/bone), so usable by Amanita** despite her metal restriction. ⚠️ Medium/heavy classification + stealth penalty DM-pending. |
+| 5 gems (~50 gp each) | S17 (chuul's lair, loot 2d6 = 5) | Carried |
+| Kuo-toa scale armor (non-magical) | S17 (chuul's lair) | Party inventory — **non-metal (teeth/shell/bone), so usable by Amanita** despite her metal restriction. ⚠️ Medium/heavy classification + stealth penalty DM-pending. |
 
 ## Conditions
 - **Madness Level 1** (short-term) — Triggered S05 by casting Detect Magic on corrupted faerzress. Persistent condition; should be tracked going forward.
@@ -153,7 +153,7 @@ JSON slug / roll_name: amanita-dechampignon
 - DM-voiced beat: "Keep on dreaming" (Taylor: "your Amanita impression is spot on"). Party joke: "Amanita is the only one allowed to dream."
 - No rolls, decisions, or character development attributed — proxy color only.
 
-### S18 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 18]])
+### S17 Key Events ([[Session 17 — The Big Fish Eat the Little Fish|Session 17]])
 - **Hannah returned** after missing the prior session — Amanita played live again.
 - Her fishing line **hooked the [[Chuul]]** (Strength 15), triggering the ambush. **Dodged the paralytic tentacles** (Constitution save 20) on the chuul's whiffed surprise round.
 - **Defining combat beat:** used **War Caster** to cast **Thorn Whip** as an opportunity attack (18, +Bless) on the grappling chuul, **hauling it bodily out of the pool** — stripping its drown advantage (DM: "Mortal Kom… are you able to grapple with Thorn Whip?"). Also Chill Touch (15, missed) and Halo of Spores (chuul CON save 15 — necrotic resisted).

@@ -29,9 +29,9 @@ _Note: Kit's biggest profanity session of the campaign (+17) — the throat-grab
 
 ---
 
-## Session 18 — The Big Fish Eat the Little Fish
+## Session 17 — The Big Fish Eat the Little Fish
 
-> ⚠️ Filed as S18 per operator instruction; 2026-06-07 play date disputed (likely S17). Transcript-only count.
+> ⚠️ The 2026-06-07 play session, now filed as **S17** (the prior S17/S18 number collision is resolved in favor of chuul = S17). Transcript-only count.
 
 | Speaker | Curse Word | Frequency | Context |
 |---|---|---|---|
@@ -46,11 +46,26 @@ _Note: Conservative, transcript-only count (DDB has no profanity data and the ar
 
 ---
 
+## Session 18 — Trust the Whirlpool
+
+> ⚠️ Transcript-only count (DDB archive not queried this run). The heaviest profanity falls inside the **excluded OOC Harry Potter / J.K. Rowling tangent** (~3 min during a combat break) — logged for ledger completeness only; it is above-the-table and not part of the in-fiction record or POV Journal.
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fuck" / "fucking" | 3 | "Oh fuck. Are tridents two handed?"; "Oh, fuck. That was stupid"; "maybe first fix the fucking school" (OOC tangent) |
+| Kit Aluri (Taylor) | "shit" / "shit ass" | 2 | "I swear to God"-adjacent venting; "did a shit ass job of establishing the Wizarding world" (OOC tangent) |
+| Kit Aluri (Taylor) | "son of a ___" | 1 | "Son of a—" after a failed rope toss (self-trailed — not added to word-column totals) |
+| Darby Stonefeather (Austin) | [self-censored] | 1 | Mild exclamations near the water; no explicit profanity logged (not counted) |
+
+_Note: Conservative, transcript-only count. Self-censored / self-trailed entries (Kit's "son of a—", Darby's clipped exclamation) are logged but not added to word-column totals._
+
+---
+
 ## Running Totals (Through S18)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 14 | 22 | 10 | 9 | 1 | — | 56 |
+| Kit Aluri (Taylor) | 16 | 25 | 10 | 9 | 1 | — | 61 |
 | Addison (DM) | 4 | 5 | 3 | — | 2 | — | 14 |
 | Binks Stonevein (Matt) | 3 | 3 | 2 | 3 | 1 | — | 12 |
 | Darby Stonefeather (Austin) | — | 4 | 2 | 1 | — | — | 7 |
@@ -60,7 +75,7 @@ _Note: Conservative, transcript-only count (DDB has no profanity data and the ar
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit pushes to 56, still lapping the field. Addison's frustration at his own dice (+4: three "damn it"s and a "fuck you") vaults him past Binks into second place at 14. The chuul ambush was a salty one for the DM.*
+*Kit climbs to 61, still lapping the field — though most of S18's additions came from the OOC Harry Potter tangent rather than in-fiction play. Standings otherwise unchanged: Addison 14, Binks 12, Darby 7.*
 
 ---
 

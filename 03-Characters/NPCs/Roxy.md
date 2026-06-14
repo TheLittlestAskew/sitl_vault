@@ -5,9 +5,9 @@ type: npc
 race: Rothe (Resurrected / Fungal Hybrid)
 class: N/A
 affiliation: Party companion
-status: Alive — transformed (rothe/fungal hybrid); now storable in the horn (S18)
+status: Alive — transformed (rothe/fungal hybrid); now storable in the horn (S17)
 first_appearance: "[[Session 08 — The Whirlwind and the Depths]]"
-location: Stored in the horn (carried by Darby), ~1 day from Sloobludop (S18)
+location: Stored in the horn (carried by Darby), ~1 day from Sloobludop (S17)
 ---
 
 # Roxanne
@@ -43,7 +43,7 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - **Beast of Burden / Mount:** Large creature; can carry multiple riders with saddles
 - **Goring Attack:** Used in S10 — gored Myconid D for 7 piercing damage
 - **Fungal Hybrid Body (S11):** Mixture of natural rothe and fungal material. The transformation occurred during the Feydark stay.
-- **Horn-Storable (S16 partial → S18 full):** Can be dissolved into spores and drawn into the horn. S16 first attempt (ritual total 12 vs DC 25) drew her partway in before she reconstituted unharmed. **S18: the second ritual succeeded** — [[Aeolus]] Arcana 22 lowered the DC and [[Darby Stonefeather]] (Animal Handling 18) **fully stored her in the horn**. Darby is now fully attuned; summon her by calling **"Roxanne."** The horn's inventory is inaccessible while she's inside. (Interference noted in S16: her dimensional saddlebags entering another dimensional space + Faerzress.)
+- **Horn-Storable (S16 partial → S17 full):** Can be dissolved into spores and drawn into the horn. S16 first attempt (ritual total 12 vs DC 25) drew her partway in before she reconstituted unharmed. **S17: the second ritual succeeded** — [[Aeolus]] Arcana 22 lowered the DC and [[Darby Stonefeather]] (Animal Handling 18) **fully stored her in the horn**. Darby is now fully attuned; summon her by calling **"Roxanne."** The horn's inventory is inaccessible while she's inside. (Interference noted in S16: her dimensional saddlebags entering another dimensional space + Faerzress.)
 - **Shelter Form (S16, new):** Her saddlebags open and stored matter congeals into a Zurkhwood tent-cabin. Immobile while assumed. Sleeps the whole party snugly. NOT Tiny Hut-level wards yet; DM says it improves with practice/attunement/leveling and may eventually solve her narrow-passage problem. Can also "conjure up a bunch of chairs" per DM color.
 
 ---
@@ -64,7 +64,7 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|S10]]:** Bolted toward Feydark portal. Carried Aeolus, Blarg, Amanita through. Gored Myconid D in combat.
 - **[[Session 13 — Reckoning at Velkynvelve|Session 13]]:** **Delivered the killing blow on [[Ilvara Mizzrym]] — 27 damage gore attack (4d8+5).** Charged and impaled Ilvara on her horns, sending the High Priestess flying. The decisive blow of the Battle of Velkynvelve. Also took 13 damage from Insect Plague (failed save) and spider attacks. [[Aeolus]] gave her 8 temp HP via Misty Step. Rolled a nat 1 on an earlier gore attempt against Shoor. Low HP by session end but alive.
 - **[[Session 16 — Zone of Truth|Session 16]]:** Subject of the horn ritual at the Fungal Cavern camp — stopped eating, lay down next to Darby, partially dissolved into spores and entered the horn before reconstituting. Then **manifested her shelter form for the first time**: saddlebags opened, stored matter flooded out and congealed into a Zurkhwood tent-cabin that housed the whole party for the night.
-- **[[Session 17 — The Big Fish Eat the Little Fish|Session 18]]:** In **Combat 1**, Darby controlled her for a **17-damage gore** (21 to hit) on the [[Chuul]], helping bring it down. Too buoyant to dive into the pool afterward, so the party **finally stored her fully in the horn** (second ritual attempt — Aeolus Arcana 22 → Darby success) before descending to the submerged lair. She is now transportable through water and narrow spaces.
+- **[[Session 17 — The Big Fish Eat the Little Fish|Session 17]]:** In **Combat 1**, Darby controlled her for a **17-damage gore** (21 to hit) on the [[Chuul]], helping bring it down. Too buoyant to dive into the pool afterward, so the party **finally stored her fully in the horn** (second ritual attempt — Aeolus Arcana 22 → Darby success) before descending to the submerged lair. She is now transportable through water and narrow spaces.
 
 ---
 
