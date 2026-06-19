@@ -1,7 +1,17 @@
 // ═══════════════════════════════════════════════════════════════════
 // DDB Roll Sync → Supabase
-// Version: 1.0
-// 
+// Version: 1.1
+//
+// CHANGELOG:
+//  1.1 (2026-06-14) — Fixed three sync bugs found during the S17/S18 cross-reference:
+//      • individual_values was double-encoded (stored as the JSON string "[20]"
+//        instead of the array [20]) — supabaseRequest() already stringifies the body,
+//        so the extra JSON.stringify() is removed.
+//      • is_nat_20 / is_nat_1 / is_critical were never computed (always NULL) — now
+//        derived from the d20 die value via computeDiceMeta(), honouring adv/disadv.
+//      • dice_type was never populated — now derived from the dice notation.
+//  1.0 — initial DDB game-log → Supabase sync.
+//
 // WHAT THIS DOES:
 // Pulls dice roll history from D&D Beyond's game log API and 
 // writes it directly to your Supabase database. Replaces the old
@@ -148,6 +158,34 @@ async function fetchDDBRolls(gameId, bearerToken, afterUnix = 0) {
   return allRolls;
 }
 
+// Derive die-type + crit flags from a roll's notation and recorded die values.
+// Returns nulls for rolls where a nat-20/nat-1 doesn't apply (no d20, no values).
+function computeDiceMeta(individualValues, diceNotation, rollKind, rollType) {
+  const meta = { is_nat_20: null, is_nat_1: null, is_critical: null, dice_type: null };
+  if (!diceNotation) return meta;
+
+  // Primary die type, e.g. "2d20+7" -> "d20", "1d6+5" -> "d6", "1d100" -> "d100"
+  const firstDie = diceNotation.match(/d(\d+)/i);
+  if (firstDie) meta.dice_type = 'd' + firstDie[1];
+
+  // nat-20 / nat-1 only apply to d20 rolls. DDB records both dice on (dis)advantage;
+  // the kept die is the max (advantage / normal) or the min (disadvantage).
+  // The d20 dice lead the flattened values array (d20 comes first in DDB notation),
+  // so slice off exactly the d20 count to avoid e.g. a Bless d4 masking a natural 1.
+  const d20m = diceNotation.match(/(\d*)d20\b/i);
+  if (d20m && Array.isArray(individualValues) && individualValues.length) {
+    const count = parseInt(d20m[1] || '1', 10) || 1;
+    const d20vals = individualValues.slice(0, count).map(Number).filter(Number.isFinite);
+    if (d20vals.length) {
+      const kept = rollKind === 'disadvantage' ? Math.min(...d20vals) : Math.max(...d20vals);
+      meta.is_nat_20 = kept === 20;
+      meta.is_nat_1 = kept === 1;
+      meta.is_critical = meta.is_nat_20 && rollType === 'to hit';
+    }
+  }
+  return meta;
+}
+
 function normalizeDDBRoll(raw, campaignId) {
   // Normalize a single DDB roll object into our Supabase schema
   const ts = raw.dateTime ? new Date(raw.dateTime).getTime() : (raw.timestamp || 0);
@@ -162,6 +200,11 @@ function normalizeDDBRoll(raw, campaignId) {
     individualValues = raw.result.values;
   }
 
+  const diceNotation = raw.diceNotation || raw.notation || null;
+  const rollType = raw.rollType || raw.context?.rollType || 'roll';
+  const rollKind = raw.rollKind || raw.context?.rollKind || '';
+  const meta = computeDiceMeta(individualValues, diceNotation, rollKind, rollType);
+
   return {
     campaign_id: campaignId,
     timestamp_iso: new Date(ts).toISOString(),
@@ -169,12 +212,18 @@ function normalizeDDBRoll(raw, campaignId) {
     character: raw.context?.characterName || raw.characterName || null,
     user_id: raw.userId || raw.context?.userId || null,
     action: raw.context?.action || raw.action || 'custom',
-    roll_type: raw.rollType || raw.context?.rollType || 'roll',
-    roll_kind: raw.rollKind || raw.context?.rollKind || '',
-    dice_notation: raw.diceNotation || raw.notation || null,
+    roll_type: rollType,
+    roll_kind: rollKind,
+    dice_notation: diceNotation,
+    dice_type: meta.dice_type,
     modifier: raw.modifier || 0,
     total: raw.result?.total ?? raw.total ?? null,
-    individual_values: individualValues ? JSON.stringify(individualValues) : null,
+    // Pass the array directly — supabaseRequest() JSON-stringifies the whole body,
+    // so an extra JSON.stringify here would double-encode it into a jsonb string.
+    individual_values: individualValues,
+    is_nat_20: meta.is_nat_20,
+    is_nat_1: meta.is_nat_1,
+    is_critical: meta.is_critical,
     source: raw.source || 'web',
     set_id: raw.setId || null,
     roll_id: raw.rollId || raw.id || null,
@@ -262,23 +311,41 @@ async function importFromExcel(filePath) {
     if (jsonRows.length === 0) continue;
 
     // Map Excel column names to our Supabase schema
-    const rows = jsonRows.map(row => ({
-      campaign_id: cfg.supabaseId,
-      timestamp_iso: row.timestamp_iso || new Date(row.timestamp_unix || 0).toISOString(),
-      timestamp_unix: row.timestamp_unix || 0,
-      character: row.character || null,
-      user_id: row.userId || null,
-      action: row.action || 'custom',
-      roll_type: row.rollType || 'roll',
-      roll_kind: row.rollKind || '',
-      dice_notation: row.diceNotation || null,
-      modifier: row.modifier || 0,
-      total: row.total || null,
-      individual_values: row.individualValues || null,
-      source: row.source || 'web',
-      set_id: row.setId || null,
-      roll_id: row.rollId || null,
-    }));
+    const rows = jsonRows.map(row => {
+      // Excel may store individual_values as a JSON string; parse it back to an array
+      let iv = row.individualValues;
+      if (typeof iv === 'string') {
+        try { iv = JSON.parse(iv); } catch { iv = null; }
+      }
+      if (!Array.isArray(iv)) iv = null;
+
+      const rollType = row.rollType || 'roll';
+      const rollKind = row.rollKind || '';
+      const diceNotation = row.diceNotation || null;
+      const meta = computeDiceMeta(iv, diceNotation, rollKind, rollType);
+
+      return {
+        campaign_id: cfg.supabaseId,
+        timestamp_iso: row.timestamp_iso || new Date(row.timestamp_unix || 0).toISOString(),
+        timestamp_unix: row.timestamp_unix || 0,
+        character: row.character || null,
+        user_id: row.userId || null,
+        action: row.action || 'custom',
+        roll_type: rollType,
+        roll_kind: rollKind,
+        dice_notation: diceNotation,
+        dice_type: meta.dice_type,
+        modifier: row.modifier || 0,
+        total: row.total || null,
+        individual_values: iv,
+        is_nat_20: meta.is_nat_20,
+        is_nat_1: meta.is_nat_1,
+        is_critical: meta.is_critical,
+        source: row.source || 'web',
+        set_id: row.setId || null,
+        roll_id: row.rollId || null,
+      };
+    });
 
     const count = await upsertRolls(rows);
     console.log(`  ✅ Imported ${count} rolls`);

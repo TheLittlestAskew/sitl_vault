@@ -30,7 +30,7 @@ absent_players: Florian/Blarg (absent — Blarg run by Addison as an NPC this se
 | End Location | The waters of [[Sloobludop]] — the party erupts from the whirlpool's far end amid the town's fishing boats and dock-lights |
 | Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Amanita de'Champignon]], [[Aeolus]], [[Darby Stonefeather]] (+ DM Addison). **Absent:** [[Blarg]] (run as NPC). NPCs/companions present: [[Derendil]], [[Topsy]], [[Turvy]], [[Roxanne\|Roxy]], [[Stool]], [[Clementine]], [[Echo]], [[Sloopidoop]]. |
 | In-Game Time | **Day 7** since leaving [[04-World-Lore/Locations/Velkynvelve]] ("this is now the seventh day"); ~early evening |
-| Total Rolls Logged | ~55 transcript-confirmed (see Full Roll Log). ⚠️ **DDB archive NOT queried this run** — Supabase MCP permission was not granted in this automated phase; cross-reference is a flagged gap. |
+| Total Rolls Logged | **82 DDB-archive rows** (cross-referenced 2026-06-14) + Aeolus's physical rolls. Per character: Kit 21, Binks 21, Amanita 16, Darby 14, DM 10. **5 nat 20s** (Kit ×3, Binks ×1, DM/Roxy ×1); **0 nat 1s** in DDB. See Full Roll Log. |
 | Party Level | 4 — **Kit Aluri reached the milestone threshold and leveled to 5** (chose **Dual Wielder**); the rest of the party deferred leveling to a future session (DM gave the party agency on timing). [[Amanita de'Champignon]], [[Binks Stonevein]], [[Blarg]], [[Turvy]], [[Stool]], [[Roxanne\|Roxy]] each carry **+1 exhaustion**. |
 | Spelling Checked | Yes (approved table at `_pipeline/S18/spellcheck.md`) |
 
@@ -220,7 +220,9 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 
 ### Full Roll Log
 
-⚠️ **DDB roll archive was NOT queried this run** (Supabase MCP `execute_sql` permission was not granted in this automated phase; three attempts denied — see Archivist Notes). The following are **transcript-confirmed** rolls only and are **not** cross-referenced against the archive. Per project convention, **Binks (Matt) and Aeolus (Sirius) roll physical dice** and would not appear in DDB regardless; many others here are verbal/physical-dice reports. All rows marked **physical/verbal** accordingly. Combat/initiative background-fill included.
+✅ **DDB roll archive cross-referenced 2026-06-14** (82 rows, campaign 1 "Sky Is The Limit", `last_synced 2026-06-14 18:44`). Per character: **Kit 21, Binks 21, Amanita 16, Darby 14, DM/unattributed 10**; **Aeolus rolled physical (0 DDB)**. DDB-verified **5 nat 20s** (Kit ×3 incl. the greatsword killing-leap to-hit 26; Binks dex save 23; 1 DM/Roxy flat init 20) and **0 nat 1s** — the two nat-1s below (Aeolus jump-init; Blarg overboard) were rolled off-DDB.
+
+> ⚠️ **Correction to a standing assumption:** this session **Binks rolled on DDB**, so the old "Binks & Aeolus always roll physical dice" rule does **not** hold — participation varies session to session (in S17 it was the reverse: Aeolus on DDB, Binks physical). The `(physical/verbal)` tags on the Binks rows below are therefore **superseded** for S18; confirm with Matt that he switched to digital rolls. Rows are kept as transcript-observed; the DDB counts above are authoritative for totals.
 
 | Character/NPC | Roll/Check | Result | Context / Outcome |
 |---|---|---|---|
@@ -241,7 +243,7 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 | — | Wall strike | 4 bludgeoning | Raft to 16/20 HP (each raft 20 HP) |
 | [[Kit Aluri]] | Strength save (after strike) | 19 | Stays aboard |
 | [[Darby Stonefeather]] | Strength save (adv) | 13 | Stays aboard |
-| [[Binks Stonevein]] | Str/Dex save | natural 20 | Stays aboard (physical/verbal) |
+| [[Binks Stonevein]] | Dex save | natural 20 (total 23) | Stays aboard (**DDB ✓**) |
 | [[Aeolus]] | Str/Dex save | 20 | Stays aboard (physical/verbal) |
 | [[Topsy]] | Str/Dex save (Kit rolled) | 20 | Stays aboard |
 | [[Turvy]] | Str/Dex save (Binks rolled) | 15 (+~2) | Stays aboard |
@@ -305,7 +307,7 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 | [[Amanita de'Champignon]] | Constitution save (whirlpool) | fail | **+1 exhaustion** |
 | [[Darby Stonefeather]] | Constitution save (whirlpool) | pass | No exhaustion |
 
-**Roll trends (transcript-observed):** A genuinely lucky table for the players against an unlucky hag — Aeolus's Phantasmal Force landed (hag Int 12), Stool's poison stuck (hag rolled 5), Binks's Guiding Bolt hit at advantage (22), and **Kit rolled three natural 20s this session** (her own count), capped by the natural-20 killing leap. The DM's NPC dice ran cold (Blarg's natural 1 overboard; the hag's failed saves). Many high "dirty 20s" are physical/verbal reports, **not** archive-verified.
+**Roll trends (transcript-observed):** A genuinely lucky table for the players against an unlucky hag — Aeolus's Phantasmal Force landed (hag Int 12), Stool's poison stuck (hag rolled 5), Binks's Guiding Bolt hit at advantage (22), and **Kit rolled three natural 20s this session** — now **DDB-confirmed** (Initiative 23, a custom d20=20, and the greatsword killing-leap to-hit 26), capped by the natural-20 killing leap. The DM's NPC dice ran cold (Blarg's natural 1 overboard; the hag's failed saves). DDB cross-reference (2026-06-14) confirms **5 nat 20s / 0 nat 1s** across 82 archive rows; Aeolus's rolls were physical (not in DDB).
 
 ---
 
@@ -377,7 +379,7 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 
 ### Continuity Flags, Missing Info & Ambiguities
 
-1. **DDB roll archive NOT cross-referenced (access gap).** The Supabase MCP `execute_sql` permission was **not granted** during this automated, non-interactive phase (multiple attempts denied), so neither the session-roll pull (`session_date = '2026-06-14'`) nor the sync-gap check (`MAX(timestamp_iso)`) could run. The Full Roll Log is **transcript-only** and **unverified** against the archive. *Action needed:* re-run the cross-reference with archive access; confirm the 2026-06-14 rolls are synced and check for a sync gap. Binks's and Aeolus's absence from DDB is expected (physical dice), not a gap.
+1. **DDB roll archive cross-referenced ✅ (2026-06-14).** The Supabase pull now ran: **82 archive rows** for campaign 1 ("Sky Is The Limit") on 2026-06-14, `MAX(timestamp_iso) = 2026-06-14 18:44` — rolls confirmed synced, no gap. Per character: Kit 21, Binks 21, Amanita 16, Darby 14, DM 10; **5 nat 20s / 0 nat 1s** (derived by parsing `individual_values` — the sync left `is_nat_20`/`is_nat_1` NULL). **Finding:** the prior "Binks & Aeolus = physical dice, DDB-absent is expected" rule is **wrong** — Binks rolled 21 on DDB this session (Aeolus rolled physical); in S17 it was reversed. *Action needed:* (a) confirm with Matt that Binks switched to digital rolls; (b) fix the sync script's NULL crit flags + double-encoded `individual_values`; (c) S17 (06-07) still needs its own cross-reference (47 DDB rows exist). The `ddb_sessions` registry has been corrected (06-07→S17, 06-14→S18).
 2. **Florian/[[Blarg]] absent — Blarg run as an NPC (CONFIRM).** No speaker label for Florian/Blarg appears in the diarization; Addison rolled all of Blarg's checks and narrated him (overboard, rescued, +1 exhaustion). Treated here as **player-absent, character run by DM**. *Confirm with Taylor* (`flags.md` #1).
 3. **Scroll identity conflict — "Sanctuary" vs. "Spell Scroll of Sand."** This session the recovered chuul-lair scroll is read as **Sanctuary** (Amanita: "It didn't have… Spell of Sanctuary. I think Sanctuary"; Kit: "Yeah, Sanctuary"). The S17 vault record ([[Session 17 — The Big Fish Eat the Little Fish]], [[Sloopidoop]]) names the same scroll **"Spell Scroll of Sand"** (already flagged as uncertain there). **Genuine discrepancy — do not silently reconcile; confirm which is canonical** (`flags.md` #3).
 4. **Kit's new weapon property — mechanics unspecified.** The greatsword→any-carried-weapon transformation and its "extra damage to fey and aquatic creatures" were DM-improvised "rule of cool." **Exact extra dice, type, attunement, and action economy are not stated** — needs Addison's confirmation before the item page/Loot Tracker can be finalized.

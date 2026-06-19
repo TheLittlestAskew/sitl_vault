@@ -32,7 +32,7 @@ absent_players: None (Austin/Darby arrived late ~1:06:40; Hannah/Amanita returne
 | End Location | The chuul's submerged lair beneath the pool (party then departing for [[Sloobludop]]) |
 | Party Present | [[Kit Aluri]], [[Blarg]], [[Binks Stonevein]], [[Amanita de'Champignon]], [[Aeolus]], [[Darby Stonefeather]] (+ DM Addison). NPCs: [[Derendil]], [[Topsy]], [[Turvy]], [[Roxanne\|Roxy]], [[Stool]], [[Glabbagool]], and new NPC [[Sloopidoop]]. |
 | In-Game Time | Day 6 since leaving [[04-World-Lore/Locations/Velkynvelve]] ("gone five days now… your sixth day") of the journey to [[Sloobludop]] |
-| Total Rolls Logged | 40+ transcript-confirmed (see Full Roll Log). ⚠️ **DDB archive NOT queried this run** — Supabase MCP permission was not granted in this automated phase; cross-reference is a flagged gap. |
+| Total Rolls Logged | **47 DDB-archive rows** (cross-referenced 2026-06-14) + Binks's physical rolls. Per character: Kit 19, DM 12, Amanita 8, Aeolus 4, Darby 4; Binks 0 (physical). **0 nat 20s / 2 nat 1s** DDB-verified. See Full Roll Log. |
 | Party Level | 4 — no level-ups this session (Level 5 unlocks upon reaching Sloobludop, still ~1 day out). [[Binks Stonevein]] +1 exhaustion; [[Derendil]] +1 exhaustion. |
 | Spelling Checked | Yes (approved table at `_pipeline/S18/spellcheck.md`) |
 
@@ -229,7 +229,9 @@ Both fights were decisive party wins. The **chuul** — a genuine threat that gr
 
 ### Full Roll Log
 
-⚠️ **DDB roll archive was NOT queried this run** (Supabase MCP permission not granted in this automated phase). The following are **transcript-confirmed** rolls only. Per project convention, **Binks (Matt) and Aeolus (Sirius) roll physical dice** and would not appear in DDB regardless; other rows are transcript-confirmed but **not cross-referenced** against the archive (flagged gap). Combat/initiative background-fill included.
+✅ **DDB roll archive cross-referenced 2026-06-14** (47 rows, campaign 1 "Sky Is The Limit"). Per character: **Kit 19, DM/unattributed 12, Amanita 8, Aeolus 4, Darby 4**; **Binks 0 (physical — Matt not yet on digital rolls at S17)**. DDB-verified **0 nat 20s** (Derendil's crit-vs-Kit below was a DM/NPC roll made off-DDB) and **2 nat 1s** (Amanita's Initiative and Darby's History).
+
+> ⚠️ **Correction:** the old "Binks & Aeolus both roll physical dice" rule does **not** hold here — **Aeolus rolled 4 of his checks on DDB this session** (fishing Animal Handling, Eldritch Blast to-hit, Insight, Arcana), so the `(physical dice presumed)` tags on his rows below are **superseded** for S17. Binks's rows were genuinely physical (he switched to digital at S18). The DDB per-character counts above are authoritative for totals.
 
 | Character/NPC | Roll/Check | Result | Context / Outcome |
 |---|---|---|---|
@@ -293,7 +295,7 @@ Both fights were decisive party wins. The **chuul** — a genuine threat that gr
 | Party (group) | History (Derendil's kingdom) | 21 / Nat 1 / 9 | Kit (best memory) recalls "Nel Rinden Vain" |
 | [[Sloopidoop]] | Intelligence (knows the kingdom?) | 18 (Nat 14 +4) | Has never heard of "Nel Rinden Vain" |
 
-**Roll trends (transcript-observed):** The party ran exceptionally hot in Combat 1 (DM repeatedly noted misses against good AC and multiple natural 1s on his own attacks). Kit's defining beat was a **Nat 20 against her** (Derendil's crit) immediately answered by her **31-damage round**. Aeolus's clutch low roll — a **Nat 4 on Derendil's Sleep save** — resolved Combat 2 non-lethally.
+**Roll trends (DDB cross-referenced 2026-06-14):** The party ran exceptionally hot in Combat 1 (DM repeatedly noted misses against good AC and multiple natural 1s on his own attacks — these DM/NPC rolls are off-DDB). Kit's defining beat was a **Nat 20 against her** (Derendil's crit — a DM roll, not in DDB) immediately answered by her **31-damage round** (DDB-verified: Shortsword to-hit 25 at advantage, Action Surge to-hit 18). Aeolus's clutch low roll — a **Nat 4 on Derendil's Sleep save** — resolved Combat 2 non-lethally. Of the **47 DDB rows**, the only DDB-recorded crits are nat 1s: Amanita's Initiative and Darby's History; there were **0 nat 20s** in the archive (the marquee 20s this session were all DM/physical rolls).
 
 ---
 
@@ -364,7 +366,7 @@ Both fights were decisive party wins. The **chuul** — a genuine threat that gr
 ### Continuity Flags, Missing Info & Ambiguities
 
 1. **✅ SESSION-NUMBER COLLISION — RESOLVED (operator-confirmed Session 17, 2026-06-14).** `18-060726_raw_transcript.md` is byte-identical (except its transcription-timestamp line) to `17-060726`, and the same 2026-06-07 play session was previously staged in `_pipeline/S16/` and `_pipeline/S17/`; a mislabeled `Session_Sources/Transcripts/Corrected/16 - 060726_corrected.md` also exists. The vault's [[Session 16 — Zone of Truth]] is a **different, earlier** session (played **2026-05-24**) whose own metadata reads *"Next Session: 2026-06-07."* **By real-world play-date ordering, this session is Session 17, not 18.** Originally filed as **18** strictly per explicit operator instruction; **the numbering was not silently changed.** *Resolution:* the operator confirmed the canonical number for the 2026-06-07 play date is **Session 17** on 2026-06-14; this note is filed as 17. *Remaining cleanup (optional):* retire the duplicate `18-060726`/`16 - 060726_corrected.md` transcripts and consolidate the `_pipeline/S16` & `_pipeline/S17` staging folders.
-2. **DDB roll archive NOT cross-referenced.** The Supabase MCP `execute_sql` permission was **not granted** during this automated phase (two attempts denied). The Full Roll Log is **transcript-only**; no archive verification of values, and no `MAX(timestamp_iso)` sync-gap check was possible. *Action needed:* re-run the roll cross-reference with archive access; confirm whether the 2026-06-07 rolls are synced. Binks's and Aeolus's zero-DDB presence is expected (physical dice), not a sync gap.
+2. **DDB roll archive cross-referenced ✅ (2026-06-14).** 47 archive rows for campaign 1 on 2026-06-07 (Kit 19, DM 12, Amanita 8, Aeolus 4, Darby 4; Binks 0). Values reconciled: loot d100s (Kit 37, DM-rolled 64/70) and Kit's 31-damage round confirmed; **0 nat 20s / 2 nat 1s** DDB-verified (nat-20 crits and the chuul's nat 1 were DM/physical rolls, off-DDB). **Finding:** the "Binks & Aeolus = physical dice" rule was wrong for S17 — **Aeolus rolled 4 on DDB** (Binks was physical, switching to digital at S18; confirmed by Taylor). `ddb_sessions` registry corrected so 06-07 = S17.
 3. **Speaker→identity mapping is inferred.** The raw transcript uses anonymized SPEAKER A–G; the corrected transcript maps A=Addison/DM, B=Kit, C=Blarg, D=Binks, E=Amanita, F=Aeolus, G=Darby (per `_pipeline/S18/flags.md` #2, confirmed against DM address & abilities). Confirm before any downstream use.
 4. **Homebrew proper nouns — unverifiable (≤60% / unresolved in the approved table; left as-heard in the transcript):**
    - **Mind flayer ally:** [[Wazalax]] / "Grazilax" / "Rasa Lax" — one entity, three spellings. Canonical form unconfirmed.
