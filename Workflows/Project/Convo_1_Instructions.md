@@ -1,16 +1,18 @@
 # SITL Convo 1 Instructions — Session Notes Generation
 
-**Last updated:** 06/13/2026 (reconstructed)
+**Last updated:** 06/21/2026
 
-This document defines the step-by-step workflow for **Convo 1**: turning a raw/unedited session transcript into complete, verified, styled session notes. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
+This document defines the step-by-step workflow for **Convo 1**: turning a raw/unedited session transcript into a complete, verified **session-notes markdown file written to `01-Sessions/`**, plus the registration of the session and the handoff to Convo 2. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, definitions, and the Source Authority Hierarchy from that file apply here.
 
-> Convo 1 produces two things: (1) the finished session notes & registry in  (2) the **Convo 2 Handoff Block**. Convo 2 then propagates everything else into the Obsidian vault.
+> Convo 1 produces three things: (1) the finished session note in `01-Sessions/`, (2) a registered session row in `ddb_sessions` (Supabase), and (3) the **Convo 2 Handoff Block**. Convo 2 then propagates everything else across the rest of the vault and wires the session into the website.
 
 ---
 
 ## PURPOSE
 
-Convo 1 takes the Raw/Unedited Transcript (plus the DDB roll archive and source files) and produces an accurate, fully-populated session-notes document. Accuracy and verbatim canon win over polish everywhere except Kit's POV Journal. Nothing is invented; every data point is tagged to the originating real-world session date.
+Convo 1 takes the Raw/Unedited Transcript (plus the DDB roll archive and source files) and produces an accurate, fully-populated session note **in markdown**, written directly to the vault's `01-Sessions/` folder. Accuracy and verbatim canon win over polish everywhere except Kit's POV Journal. Nothing is invented; every data point is tagged to the originating real-world session date.
+
+The session note is **also the source the public website renders from** (`rectrixcaedere.com` reads the note live). That makes a set of heading/frontmatter rules load-bearing — see **Step 6 → Website Parser Contract**. A note can be archive-perfect and still render blank on the site if those rules aren't met.
 
 ---
 
@@ -20,7 +22,8 @@ Before starting Convo 1, you need:
 
 1. **The Raw/Unedited Transcript** for the session — from `Session_Sources/Transcripts/Raw_Unedited/`, or pasted/uploaded into this conversation. Filename format: `##_MMddyy_`.
 2. **Session identity confirmed** — session number, real-world play date (MMddyy), party present, absent players.
-3. **Supabase MCP connected** — for the DDB roll archive (`sitl_session_rolls` view). Confirm Taylor has run the post-session sync (there is a delay after a session before rolls appear).
+3. **Supabase MCP connected** — for the DDB roll archive (`sitl_session_rolls` view) and for registering the session (`ddb_sessions`). Confirm Taylor has run the post-session sync (there is a delay after a session before rolls appear).
+4. **The vault is reachable** — Convo 1 writes the note to `01-Sessions/`. Use the Filesystem MCP (reliable) or GitHub; the Obsidian MCP is timeout-prone.
 
 If the transcript is missing or the roll archive isn't synced yet, say so immediately. Do not draft notes from memory.
 
@@ -28,8 +31,8 @@ If the transcript is missing or the roll archive isn't synced yet, say so immedi
 
 ## WHAT CONVO 1 DOES NOT DO
 
-
-- **Does not write to Google Drive or DDB.** Read-only on the roll archive (query, never write).
+- **Does not do full vault propagation.** Convo 1 writes ONLY the `01-Sessions/` note. Dashboard, trackers, character pages, locations, journal, etc. are Convo 2's job.
+- **Does not write to Google Drive or DDB.** Read-only on the roll archive (`ddb_rolls` / `sitl_session_rolls` — query, never write). The ONE Supabase write Convo 1 makes is the `ddb_sessions` registry upsert in Step 7.
 - **Does not pull from prior sessions to rewrite history.** Sessions are delineated by real-world play date. Preserve and flag discrepancies; never contaminate.
 - **Does not invent.** Unknown / missing / ambiguous = `[Unknown/Ambiguous]`. The only narrative-license exception is Kit's POV Journal.
 
@@ -37,7 +40,7 @@ If the transcript is missing or the roll archive isn't synced yet, say so immedi
 
 ## PHASED EXECUTION
 
-Convo 1 runs in **eight** sequential steps. Steps 1–2 (correction) gate everything... Steps 4–5 draft the notes. **Step 6 writes the session note, Step 7 registers the session, and Step 8 hands off to Convo 2.**
+Convo 1 runs in eight sequential steps. Steps 1–2 (correction) gate everything: **spell check always precedes notes generation.** Step 3 (roll archive) feeds the Logs section. Steps 4–6 build the note and write it to the vault. Step 7 registers the session. Step 8 hands off to Convo 2.
 
 Log progress to `/home/claude/convo1_progress.md` as each step completes, so state survives a tool restart.
 
@@ -47,7 +50,9 @@ Step 2  Spell Check & Transcript Correction   ← review-before-apply, then save
 Step 3  Roll Archive Cross-Reference          ← Supabase sitl_session_rolls
 Step 4  Session Notes Drafting                ← 8 sections, content per SECTION BREAKDOWN
 Step 5  Title Selection                       ← 5 options, confirm final
-Step 6  Convo 2 Handoff Block
+Step 6  Write Session Note                    ← markdown → 01-Sessions/, MUST satisfy the Website Parser Contract
+Step 7  Register Session                      ← ddb_sessions upsert (Supabase)
+Step 8  Convo 2 Handoff Block
 ```
 
 ---
@@ -58,7 +63,7 @@ Step 6  Convo 2 Handoff Block
 2. Locate the Raw/Unedited Transcript. Reading mechanics:
    - `.docx` transcripts are plain ASCII inside — read with `cat` + `grep -n`, **not** `pandoc` or `python-docx`.
    - Large transcripts (~1700+ paragraphs): read in ~200-line batches via `sed -n 'START,ENDp'`.
-3. Note **unusual circumstances** up front: split session, absent players, short run time, guest player (8th speaker). These must surface in the notes and the handoff.
+3. Note **unusual circumstances** up front: split session, absent players, short run time, guest player (8th speaker). These must surface in the note and the handoff.
 4. **Topsy & Turvy:** Taylor and Matt roll for them. Addison will ask, the player will state it, or infer from initiative order.
 
 ---
@@ -131,9 +136,9 @@ The DDB roll archive is the **gold standard for roll verification** (verbal tran
 
 **Content authority:** `SESSION_NOTES_SECTION_BREAKDOWN.md`. Do not alter or skip sections. Tables must have **enough rows to cover the full session.** Capture every plot development with equal care — no chronological bias. Every event, roll, quote, and decision is tagged to the correct session date and character.
 
-The notes have **8 sections**:
+The note has **8 sections** (this mapping matches the SECTION BREAKDOWN):
 
-1. **Session Metadata** — vertical table: Campaign, Session Number, Session Date, Start Location, End Location, Party Present, Total Rolls Logged, Party Level (note level-ups), Spelling Checked.
+1. **Session Metadata** — Campaign, Session Number, Session Date, Start Location, End Location, Party Present, Total Rolls Logged, Party Level (note level-ups), Spelling Checked.
 2. **Character POV Journal (Kit Aluri)** — the storytelling exception. In-character, in-world. **Apply the POV Journal Hard Limits** from the master ruleset and use the **`kit-pov-journal` skill** for voice. Before writing, read Kit's **Inner Life & Evolution** state so the entry reflects where she currently is. Never include OOC speech, above-table info, metagame knowledge (dice numbers, spell names as mechanical labels, stats, levels, HP), player process, DM-rulings-as-rulings, or any real-world names/session references. Test: *Could Kit know, feel, or observe this from inside the story?*
 3. **Session Analysis** — Narrative Summary (all developments equally, plus table flavor/jokes); Setting (start location + in-game days since story start, if known); Locations table (Location | Description | Notable Details); Quests/Objectives (parent + sub-threads, mark "Completed (This Session)" when resolved); Scene/Timeline Breakdown (bulleted, chronological); Themes & Emotional Beats (motifs, arcs; document dream sequences without asserting unconfirmed meaning).
 4. **Character Activity** — Party Structure & Subgroups table (Location | Characters | Objective | Status); NPCs table (Name | Race/Class | Affiliations | Last Interaction | Last Known Location | Status); Reputation & Relationships.
@@ -152,50 +157,95 @@ The notes have **8 sections**:
 2. Present for Taylor's choice (tappable options preferred).
 3. **Record the final chosen title** in the Alternate Title Options section ("FINAL CHOSEN TITLE"). Also keep any alternative names suggested during play.
 
-
 ---
-## STEP 6 — WRITE SESSION NOTE
 
-Write the finished notes as the canonical markdown note in the vault. This is the 8-section notes content from Step 4, adapted to markdown with Obsidian backlinks. **Convo 1 owns this file; Convo 2 verifies it and propagates everywhere else.**
+## STEP 6 — WRITE SESSION NOTE (MARKDOWN → `01-Sessions/`)
+
+Write the full markdown session note to the vault. This is the archive record **and** the website's source, so it must satisfy the Website Parser Contract below or sections render blank on the live site.
 
 **Target:** `01-Sessions/Session ## — Title.md`
+- Use an **em dash (—)**, not a hyphen, in the filename.
+- Match the exact final title from Step 5.
 
-- **Frontmatter** — tags, aliases, session date, session number.
-- **Backlinks** — `[[Character Name]]` for every PC and NPC, `[[Location Name]]` for every location, `[[Session ## — Title]]` for cross-session references.
-- **All 8 sections** exactly as drafted in Step 4 (content authority: `SESSION_NOTES_SECTION_BREAKDOWN.md`).
-- **Filename** — `Session ## — Title.md`: em dash (—), not a hyphen; title matching the final chosen title from Step 5 exactly.
+**Content:** all 8 sections from Step 4, in markdown, with Obsidian backlinks:
+- `[[Character Name]]` for all PCs and NPCs
+- `[[Location Name]]` for all locations
+- `[[Session ## — Title]]` for cross-session references
 
-Record the note's path for the handoff block.
+### ⚠️ Website Parser Contract — LOAD-BEARING
+
+`rectrixcaedere.com` reads this note live and extracts sections by scanning for an **H2 or H3 heading that *contains* a keyword**, grabbing everything until the next H2/H3. Three rules are non-obvious and silently break rendering if missed:
+
+1. **Section headings MUST be `##` or `###`** — never `#`, `####`, bold-only, or ALL-CAPS plain text. The parser only matches `##`/`###` lines.
+2. **The POV section heading MUST contain the words `POV Overview`** (e.g. `## POV Overview`), with the journal's evocative title as an `###` sub-heading beneath it. A heading like "Kit Aluri POV Journal" alone will NOT match — the hero/journal zone goes blank.
+3. **Frontmatter MUST include these YAML keys** (the site reads them for the "At a glance" panel): `start_location:`, `end_location:`, `party_present:` (list or comma-separated), plus `session_date` and `session_number`.
+
+**Required heading keywords** (each as an `##`/`###` heading containing the word — case-insensitive):
+
+| Site zone | Heading must contain | Shape |
+|---|---|---|
+| Hero / Kit's journal | `POV Overview` | H2/H3 + an H3 title sub-line |
+| Narrative | `Narrative Summary` (or `Session Analysis`) | prose |
+| Scene/timeline | `Scene` | prose (zone hidden if absent) |
+| Themes | `Themes` | prose |
+| Quests | `Quests` | `- **Name**` bullets; "Completed" → marked done |
+| NPCs | `NPCs` | pipe table (col 0 = name, last col = status) |
+| Locations | `Locations` | table or prose |
+| Loot | `Loot` | table (owner/item/state) or prose |
+| Quotes | `Quote Board` | table (speaker/quote/tag) |
+| Profanity | `Profanity` | table (speaker/word/freq) |
+| Encounters | `Encounters` | table |
+| Initiative | `Initiative` | table |
+| Encounter summary | `Encounter Summary` | prose |
+| Patterns | `Patterns` | prose |
+| Continuity/flags | `Continuity` | prose |
+
+### Validation before moving on
+After writing the note, verify the contract mechanically. Example:
+```bash
+F="01-Sessions/Session ## — Title.md"
+for h in "POV Overview" "Narrative Summary" "Themes" "Quests" "NPCs" "Locations" "Loot" "Quote Board" "Profanity" "Encounters" "Patterns" "Continuity"; do
+  grep -qiE "^#{2,3}[^\n]*$h" "$F" || echo "MISSING heading: $h";
+done
+for k in start_location end_location party_present session_date session_number; do
+  grep -qE "^$k:" "$F" || echo "MISSING frontmatter: $k";
+done
+```
+Any `MISSING` line = fix the note before handoff. (Scene/Initiative/Encounter Summary zones self-hide when absent, so they're allowed to be missing if the session genuinely had none.)
+
 ---
 
-## STEP 7 — REGISTER SESSION (ddb_sessions)
+## STEP 7 — REGISTER SESSION (SUPABASE)
 
-**Convo 1's ONLY Supabase write.** The roll archive stays strictly read-only (query, never write) — this writes only the session-registry row, so the website and snapshot views can resolve `session_date`.
+Once the note is written and the title is final, register the session in the canonical session registry. A registered session is recognized by the character-snapshot system **regardless of roll count**, so low-combat / physical-dice nights are never dropped.
 
-Upsert the session into `ddb_sessions`. Escape single quotes in the title by doubling them (e.g. `'Life Isn''t Faer-zress'`):
+**This is Convo 1's ONLY Supabase write.** The roll archive (`ddb_rolls` / `sitl_session_rolls`) stays strictly read-only.
 
-\```sql
+Run via Supabase MCP `execute_sql` (campaign_id 1 = SITL). **Double any single quote in the title** (e.g. `'Life Isn''t Faer-zress'`):
+
+```sql
 INSERT INTO ddb_sessions (campaign_id, session_no, session_date, title, source)
 VALUES (1, <NN>, '<YYYY-MM-DD>', '<Title>', 'pipeline')
 ON CONFLICT (campaign_id, session_date)
 DO UPDATE SET session_no = EXCLUDED.session_no,
               title      = EXCLUDED.title,
               source     = EXCLUDED.source;
-\```
+```
 
-`campaign_id = 1` is SITL. The upsert is idempotent on `(campaign_id, session_date)` — safe to re-run. Convo 2 verifies this row landed (belt-and-suspenders).
+Idempotent — safe to re-run; a re-processed session just updates its own row. Confirm one row affected, then proceed to the handoff.
 
-
+---
 
 ## STEP 8 — CONVO 2 HANDOFF BLOCK
 
-Output the handoff block (from `Convo2_Handoff_Template.md`) for Taylor to copy into a fresh Convo 2 chat:
+Output the handoff block (the authoritative template is `Convo2_Handoff_Template.md`) for Taylor to copy into a fresh Convo 2 chat. It MUST include the "Character Descriptors Surfaced This Session" list (Convo 2 files those onto character pages):
 
 ```
 Session [##], Convo 2: Vault updates
 
 **Session Title:** [Final chosen title]
 **Session Date:** [MM/DD/YYYY]
+**Session Note:** 01-Sessions/Session ## — Title.md  (written in Convo 1)
 
 **Corrected transcript location:** Session_Sources/Transcripts/Corrected/[filename]
 
@@ -210,12 +260,17 @@ Session [##], Convo 2: Vault updates
 - [Notable loot/items]
 - [Quests completed or opened]
 
-**Flags from Convo 1:**
-- [Any continuity issues, ambiguities, or items needing Taylor's input]
-- [Any DDB archive discrepancies]
-- [Anything the Archivist flagged for follow-up]
+**Character Descriptors Surfaced This Session:**
+- [Character] — [Appearance / Personality & Quirks / Backstory] — [detail]
+- (omit the line if none surfaced)
 
-**DDB Roll Archive status:** [X rolls cross-referenced for this session / any gaps noted]
+**Flags from Convo 1:**
+- [continuity issues, ambiguities, or items needing Taylor's input]
+- [DDB archive discrepancies]
+- [anything the Archivist flagged]
+
+**DDB Roll Archive status:** [X rolls cross-referenced / any gaps]
+**Session registered in ddb_sessions:** [Yes — S## / YYYY-MM-DD]
 ```
 
 ---
@@ -224,7 +279,7 @@ Session [##], Convo 2: Vault updates
 
 If multiple sessions need processing, work in **chronological order** by real-world play date — one full Convo 1 per session. Never merge sessions. Preserve and flag any cross-session discrepancies rather than reconciling them silently.
 
-Legacy gap to watch: **S04 corrected transcript** is still missing.
+**S04 note:** Session 04 (2025-11-23, "Life Isn't Faer-zress") was **not recorded** — Taylor was on vacation and only logged in briefly at the end. There is no corrected transcript and there never will be; its canonical source is **[Notes from Addison]**. This is an expected permanent gap, not something to chase. (Roll data exists for the date from her brief login.)
 
 ---
 
@@ -232,14 +287,17 @@ Legacy gap to watch: **S04 corrected transcript** is still missing.
 
 Convo 1 is done when:
 
-`Step 1  Intake & Session Identification`
-`Step 2  Spell Check & Transcript Correction   ← review-before-apply, then save corrected transcript`
-`Step 3  Roll Archive Cross-Reference          ← Supabase sitl_session_rolls`
-`Step 4  Session Notes Drafting                ← 8 sections, content per SECTION BREAKDOWN`
-`Step 5  Title Selection                       ← 5 options, confirm final`
-`Step 6  Write Session Note                    ← 01-Sessions/Session ## — Title.md`
-`Step 7  Register Session                      ← ddb_sessions upsert (Convo 1's only Supabase write)`
-`Step 8  Convo 2 Handoff Block`
+1. ✅ Corrected transcript saved to `Session_Sources/Transcripts/Corrected/` (or S04-style gap explicitly noted).
+2. ✅ Roll archive cross-referenced (or gap explicitly flagged).
+3. ✅ All 8 note sections complete, tables fully populated, every datum date/character-tagged.
+4. ✅ POV Journal passes the Hard Limits test.
+5. ✅ Final title confirmed and recorded.
+6. ✅ **Session note written** to `01-Sessions/Session ## — Title.md`, and the **Website Parser Contract validation passes** (all required `##`/`###` headings + frontmatter keys present).
+7. ✅ **Session registered in `ddb_sessions`** (number, date, title).
+8. ✅ Convo 2 Handoff Block output (including the Character Descriptors list).
 
+---
 
-## STEP 7 — REGISTER SESSION (ddb_sessions)
+## DEPRECATED
+
+The `.docx` output path is retired. The `sitl-v8-docx` skill and `sitl_v8.js` generator are **deprecated, retained for reference only** — do not generate a `.docx` as part of the pipeline. The session note is markdown in `01-Sessions/`.

@@ -1,14 +1,16 @@
 # SITL Convo 2 Instructions — Vault Updates
 
-**Last updated:** 05/21/2026
+**Last updated:** 06/21/2026
 
-This document defines the step-by-step workflow for Convo 2: updating the Obsidian vault after session notes have been generated in Convo 1. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, and definitions from that file apply here.
+This document defines the step-by-step workflow for Convo 2: propagating a session across the Obsidian vault and the website after the session note has been written in Convo 1. It is a companion to `Project_Instructions.md` (the master ruleset) and assumes all shared rules, constraints, and definitions from that file apply.
 
 ---
 
 ## PURPOSE
 
-Convo 2 takes the completed session notes (the markdown note from Convo 1) and propagates all new information across the Obsidian vault so every page stays current. The vault is the campaign wiki — if it isn't in the vault, it doesn't exist for future reference.
+Convo 2 takes the **session note already written to `01-Sessions/` by Convo 1** (plus the handoff block) and propagates all new information across the rest of the Obsidian vault — and wires the session into the public website — so every page stays current. The vault is the campaign wiki — if it isn't in the vault, it doesn't exist for future reference.
+
+Convo 1 owns the `01-Sessions/` note. Convo 2 **verifies** it exists and then does everything else: dashboard, trackers, character pages, locations, journal, flora/fauna, plus the website's session registry.
 
 ---
 
@@ -16,11 +18,11 @@ Convo 2 takes the completed session notes (the markdown note from Convo 1) and p
 
 Before starting Convo 2, you need:
 
-1. **The Convo 2 Handoff Block** — copy-pasted from the end of Convo 1. Contains session metadata, key events summary, flags, and DDB archive status.
-2. **The completed session notes** — the markdown note from Convo 1, or the content pasted/uploaded into this conversation.
-3. **Obsidian MCP connected and responsive** — vault name is `sitl-vault`.
+1. **The Convo 2 Handoff Block** — copy-pasted from the end of Convo 1. Contains session metadata, key events, the Character Descriptors list, flags, DDB archive status, and the `ddb_sessions` registration confirmation.
+2. **The session note** — already in `01-Sessions/` (written by Convo 1). Read it from the vault; it is the content source for propagation.
+3. **A working vault connection** — Obsidian MCP if responsive (vault name `sitl-vault`); the Filesystem MCP is the reliable fallback when Obsidian times out.
 
-If the MCP is unresponsive, say so immediately. Do not attempt to draft vault updates from memory without verifying current vault state.
+If the vault connection is unresponsive, say so immediately. Do not draft vault updates from memory without verifying current vault state.
 
 ---
 
@@ -42,7 +44,7 @@ sitl-vault/
 │       ├── Profanity Ledger S01-S15.md
 │       └── Roll Statistics S01-S15.md
 ├── 01-Sessions/
-│   └── Session ## — Title.md (one per session)
+│   └── Session ## — Title.md (one per session — written by Convo 1)
 ├── 02-Character_Journal/
 │   └── Kit Aluri Journal.md (all entries, collapsible sections)
 ├── 03-Characters/
@@ -68,53 +70,35 @@ sitl-vault/
 
 ---
 
-## MCP TOOLS AVAILABLE
+## VAULT TOOLS
 
 | Tool | Use For |
 |---|---|
-| `obsidian:read-note` | Read a specific file (filename + folder) |
-| `obsidian:edit-note` | Append, prepend, or replace content in an existing file |
-| `obsidian:create-note` | Create a new file (new NPC, new location, new tracker file, etc.) |
-| `obsidian:search-vault` | Search by content, filename, or tags within a path |
-| `obsidian:add-tags` / `obsidian:remove-tags` | Manage frontmatter/content tags |
-| `obsidian:create-directory` | Create new folders if needed |
-| `obsidian:move-note` | Move/rename files |
-| `obsidian:delete-note` | Delete files (use with caution) |
+| Filesystem MCP (preferred) | Reliable reads/writes against `C:\Users\theli\sitl_vault\…` |
+| `obsidian:read-note` / `edit-note` / `create-note` / `search-vault` | Same operations via Obsidian — use when responsive |
+| `obsidian:add-tags` / `remove-tags` / `create-directory` / `move-note` / `delete-note` | Tag/structure management (delete with caution) |
 
-**MCP reliability note:** The Obsidian MCP server frequently times out (4+ minute waits). The workflow is designed around this — see Phased Execution and Handling MCP Failures below.
+**Reliability note:** The Obsidian MCP server frequently times out (4+ minute waits). The phased workflow below is designed around that — and the Filesystem MCP is the reliable fallback for both reads and writes.
 
 ---
 
 ## PHASED EXECUTION
 
-The workflow is split into three phases to minimize the impact of MCP timeouts. Separating reads from writes means a timeout during reads doesn't lose write progress, and a timeout during writes doesn't require re-reading.
+The workflow is split into three phases to minimize the impact of timeouts. Separating reads from writes means a timeout during reads doesn't lose write progress, and a timeout during writes doesn't require re-reading.
 
-### Phase 1: READ
-
-Read everything needed from the vault and save it locally. Every successful read gets logged to `/home/claude/convo2_progress.md` so restarts don't lose progress.
-
-### Phase 2: DRAFT
-
-With all vault state saved locally, draft ALL updates as structured blocks. No MCP calls in this phase. Present the full update plan to Taylor for review before any writes happen.
-
-### Phase 3: WRITE
-
-Execute all writes in sequence. If one times out, the plan shows exactly where to resume.
+### Phase 1: READ — Phase 2: DRAFT — Phase 3: WRITE
+Every successful read/write is logged to `/home/claude/convo2_progress.md` so restarts don't lose progress.
 
 ---
 
 ## PHASE 1: READ
 
 ### Step 0: Receive Handoff & Confirm Connection
-
 1. Read the Convo 2 Handoff Block (pasted by Taylor).
-2. Confirm the MCP is connected: call `obsidian:list-available-vaults` and verify `sitl-vault` appears.
-3. Create `/home/claude/convo2_progress.md` to track progress through restarts.
+2. Confirm the vault connection (Obsidian `list-available-vaults` shows `sitl-vault`, or Filesystem MCP reaches the vault path).
+3. Create `/home/claude/convo2_progress.md`.
 
 ### Step 1: Read Core Reference Files
-
-These reads are required every session:
-
 | # | File | Folder | Why |
 |---|---|---|---|
 | 1 | `Vault Sync Status.md` | `00-Campaign-Hub` | Confirm last synced session, identify gaps |
@@ -122,279 +106,138 @@ These reads are required every session:
 | 3 | `Campaign Dashboard.md` | `00-Campaign-Hub` | Need current threads, NPCs, timeline to update |
 | 4 | `Kit Aluri.md` | `03-Characters/PCs` | Need full Inner Life & Evolution for emotional state update |
 | 5 | `Kit Aluri Journal.md` | `02-Character_Journal` | Need collapsible section format and last entry |
-
-That's 5 reads. Log each one to the progress file as it completes.
+| 6 | `01-Sessions/Session ## — Title.md` | `01-Sessions` | The session note from Convo 1 — the content source for propagation |
 
 ### Step 2: Conditional Reads
-
-Based on the handoff block, determine which additional reads are needed:
-
-**NPC pages with major status changes** (death, capture, major revelation): Read the full page so the update is accurate. The handoff block identifies which NPCs had status changes.
-
-**Existing location pages being revisited with significant new events:** Read if major updates needed. Skip if the session just passed through.
-
-**Other PC pages:** Use `search-vault` to find the last session header on each page (e.g., search for `### S15` in `03-Characters/PCs`). This confirms the page exists and where to append, without reading the full page. One search call covers all PC pages at once.
-
-**Roll Statistics:** Only if the format reference note doesn't already contain the table structure. Otherwise skip — the format reference has what's needed.
-
-After all reads are complete, state: "Phase 1 complete. Read [X] files. Ready to draft updates."
+Based on the handoff: read full NPC pages for major status changes (death, capture, revelation); read revisited location pages only if major updates; use `search-vault` to find the last session header on PC pages without reading them fully. State "Phase 1 complete. Read [X] files. Ready to draft updates."
 
 ---
 
 ## PHASE 2: DRAFT
 
-With vault state saved locally, draft all updates without touching the MCP. This phase produces a complete update plan organized by file.
+With vault state saved locally, draft all updates without touching the vault. Produces a complete update plan organized by file.
 
-Work through the following in order. For each item, write the exact content that will be written to the vault.
+### 1. Session Note — VERIFY (do not recreate)
 
-### 1. Session Notes Markdown
+**Target:** `01-Sessions/Session ## — Title.md`
 
-**Target:** `01-Sessions/Session ## — Title.md` (CREATE)
-
-Create the full markdown version of the session notes for the vault. This is the complete session notes content (all 8 sections) adapted for markdown with Obsidian backlinks:
-
-- Frontmatter (tags, aliases, session date, session number)
-- `[[Character Name]]` links for all PCs and NPCs mentioned
-- `[[Location Name]]` links for all locations
-- `[[Session ## — Title]]` links for cross-session references
-
-**File naming:** `Session ## — Title.md`
-- Use an em dash (—), not a hyphen
-- Match the exact title from Convo 1
+Convo 1 already wrote this note. **Confirm it exists and is complete** (all 8 sections, frontmatter, backlinks). Do **not** create or overwrite it. Only create it if it is genuinely missing (Convo 1 was skipped) — and if you do, it must satisfy the **Website Parser Contract** in Convo 1 Step 6 (`##`/`###` headings, the `POV Overview` heading, and `start_location` / `end_location` / `party_present` frontmatter). Never produce a duplicate file.
 
 ### 2. Campaign Dashboard Update
-
-**Target:** `00-Campaign-Hub/Campaign Dashboard.md` (EDIT)
-
-Draft updates to:
-1. **Sessions table** — new row (number, date, title, backlink)
-2. **NPCs / Antagonists section** — new NPCs, status updates
-3. **Locations section** — new locations
-4. **Open Threads** — new threads, resolved threads, superseded threads removed
-5. **Timeline** — in-game elapsed time through this session
+**Target:** `00-Campaign-Hub/Campaign Dashboard.md` (EDIT) — Sessions table row; NPCs/Antagonists; Locations; Open Threads (new/resolved/superseded); Timeline (in-game elapsed time).
 
 ### 3. Tracker Appends
-
-For each tracker, draft the session section using the formats from `Vault Format Reference.md`:
-
-**Loot Tracker** → `00-Campaign-Hub/Trackers/[active file]` (APPEND)
-- Session section with items table
-- If no new loot: session header + "No new loot acquired — [reason]"
-- Note any prior-session item status changes (these go in the current session section as updates, not edited into prior entries)
-
-**Quote Board** → `00-Campaign-Hub/Trackers/[active file]` (APPEND)
-- Session section with all verbatim quotes, tagged by character and type
-
-**Profanity Ledger** → `00-Campaign-Hub/Trackers/[active file]` (APPEND)
-- Session section with profanity table + updated running totals
-
-**Roll Statistics** → `00-Campaign-Hub/Trackers/[active file]` (APPEND)
-- Session row in summary table
-- Per-character breakdowns
-- Records/superlatives updates
-
-If roll data is missing from the handoff, query Supabase directly (`sitl_session_rolls` view filtered to session date). Supabase is a separate connection from the Obsidian MCP and does not affect MCP stability.
+Using formats from `Vault Format Reference.md`, append a session section to each active tracker: **Loot**, **Quote Board**, **Profanity Ledger**, **Roll Statistics**. If roll data is missing from the handoff, query Supabase directly (`sitl_session_rolls` filtered to session date — a separate connection from the vault MCP).
 
 ### 4. House Rules & Rulings
-
-**Target:** `00-Campaign-Hub/House Rules & Rulings.md` (EDIT — only if new rulings)
-
-If new DM rulings this session, draft a new session subsection. If none, skip.
+`00-Campaign-Hub/House Rules & Rulings.md` (EDIT — only if new rulings).
 
 ### 5. Kit's POV Journal Entry
-
-**Target:** `02-Character_Journal/Kit Aluri Journal.md` (APPEND)
-
-Draft the journal entry as a collapsible section matching the format from the read in Phase 1.
+`02-Character_Journal/Kit Aluri Journal.md` (APPEND) — collapsible section matching the existing format.
 
 ### 6. PC Page Updates
-
-**Kit Aluri** → `03-Characters/PCs/Kit Aluri.md` (EDIT)
-
-Draft updates to:
-- **Inner Life & Evolution → Active Emotional State** — where Kit's head is after this session
-- **Inner Life & Evolution → Turning Points** — if applicable
-- **Inner Life & Evolution → Relationship Undercurrents** — if relationships shifted
-- **Inventory / Loot** — new/changed items
-- **Key Events** — session sub-header with key moments
-- **Key Quotes** — notable quotes
+**Kit Aluri** → `03-Characters/PCs/Kit Aluri.md` (EDIT) — Inner Life & Evolution (Active Emotional State, Turning Points, Relationship Undercurrents), Inventory/Loot, Key Events, Key Quotes.
 
 **Other PCs** → `03-Characters/PCs/[Name].md` (APPEND)
 
-DESCRIPTOR FILING
-From the handoff's "Character Descriptors Surfaced This Session" list, APPEND each
-detail as a session-tagged bullet to the matching section on that character's page:
-  Appearance  /  Personality & Quirks  /  Backstory
-Format:  - (S##) [detail] — [[Session ## — Title|S##]]
-APPEND ONLY — never edit or delete existing bullets; log changes as new bullets.
-If a PC page lacks these sections, create them (above Inner Life & Evolution) per
-the Vault Format Reference. Skip characters with no new descriptors.
-For each present PC with notable events, draft:
-- `### S## Key Events` sub-header with key moments
-- Inventory, relationship, conditions updates if applicable
-
-Skip PCs who were absent or had nothing notable happen.
+DESCRIPTOR FILING — From the handoff's "Character Descriptors Surfaced This Session" list, APPEND each detail as a session-tagged bullet to the matching section on that character's page: Appearance / Personality & Quirks / Backstory.
+Format: `- (S##) [detail] — [[Session ## — Title|S##]]`
+APPEND ONLY — never edit or delete existing bullets; log changes as new bullets. If a PC page lacks these sections, create them (above Inner Life & Evolution) per the Vault Format Reference. Skip characters with no new descriptors.
+For each present PC with notable events, also draft a `### S## Key Events` sub-header with key moments and any inventory/relationship/condition updates. Skip PCs who were absent or had nothing notable.
 
 ### 7. NPC Page Updates
+**Existing NPCs** (EDIT/APPEND) and **New NPCs** (CREATE, template from Vault Format Reference).
 
-**Existing NPCs** → `03-Characters/NPCs/[Name].md` (EDIT or APPEND)
-- Major status changes: draft the full edit (requires Phase 1 read of that page)
-- Minor appearances: draft an append to Key Events
+DESCRIPTOR FILING — same as PCs: file any surfaced Appearance / Personality & Quirks / Backstory details from the handoff as session-tagged append-only bullets.
 
-**New NPCs** → `03-Characters/NPCs/[Name].md` (CREATE)
-- Use template from `Vault Format Reference.md`, scaled to NPC importance
-
-DESCRIPTOR FILING
-From the handoff's "Character Descriptors Surfaced This Session" list, APPEND each
-detail as a session-tagged bullet to the matching section on that character's page:
-  Appearance  /  Personality & Quirks  /  Backstory
-Format:  - (S##) [detail] — [[Session ## — Title|S##]]
-APPEND ONLY — never edit or delete existing bullets; log changes as new bullets.
-If a PC page lacks these sections, create them (above Inner Life & Evolution) per
-the Vault Format Reference. Skip characters with no new descriptors.
 ### 8. Location Updates
-
-**Existing locations** → `04-World-Lore/Locations/[Name].md` (APPEND)
-- New events or discoveries
-
-**New locations** → `04-World-Lore/Locations/[Name].md` (CREATE)
-- Use template from `Vault Format Reference.md`
+Existing (APPEND) / New (CREATE) → `04-World-Lore/Locations/`.
 
 ### 9. Flora & Fauna Updates
+New (CREATE) / existing (APPEND) → `07-Flora_Fauna/`. Skip if none.
 
-**New creatures/plants** → `07-Flora_Fauna/[subfolder]/[Name].md` (CREATE)
-**Existing with new info** → `07-Flora_Fauna/[subfolder]/[Name].md` (APPEND)
+### 10. Website Session Sync (rectrixcaedere.com)
 
-Skip entirely if no new flora/fauna this session.
+The site's SITL session reader (`sky-is-the-limit/session.html`) holds a **hardcoded `ARC` array** — its own session registry. A new session does NOT appear on the site until it's added there. Draft a new `ARC` entry:
 
-### 10. Vault Sync Status
-
-**Target:** `00-Campaign-Hub/Vault Sync Status.md` (EDIT — always last)
-
-Draft:
-- Matrix row with ✅/➖ for all columns
-- Change log entry summarizing everything updated
-
----
-
-After drafting all items, present the update plan to Taylor. Format:
-
+```js
+{n:'##',d:'YYYY-MM-DD',lbl:'Month D, YYYY',
+ f:'01-Sessions/Session%20##%20%E2%80%94%20<URL-encoded title>.md',
+ t:'<display title>',
+ rec:'<recording filename in R2>.mp3'},
 ```
-## Update Plan — Session [##]
+- `f` must be the **exact** `01-Sessions/` filename, URL-encoded (`%20` for space, `%E2%80%94` for the em dash). Mismatch = the note body fails to load on the site.
+- `t` is a display title and may differ from the note title (it's a curated label).
+- `rec` is the session's audio filename in the R2 `Recordings/sitl/` bucket; omit if none.
+- This file is in the **`rectrixcaedere`** repo (public), NOT the vault — deploy per the `rectrix-caedere-site` skill (SHA-verify the push).
 
-**Creates:** [count] new files
-  - [list each new file with path]
+**Backlog flag:** the live `ARC` array currently stops at **S15**. S16 ("Zone of Truth", 2026-05-24) and the 2026-06-07 session are **not on the site yet** — catch these up when wiring the next session.
 
-**Appends:** [count] files
-  - [list each file]
+> Note: the site fetches the note body from `raw.githubusercontent.com/.../sitl_vault/main`. That requires `sitl_vault` to be public-readable for the raw fetch to succeed; if it's private, the body silently fails to the "Failed to load" state. Confirm vault visibility if a session renders empty.
 
-**Edits:** [count] files
-  - [list each file with brief description of what changes]
+### 11. Vault Sync Status
+`00-Campaign-Hub/Vault Sync Status.md` (EDIT — always last) — matrix row (✅/➖) + change-log entry.
 
-**Skipped (N/A this session):**
-  - [list any skipped items and why]
-
-Ready to execute writes?
-```
-
-Taylor confirms, then proceed to Phase 3.
+After drafting all items, present the update plan to Taylor (Creates / Appends / Edits / Skipped, plus the website `ARC` entry). Taylor confirms, then proceed to Phase 3.
 
 ---
 
 ## PHASE 3: WRITE
 
-Execute all writes from the draft plan. Order:
-
-1. **Creates first** (session note, new NPCs, new locations, new flora/fauna, new tracker files if range exceeded)
-2. **Appends second** (trackers, journal, PC Key Events)
-3. **Edits last** (Dashboard, Kit Aluri Inner Life, NPC status changes, House Rules)
-4. **Vault Sync Status always final**
-
-Log each completed write to `/home/claude/convo2_progress.md`.
-
-If a write times out:
-1. Do NOT retry immediately
-2. After Taylor restarts, verify with `search-vault` whether the content landed
-3. If it landed, log and move on
-4. If it didn't, retry once
-5. If it fails twice, add to a "manual apply" block at the end for Taylor
+Execute writes from the plan. Order: **Creates → Appends → Edits → Vault Sync Status last.** The website `ARC` push is a separate deploy to the `rectrixcaedere` repo. Log each completed write. If a write times out: don't retry blindly — verify with `search-vault`, retry once, and after two failures add to a "manual apply" block.
 
 ---
 
-## BACKLINK CONVENTIONS
+## BACKLINK & FILE-NAMING CONVENTIONS
 
-All vault pages use Obsidian `[[wiki-link]]` syntax:
-
-- **Characters:** `[[Kit Aluri]]`, `[[Binks Stonevein]]`, `[[Jorlan Duskryn]]`
-- **Sessions:** `[[Session 01 — Prisoners of the Underdark]]`
-- **Locations:** `[[Velkynvelve]]`, `[[The Feydark]]`
-- **Creatures/Plants:** `[[Vrock]]`, `[[Zurkhwood]]`
-
-Display text override: `[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]`
-
----
-
-## FILE NAMING CONVENTIONS
+Wiki-links: `[[Kit Aluri]]`, `[[Session 01 — Prisoners of the Underdark]]`, `[[Velkynvelve]]`, `[[Vrock]]`. Display override: `[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]`.
 
 | Type | Convention | Example |
 |---|---|---|
-| Session notes | `Session ## — Title.md` | `Session 14 — Far From the Sun.md` |
-| PC pages | `Character Name.md` | `Kit Aluri.md` |
-| NPC pages | `Character Name.md` | `Jorlan Duskryn.md` |
+| Session notes | `Session ## — Title.md` (em dash) | `Session 14 — Far From the Sun.md` |
+| PC / NPC | `Character Name.md` | `Jorlan Duskryn.md` |
 | Locations | `Location Name.md` | `Velkynvelve.md` |
-| Creatures | `Creature Name.md` | `Vrock.md` |
-| Plants/Fungi | `Plant Name.md` | `Zurkhwood.md` |
+| Creatures / Plants | `Name.md` | `Vrock.md` |
 | Trackers | `[Tracker Name] S##-S##.md` | `Loot Tracker S16-S25.md` |
-
-Use the em dash (—) in session note filenames. Match existing vault conventions.
-
----
-
-## HANDLING MCP FAILURES
-
-1. **Phase 1 (reads):** If a read times out, ask Taylor to restart. Use `search-vault` as a fallback — it returns line numbers and content snippets, often enough to proceed. Log every successful read so restarts don't repeat work.
-2. **Phase 2 (drafting):** No MCP calls. Cannot fail.
-3. **Phase 3 (writes):** If a write times out, do NOT retry blindly. Verify first with `search-vault`. If the content is there, move on. If not, retry once. Two failures on the same file → add to "manual apply" block.
-4. **If the MCP is completely down for the entire session:** Draft all updates in Phase 2 and present them as structured blocks (file path, operation, full content) so Taylor can apply them manually or the next Convo 2 can execute them.
-5. **Progress tracking:** `/home/claude/convo2_progress.md` tracks completed reads and writes across restarts.
-
----
-
-## CATCH-UP SESSIONS
-
-If the Vault Sync Status shows gaps for prior sessions, process sessions in chronological order.
-
-Taylor may also ask to catch up a specific file across multiple sessions (e.g., "Roll Stats is 5 sessions behind"). In that case, focus on that single file across the gap sessions rather than full propagation for each.
 
 ---
 
 ## COMPLETION CRITERIA
 
-A session is fully synced when ALL of the following are ✅ (or ➖ if not applicable):
+A session is fully synced when ALL of the following are ✅ (or ➖ if N/A):
 
-| # | Item | Target File | "Done" Means |
+| # | Item | Target | "Done" Means |
 |---|---|---|---|
-| 1 | Session Note | `01-Sessions/Session ## — Title.md` | Full markdown with all 8 sections and backlinks |
-| 2 | Corrected Transcript | `Session_Sources/Transcripts/Corrected/` | Confirmed present in vault (from Convo 1) |
-| 3 | Dashboard | `00-Campaign-Hub/Campaign Dashboard.md` | Sessions row, NPCs, locations, threads, timeline updated |
-| 4 | Loot Tracker | `00-Campaign-Hub/Trackers/[active file]` | Session section added with all items |
-| 5 | Quote Board | `00-Campaign-Hub/Trackers/[active file]` | Session section with all verbatim quotes and tags |
-| 6 | Profanity Ledger | `00-Campaign-Hub/Trackers/[active file]` | Session section added, running totals updated |
-| 7 | Roll Stats | `00-Campaign-Hub/Trackers/[active file]` | Session row, per-character breakdowns, records checked |
-| 8 | POV Journal | `02-Character_Journal/Kit Aluri Journal.md` | Collapsible section added for this session |
-| 9 | PC Pages | `03-Characters/PCs/*.md` | All present PCs updated with new info |
-| 10 | NPC Pages | `03-Characters/NPCs/*.md` | New NPCs created, existing NPCs updated |
-| 11 | Locations | `04-World-Lore/Locations/*.md` | New locations created, revisited locations updated |
-| 12 | Flora/Fauna | `07-Flora_Fauna/` | New creatures/plants created, existing updated |
-| 13 | Mechanics | `00-Campaign-Hub/House Rules & Rulings.md` | New rulings added (if any) |
+| 1 | Session Note | `01-Sessions/…` | **Verified present** (written by Convo 1), all 8 sections + backlinks |
+| 2 | Corrected Transcript | `Session_Sources/Transcripts/Corrected/` | Present (or S04-style gap noted) |
+| 3 | Dashboard | `00-Campaign-Hub/Campaign Dashboard.md` | Sessions row, NPCs, locations, threads, timeline |
+| 4 | Loot Tracker | active tracker file | Session section added |
+| 5 | Quote Board | active tracker file | Section with verbatim quotes + tags |
+| 6 | Profanity Ledger | active tracker file | Section + running totals |
+| 7 | Roll Stats | active tracker file | Row, per-character breakdowns, records |
+| 8 | POV Journal | `02-Character_Journal/Kit Aluri Journal.md` | Collapsible section added |
+| 9 | PC Pages | `03-Characters/PCs/*.md` | Present PCs updated + descriptors filed |
+| 10 | NPC Pages | `03-Characters/NPCs/*.md` | New created, existing updated + descriptors filed |
+| 11 | Locations | `04-World-Lore/Locations/*.md` | New created, revisited updated |
+| 12 | Flora/Fauna | `07-Flora_Fauna/` | New created, existing updated |
+| 13 | Mechanics | `00-Campaign-Hub/House Rules & Rulings.md` | New rulings (if any) |
+| 14 | Session Registry | `ddb_sessions` (Supabase) | Row exists for this session_date, campaign_id 1 — **if absent, run the Convo 1 Step 7 upsert** (the only Supabase write Convo 2 makes) |
+| 15 | Website ARC | `rectrixcaedere` `session.html` | New `ARC` entry added + deployed (catch up S16/S18 backlog) |
 
-Vault Sync Status updated LAST with ✅/➖ for all columns and a change log entry.
+Vault Sync Status updated LAST.
 
 ---
 
 ## WHAT CONVO 2 DOES NOT DO
 
-- **Does not re-read transcripts.** All session content comes from the Convo 1 notes and handoff block.
+- **Does not write the session note.** Convo 1 does. Convo 2 verifies it and propagates everywhere else.
+- **Does not re-read transcripts.** Content comes from the Convo 1 note and handoff.
+- **Does not generate `.docx` files.** The `.docx` path is retired campaign-wide.
 - **Does not spell-check.** That's Convo 1's job.
-- **Does not modify files outside the vault** (no Google Drive, no DDB, no Supabase writes).
-- **Can query Supabase if roll data is missing** from the handoff. This uses a separate connection and does not affect MCP stability.
+- **Does not write to `ddb_rolls`, Google Drive, or DDB.** The ONLY Supabase write Convo 2 may make is the scoped `ddb_sessions` registry upsert in checklist item 14, and only if Convo 1's registration is missing.
+
+---
+
+## CATCH-UP SESSIONS
+
+If the Vault Sync Status shows gaps, process sessions in chronological order. Taylor may also ask to catch up a single file across multiple sessions (e.g., "Roll Stats is 5 sessions behind") — focus on that one file across the gap rather than full propagation for each.
