@@ -8,7 +8,8 @@ title: Zone of Truth
 party_level: 4
 absent_players: Hannah (Amanita)
 start_location: "Night camp at the Day-4 fungal cavern (Roxy's Zurkhwood shelter)"
-end_location: "Underdark tunnels descending toward the Darklake"party_present:
+end_location: "Underdark tunnels descending toward the Darklake"
+party_present:
   - Kit Aluri
   - Binks Stonevein
   - Aeolus

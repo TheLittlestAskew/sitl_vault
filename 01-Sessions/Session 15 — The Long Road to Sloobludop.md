@@ -8,7 +8,8 @@ title: The Long Road to Sloobludop
 party_level: 4
 absent_players: None (Taylor arrived late)
 start_location: "Velkynvelve — departing on the road to Sloobludop"
-end_location: "Underdark tunnels — Day-4 fungal cavern (en route to Sloobludop)"party_present:
+end_location: "Underdark tunnels — Day-4 fungal cavern (en route to Sloobludop)"
+party_present:
   - Kit Aluri
   - Binks Stonevein
   - Aeolus
