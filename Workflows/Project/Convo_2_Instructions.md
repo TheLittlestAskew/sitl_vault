@@ -158,27 +158,38 @@ New (CREATE) / existing (APPEND) → `07-Flora_Fauna/`. Skip if none.
 
 ### 10. Website Session Sync (rectrixcaedere.com)
 
-The site's SITL session reader (`sky-is-the-limit/session.html`) holds a **hardcoded `ARC` array** — its own session registry. A new session does NOT appear on the site until it's added there. Draft a new `ARC` entry:
+The SITL site holds **TWO separate hardcoded `ARC` registries** in the **`rectrixcaedere`** repo (public, NOT the vault). A new session does NOT appear until added to **both** — they have different shapes and must stay in lockstep (same `n` / `d` / `lbl` / `t`). Deploy per the `rectrix-caedere-site` skill (SHA-verify the push).
 
+**(a) `sky-is-the-limit/session.html` → the session reader's `ARC`.** Append:
 ```js
 {n:'##',d:'YYYY-MM-DD',lbl:'Month D, YYYY',
  f:'01-Sessions/Session%20##%20%E2%80%94%20<URL-encoded title>.md',
  t:'<display title>',
  rec:'<recording filename in R2>.mp3'},
 ```
-- `f` must be the **exact** `01-Sessions/` filename, URL-encoded (`%20` for space, `%E2%80%94` for the em dash). Mismatch = the note body fails to load on the site.
-- `t` is a display title and may differ from the note title (it's a curated label).
-- `rec` is the session's audio filename in the R2 `Recordings/sitl/` bucket; omit if none.
-- This file is in the **`rectrixcaedere`** repo (public), NOT the vault — deploy per the `rectrix-caedere-site` skill (SHA-verify the push).
+- `f` must be the **exact** `01-Sessions/` filename, URL-encoded (`%20` for space, `%E2%80%94` for the em dash). Mismatch = the note body fails to load.
+- `t` is a curated display title (may differ from the note title). `rec` is the audio filename in the R2 `Recordings/sitl/` bucket; omit if none.
 
-**Backlog flag:** the live `ARC` array currently stops at **S15**. S16 ("Zone of Truth", 2026-05-24) and the 2026-06-07 session are **not on the site yet** — catch these up when wiring the next session.
+**(b) `sky-is-the-limit/archive.html` → the "Descent" timeline's `ARC`** (a *different* array, richer fields). Append:
+```js
+{n:'##',d:'YYYY-MM-DD',lbl:'Mon D, YYYY',t:'<display title>',
+ r:'<region / locale label>',
+ arc:'<journey this session, e.g. "A → B">',
+ wp:'<waypoint label>',           // optional — milestone marker on the descent
+ ev:["<key event 1>","<key event 2>","..."]},   // 2-4 short past-tense beats
+```
+- Each archive card **links to `session.html?n=##`** — so if (a) is missing, the card dead-links to an "Unknown session" error. Always do (a) and (b) together.
+- Mark `fin:true` on the entry if it's a finale/arc-closing card (styles the card gold).
+- **Also bump the hardcoded header stats** in `archive.html`: the `<div class="v">N</div>` **Sessions** count, and **Deepest Reach** if the party reached a new deepest locale this session. (Rolls Logged / Nat 20s / Nat 1s are computed live from Supabase — leave those.)
 
-> Note: the site fetches the note body from `raw.githubusercontent.com/.../sitl_vault/main`. That requires `sitl_vault` to be public-readable for the raw fetch to succeed; if it's private, the body silently fails to the "Failed to load" state. Confirm vault visibility if a session renders empty.
+> **Backlog flag (live as of this writing):** the two registries are **out of sync** — `archive.html` is current through **S17** but `session.html` stops at **S15**. So **S16 ("Zone of Truth", 2026-05-24)** and **S17 ("The Big Fish Eat the Little Fish", 2026-06-07)** have archive cards that **dead-link** because they're absent from `session.html`'s `ARC`. Catch `session.html` up (and verify both arrays match) when wiring the next session.
+
+> Note: the site fetches the note body from `raw.githubusercontent.com/.../sitl_vault/main`. That requires `sitl_vault` to be public-readable; if it's private, the body silently fails to the "Failed to load" state. Confirm vault visibility if a session renders empty.
 
 ### 11. Vault Sync Status
 `00-Campaign-Hub/Vault Sync Status.md` (EDIT — always last) — matrix row (✅/➖) + change-log entry.
 
-After drafting all items, present the update plan to Taylor (Creates / Appends / Edits / Skipped, plus the website `ARC` entry). Taylor confirms, then proceed to Phase 3.
+After drafting all items, present the update plan to Taylor (Creates / Appends / Edits / Skipped, plus the website `ARC` entries for **both** `session.html` and `archive.html`). Taylor confirms, then proceed to Phase 3.
 
 ---
 
@@ -222,7 +233,7 @@ A session is fully synced when ALL of the following are ✅ (or ➖ if N/A):
 | 12 | Flora/Fauna | `07-Flora_Fauna/` | New created, existing updated |
 | 13 | Mechanics | `00-Campaign-Hub/House Rules & Rulings.md` | New rulings (if any) |
 | 14 | Session Registry | `ddb_sessions` (Supabase) | Row exists for this session_date, campaign_id 1 — **if absent, run the Convo 1 Step 7 upsert** (the only Supabase write Convo 2 makes) |
-| 15 | Website ARC | `rectrixcaedere` `session.html` | New `ARC` entry added + deployed (catch up S16/S18 backlog) |
+| 15 | Website ARC | `rectrixcaedere` → `session.html` **and** `archive.html` (both `ARC`s + archive header stats) | New entry added to **both** registries (matching `n`/`d`/`lbl`/`t`) + deployed. Catch up the session.html S16/S17 backlog so archive cards stop dead-linking |
 
 Vault Sync Status updated LAST.
 
