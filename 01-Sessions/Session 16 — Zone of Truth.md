@@ -34,7 +34,7 @@ absent_players: Hannah (Amanita)
 
 ---
 
-## Character POV Journal
+## Character POV Overview
 
 *See [[Kit Aluri Journal#Session 16 — Zone of Truth]] for Kit's in-character memoir entry.*
 

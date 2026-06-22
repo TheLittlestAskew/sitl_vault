@@ -42,7 +42,7 @@ tags:
 
 ---
 
-## Kit Aluri — POV Journal
+## Kit Aluri — POV Overview
 
 See [[02-Character_Journal/Kit Aluri Journal|Kit Aluri Journal — Session 10]]
 

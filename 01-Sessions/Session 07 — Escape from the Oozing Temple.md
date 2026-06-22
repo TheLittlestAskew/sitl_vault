@@ -43,7 +43,7 @@ spelling_checked: true
 
 ---
 
-## Kit Aluri — POV Journal
+## Kit Aluri — POV Overview
 
 ### THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR
 

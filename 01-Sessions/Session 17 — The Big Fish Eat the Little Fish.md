@@ -38,9 +38,9 @@ absent_players: None (Austin/Darby arrived late ~1:06:40; Hannah/Amanita returne
 
 ---
 
-## Character POV Journal
+## Character POV Overview
 
-### Kit Aluri — POV Journal
+### Kit Aluri — POV Overview
 
 *(Storytelling exception. In-character, in-world. See [[Kit Aluri Journal]] for the running memoir.)*
 

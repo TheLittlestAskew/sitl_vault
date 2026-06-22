@@ -33,7 +33,7 @@ absent_players: None (Taylor arrived late)
 
 ---
 
-## Character POV Journal
+## Character POV Overview
 
 *See [[Kit Aluri Journal#Session 15]] for Kit's in-character memoir entry.*
 

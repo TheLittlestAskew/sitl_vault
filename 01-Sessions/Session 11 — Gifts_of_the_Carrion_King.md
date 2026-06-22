@@ -37,7 +37,7 @@ spelling_checked: Yes
 
 ---
 
-## Character POV Journal
+## Character POV Overview
 
 *See [[02-Character_Journal/Kit Aluri Journal]] for full entry.*
 

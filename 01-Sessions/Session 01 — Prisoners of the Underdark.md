@@ -35,7 +35,7 @@ spelling_checked: true
 
 ---
 
-## Character POV Journal — Kit Aluri
+## Character POV Overview — Kit Aluri
 
 *See full journal entry in .docx session notes. Summary: Kit has been imprisoned for six days at Velkynvelve. She observes her fellow prisoners, maps the outpost during guard post duty, and receives a whispered offer from [[Jorlan Duskryn]] to escape. The session ends as a vrock and chasmes burst into the cavern, creating chaos.*
 

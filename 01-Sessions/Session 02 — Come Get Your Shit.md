@@ -35,7 +35,7 @@ spelling_checked: true
 
 ---
 
-## Character POV Journal — Kit Aluri
+## Character POV Overview — Kit Aluri
 
 *See [[Kit Aluri Journal#Session 02 — "Come Get Your Shit"]] for Kit's in-character entry.*
 

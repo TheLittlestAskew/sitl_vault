@@ -36,9 +36,9 @@ absent_players: Florian/Blarg (absent — Blarg run by Addison as an NPC this se
 
 ---
 
-## Character POV Journal
+## Character POV Overview
 
-### Kit Aluri — POV Journal
+### Kit Aluri — POV Overview
 
 *(Storytelling exception. In-character, in-world. See [[Kit Aluri Journal]] for the running memoir. POV Hard Limits applied — no dice, levels, spell-labels, player or table talk.)*
 

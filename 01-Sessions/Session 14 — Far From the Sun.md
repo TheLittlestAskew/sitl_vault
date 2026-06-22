@@ -49,7 +49,7 @@ end_location: "Velkynvelve — barracks (long rest before departure to Sloobludo
 
 ---
 
-## Character POV Journal
+## Character POV Overview
 
 *See [[Kit Aluri Journal]] — Session 14 entry*
 
