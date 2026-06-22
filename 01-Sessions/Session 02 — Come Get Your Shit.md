@@ -72,6 +72,26 @@ The party escapes [[04-World-Lore/Locations/Velkynvelve]] during a vrock/chasme 
 
 ---
 
+## Quotes & Language
+
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Kit Aluri]] | "Come get your shit." | Funny/Action |
+| [[Kit Aluri]] | "Oh, shit. I thought I was the only one here." | Funny |
+| [[Kit Aluri]] | "Gotta control the flow of information so that nobody has the power to stop this train from running." | Serious/Tactical |
+| [[Binks Stonevein]] | "Can you break me out my shackles first?" | Funny |
+| [[Binks Stonevein]] | "I'd rather jump, so that's what I'm gonna do." | Funny/Decisive |
+| [[Aeolus]] | "My greed has consequences, I see." | Funny/Self-Deprecating |
+| [[Aeolus]] | "I guess Aeolus not doing anything." | Funny |
+| [[Amanita de'Champignon]] | "This does not look like the good smoke, man." | Serious |
+| [[Amanita de'Champignon]] | "Oh man, my pipe. Oh, I missed it so much. I'm gonna smoke everything." | Funny |
+| [[Amanita de'Champignon]] | "Oh, spider dude, we are rich. Man, look at this." | Funny |
+| [[Blarg]] | "We escaped. Everyone is still alive. Let's go. ... For now." | Funny |
+| [[Darby Stonefeather]] | "My bad. Didn't mean to let go of the thing." | Funny/Poignant |
+
+
 ## Related
 
 - [[Session 01 — Prisoners of the Underdark]]

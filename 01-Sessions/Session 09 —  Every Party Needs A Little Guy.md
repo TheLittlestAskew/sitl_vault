@@ -130,28 +130,27 @@ Session 9 is a short, exploration-and-discovery-focused session with no combat. 
 
 ## Quote Board
 
-**[[Kit Aluri]] · [Funny]**
-"Every party needs a little guy."
 
-**[[Glabbagool]] (Addison) · [Poignant]**
-"Is this goodbye?"
-
-**[[Kit Aluri]] · [Serious]**
-"There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy."
-
-**[[Blarg]] · [Banter]**
-"That's quite the 180."
-
-**[[Darby Stonefeather]] · [Funny]**
-"I promise I'm a good farmer. I'm a good animal handler."
-
-**Addison (DM) · [DM Quip]**
-"Hopefully now it's starting to make sense. Why I asked you not to start off the game with your own companions."
-
-**[[Binks Stonevein]] · [Funny]**
-"I want to go through the portal so bad."
-
----
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Kit Aluri]] | "Every party needs a little guy." | Funny |
+| [[Amanita de'Champignon]] | "I could shrink you. I could shrink you, and we could put you in a water bottle." | Funny |
+| [[Glabbagool]] (Addison) | "Is this goodbye?" | Poignant |
+| [[Aeolus]] | "Don't check it out!" | Funny |
+| [[Amanita de'Champignon]] | "But it's so awesome! I'll be right back!" | Funny |
+| [[Kit Aluri]] | "There's definitely something here that feels like it wants us to do the beast, but if you're going to give me the option, it's going to be Topsy." | Serious |
+| [[Blarg]] | "That's quite the 180." | Banter |
+| [[Kit Aluri]] | "Well, I mean, we uncovered after that it wasn't her fault." | Serious |
+| [[Amanita de'Champignon]] | "We're totally derailing the DM's plan. I know. Sorry." | Funny |
+| Addison (DM) | "Also, another mouth to feed. Another mouth to feed." | DM Quip |
+| [[Darby Stonefeather]] | "I promise I'm a good farmer. I'm a good animal handler." | Funny |
+| Addison (DM) | "Hopefully now it's starting to make sense. Why I asked you not to start off the game with your own companions." | DM Quip |
+| [[Kit Aluri]] | "We have acquired a little guy." | Funny |
+| [[Blarg]] | "Oh, big guy. Not a little guy." | Banter |
+| [[Binks Stonevein]] | "I killed slimes and almost drowned. I did not level up." | Banter |
+| [[Amanita de'Champignon]] | "Y'all, that's — kill it with mushrooms." | Funny |
+| [[Kit Aluri]] | "So many mushrooms, so much room. You can put as many mushrooms in there as you want." | Funny |
+| [[Binks Stonevein]] | "I want to go through the portal so bad." | Funny |
 
 ## Archivist Notes
 

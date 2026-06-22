@@ -128,6 +128,27 @@ The session ends as a vrock bursts from the northern passage chased by chasmes, 
 
 ---
 
+## Quotes & Language
+
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Amanita de'Champignon]] | "Oh, well, aren't we all, aren't we all dreaming all the time?" | Funny |
+| [[Amanita de'Champignon]] | "Oh, hey, spider dude. You want to clean this place together?" | Funny |
+| [[Kit Aluri]] | "Is this girl on drugs?" | Funny |
+| [[Kit Aluri]] | "Well, it matters about if I would believe you." | Serious |
+| [[Kit Aluri]] | "You could just need fucking with us." | Serious/Banter |
+| [[Stool]] | "I'm just a mushroom. I don't know much about using appropriate pronouns." | Funny |
+| [[Aeolus]] | "I hate spiders." | Funny/Poignant |
+| [[Aeolus]] | "So it's like every spider that sees me is gonna hate me." | Funny |
+| [[Aeolus]] | "Especially like down here, you know, in the underdark." | Funny |
+| [[Aeolus]] | "I love it. I'm gonna cry." | Funny |
+| [[Blarg]] | "I didn't touch anything. I could just leave." | Banter |
+| [[Blarg]] | "You're gonna get poisoned by Darby's torrential looks." | Funny/Banter |
+| [[Darby Stonefeather]] | "This is too much." | Funny/Poignant |
+
+
 ## Archivist Notes
 
 - **Purple Eyes:** A [[drow]] guard's eyes briefly turned from red to purple during Amanita's barracks interaction. Possible early sign of demonic corruption.
