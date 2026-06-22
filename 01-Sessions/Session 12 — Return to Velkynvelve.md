@@ -8,6 +8,14 @@ dm: Addison
 players_present: [Taylor, Matt, Sirius, Hannah, Austin]
 players_absent: [Florian]
 party_level: 4
+start_location: "Western passage, Velkynvelve cavern"
+end_location: "Velkynvelve cavern floor, mid-combat"
+party_present:
+  - Kit Aluri
+  - Binks Stonevein
+  - Aeolus
+  - Amanita de'Champignon
+  - Darby Stonefeather
 ---
 
 # Session 12 — Return to Velkynvelve
@@ -69,7 +77,43 @@ Session ends mid-combat. Asha summons Spiritual Weapon (misses Kit). Shore and D
 
 ## Quotes
 
-*See [[Quote Board Master]] — Session 12 section for full verbatim quote list.*
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Binks Stonevein]] | "No point. But I think it'd be funny." — On the idea of talking to their past selves" | Funny |
+| [[Binks Stonevein]] | "I remember I said, I want to kick some drow ass. That was my whole thing." | Funny |
+| [[Amanita de'Champignon]] | "Oh, you know what I could do? I could take that other dead guy's like cape and armor and then we could knock the other one out and I could dress up like a drow and drag the other one over my shoulder and be like, help guys. He's injured. And they'll totally like lift us up in the. In the lift. Foolproof." | Funny |
+| [[Kit Aluri]] | "I'm just curious about your. Your physical strength. Can you throw somebody over your shoulder and carry them?" | Banter |
+| [[Kit Aluri]] | "If we can control the flow of them coming in, we could take them out really easily." | Serious/Tactical |
+| [[Binks Stonevein]] | "If we can funnel them, we have chances." | Funny/Tactical |
+| [[Binks Stonevein]] | "So I just put my hands up and be like, listen, guys, it was a whole misunderstanding. I was trying to kill more of you before. Like, you noticed." | Funny |
+| [[Shoor Vandree]] (Addison) | "You were a fool to return." | Serious/Important |
+| [[Kit Aluri]] | "Don't panic. We're all over here, obviously, but I'm also blocking anybody else from going through right now. I don't want them to see all of us yet." | Serious/Tactical |
+| [[Kit Aluri]] | "Kit takes a deep breath. Because she died yesterday. Even though that wasn't for real, it still felt real." | Poignant |
+| [[Kit Aluri]] | "Fuck darkness. I hate darkness so bad." | Funny |
+| [[Kit Aluri]] | "Hey, don't move. I'm going to run, and I don't want to run into you, and I can't see anything." | Funny/Tactical |
+| [[Kit Aluri]] | "I already feel so much better because the last time I was in a fight, it was a dream and it was really bad." | Serious |
+| [[Binks Stonevein]] | "He's three foot tall." — On why Darby can't find Binks by groping in the darkness" | Funny |
+| [[Amanita de'Champignon]] | "Amanita's like, oh, like I'm a ninja now." — After nat 20 Dex save dodging Darby in darkness" | Funny |
+| [[Darby Stonefeather]] | "Sneaks by the fuck." — Reacting to Amanita's nat 20 dodge" | Funny |
+| [[Kit Aluri]] | "Somebody remind me next time I level up to do blind fighting." | Funny |
+| [[Kit Aluri]] | "It's hurting them to have this darkness up more than it's hurting us." | Banter/Tactical |
+| [[Darby Stonefeather]] | "We are familiar with the darkness at this point." | Funny |
+| [[Kit Aluri]] | "They bring it down and we're like, no, put it back up. We're doing fine." | Funny |
+| [[Darby Stonefeather]] | "What the are they doing?" — On Topsy and Turvy during combat" | Funny |
+
+### Profanity Record
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fuck" | 1 | "Fuck darkness. I hate darkness so bad." — Frustrated by magical darkness blocking Misty Step |
+| Kit Aluri (Taylor) | "damn" | 2 | "Damn it, Addison" (Shore spots Binks); "Damn" (missed attack roll) |
+| Kit Aluri (Taylor) | "hell" | 1 | "Oh, hell yeah" — Realizing rapport spores let her communicate telepathically for tactics |
+| Kit Aluri (Taylor) | "ass" | 1 | "Got my ass kicked" — Reflecting on S11 nightmare |
+| Darby Stonefeather (Austin) | "fuck" | 1 | "Sneaks by the fuck" — Reacting to Amanita's nat 20 dodge in darkness |
+| Binks Stonevein (Matt) | "ass" | 1 | "I want to kick some drow ass" |
+
 
 ---
 

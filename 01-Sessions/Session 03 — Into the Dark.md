@@ -16,6 +16,13 @@ tags:
   - gray-ooze
   - travel
   - route-choice
+party_present:
+  - Kit Aluri
+  - Binks Stonevein
+  - Aeolus
+  - Blarg
+  - Amanita de'Champignon
+  - Darby Stonefeather
 ---
 
 # Session 03 — Into the Dark
@@ -205,11 +212,34 @@ Session 03 opens in the immediate aftermath of the S02 escape. The party and fou
 
 ## Quotes & Language
 
-See [[Quote Board Master#Session 03 — Into the Dark]]
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Amanita de'Champignon]] | "Oh my god, I can produce spores. I'm a mushroom. Oh, this is so cool." | Funny/Defining |
+| [[Amanita de'Champignon]] | "Oh, over there. Like, there's just something weird about the shoreline. Does anyone see that? I mean, is it just me? There's like something gray. It's something weird. Maybe a little sticky. Maybe. Maybe viscous. That's a great word. It's like viscous. Guys, do you see that? Also, we're still missing two people." | Funny |
+| [[Kit Aluri]] | "Don't touch this stuff. Get away from it. Nobody else can need saving in the next like 60 seconds." | Serious/Tactical |
+| [[Binks Stonevein]] | "I say we head towards Blingdenstone. It's where I call home." | Funny |
+| [[Blarg]] | "Is it safe?" | Funny |
+| [[Binks Stonevein]] | "It's — I mean, it's the Underdark." | Funny |
+| [[Amanita de'Champignon]] | "He's part of the cycle of life. It's probably like 90% fungus now. It's great." | Funny |
+| [[Kit Aluri]] | "The spiders got to him. I don't think he's fungus yet." | Funny |
+| [[Amanita de'Champignon]] | "Yes, but he will be someday." | Funny |
+| [[Amanita de'Champignon]] | "I mean, we could all be fungus even faster if we went to the myconid city." | Funny |
+| [[Blarg]] | "I love your love, man. But that's not what we're going for." | Banter |
+| [[Blarg]] | "I haven't been raised by my family." | Poignant |
+| Addison (DM) | "Sky's the limit. Sky's the limit." | DM Quip |
+| [[Blarg]] | "Sky's the limit's up. What's the limit down?" | Banter |
+| [[Aeolus]] | "Can we reach the depths of hell?" | Banter |
+| [[Kit Aluri]] | "That would be cool as shit, honestly." | Funny |
 
 ### Profanity Record
 
-See [[Profanity Ledger#Session 03 — Into the Dark]]
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "shit" | 1 | "That would be cool as shit, honestly" |
+| Kit Aluri (Taylor) | "hell" | 1 | "We're sure as hell going into the war water" |
+
 
 ### Alternate Title Options
 

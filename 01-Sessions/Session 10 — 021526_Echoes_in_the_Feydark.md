@@ -17,6 +17,13 @@ tags:
   - psilofyr
   - level-up
   - myconid
+party_present:
+  - Kit Aluri
+  - Binks Stonevein
+  - Aeolus
+  - Blarg
+  - Amanita de'Champignon
+  - Darby Stonefeather
 ---
 
 # Session 10 — Through the Fungal Gate
@@ -289,9 +296,47 @@ After the fight, the Sovereign's corpse reconstituted into a larger, more humano
 
 ## Quotes & Language
 
-See [[Quote Board Master#Session 10 — Echoes in the Feydark]]
+### Quote Board
 
-See [[Profanity Ledger#Session 10 — Echoes in the Feydark]]
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Kit Aluri]] | "I believe in you." | Banter |
+| [[Amanita de'Champignon]] | "Let's mount up and go through this portal, dudes." | Funny |
+| [[Kit Aluri]] | "We just want to get consent, you know." | Serious |
+| [[Kit Aluri]] | "What you don't want is a large animal climb. Climb on top of a large animal and it not want you to do that." | Funny |
+| [[Amanita de'Champignon]] | "Aw, see, I knew she was just hungry. I get like that sometimes too, man." | Funny |
+| [[Binks Stonevein]] | "Okay, I'm just gonna walk up to him because at this point, I must be dead. That's my only concession. Like, it's. I'm dead. That's where I'm at." | Poignant |
+| [[Aeolus]] | "He's the reason I'm here." | Serious |
+| [[Amanita de'Champignon]] | "I've got some mushrooms that'll super help us chill." | Funny |
+| [[Kit Aluri]] | "Guys, I know nothing about the I'm great strategies. Fighting. Fighting strategy outside of that knowledge is not robust. I getting a feeling that this is something we should try, but I. I guess we should just be prepared for anything." | Serious/Tactical |
+| [[Darby Stonefeather]] | "Papa, I've been. I've. I've missed you so much. I, I'm so sorry. I failed my first big task." | Poignant |
+| Darby's Father (Addison) | "Bravery is not the essence of fear. It's knowing it and feeling it, using it as a tool." | Poignant |
+| [[Darby Stonefeather]] | "But, papa, I'm scared." | Poignant |
+| [[Aeolus]] | "Yeah, that's the one I'm gonna kill. Sooner or later." | Funny |
+| Echo (Addison) | "Good luck killing me." | DM Quip |
+| Echo (Addison) | "You were meant to come here, but not yet." | Serious |
+| Binks's Grandfather (Addison) | "You have trials behind you and trials in front of you, grandson. We're here to help." | Serious |
+| [[Stool]] (Addison) | "Home is way, way closer now." | Poignant |
+| [[Kit Aluri]] | "Hey, is this guy edible?" | Funny |
+| [[Amanita de'Champignon]] | "Find out. Take a bite." | Funny |
+| Goblin Boss (Addison) | "Well, damn, you guys are all right." | Funny |
+| [[Psilofyr]] (Addison) | "You all have shown your potential. Well done, friend. We will speak soon. But now you must rest." | Serious/Important |
+| Echo (Addison) | "Good job not dying." | DM Quip |
+| [[Aeolus]] | "I feel the motivation. No thanks to him." | Funny |
+| [[Amanita de'Champignon]] | "This is the best." | Funny |
+| [[Binks Stonevein]] | "I just thought it would be cool for my language. I picked Sylvan just because it's. I leveled up in the Feywild." | Funny |
+| [[Kit Aluri]] | "I'm suddenly glad I picked Goblin." | Funny |
+| [[Aeolus]] | "It would be disrespectful to like do a multi class now." | Serious |
+
+### Profanity Record
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Addison (DM) | "shit" | 2 | "Get my shit together" (session open); "figure my shit out" (map setup) |
+| Darby Stonefeather (Austin) | "damn" | 1 | "Damn. Blind range. Still miss." — combat miss with mace |
+| Aeolus (Sirius) | "hell" | 1 | "What the hell does that mean?" — reacting to Echo's trial warning |
+| Goblin Boss (Addison/NPC) | "damn" | 1 | "Well, damn, you guys are all right." — impressed by party's combat performance |
+
 
 ### Alternate Title Options
 

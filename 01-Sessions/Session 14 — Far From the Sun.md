@@ -158,7 +158,7 @@ Party decides on [[Sloobludop]] as next destination (8 days travel). Artaxle dec
 
 ---
 
-## Artifacts
+## Loot & Items
 
 *See [[Loot Tracker]] — Session 14*
 
@@ -188,7 +188,69 @@ Party decides on [[Sloobludop]] as next destination (8 days travel). Artaxle dec
 
 ## Quotes & Language
 
-*See [[Quote Board Master]] — Session 14*
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Kit Aluri]] | "You know when you're playing Mortal Kombat and you're about to die and you're just— the, the character is standing there just like wobbling back and forth? That's Kit right now. I have 3 hit points." | Funny |
+| [[Binks Stonevein]] | "Why the fuck did you serve her? She sucks, she tried to kill you. What?" | Funny/Serious |
+| [[Darby Stonefeather]] | "Do you want me to pin you down?" | Funny |
+| [[Binks Stonevein]] | "Damn, Darby. Shit, I didn't know this house could—" | Funny |
+| [[Darby Stonefeather]] | "Hey, this is my first time living too." | Funny/Poignant |
+| [[Asha Vandree]] (Addison) | "Whatever happens here, Lolth will drag you to the abyss." | Serious |
+| [[Kit Aluri]] | "There's a man up there who is just like you, and he helped us, and it doesn't matter that you're drow, and it doesn't matter that you think we're enemies. If you want to fight, we can do that, but I would like to be next to this man in his last moments." | Serious/Defining |
+| [[Kit Aluri]] | "I wish to honor someone who showed me kindness." | Serious |
+| Drow Elite (Addison) | "Do what you will, I am done here. You've earned my—" *[switches to halting Common]* "respect." | Serious/Poignant |
+| [[Binks Stonevein]] | "Wait, you could speak Common this whole time? That's rude. I've been translating." | Funny |
+| [[Kit Aluri]] | "I want one. You could ride a fucking lizard?" | Funny |
+| [[Darby Stonefeather]] | "Through animal friendship, of course. I got this." | Funny |
+| [[Jorlan Duskryn]] (Addison) | "I can't say that this forgotten outpost in the middle of nowhere was where I wanted to die. I don't think I have the strength to see a sunrise. Would have been nice." | Poignant |
+| [[Kit Aluri]] | "We're very far from the sun right now." | Poignant/Important |
+| [[Jorlan Duskryn]] (Addison) | "There is a group... They call themselves the Society of Brilliance. More like the Society of Arrogance." | Serious/Important |
+| [[Kit Aluri]] | "They call themselves brilliant, usually are arrogant." | Funny |
+| [[Jorlan Duskryn]] (Addison) | "My entire life I have been taught are nothing but weakness. The only honor comes from battle and worship to our goddess." | Poignant/Defining |
+| [[Kit Aluri]] | "And yet I'm still standing right here having this conversation with you. If you really thought that, you should have already killed me." | Serious |
+| [[Jorlan Duskryn]] (Addison) | "I hope you can make it a better place than those who come after." | Poignant |
+| [[Kit Aluri]] | "I can't make any promises, but I don't have any choice but to try." | Serious |
+| [[Binks Stonevein]] | "So we kill Jorlan." *[during bio break]*" | Funny |
+| [[Kit Aluri]] | "We don't have to." | Funny |
+| [[Blarg]] | "Ah, we're gonna save them." | Funny |
+| [[Aeolus]] | "We the good guys." | Funny |
+| [[Stool]] (Addison) | "Neverlight Grove? Are we going home? We'll be safe there." | Funny/Poignant |
+| [[Kit Aluri]] | "I'm not much of a hugger, but like, you know, if it's just my leg, I'll allow it." | Funny |
+| [[Binks Stonevein]] | "Honestly, fuck Lolth. She deserves everything bad that comes to her." | Funny/Defining |
+| [[Blarg]] | "That is for sure. Twisting those poor drows." | Banter |
+| Garl Glittergold (Addison) | "Man, you are ballsy, kid. You got some cojones, man. You are still so weak, and yet you tried to overcome the power of Lolth. I gotta applaud that, dude." | DM Quip/Defining |
+| [[Derendil]] (Addison) | "Honestly, chaps, I have no idea how I got them under my control. The last couple of hours are just a blur to me. Can we please get out of here and find a shower?" | Funny |
+| [[Kit Aluri]] | "Take me to the lakes." | Funny |
+| [[Binks Stonevein]] | "Just a real quick—" *[on the 2-3 month walk to Gauntlgrym]*" | Banter |
+| [[Kit Aluri]] | "Quick little jaunt to Mordor." | Funny |
+
+### Profanity Record
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fucking" | 2 | "I'm so fucking tired of darkness"; "You could ride a fucking lizard?" |
+| Kit Aluri (Taylor) | "fuck" | 1 | "I don't give a fuck" — Persuasion speech to drow elite |
+| Kit Aluri (Taylor) | "damn" | 1 | "Goddamn it" — world spinning at 3 HP |
+| Kit Aluri (Taylor) | "hell" | 1 | "Let's get the hell out of here" |
+| Binks Stonevein (Matt) | "fuck" | 2 | "Why the fuck did you serve her?"; "Honestly, fuck Lolth" |
+| Binks Stonevein (Matt) | "shit" | 1 | "Damn, Darby. Shit, I didn't know this house could—" |
+| Binks Stonevein (Matt) | "damn" | 1 | "Damn, Darby" |
+| Binks Stonevein (Matt) | "hell" | 1 | "Let's get the hell out" |
+| Darby Stonefeather (Austin) | "hell" | 1 | "Hell yeah" — rolling Intimidation with disadvantage |
+| Topsy (Taylor) | "fuck" | 1 | "Topsy could do whatever the fuck she wants" (Kit speaking about Topsy OOC) |
+| Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
+| Kit Aluri (Taylor) | 4 | 9 | 9 | 7 | 1 | — | 30 |
+| Binks Stonevein (Matt) | 1 | 2 | 1 | 3 | 1 | — | 8 |
+| Addison (DM) | 3 | 2 | — | — | 2 | — | 7 |
+| Darby Stonefeather (Austin) | — | 3 | 2 | 1 | — | — | 6 |
+| Blarg (Florian) | — | 1 | — | 1 | — | — | 2 |
+| Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
+| Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+| Aeolus (Sirius) | — | — | — | 1 | — | — | 1 |
+| Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+
 
 **Final Chosen Title:** Far From the Sun
 

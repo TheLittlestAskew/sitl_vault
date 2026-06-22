@@ -7,6 +7,14 @@ date: 2026-06-14
 title: Trust the Whirlpool
 party_level: 4 (Kit advanced to 5 — milestone, narrative timing)
 absent_players: Florian/Blarg (absent — Blarg run by Addison as an NPC this session)
+start_location: "Outskirts of the fungal cavern, 7th day of travel from Velkynvelve"
+end_location: "The waters of Sloobludop"
+party_present:
+  - Kit Aluri
+  - Binks Stonevein
+  - Amanita de'Champignon
+  - Aeolus
+  - Darby Stonefeather
 ---
 
 # Session 18 — Trust the Whirlpool
@@ -28,10 +36,10 @@ absent_players: Florian/Blarg (absent — Blarg run by Addison as an NPC this se
 | Session Date | 06/14/2026 |
 | Start Location | Narrow tunnels / canals at the outskirts of the fungal cavern, on the 7th day of travel from [[04-World-Lore/Locations/Velkynvelve]] toward [[Sloobludop]] (guided by [[Sloopidoop]]) |
 | End Location | The waters of [[Sloobludop]] — the party erupts from the whirlpool's far end amid the town's fishing boats and dock-lights |
-| Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Amanita de'Champignon]], [[Aeolus]], [[Darby Stonefeather]] (+ DM Addison). **Absent:** [[Blarg]] (run as NPC). NPCs/companions present: [[Derendil]], [[Topsy]], [[Turvy]], [[Roxanne\|Roxy]], [[Stool]], [[Clementine]], [[Echo]], [[Sloopidoop]]. |
+| Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Amanita de'Champignon]], [[Aeolus]], [[Darby Stonefeather]] (+ DM Addison). **Absent:** [[Blarg]] (run as NPC). NPCs/companions present: [[Derendil]], [[Topsy]], [[Turvy]], Roxy|Roxy, [[Stool]], [[Clementine]], [[Echo]], [[Sloopidoop]]. |
 | In-Game Time | **Day 7** since leaving [[04-World-Lore/Locations/Velkynvelve]] ("this is now the seventh day"); ~early evening |
 | Total Rolls Logged | **82 DDB-archive rows** (cross-referenced 2026-06-14) + Aeolus's physical rolls. Per character: Kit 21, Binks 21, Amanita 16, Darby 14, DM 10. **5 nat 20s** (Kit ×3, Binks ×1, DM/Roxy ×1); **0 nat 1s** in DDB. See Full Roll Log. |
-| Party Level | 4 — **Kit Aluri reached the milestone threshold and leveled to 5** (chose **Dual Wielder**); the rest of the party deferred leveling to a future session (DM gave the party agency on timing). [[Amanita de'Champignon]], [[Binks Stonevein]], [[Blarg]], [[Turvy]], [[Stool]], [[Roxanne\|Roxy]] each carry **+1 exhaustion**. |
+| Party Level | 4 — **Kit Aluri reached the milestone threshold and leveled to 5** (chose **Dual Wielder**); the rest of the party deferred leveling to a future session (DM gave the party agency on timing). [[Amanita de'Champignon]], [[Binks Stonevein]], [[Blarg]], [[Turvy]], [[Stool]], Roxy|Roxy each carry **+1 exhaustion**. |
 | Spelling Checked | Yes (approved table at `_pipeline/S18/spellcheck.md`) |
 
 ---
@@ -66,7 +74,7 @@ I sat on the elf-turned-crocodile like a raft and looked at the lights and let m
 
 ### Narrative Summary
 
-The session opens with a downtime recap. The party is **seven days out from [[04-World-Lore/Locations/Velkynvelve]]** on the road to [[Sloobludop]], guided by the kuo-toa archpriest [[Sloopidoop]]. Addison reconciles the off-screen week: [[Darby Stonefeather]] has finished **attuning to [[Roxanne\|Roxy]]'s horn** (with help from [[Amanita de'Champignon]] and [[Aeolus]]), letting her summon and dismiss the mount; several party members have been **learning Undercommon** in their downtime; and the NPC **[[Artaxle]]** has split off from the group, **veering toward the drow city to act as a spy** for the party. The recovered **spell scroll** from the chuul's lair is discussed as **"Sanctuary"** (Amanita and Kit), and Kit experiments with the recovered **kuo-toa trident** (versatile, martial, with the thrown property), while the party recalls the **six shields** looted from the [[04-World-Lore/Locations/Velkynvelve\|Velkynvelve]] armory.
+The session opens with a downtime recap. The party is **seven days out from [[04-World-Lore/Locations/Velkynvelve]]** on the road to [[Sloobludop]], guided by the kuo-toa archpriest [[Sloopidoop]]. Addison reconciles the off-screen week: [[Darby Stonefeather]] has finished **attuning to Roxy|Roxy's horn** (with help from [[Amanita de'Champignon]] and [[Aeolus]]), letting her summon and dismiss the mount; several party members have been **learning Undercommon** in their downtime; and the NPC **[[Artaxle]]** has split off from the group, **veering toward the drow city to act as a spy** for the party. The recovered **spell scroll** from the chuul's lair is discussed as **"Sanctuary"** (Amanita and Kit), and Kit experiments with the recovered **kuo-toa trident** (versatile, martial, with the thrown property), while the party recalls the **six shields** looted from the [[04-World-Lore/Locations/Velkynvelve\|Velkynvelve]] armory.
 
 Pressing on, the tunnels turn to **canals and then to a fast-flowing underground river** as the party fully enters the [[04-World-Lore/Locations/The Darklake\|Darklake]]. The current is far stronger than Sloopidoop remembers; he warns they cannot proceed without a vessel. With no Zurkhwood to harvest, **Darby coaxes Roxy** — who once magically built a shelter from absorbed [[Zurkhwood]] — to transform: at the horn's call, fungal "wings" of bone and root spread from Roxy's saddlebags and harden into **two large rafts, one on either side of the mount** (Survival 17). The buoyant Roxy immediately starts drifting; the party scrambles aboard in a comedic low-stakes initiative (Kit lands a natural 20; Aeolus a natural 1, then **Misty Steps** aboard cleanly). [[Amanita de'Champignon]] lashes her **shield to her quarterstaff** as a makeshift oar/keel.
 
@@ -151,7 +159,7 @@ Pressing on, the tunnels turn to **canals and then to a fast-flowing underground
 | [[Derendil]] | Quaggoth (believes himself an elven prince) | Travels with the party | Exhausted; slung over Kit's shoulder onto the raft; carried throughout | With the party (Sloobludop) | Alive — exhausted; restrained/dependent |
 | [[Topsy]] | Deep gnome (svirfneblin) twin | Travels with the party | Rode Roxy; survived the river | With the party | Alive — +1 exhaustion (implied via the group) |
 | [[Turvy]] | Deep gnome (svirfneblin) twin | Travels with the party | Thrown into the water; pinched (4 dmg); rescued onto Roxy | With the party | Alive — **+1 exhaustion** |
-| [[Roxanne\|Roxy]] | Fungal mount (Darby's) | [[Darby Stonefeather]] | Transformed into rafts; took bludgeoning damage; returned to the horn | In the horn (carried by Darby) | Alive — **exhausted** |
+| Roxy|Roxy | Fungal mount (Darby's) | [[Darby Stonefeather]] | Transformed into rafts; took bludgeoning damage; returned to the horn | In the horn (carried by Darby) | Alive — **exhausted** |
 | [[Stool]] | Myconid companion | Travels with [[Amanita de'Champignon]] | Clung to Amanita underwater; cast **pacifying spores** on the hag (poisoned it) | With the party | Alive — +1 exhaustion |
 | [[Clementine]] | Spider (Darby's pet) | [[Darby Stonefeather]] | Named as present ("my spider, Clementine… she's also here"); Darby notes a 0-HP bookkeeping moment | With Darby | Alive — *(see Archivist Notes; "0 hit points" appears to be a sheet edit, not an in-fiction death)* |
 | [[Echo]] | Raven (Aeolus's fae patron familiar) | [[Aeolus]]'s Archfey patron | Flapped overhead during the hag fight; reminded Aeolus of the creature's fey nature | Above the river | Alive |
@@ -201,7 +209,7 @@ Pressing on, the tunnels turn to **canals and then to a fast-flowing underground
 
 | Character | Initiative Roll | Turn Order |
 |---|---|---|
-| [[Roxanne\|Roxy]] | natural 20 (flat, no bonus) | 1 |
+| Roxy|Roxy | natural 20 (flat, no bonus) | 1 |
 | [[Kit Aluri]] | 19 | 2 |
 | [[Darby Stonefeather]] | 15 | 3 |
 | [[Aeolus]] | 14 | 4 |
@@ -228,10 +236,10 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 |---|---|---|---|
 | [[Darby Stonefeather]] | Travel d10 | 7 | DM "held" the result for later (physical/verbal) |
 | [[Aeolus]] | Travel d10 (reroll) | 6 | Second travel roll (physical/verbal) |
-| [[Darby Stonefeather]] | Survival for [[Roxanne\|Roxy]] (adv, +1) | 17 | Roxy transforms into two rafts (15 = raft; 20 = more) |
+| [[Darby Stonefeather]] | Survival for Roxy|Roxy (adv, +1) | 17 | Roxy transforms into two rafts (15 = raft; 20 = more) |
 | [[Aeolus]] | Jump-on initiative | natural 1 | Last to board → Misty Steps aboard |
 | [[Kit Aluri]] | Jump-on initiative | natural 20 | First aboard |
-| [[Roxanne\|Roxy]] | Strength (vs. current) | 4 | Swept away buoyant (DM roll) |
+| Roxy|Roxy | Strength (vs. current) | 4 | Swept away buoyant (DM roll) |
 | [[Darby Stonefeather]] | Initiative (board) | 6 | — |
 | [[Amanita de'Champignon]] | Initiative (board) | 13 | Made it on |
 | [[Aeolus]] | Dex save (board, after Misty Step) | n/a | Auto-success via Misty Step |
@@ -270,10 +278,10 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 | [[Darby Stonefeather]] | Initiative | 15 | — |
 | [[Binks Stonevein]] | Initiative | 6 | (physical/verbal) |
 | [[Kit Aluri]] | Initiative | 19 | (Topsy 7→9) |
-| [[Roxanne\|Roxy]] | Initiative | natural 20 (no bonus) | Acts first |
+| Roxy|Roxy | Initiative | natural 20 (no bonus) | Acts first |
 | [[Turvy]] | Initiative | 12 | Still in the water |
 | [[Turvy]] | Athletics (grab the wall) | fail | Bounces off; keeps flowing |
-| [[Roxanne\|Roxy]] (via Darby) | Athletics (maneuver around boulder) | 10 (5+5) | Left raft 3d6 = 15 (→1 HP); right raft 6 |
+| Roxy|Roxy (via Darby) | Athletics (maneuver around boulder) | 10 (5+5) | Left raft 3d6 = 15 (→1 HP); right raft 6 |
 | [[Amanita de'Champignon]] | **[[Halo of Spores]]** reaction — hag CON save DC 15 | hag rolls **19 nat** | No damage |
 | [[Kit Aluri]] | Strength save (stay on raft) | 19 | Moves onto the boulder |
 | [[Kit Aluri]] | Strength check (help shove Roxy) | 14 | Pushes Roxy downstream |
@@ -293,7 +301,7 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 | [[Stool]] | Pacifying spores — hag save (DC ~10–12) | hag rolls 5 → **poisoned** | 1 min; disadvantage on saves; periodic poison |
 | [[Topsy]] (via Binks) | Hand crossbow (+3) | 14 miss; 15 (adv) miss | Plunks into the water |
 | [[Binks Stonevein]] | **[[Guiding Bolt]]** (advantage, grappled) | 22 to hit; **16 damage** | Big hit; **illusion drops** — hag now glowing (physical/verbal) |
-| [[Roxanne\|Roxy]] | Bludgeoning (around boulder) | 6 | Frees herself past the rock |
+| Roxy|Roxy | Bludgeoning (around boulder) | 6 | Frees herself past the rock |
 | [[Darby Stonefeather]] | Dex save (avoid Roxy's hooves, adv) | 20 | Unhurt |
 | [[Kit Aluri]] | Strength (pull Darby) | 19 | Darby pinned to Roxy (Darby Dex save adv 20) |
 | [[Kit Aluri]] | Dex (toss rope, adv w/ Turvy) | 9 | Fails — rope slips into the water |
@@ -315,30 +323,30 @@ The **river run** was a successful environmental gauntlet: the party improvised 
 
 ### Quote Board
 
-| Quote | Speaker | Tag |
+| Speaker | Quote | Tag |
 |---|---|---|
-| "You're kind of already a boat when you think about it. So we're just trying to make you a better version of a boat." | [[Darby Stonefeather]] (to Roxy) | Funny |
-| "What's a boat? … Better like on the water? Okay." | [[Roxanne\|Roxy]] (voiced by Addison) | Funny |
-| "I think we could try and scavenge some more [[Zurkhwood]] and build something." | [[Amanita de'Champignon]] | Banter |
-| "Look at all of our creatures that we have. That's so fun." | [[Darby Stonefeather]] | Banter |
-| "Well, it looks like we're stuck between a rock, sea and a hard place." | [[Darby Stonefeather]] | Funny |
-| "I was sitting on that one." | Addison (DM) | DM Quip |
-| "Are mermaids good down here?" / "I do not think so." | [[Binks Stonevein]] / [[Sloopidoop]] | Funny |
-| "I should have went, like, the level of, like, problematic first. I should have went 'boulder.' Hey, mermaid." | [[Binks Stonevein]] | Funny |
-| "Every person that's coming to this party that['s] outside of us is evil at some point… besides Roxy and Stool. They're both made of mushrooms, so we trust the mushrooms." | [[Binks Stonevein]] | Funny / Important to story |
-| "Super dupe['s] Evil. Calling it now." | [[Kit Aluri]] | Banter |
-| "I am Disguise Self, baby." | Addison (DM, voicing the hag's illusion) | DM Quip |
-| "Don't attack the glowy magic crocodile." / "Glowy magic crocodile: safe, but definitely not a threat." | [[Amanita de'Champignon]] / [[Binks Stonevein]] | Funny |
-| "The mermaid's a hag. The thing in the crocodile's mouth. Hag." | [[Binks Stonevein]] | Important to story |
-| "Darby, other side!" | [[Kit Aluri]] (mid-leap) | Poignant / Important to story |
-| "I trust Darby. There's no reason she would have gotten into the water if she can't swim. What was I thinking?" | [[Kit Aluri]] | Poignant |
-| "Let the whirlpool take you. It will take you straight to [[Sloobludop]]. Do not wait up for me. I will find you there. Go. Trust the whirlpool." | [[Sloopidoop]] | Important to story *(session title source)* |
-| "Trust the whirlpool." | [[Kit Aluri]] | Banter |
-| "This is going to be like a Disney water ride." / "It already has been. Lots of twists and turns, truly." | [[Kit Aluri]] / [[Darby Stonefeather]] | Funny |
-| "Oh, no. Dragon drop. That's a little bit easier." | [[Darby Stonefeather]] | Funny |
-| "Hopefully Sloopy will be okay from that encounter with the other two witches." / "I believe in him." | Addison (DM) / [[Kit Aluri]] | Poignant |
-| "It's a reaction to seeing someone else have an issue or watch your friend… It's like when moms lift cars off their babies." | [[Kit Aluri]] (on the "traumatic level-up") | Serious |
-| "Darby used rage for the first time not in combat mode, so I think that's pretty cool too." | [[Darby Stonefeather]] | Banter |
+| [[Darby Stonefeather]] (to Roxy) | "You're kind of already a boat when you think about it. So we're just trying to make you a better version of a boat." | Funny |
+| Roxy| "What's a boat? … Better like on the water? Okay." |Roxy (voiced by Addison) | Funny |
+| [[Amanita de'Champignon]] | "I think we could try and scavenge some more [[Zurkhwood]] and build something." | Banter |
+| [[Darby Stonefeather]] | "Look at all of our creatures that we have. That's so fun." | Banter |
+| [[Darby Stonefeather]] | "Well, it looks like we're stuck between a rock, sea and a hard place." | Funny |
+| Addison (DM) | "I was sitting on that one." | DM Quip |
+| [[Binks Stonevein]] / [[Sloopidoop]] | "Are mermaids good down here?" / "I do not think so." | Funny |
+| [[Binks Stonevein]] | "I should have went, like, the level of, like, problematic first. I should have went 'boulder.' Hey, mermaid." | Funny |
+| [[Binks Stonevein]] | "Every person that's coming to this party that['s] outside of us is evil at some point… besides Roxy and Stool. They're both made of mushrooms, so we trust the mushrooms." | Funny / Important to story |
+| [[Kit Aluri]] | "Super dupe['s] Evil. Calling it now." | Banter |
+| Addison (DM, voicing the hag's illusion) | "I am Disguise Self, baby." | DM Quip |
+| [[Amanita de'Champignon]] / [[Binks Stonevein]] | "Don't attack the glowy magic crocodile." / "Glowy magic crocodile: safe, but definitely not a threat." | Funny |
+| [[Binks Stonevein]] | "The mermaid's a hag. The thing in the crocodile's mouth. Hag." | Important to story |
+| [[Kit Aluri]] (mid-leap) | "Darby, other side!" | Poignant / Important to story |
+| [[Kit Aluri]] | "I trust Darby. There's no reason she would have gotten into the water if she can't swim. What was I thinking?" | Poignant |
+| [[Sloopidoop]] | "Let the whirlpool take you. It will take you straight to [[Sloobludop]]. Do not wait up for me. I will find you there. Go. Trust the whirlpool." | Important to story *(session title source)* |
+| [[Kit Aluri]] | "Trust the whirlpool." | Banter |
+| [[Kit Aluri]] / [[Darby Stonefeather]] | "This is going to be like a Disney water ride." / "It already has been. Lots of twists and turns, truly." | Funny |
+| [[Darby Stonefeather]] | "Oh, no. Dragon drop. That's a little bit easier." | Funny |
+| Addison (DM) / [[Kit Aluri]] | "Hopefully Sloopy will be okay from that encounter with the other two witches." / "I believe in him." | Poignant |
+| [[Kit Aluri]] (on the "traumatic level-up") | "It's a reaction to seeing someone else have an issue or watch your friend… It's like when moms lift cars off their babies." | Serious |
+| [[Darby Stonefeather]] | "Darby used rage for the first time not in combat mode, so I think that's pretty cool too." | Banter |
 
 ### Profanity Record
 

@@ -205,7 +205,49 @@ No combat encounters this session. Four days of encounter rolls were made:
 
 ## Quotes & Language
 
-*See [[Quote Board Master#Session 15]] for all verbatim quotes.*
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Kit Aluri]] | "Why do I always get bit by shit when I'm late?" | Funny |
+| [[Binks Stonevein]] | "It's better than were-rat." | Funny |
+| [[Kit Aluri]] | "Goddamn. That was a 5. Shit." | Funny |
+| [[Blarg]] | "I'm not getting up there as well. I don't trust it." | Banter |
+| [[Darby Stonefeather]] | "Come on, she trusts me." | Funny |
+| [[Amanita de'Champignon]] | "Hey, does anyone have any yew leaves? I feel like I'm out. Just keep an eye out, okay?" | Funny |
+| [[Amanita de'Champignon]] | "Oh, you're welcome, man. Like, anytime you want to talk about the secrets of the universe and, and fungus, I'm here for you." | Funny/Defining |
+| [[Blarg]] | "Look, Amanita, I think I found something. Isn't that useful?" | Funny |
+| [[Amanita de'Champignon]] | "Oh yeah, that's great stuff. You know, if you eat it, your tongue glows." | Funny |
+| [[Blarg]] | "That sounds super useful." | Banter |
+| [[Kit Aluri]] | "Kit sings to her weapons while she's doing things. The humming is kind of like a meditative time for her." | Serious/Poignant |
+| [[Darby Stonefeather]] | "I was home in the cold, so used to locking in in small class sizes." | Funny |
+| [[Kit Aluri]] | "He's gonna walk and everybody's gonna sit, so let's just—" | Banter |
+| Addison (DM) | "Some people seem scared." | DM Quip |
+| [[Kit Aluri]] | "I think that people think that Darkness is more helpful than it is. It hurts. It is for everybody." | Funny/Tactical |
+| [[Aeolus]] | "I'm a squishy warlock." | Funny |
+| [[Kit Aluri]] | "If you can see through magical darkness and you're gonna cast magical darkness, your task when casting magical darkness should be to retrieve all of your teammates out of the magical darkness so we can escape." | Funny/Tactical |
+| [[Darby Stonefeather]] | "Not the Darkness safety word." | Funny |
+| [[Aeolus]] | "Just tell him how to call someone stupid and he's going to be happy." | Funny |
+| [[Amanita de'Champignon]] | "That's my superpower. I'm psychic and I'm drawn to—" | Funny |
+
+### Profanity Record
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "shit" | 2 | "Why do I always get bit by shit when I'm late?"; "Goddamn. That was a 5. Shit." |
+| Kit Aluri (Taylor) | "damn" | 1 | "Goddamn. That was a 5." |
+| Austin (OOC) | "fuck" | 1 | "Fuck, I rolled— I'm just gonna roll again." (OOC, re-rolling Insight) |
+| Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
+| Kit Aluri (Taylor) | 6 | 9 | 10 | 7 | 1 | — | 33 |
+| Binks Stonevein (Matt) | 1 | 2 | 1 | 3 | 1 | — | 8 |
+| Addison (DM) | 3 | 2 | — | — | 2 | — | 7 |
+| Darby Stonefeather (Austin) | — | 4 | 2 | 1 | — | — | 7 |
+| Blarg (Florian) | — | 1 | — | 1 | — | — | 2 |
+| Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
+| Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+| Aeolus (Sirius) | — | — | — | 1 | — | — | 1 |
+| Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
+
 
 ### Alternate Title Options
 

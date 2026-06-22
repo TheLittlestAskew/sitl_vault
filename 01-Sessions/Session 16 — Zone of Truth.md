@@ -230,7 +230,57 @@ Key updates:
 
 ## Quotes & Language
 
-*See [[00-Campaign-Hub/Trackers/Quote Board S16-S25#Session 16 — Zone of Truth|Quote Board S16-S25]] for all verbatim quotes and [[00-Campaign-Hub/Trackers/Profanity Ledger S16-S25#Session 16 — Zone of Truth|Profanity Ledger S16-S25]] for the profanity record.*
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Binks Stonevein]] | "And what have we learned from watches? Topsy and Turvy never take a watch." | Funny/Banter |
+| [[Kit Aluri]] | "Like, yeah, they don't go together and they don't go alone." | Banter |
+| [[Kit Aluri]] | "How do you put a saddle on that?" — On the carrion crawler" | Funny |
+| [[Darby Stonefeather]] | "Yeah, that's good to know that it's possible now. It's kind of like a Pokémon if we can get it right." — On storing Roxy in the horn" | Funny |
+| Voice in Binks's head (Addison) | "What stand will you take? Which stance will take you?" | Serious/Important |
+| [[Binks Stonevein]] | "If it isn't the consequences of my actions." | Funny/Poignant |
+| [[Binks Stonevein]] | "Get your spider and keep her away from me." | Serious |
+| [[Binks Stonevein]] | "Okay, we're gonna have to have a talk. Zone of Truth." | Important |
+| Taylor (OOC) | "Well, you know, like people say like Cone of Truth or whatever, and you're just supposed to honor it" | Funny |
+| [[Binks Stonevein]] | "I am in the zone." | Funny |
+| [[Blarg]] | "Why do you guys keep messing with shrines?" | Funny |
+| [[Aeolus]] | "I know, mine, they're really cool because fuck Lolth, first off." | Funny |
+| [[Blarg]] | "I mean, that's fine, but it's still a god, you know." | Funny/Poignant |
+| [[Kit Aluri]] | "There's no royal status in this group. You're just one of us until somebody else— until something happens to prove that you're not. Um, we're all equals here, and we've treated you as thus." | Serious |
+| [[Blarg]] | "You seem like the cursed kind." — To Aeolus" | Funny |
+| [[Clementine]] (Addison) | "That, that one there is— I feel something familiar but wrong with them, like The Master of Spiders somehow with them, and that's not good. I have this master, but I don't like her very much. She's not as cool as you, but she's very powerful, and she knows him now." | Serious/Important |
+| [[Binks Stonevein]] | "My name's not Binks… I'm not the guy that I named myself after." | Serious/Important |
+| [[Kit Aluri]] | "Do you have to like make somebody fall in love with you before a rose dies or something?" — On breaking Derendil's curse" | Funny |
+| [[Derendil]] (Addison) | "I dreamt that I was hunting, right? I dreamt that I was a beast, that I was what I appear to be, and that I was chasing something. I don't know what." | Serious/Important |
+| [[Derendil]] (Addison) | "Am I going to be a problem? Do you— how dare you! I am a prince of the High Forest. I was usurped By the evil wizard Terrestor, who trapped me and cursed me in this form and exiled me." | Dramatic |
+| [[Kit Aluri]] | "So everybody get your shit together now. We have things we need to accomplish." | Serious/Defining |
+| [[Topsy]] (Addison) | "Maybe we take it easy on the use of force." | Poignant |
+| [[Kit Aluri]] | "No, Miss Turvy, you're perfect and I love you." | Funny |
+| [[Binks Stonevein]] | "I think we've grown closer. That was a good time. I learned stuff about myself that I did not know. That was great." | Funny |
+| [[Blarg]] | "Yeah, just as like a team building exercise." | Funny |
+| [[Binks Stonevein]] | "Don't trust dreams." | Banter/Thematic |
+| Taylor (OOC) | "Amanita is the only one that can have dreams, and Amanita is the only one allowed to dream." | Funny |
+| [[Blarg]] | "Keep on dreaming, champion." | Funny |
+| [[Amanita de'Champignon]] (Addison, DM-voiced) | "Keep on dreaming." — Taylor: "Addison, your Amanita impression is spot on." | Funny |
+| Matt (OOC) | "Hey, just because I'm a shithead doesn't mean that I still deserve it." | Funny |
+
+### Profanity Record
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fuck/fucking" | 11 | "the fuck?" (00:32); "this fucking place" (00:40); "what the fuck are you doing here" + "so fucking serious" (00:44); "I'm not fucking around" (00:45); "fuck, I—" (00:47, OOC); "What the fuck, man?" ×2 (00:55); "what the fuck?" (00:56); "your situation was fucked" + "more fucked situations" (01:10) |
+| Kit Aluri (Taylor) | "shit" | 4 | "shit rolls" (00:41, OOC); "intimidated the shit out of him" (01:04, OOC); "really shitty luck" + "get your shit together" (01:08, speech) |
+| Kit Aluri (Taylor) | "hell" | 2 | "Oh, hell yeah!" (00:48, Intimidation); "Hell yeah" (01:13, Heroic Inspiration) |
+| Binks Stonevein (Matt) | "shit" | 2 | "just because I'm a shithead" (00:12, OOC); "he rolled shit anyway" (00:12, Topsy's roll) |
+| Binks Stonevein (Matt) | "fuck" | 1 | "Fuck." (00:47 — learning Derendil passed his save) |
+| Binks Stonevein (Matt) | "damn" | 1 | "God damn it" (00:58 — rolling a 4 on persuasion) |
+| Blarg (Florian) | "damn" | 1 | "goddamn it, that doesn't help" (00:50 — Binks confirming Derendil can lie) |
+| Aeolus (Sirius) | "fuck" | 1 | "fuck Lolth, first off" (00:57) |
+| Addison (DM) | "shit" | 1 | "he was tearing shit up" (01:05 — Derendil at Velkynvelve) |
+| Addison (DM) | "fuck" | 1 | "Fuck is up with that?" (00:56 — echoing Kit's question as Binks) |
+| Addison (DM) ⚠️ | "fuck" | 1 | "Ah, fuck" (00:01) — ⚠️ diarization labeled Addison but may be Austin reacting to dice; attributed per label |
+
 
 ### Alternate Title Options
 

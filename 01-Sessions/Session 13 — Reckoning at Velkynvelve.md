@@ -8,6 +8,15 @@ dm: Addison
 players_present: [Taylor, Matt, Sirius, Florian, Hannah, Austin]
 players_absent: []
 party_level: 5
+start_location: "Velkynvelve cavern floor, mid-combat"
+end_location: "Velkynvelve cavern floor, post-battle"
+party_present:
+  - Kit Aluri
+  - Binks Stonevein
+  - Aeolus
+  - Blarg
+  - Amanita de'Champignon
+  - Darby Stonefeather
 ---
 
 # Session 13 — Reckoning at Velkynvelve
@@ -257,7 +266,50 @@ The primary antagonist arc — escape from Ilvara's prison, survive her pursuit,
 
 ## Quotes & Language
 
-*See [[Quote Board Master]] — Session 13 section for full verbatim quote list.*
+### Quote Board
+
+| Speaker | Quote | Tag |
+|---|---|---|
+| [[Ilvara Mizzrym]] (Addison) | "Hello again. Thank you for saving me the trouble of coming out to find you. I would applaud your boldness. You must think highly of yourselves at this point, but boldness against your betters is more like recklessness. Stupidity. But I applaud you nonetheless for saving me the time and effort." | Serious/Important |
+| [[Ilvara Mizzrym]] (Addison) | "Surrender now and I will make it quick. You will not suffer long. You choose to fight, your torture will be endless." | Serious/Important |
+| [[Blarg]] | "Saloon will protect you." — Casting Healing Word on Kit (likely "Silvanus" through German accent + STT)" | Serious/Poignant |
+| [[Kit Aluri]] | "That is so rude that it would try to tackle me while I'm in the kitchen." | Funny/Frustrated |
+| [[Kit Aluri]] | "I can't hit anything to save my fucking life today." | Funny |
+| [[Kit Aluri]] | "God damn it, are you trying to TPK us?" | Serious |
+| Addison (DM) | "You made this choice." | DM Quip |
+| [[Kit Aluri]] | "It's in my notes that Kit didn't want to do this." | Banter |
+| Addison (DM) | "The field in which she grows her fucks is barren." — On Ilvara casting Insect Plague on her own troops" | DM Quip/Defining |
+| [[Darby Stonefeather]] | "Good, fuck Shoor." | Funny/Serious |
+| [[Binks Stonevein]] | "My goal is to keep Kit alive. That's my goal at this current moment." | Funny/Tactical |
+| [[Kit Aluri]] | "If you're going to keep Kit alive, then Kit's goal is to try to do more damage. Any damage. Any damage would be great." | Funny |
+| [[Stool]] (Addison/Amanita) | "Darby, Darby, Darby! Oh my gosh, are you awake? Are you there? Darby, Darby, kick him!" | Funny/Poignant |
+| [[Darby Stonefeather]] | "Hey, Stool, missed you." | Funny |
+| [[Stool]] (Amanita) | "Oh my gosh, Darby, I missed you too. We're best friends. I'll just sit on your head right now." | Funny |
+| [[Binks Stonevein]] | "Hey, Ilvara, why are you on the ground? Are you drowsy?" — Casting Tasha's Hideous Laughter" | Funny/Defining |
+| Turvy (Matt) | "Can't lose anymore." — Casting Silver Barbs to save Kit from the Drow Elite's attack" | Serious/Poignant |
+| [[Kit Aluri]] | "I really got to get a finesse weapon." | Funny |
+| [[Ilvara Mizzrym]] (Addison) | "From you, Jorlan? I didn't think you had the balls." — After Jorlan's crossbow bolt strikes her neck" | Serious |
+| [[Darby Stonefeather]] | "I want there to be gore." — Describing Roxy's killing blow on Ilvara" | Serious/Action |
+| Addison (DM) | "Roxy!" — After the killing blow on Ilvara" | DM Quip |
+| [[Darby Stonefeather]] | "Clementine, don't look." — As gore from a dying spider drips on them" | Funny |
+| [[Kit Aluri]] | "Everybody is just ganging up on me, and that's just incredibly rude." | Funny |
+| [[Kit Aluri]] | "Just wait till I get a couple more levels under my belt. This won't happen anymore." | Funny/Frustrated |
+| Addison (DM) | "Great session, everybody. That's great. See you tomorrow." | DM Quip |
+| [[Darby Stonefeather]] | "What a great Sunday. See you tomorrow." | Funny |
+
+### Profanity Record
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "fucking" | 2 | "I can't hit anything to save my fucking life today"; "Can I just retcon all of that? ... I can't hit anything to save my fucking life today" |
+| Kit Aluri (Taylor) | "damn" | 3 | "So damn, that actually sucks" (losing reaction); "God damn it, are you trying to TPK us?"; "God fucking damn it" (quaggoths missing Asha) |
+| Kit Aluri (Taylor) | "hell" | 1 | "Oh, hell yeah!" — Passing Insect Plague Con save (nat 20) |
+| Kit Aluri (Taylor) | "shit" | 1 | "I really got to start hitting shit" — Frustrated by missed attacks |
+| Darby Stonefeather (Austin) | "fuck" | 2 | "Good, fuck Shoor" (Shoor's death); "No fucking way" (Roxy nat 1) |
+| Binks Stonevein (Matt) | "hell" | 1 | "What the hell?" — Reacting to quaggoth tackling Kit |
+| Addison (DM) | "fuck" | 1 | "Son of a bitch" area — general frustration with dice (also "fuck off" directed at Moonbeam roll of double 1s) |
+| Blarg (Florian) | "fuck" | 1 | "Fuck off" — Reacting to Moonbeam damage roll of double 1s |
+
 
 **Final Chosen Title:** Reckoning at Velkynvelve
 

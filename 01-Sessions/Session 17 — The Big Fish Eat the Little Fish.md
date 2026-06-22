@@ -7,6 +7,15 @@ date: 2026-06-07
 title: The Big Fish Eat the Little Fish
 party_level: 4
 absent_players: None (Austin/Darby arrived late ~1:06:40; Hannah/Amanita returned from prior absence)
+start_location: "Canal-like tunnels approaching the Darklake; a clearing with an underground pool"
+end_location: "The chuul's submerged lair beneath the pool"
+party_present:
+  - Kit Aluri
+  - Blarg
+  - Binks Stonevein
+  - Amanita de'Champignon
+  - Aeolus
+  - Darby Stonefeather
 ---
 
 # Session 17 — The Big Fish Eat the Little Fish
@@ -303,28 +312,28 @@ Both fights were decisive party wins. The **chuul** — a genuine threat that gr
 
 ### Quote Board
 
-| Quote | Speaker | Tag |
+| Speaker | Quote | Tag |
 |---|---|---|
-| "I would actually like to cast thorn whip and toss it in and go fishing. Actually, wait. I have a fishing pole. I'm gonna go fishing." | [[Aeolus]] | Funny |
-| "I apologize to Glabbagool. This was not my intention in bringing him up. But now he's bait." | [[Kit Aluri]] | Funny |
-| "Get over here. So, Mortal Kom, are you able to grapple with Thorn Whip?" | Addison (DM) | DM Quip *(Mortal Kombat reference as Amanita drags the chuul)* |
-| "I've landed a fish." | [[Aeolus]] | Funny |
-| "Amanita, the fishermen of the year." | [[Binks Stonevein]] | Banter |
-| "Jet lagged. Slept for 11 hours. I'm so sorry." | [[Darby Stonefeather]] (Austin, arriving) | Banter |
-| "I am sorry to disappoint in turn, but that is no elf. That is a quaggoth, and he will kill you." | [[Sloopidoop]] | Important to story |
-| "There is no cure that I know of besides the peace of death." | [[Sloopidoop]] | Serious / Important to story |
-| "It is a mononym." | [[Sloopidoop]] | Funny |
-| "Please be a family name. Please be a family name." | [[Binks Stonevein]] / [[Darby Stonefeather]] | Funny |
-| "My name is Sloopidoop." | [[Sloopidoop]] | Funny / Important to story |
-| "We've been running away from [death] for like two weeks." / "I've been almost killed like 14 times." | [[Binks Stonevein]] / [[Kit Aluri]] | Banter |
-| "Thank you, Aeolus, which I feel like is going to be canon." | [[Kit Aluri]] | Poignant *(after the non-lethal Sleep saves Derendil & Kit)* |
-| "Good old Orcish blood." | Addison (DM) | DM Quip *(Kit survives at 1 HP)* |
-| "I'm just always going to be standing right next to the person in our party who wants to kill us. Great." | [[Kit Aluri]] | Poignant |
-| "As we say, the big fish eat a little fish." | [[Sloopidoop]] | Important to story *(session title source)* |
-| "When you're from where you're [from], every pond is a random pond. And you know what? You gotta eat." | [[Kit Aluri]] | Funny |
-| "Well, one could say that knowledge is my deity… the Sea Mother [gurgle]." | [[Sloopidoop]] | Important to story |
-| "I am a scholarly priest and a member of the Society of Brilliance, so naturally I am quite brilliant." | [[Sloopidoop]] | Funny / Important to story |
-| "Very well, keep your secrets." | Addison (DM) | DM Quip *(quoting Lord of the Rings)* |
+| [[Aeolus]] | "I would actually like to cast thorn whip and toss it in and go fishing. Actually, wait. I have a fishing pole. I'm gonna go fishing." | Funny |
+| [[Kit Aluri]] | "I apologize to Glabbagool. This was not my intention in bringing him up. But now he's bait." | Funny |
+| Addison (DM) | "Get over here. So, Mortal Kom, are you able to grapple with Thorn Whip?" | DM Quip *(Mortal Kombat reference as Amanita drags the chuul)* |
+| [[Aeolus]] | "I've landed a fish." | Funny |
+| [[Binks Stonevein]] | "Amanita, the fishermen of the year." | Banter |
+| [[Darby Stonefeather]] (Austin, arriving) | "Jet lagged. Slept for 11 hours. I'm so sorry." | Banter |
+| [[Sloopidoop]] | "I am sorry to disappoint in turn, but that is no elf. That is a quaggoth, and he will kill you." | Important to story |
+| [[Sloopidoop]] | "There is no cure that I know of besides the peace of death." | Serious / Important to story |
+| [[Sloopidoop]] | "It is a mononym." | Funny |
+| [[Binks Stonevein]] / [[Darby Stonefeather]] | "Please be a family name. Please be a family name." | Funny |
+| [[Sloopidoop]] | "My name is Sloopidoop." | Funny / Important to story |
+| [[Binks Stonevein]] / [[Kit Aluri]] | "We've been running away from [death] for like two weeks." / "I've been almost killed like 14 times." | Banter |
+| [[Kit Aluri]] | "Thank you, Aeolus, which I feel like is going to be canon." | Poignant *(after the non-lethal Sleep saves Derendil & Kit)* |
+| Addison (DM) | "Good old Orcish blood." | DM Quip *(Kit survives at 1 HP)* |
+| [[Kit Aluri]] | "I'm just always going to be standing right next to the person in our party who wants to kill us. Great." | Poignant |
+| [[Sloopidoop]] | "As we say, the big fish eat a little fish." | Important to story *(session title source)* |
+| [[Kit Aluri]] | "When you're from where you're [from], every pond is a random pond. And you know what? You gotta eat." | Funny |
+| [[Sloopidoop]] | "Well, one could say that knowledge is my deity… the Sea Mother [gurgle]." | Important to story |
+| [[Sloopidoop]] | "I am a scholarly priest and a member of the Society of Brilliance, so naturally I am quite brilliant." | Funny / Important to story |
+| Addison (DM) | "Very well, keep your secrets." | DM Quip *(quoting Lord of the Rings)* |
 
 ### Profanity Record
 
