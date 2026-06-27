@@ -74,7 +74,7 @@ sitl-vault/
 
 | Tool | Use For |
 |---|---|
-| Filesystem MCP (preferred) | Reliable reads/writes against `C:\Users\theli\sitl_vault\…` |
+| Filesystem MCP (preferred) | Reliable reads/writes against `C:\Users\theli\Obsidian Vaults\sitl_vault\…` |
 | `obsidian:read-note` / `edit-note` / `create-note` / `search-vault` | Same operations via Obsidian — use when responsive |
 | `obsidian:add-tags` / `remove-tags` / `create-directory` / `move-note` / `delete-note` | Tag/structure management (delete with caution) |
 

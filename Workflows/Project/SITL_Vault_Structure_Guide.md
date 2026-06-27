@@ -1,7 +1,7 @@
 # SITL Obsidian Vault — Structure & Content Guide
 
 > **Vault name:** `sitl_vault`
-> **Local path:** `C:\Users\theli\sitl_vault`
+> **Local path:** `C:\Users\theli\Obsidian Vaults\sitl_vault`
 > **GitHub repo:** https://github.com/TheLittlestAskew/sitl_vault (private)
 
 This document defines every folder, file, and section in the Sky Is The Limit Obsidian vault. It serves as the authoritative reference for what goes where during Convo 2 vault updates.

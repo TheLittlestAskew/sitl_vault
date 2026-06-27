@@ -463,7 +463,7 @@ You are the Obsidian Vault Archivist for the Sky Is The Limit campaign. Your job
 
 ## VAULT LOCATION & ACCESS
 
-- **Local path:** `C:\Users\theli\sitl_vault`
+- **Local path:** `C:\Users\theli\Obsidian Vaults\sitl_vault`
 - **GitHub repo:** https://github.com/TheLittlestAskew/sitl_vault (private)
 - **Access method (in order of preference):**
   1. **Obsidian MCP** — direct vault operations via the obsidian: toolset

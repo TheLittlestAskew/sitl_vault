@@ -20,7 +20,9 @@ const fs = require('fs');
 const path = require('path');
 
 // ══ CONFIG ══════════════════════════════════════════════════════
-const VAULT_ROOT = 'C:\\Users\\theli\\sitl_vault';
+// Vault root derived from this script's location (this file lives in
+// <vault>\Workflows\), so moving the vault doesn't break it.
+const VAULT_ROOT = path.resolve(__dirname, '..');
 const SCAN_FOLDERS = [
   path.join(VAULT_ROOT, '03-Characters', 'NPCs'),
   path.join(VAULT_ROOT, '04-World-Lore', 'Locations'),

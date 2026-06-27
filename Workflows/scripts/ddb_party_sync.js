@@ -47,7 +47,9 @@
 const path = require('path');
 const fs = require('fs');
 
-const VAULT_ROOT = 'C:\\Users\\theli\\sitl_vault';
+// Vault root derived from this script's location (this file lives in
+// <vault>\Workflows\scripts\), so moving the vault doesn't break it.
+const VAULT_ROOT = path.resolve(__dirname, '..', '..');
 const CONFIG     = path.join(__dirname, 'ddb_party.json');
 const ENV_FILE   = path.join(VAULT_ROOT, '.env');
 const OUT_DIR    = path.join(VAULT_ROOT, '03-Characters', 'PCs', 'Party Character Sheets');

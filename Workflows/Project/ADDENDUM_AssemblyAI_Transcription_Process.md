@@ -26,14 +26,14 @@ The script produces a Raw/Unedited Transcript saved as `.md` in the vault. This 
 
 ### Option A: Interactive Picker (Recommended)
 ```
-cd C:\Users\theli\sitl_vault\Workflows
+cd C:\Users\theli\Obsidian Vaults\sitl_vault\Workflows
 node sitl_transcribe.js
 ```
 Lists all recordings in the Recordings folder sorted newest-first. Pick by number.
 
 ### Option B: Direct Filename
 ```
-node "C:\Users\theli\sitl_vault\Workflows\sitl_transcribe.js" "041226_Sky_Is_The_Limit_Recording.mp3"
+node "C:\Users\theli\Obsidian Vaults\sitl_vault\Workflows\sitl_transcribe.js" "041226_Sky_Is_The_Limit_Recording.mp3"
 ```
 ⚠️ Filenames with spaces **must** be wrapped in quotes.
 ⚠️ Include the file extension (.mp3, .m4a, etc.).
@@ -125,7 +125,7 @@ After each session's spell check, Claude should recommend any new terms to add b
 
 ## Recordings Storage
 
-- **Primary (vault):** `C:\Users\theli\sitl_vault\Session_Sources\Recordings\`
+- **Primary (vault):** `C:\Users\theli\Obsidian Vaults\sitl_vault\Session_Sources\Recordings\`
 - **Original backup (OneDrive):** `C:\Taylor Askew Ritchie\DND\DND\Sky Is The Limit\Sky Is The Limit\Recordings\`
 
 The script points to the vault copy. Originals remain in OneDrive as backup.
@@ -155,6 +155,6 @@ The spell check step is still required. The script catches most campaign-specifi
 | "Access denied" | You ran the .js file directly instead of with `node`. Use `node sitl_transcribe.js` |
 | "custom_spelling 'to' fields must contain only one word" | A `to` value in `SITL_CUSTOM_SPELLING` has multiple words. Fix it to a single word or remove the rule and rely on keyterms instead. |
 | API key error | Set `ASSEMBLYAI_API_KEY` environment variable or edit the `API_KEY` constant in the script |
-| Old version running | Make sure you're running the copy in `sitl_vault\Workflows\`, not an old copy elsewhere. Use the full path: `node "C:\Users\theli\sitl_vault\Workflows\sitl_transcribe.js"` |
+| Old version running | Make sure you're running the copy in `sitl_vault\Workflows\`, not an old copy elsewhere. Use the full path: `node "C:\Users\theli\Obsidian Vaults\sitl_vault\Workflows\sitl_transcribe.js"` |
 | Transcripts saving as .txt | Update script — output extension should be `.md` |
 | Speaker labels wrong | Speaker diarization varies between runs. Always verify mapping during spell check. |
