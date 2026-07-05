@@ -86,5 +86,27 @@ _Note: No new permanent treasure looted this session — the principal "acquisit
 
 ---
 
+## Session 20 — We Are Split in Two
+
+> ⚠️ Filed as S20 per operator instruction; session-numbering collision (no S19) unresolved — see [[Vault Sync Status]] / the session note's Archivist Notes.
+
+### Shrine Offerings (consumed, not acquired)
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|Old bracer (replaced by [[Jorlan Duskryn]]'s bracers)|Offered/discarded at the Shrine of the Sea Mother as a personal offering|Given up — offering|
+|Party inventory (via [[Amanita de'Champignon]])|Scavenged crawfish, glowing fungal spores|Offered at the shrine; Religion/Nature check (10) drew visible approval but no mechanical boon|Given up — offering|
+|[[Roxy]] (via [[Darby Stonefeather]])|Dung, reframed as "fertilizer"|Offered at the shrine after a botched Animal Handling check (3); Darby's follow-up check (12) got it accepted as "a fine offering"; drew a giggle from the shrine itself|Given up — offering|
+
+### Item Updates from This Session
+
+|Character|Item|Update|Status|
+|---|---|---|---|
+|Party inventory|Token from [[Sloopidoop]]|Referenced (Blarg was holding it) as proof of safe passage/intent when confronting the first kuo-toa contingent; Sloopidoop had noted it might be outdated|Carried|
+
+_Note: No new permanent loot this session — the party is spending goodwill and information, not acquiring items. Artaxle's drow gear (hand crossbow, sword, armor, shield, rations), outfitted by the party in the flashback, is not party loot._
+
+---
+
 ## Related
 [[Campaign Dashboard]]

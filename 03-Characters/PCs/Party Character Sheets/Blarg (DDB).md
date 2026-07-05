@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152910077
 ddb_url: https://www.dndbeyond.com/characters/152910077
-synced: 2026-06-14T19:25:03.642Z
+synced: 2026-07-05T19:01:36.643Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -58,8 +58,8 @@ generated_by: ddb_party_sync.js
 - Torch ×10
 - Waterskin
 
-## Spells (24)
+## Spells (21)
 
-- **Cantrips:** Druidcraft, Guidance, Mending, Mold Earth, Primal Savagery, Resistance, Spare the Dying, Starry Wisp
-- **Level 1:** Bless, Ceremony, Command, Cure Wounds, Earth Tremor, Find Familiar, Goodberry, Healing Word, Ice Knife, Purify Food and Drink, Shield of Faith, Speak with Animals
-- **Level 2:** Hold Person, Misty Step, Moonbeam, Warding Wind
+- **Cantrips:** Druidcraft, Guidance, Mending, Mold Earth, Primal Savagery, Resistance, Spare the Dying
+- **Level 1:** Bless, Ceremony, Command, Earth Tremor, Find Familiar, Goodberry, Healing Word, Ice Knife, Purify Food and Drink, Shield of Faith, Speak with Animals
+- **Level 2:** Hold Person, Misty Step, Warding Wind

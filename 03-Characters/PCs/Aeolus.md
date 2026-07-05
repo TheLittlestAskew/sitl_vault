@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-13
+updated_on: 2026-07-05
 type: pc
 race: Tiefling
 class: Warlock (Archfey Patron)
@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: En route to Sloobludop (Day 4 of 7, as of S15)
+location: Sloobludop (arrived S20)
 Character_id: "152796710"
 user_id: "118690437"
 JSON slug / roll_name: aeolus

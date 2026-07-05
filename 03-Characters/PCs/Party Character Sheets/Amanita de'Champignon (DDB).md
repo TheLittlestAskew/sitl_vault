@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152970581
 ddb_url: https://www.dndbeyond.com/characters/152970581
-synced: 2026-06-14T19:25:03.642Z
+synced: 2026-07-05T19:01:36.643Z
 generated_by: ddb_party_sync.js
 ---
 

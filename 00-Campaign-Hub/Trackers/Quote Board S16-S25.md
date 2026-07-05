@@ -237,5 +237,59 @@ updated_on: 2026-06-10
 
 ---
 
+## Session 20 — We Are Split in Two
+
+> ⚠️ Filed as S20 per operator instruction; session-numbering collision (no S19) unresolved — see [[Vault Sync Status]].
+
+**[[Artaxle]] · [Poignant]**
+"Kit, thank you for your camaraderie for these days [—] it has helped me overcome the grief of losing my [...] mentor [...] I will do my best to live by his example. And now yours."
+
+**[[Kit Aluri]] · [Poignant]**
+"I hope our paths cross again."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"You're super groovy, but you gotta do what you gotta do [...] here's some delicious mushrooms. [...] the ones on top, you can eat. The ones on the bottom [...] cause them a little bit of indigestion."
+
+**[[Kit Aluri]] · [Funny/Banter]**
+"Everybody keep your cool. I don't know what the fuck's going on, but just [stay] cool."
+
+**[[Binks Stonevein]] · [Funny]**
+"I think we're in information gathering stage, and we're kind of held up at knife point, so could be worse. No one's dead. Positive note."
+
+**[[Kit Aluri]] · [Serious]**
+"Next time you do that, you'll lose a hand." — to a hostile guard
+
+**[[Binks Stonevein]] · [Funny]**
+"Hey, I believe those are the bad guys, the ones that have us captured."
+
+**Addison (DM) · [DM Quip]**
+"I am. I am Ploopploopeen. Plin. I can't even say it. I am [...] You may call me Ploop." — voicing [[Ploop]]
+
+**[[Binks Stonevein]] · [Funny]**
+"So, does the Deep Father hate outsiders? [...] Oh, so they're killing everyone that's not kuo-toa. Cool. Awesome."
+
+**Addison (DM) · [Funny]**
+"A fine offering indeed from such a noble creature that we do not see often in these parts." — voicing [[Ploop]], re: Roxy's offering
+
+**[[Darby Stonefeather]] · [Funny]**
+"I'm a farmer. I can handle it."
+
+**[[Kit Aluri]] · [Poignant]**
+"No, I mean, survival is survival. And you did what you needed to do to get out, and we still got out. So no hard feelings." — to [[Jimjar]]
+
+**Addison (DM) · [Funny/Banter]**
+"Indigo, good to see you still alive, you wet bastard." — voicing [[Jimjar]], to [[Indigo]]
+
+**Addison (DM) · [Serious]**
+"If you live, you live. If you die, you die. I will do what I will do." — voicing [[Shuushar]]
+
+**[[Binks Stonevein]] · [Banter/Important to Story]**
+"I love trickery. Yes, I'll do it."
+
+**[[Binks Stonevein]] · [Funny/DM Quip/Important to Story]**
+"It was [the] little statue." — parting whisper, cliffhanger
+
+---
+
 ## Related
 [[Campaign Dashboard]]

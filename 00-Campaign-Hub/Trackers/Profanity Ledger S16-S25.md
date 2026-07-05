@@ -61,11 +61,24 @@ _Note: Conservative, transcript-only count. Self-censored / self-trailed entries
 
 ---
 
-## Running Totals (Through S18)
+## Session 20 — We Are Split in Two
+
+> ⚠️ Filed as S20 per operator instruction; session-numbering collision (no S19) unresolved — see [[Vault Sync Status]]. Transcript-only count (DDB archive not queried this run).
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | fuck/fucking | 1 | "I don't know what the fuck's going on, but just [stay] cool." |
+| Kit Aluri (Taylor) | shit | 1 | "Oh, shit." — reacting to news that Ploop's arrest is imminent |
+
+_Note: Addison, voicing Jimjar, calls Indigo "you wet bastard" in-character — logged in the Quote Board for color but omitted from the PC profanity ledger per established S18 convention (PC/player profanity only)._
+
+---
+
+## Running Totals (Through S20)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 16 | 25 | 10 | 9 | 1 | — | 61 |
+| Kit Aluri (Taylor) | 17 | 26 | 10 | 9 | 1 | — | 63 |
 | Addison (DM) | 4 | 5 | 3 | — | 2 | — | 14 |
 | Binks Stonevein (Matt) | 3 | 3 | 2 | 3 | 1 | — | 12 |
 | Darby Stonefeather (Austin) | — | 4 | 2 | 1 | — | — | 7 |
@@ -75,7 +88,7 @@ _Note: Conservative, transcript-only count. Self-censored / self-trailed entries
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit climbs to 61, still lapping the field — though most of S18's additions came from the OOC Harry Potter tangent rather than in-fiction play. Standings otherwise unchanged: Addison 14, Binks 12, Darby 7.*
+*Kit climbs to 63, still lapping the field — a quiet session for profanity overall (just her two lines), consistent with S20's talk-first, tension-driven tone. Standings otherwise unchanged: Addison 14, Binks 12, Darby 7.*
 
 ---
 

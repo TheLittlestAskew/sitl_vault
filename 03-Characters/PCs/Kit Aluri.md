@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-13
+updated_on: 2026-07-05
 type: pc
 race: Orc (Half-Orc flavored)
 class: Fighter (Battle Master) / Rogue (Assassin) multiclass
@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: En route to Sloobludop (Day 4 of 7, as of S15)
+location: Sloobludop (arrived S20)
 Character_id: "153130853"
 user_id: "107965379"
 JSON slug / roll_name: kit-aluri
@@ -67,6 +67,7 @@ JSON slug / roll_name: kit-aluri
 - (S17) **Refuses her "puppet/doll" backup on principle** — chooses Orcish/Relentless Endurance to survive rather than rely on the Doll of the Fallen Soldier ("I'm not ever gonna use the puppet"). — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 - (S17) Voices weariness at perpetually standing beside the party's most dangerous member ("I'm just always going to be standing right next to the person in our party who wants to kill us"). — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 - (S17) Sincerely thanks [[Aeolus]] for a non-lethal solution ("Thank you, Aeolus, which I feel like is going to be canon") — a softer beat after a near-death fight. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
+- (S20) Reconciles openly with a past betrayer ([[Jimjar]]) without minimizing what happened ("survival is survival... no hard feelings"), and separately narrates an explicit throughline connecting her current voluntary "prisoner/bait" status to her original captivity — a self-aware character beat. — [[Session 20 — We Are Split in Two|S20]]
 
 ## Inner Life & Evolution
 
@@ -88,13 +89,13 @@ JSON slug / roll_name: kit-aluri
 
 ### Active Emotional State
 
-*Updated: Session 17 (06/07/26)*
+*Updated: Session 20 (07/05/26)*
 
-- **Worn thin by the enforcer role.** For the second straight session she ended up at melee range with the party's most dangerous member ([[Derendil]]) and nearly died for it — dropped to 0, saved at 1 HP by Orcish blood. She said the quiet part aloud: "I'm just always going to be standing right next to the person in our party who wants to kill us." Tired of being the one nobody can save.
-- **Refuses the crutch.** Pointedly will not lean on the Doll of the Fallen Soldier — chose to grind out survival on Relentless Endurance instead ("I'm not ever gonna use the puppet"). Stubbornness as identity.
-- **A rare moment of softness:** sincerely thanked [[Aeolus]] for the non-lethal Sleep that saved both Derendil and her, then let her head fall on [[Blarg]]'s shoulder while he healed her — done pretending she wasn't hurt.
-- **Quietly certain about Derendil.** Heard [[Sloopidoop]] debunk the prince's story and felt she'd "known that for a while." Keeping her back to a wall and her eye on the prince.
-- Still carrying Jorlan's gear and his mission (Drizzt, the [[Society of Brilliance]]) — and now the Society is no longer abstract: she's met one. A real city (Sloobludop) is a day out; she'll believe the quiet bed when she's in it.
+- **Closes a chapter cleanly.** Said a genuine, unguarded goodbye to [[Artaxle]] in the flashback ("I hope our paths cross again... I don't say that to many people") — one of the few farewells in the campaign she hasn't had to process through violence or guilt first.
+- **Reconciles without erasing.** Found [[Jimjar]] alive after his S01 betrayal and chose forgiveness over the ledger: "survival is survival... no hard feelings." Paired with a warm, wordless reunion with a new contact, [[Indigo]] — continues the trust-earning arc she opened with Darby in S18.
+- **Names her own pattern.** Explicitly narrates the throughline from her original captivity to this session's voluntary return to "prisoner" status as bait — the enforcer/survivor identity is now something she watches herself perform, not just lives.
+- **A flicker of empathy for surrender.** Meeting [[Shuushar]] — a man who has given up on saving anyone, including himself — Kit doesn't judge him; she recognizes the exhaustion and wonders if the only difference between them is that she hasn't found a way to put her sword down yet.
+- Still carrying Jorlan's gear and his mission (Drizzt, the [[Society of Brilliance]]) — now inside a real city for the first time, and immediately being asked to be someone's prisoner again.
 
 ### Turning Points
 
@@ -108,10 +109,15 @@ JSON slug / roll_name: kit-aluri
 | S11 | Nightmare death + Topsy's resurrection | Accepted death as karma. Then saw Topsy alive and broke. First open emotional collapse. The Doll became real. |
 | S14 | Nat 20 Persuasion speech to the drow elite | First conflict resolved through words, not violence. Kit can be heard, not just feared. Jorlan's death gave the words weight. |
 | S17 | Downed by Derendil, refused the Doll, survived on Orcish blood | The enforcer role calcifies into resentment. She names it aloud — always beside the one who'd kill them all — and still does the work. Refusing the puppet is a statement: she'd rather bleed than be saved by the thing she won't trust. |
+| S20 | Reconciled with Jimjar; named the prisoner/bait throughline aloud | Forgiveness without amnesia. Also the first time Kit describes her own survivor pattern from the outside — watching herself do it again rather than just doing it. |
 
 ### Relationship Undercurrents
 
-*Updated: Session 15 (05/03/26)*
+*Updated: Session 20 (07/05/26)*
+
+- **[[Jimjar]]:** Reopened and closed in the same breath (S20). Found him alive at Sloobludop, running an intelligence network, disguised in kuo-toa netting. Kit chose forgiveness explicitly and without conditions — "survival isn't a debt."
+- **[[Indigo]]:** New (S20). A prior contact from [[04-World-Lore/Locations/Mantol-Derith]], reunited at Sloobludop as an active ally. The reunion registered as an audible sigh of relief — rare visible relief from Kit.
+- **[[Shuushar]]:** New (S20). A neutral, exhausted pacifist Kit meets without judgment — sees something of her own unresolved weariness in his surrender.
 
 - **[[Binks Stonevein]]:** Implicit trust, forged before the campaign started. Kit doesn't examine this bond — it just is. Would die for him without calculating the odds first.
 - **[[Darby Stonefeather]]:** Deepened respect since S08. Kit saw Darby rage and recognized a kindred violence. Comfortable fighting beside him. Doesn't overthink it.
@@ -169,6 +175,9 @@ JSON slug / roll_name: kit-aluri
 - **[[Topsy]]:** Kit killed Topsy (S04). Advocated for resurrection (S09). In S11, the Carrion King resurrected Topsy. Kit fell to her knees sobbing — the emotional climax of the campaign. Guilt processing ongoing.
 - **[[Blarg]]:** Trusted ally. In S10, Kit used bear-Blarg as a launching platform to kill the Myconid Sovereign — first coordinated PC-to-PC combat move in the campaign.
 - **[[Psilofyr]]:** Kit's isolation continues. S10: no vision or trinket. S11: "gift" came through a scripted nightmare she could not win. Psilofyr granted Fey Touched alongside the party but never spoke to Kit individually.
+- **[[Jimjar]]:** Reconciled (S20). Betrayed her trust in S01 (disappeared overnight); found alive at Sloobludop running an intelligence network. Kit forgave him without conditions.
+- **[[Indigo]]:** New ally (S20). Prior contact from [[04-World-Lore/Locations/Mantol-Derith]]; reunited at Sloobludop, led the ambush that rescued the party, took Kit to the hidden tavern.
+- **[[Shuushar]]:** New (S20). Neutral pacifist reunited with Kit at the tavern; she doesn't push him toward involvement.
 
 ## Key Events
 
@@ -187,6 +196,7 @@ JSON slug / roll_name: kit-aluri
 - **[[Session 14 — Far From the Sun|Session 14]]:** Session's emotional center. At 3 HP, delivered a nat 20 Persuasion speech (with Binks Help) to the drow elite, asking to pay respects to [[Jorlan Duskryn]]. Drow surrendered, said Kit earned his "respect" in halting Common. DM awarded inspiration. Climbed to northern watchpost and was with Jorlan when he died. Received key lore: [[Drizzt Do'Urden]] (legendary drow, alive near Gauntlgrym), [[Society of Brilliance]] (intelligent monsters investigating faerzress, includes mind flayer [[Grazilaxx]]), and faith in [[Artaxle]]. Closed Jorlan's eyes. Took his gear: Bracers of Defense (+2 AC), +1 Short Sword, +1 Dagger, lieutenant cloak with family crest. Offered Artaxle a spot in the party; he declined, heading to [[Menzoberranzan]] with false intel. Let fleeing drow go ("I got better things to do"). Party chose [[Sloobludop]] as next destination (8 days travel). Long rest at Velkynvelve. Trinket empowerment confirmed: Ring of Mind Shielding +1 STR. Frustrating session mechanically — missed repeatedly (13, 15, 12, 13 to hit), burned Action Surge for nothing. Dropped to 1 HP by Drow Elite crit (24 damage: 12 piercing + 12 poison) — **Relentless Endurance triggered** (second campaign use). Used Riposte on the Elite's miss for 14 damage. Second Wind used twice. Only successful greatsword hit: 21 to hit, 14 damage + 5 Hunter's Mark (first use of Hunter's Mark in combat — forgot to pre-declare, DM allowed). Took 12 damage from Ilvara's Insect Plague (passed Con save with nat 20). Survived through healing from Blarg (Healing Word 12 HP) and Binks (Cure Wounds 12 HP). Turvy's Silver Barbs saved her from another Drow Elite hit. Session defined by endurance over damage output — Kit held the line at 1 HP while others delivered the killing blows. Witnessed Ilvara's death (Roxy's gore), Jorlan's crossbow betrayal, and Derendil's return.
 - **[[Session 16 — Zone of Truth|Session 16]]:** Took second watch with [[Turvy]] at the Fungal Cavern camp. Spotted a wild [[Carrion Crawler]] (Perception 16 adv, Nature 15 to identify); group stealth (24, with Turvy's 15) let it pass. Heard the shelter commotion after Binks's dream (Perception 18) but stayed at her post. In the morning confrontation: chose to fail the **Zone of Truth** save deliberately — "I had nothing to hide, and I wanted everyone to see me not hiding." Escalation arc: hand on hilt → grabbed Binks's chin → hand on his throat → drew short sword on Derendil. **Intimidation 22** cracked Derendil into admitting his hunting dream. Interrogated Binks on possession and his real name. Delivered her second group trust speech in ~4 in-game days ("there's no royal status in this group… everybody get your shit together"). Accepted [[Topsy]]'s gentle check on her use of force. Gained Heroic Inspiration with the party. ⚠️ Pt1 (lost recording): DDB shows Survival nat-1 (2), Nature 12, Perception 6, Stealth 13 adv travel checks, and an **Arcana nat-20 (22)** — likely the horn identification scene.
 - **[[Session 17 — The Big Fish Eat the Little Fish|Session 17]]:** At the [[Darklake Approach Pool]], kept watch from a mushroom cap while the others fished/bathed. **Combat 1 (chuul):** Hunter's Mark + short sword (17 to hit, 15 dmg), failed Trip Attack, passed a Con save (16), was grappled and nearly dragged under (9 dmg), then **pried the pincer off easily (Strength 21)**. **Combat 2 (Derendil's frenzy):** moved in to put the beast down before it could turn on [[Sloopidoop]] — it turned on **her** instead. Derendil's **Nat 20 crit dropped her to 0; survived at 1 HP via Orcish/Relentless Endurance.** Refusing to fall, unloaded a **31-damage round** — Sneak Attack (25 to hit) + Trip (Derendil failed) + Savage Attacker reroll + **Action Surge**. [[Aeolus]]'s **Sleep** ended it before she had to make it permanent; she **thanked him sincerely** and let [[Blarg]] heal her (Cure Wounds 15; +9 from Binks). Insight 6 on Sloopidoop (couldn't read him). Recalled the kingdom "Nel Rinden Vain" (party History — her 21 was best memory). Looted the lair (d100 37 → **Lock of Trickery**). Heard Sloopidoop's verdict on Derendil and privately agreed. Voiced the session's thesis on her role: "I'm just always going to be standing right next to the person in our party who wants to kill us." ⚠️ Transcript-only rolls (DDB not queried).
+- **[[Session 20 — We Are Split in Two|Session 20]]:** In a flashback four days prior, said goodbye to [[Artaxle]] at the Fungal Cavern; rolled History (advantage, 17) on [[Bregan D'aerthe]], then a private History+Intimidation combo confirming a personal Bregan D'aerthe-adjacent contact, then a flat nat 20 History learning more about that contact. In the present, shouted multilingual warnings from her raft (Intelligence 11→15 with Second Wind) and shot the lead kuo-toa (17 to-hit, 9 damage) during the shore skirmish. Spotted a fleeing [[Indigo]] near the docks (Perception 15, Insight 19) but said nothing yet. Used Intimidation (22) to drop a hostile whip during the ambush. Rolled Religion (21) at the Shrine of the Sea Mother, learning [[Blibdoolpoolp|the Sea Mother]] is a scavenger goddess. Slipped away from the group (staying in telepathic contact via Amanita's spores) to reunite with [[Indigo]] at a hidden tavern, where she found [[Shuushar]] and [[Jimjar]] alive (nat 20 "dirty 20" Perception) and reconciled with Jimjar over his past betrayal. Learned of the imminent arrest of [[Ploop]] moments before the session's cliffhanger. ⚠️ Transcript-only rolls (DDB not queried).
 
 ## Key Quotes
 
@@ -236,6 +246,10 @@ JSON slug / roll_name: kit-aluri
 - "Thank you, Aeolus, which I feel like is going to be canon." — S17, after the non-lethal Sleep [Poignant]
 - "I'm just always going to be standing right next to the person in our party who wants to kill us. Great." — S17 [Poignant]
 - "When you're from where you're [from], every pond is a random pond. And you know what? You gotta eat." — S17 [Funny]
+- "I hope our paths cross again." — S20, farewell to Artaxle [Poignant]
+- "Everybody keep your cool. I don't know what the fuck's going on, but just [stay] cool." — S20 [Funny/Banter]
+- "Next time you do that, you'll lose a hand." — S20, to a hostile guard [Serious]
+- "No, I mean, survival is survival. And you did what you needed to do to get out, and we still got out. So no hard feelings." — S20, to Jimjar [Poignant]
 
 ## POV Journal
 
@@ -261,10 +275,17 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 18 — Trust the Whirlpool]]
+- [[Session 20 — We Are Split in Two]]
 - [[Sloopidoop]]
+- [[Ploop]]
+- [[Indigo]]
+- [[Jimjar]]
+- [[Shuushar]]
 - [[Chuul]]
 - [[Artaxle]]
 - [[Garruk]]
+- [[Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[04-World-Lore/Locations/The Feydark]]
 - [[Oozing Temple]]

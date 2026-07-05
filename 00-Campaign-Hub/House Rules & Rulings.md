@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-14
+updated_on: 2026-07-05
 ---
 
 # House Rules & Rulings
@@ -98,6 +98,11 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Spell scroll naming — "Sanctuary" vs. "Spell Scroll of Sand" — PENDING (S18):** This session the chuul-lair scroll is read as **"Sanctuary"** (Amanita, Kit), **conflicting with the S17 "Spell Scroll of Sand"** record. ⚠️ Do not silently reconcile — confirm the canonical name/spell with the DM.
 - **Milestone level-up agency / mixed-level party (S18):** [[Kit Aluri]] crossed the milestone threshold by killing the hag and **leveled to 5 on the spot** (chose **Dual Wielder**). The rest of the party **deferred** leveling to a player-chosen narrative moment (DM warned that leveling earlier means harder encounters). Mirrors the S16 level-up-agency ruling. The party is now **mixed-level** (Kit 5, others 4) going into S19.
 - **Whirlpool environmental hazard (S18):** Sloopidoop's directed whirlpool dealt **7 bludgeoning to each party member** and forced a **Constitution save vs. a level of exhaustion** ([[Amanita de'Champignon]] failed). Delivered the party one-way to [[Sloobludop]].
+
+### Session 20 Rulings
+> Play date 07/05/2026 ([[Session 20 — We Are Split in Two]]). Filed as S20 per operator instruction; no S19 exists — see [[Vault Sync Status]].
+- **Kuo-toa can sense invisible creatures (S20):** [[Binks Stonevein]]'s self-cast Invisibility failed to conceal him from the ambushing kuo-toa faction inside Sloobludop's gate — the species can detect invisible creatures. New tactical intel for future kuo-toa encounters.
+- **Absent-PC actions narrated by DM without a distinct voice (S20, precedent extension):** [[Aeolus]] (Sirius) was present but delayed (train) and never given a clearly-attributed spoken line for the rest of the session; his mechanical actions (Eldritch Blast, initiative, exhaustion) were narrated/rolled by the DM or relayed secondhand through Kit ("Star says…"). Distinct from the established "absent PC, DM plays by proxy" precedent (S12) — flagged for Taylor's confirmation of what actually happened, not treated as a new formal ruling.
 
 ### Campaign Setting
 - **Faerzress:** Ambient magical energy permeating the Underdark. Can be corrupted by chaotic/fiendish influence. Corrupted faerzress caused involuntary wererat transformation (S04), triggered short-term madness in Amanita when she cast Detect Magic on it (S05), and destabilizes the Feydark portal (S09). Connected to the corrupted entity's influence (S11).

@@ -42,10 +42,10 @@
   "height": "Very Tall",
   "weight": null,
   "inspiration": true,
-  "baseHitPoints": 33,
+  "baseHitPoints": 40,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 7,
+  "removedHitPoints": 0,
   "temporaryHitPoints": 0,
   "currentXp": 0,
   "alignmentId": 1,
@@ -1714,9 +1714,9 @@
     {
       "id": 207943216,
       "entityTypeId": 1446578651,
-      "level": 4,
+      "level": 5,
       "isStartingClass": true,
-      "hitDiceUsed": 0,
+      "hitDiceUsed": 1,
       "definitionId": 0,
       "subclassDefinitionId": null,
       "definition": {
@@ -4924,7 +4924,7 @@
     },
     {
       "typeId": 47,
-      "value": "Exhaustion (1)",
+      "value": "Exhaustion (1) HP die 3d8 on short rest",
       "notes": null,
       "valueId": "24645395",
       "valueTypeId": "779871897",
@@ -4932,7 +4932,12 @@
       "contextTypeId": null
     }
   ],
-  "conditions": [],
+  "conditions": [
+    {
+      "id": 4,
+      "level": 1
+    }
+  ],
   "deathSaves": {
     "failCount": null,
     "successCount": null,
@@ -5042,7 +5047,8 @@
     39,
     40,
     41,
-    42
+    42,
+    43
   ],
   "spells": {
     "race": [],
@@ -5631,22 +5637,6 @@
   "options": {
     "race": [
       {
-        "componentId": 13856126,
-        "componentTypeId": 1960452172,
-        "definition": {
-          "id": 3727539,
-          "entityTypeId": 306912077,
-          "name": "Stone’s Endurance (Stone Giant)",
-          "description": "<p>When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.</p>",
-          "snippet": "When you take damage, you can take a Reaction to roll <strong>1d12{{modifier:con#signed}}</strong> and reduce the damage by that total.",
-          "activation": null,
-          "sourceId": null,
-          "sourcePageNumber": 192,
-          "creatureRules": [],
-          "spellListIds": []
-        }
-      },
-      {
         "componentId": 13856132,
         "componentTypeId": 1960452172,
         "definition": {
@@ -5658,6 +5648,22 @@
           "activation": null,
           "sourceId": null,
           "sourcePageNumber": null,
+          "creatureRules": [],
+          "spellListIds": []
+        }
+      },
+      {
+        "componentId": 13856126,
+        "componentTypeId": 1960452172,
+        "definition": {
+          "id": 3727539,
+          "entityTypeId": 306912077,
+          "name": "Stone’s Endurance (Stone Giant)",
+          "description": "<p>When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.</p>",
+          "snippet": "When you take damage, you can take a Reaction to roll <strong>1d12{{modifier:con#signed}}</strong> and reduce the damage by that total.",
+          "activation": null,
+          "sourceId": null,
+          "sourcePageNumber": 192,
           "creatureRules": [],
           "spellListIds": []
         }
@@ -5877,6 +5883,26 @@
           5683,
           5684,
           5685
+        ],
+        "tagConstraints": []
+      },
+      {
+        "componentId": 15478362,
+        "componentTypeId": 1960452172,
+        "id": "8-564672",
+        "parentChoiceId": null,
+        "type": 3,
+        "subType": null,
+        "optionValue": null,
+        "label": "Choose a Level 5 Option",
+        "isOptional": false,
+        "isInfinite": false,
+        "defaultSubtypes": [],
+        "displayOrder": 5,
+        "itemDefinitionKey": null,
+        "options": [],
+        "optionIds": [
+          4546543
         ],
         "tagConstraints": []
       },
@@ -8398,6 +8424,12 @@
             "label": "Storm’s Thunder (Storm Giant)",
             "description": "<p>When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 Thunder damage to that creature.</p>",
             "sourceId": null
+          },
+          {
+            "id": 4546543,
+            "label": "Activate Large Form",
+            "description": "<p>Starting at character level 5, you can change your size to Large as a Bonus Action if you’re in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can’t use it again until you finish a Long Rest.</p>",
+            "sourceId": null
           }
         ]
       },
@@ -8670,6 +8702,59 @@
   },
   "actions": {
     "race": [
+      {
+        "componentId": 15478362,
+        "componentTypeId": 1960452172,
+        "id": "11033854",
+        "entityTypeId": "222216831",
+        "limitedUse": {
+          "name": null,
+          "statModifierUsesId": null,
+          "resetType": 2,
+          "numberUsed": 0,
+          "minNumberConsumed": 1,
+          "maxNumberConsumed": 1,
+          "maxUses": 1,
+          "operator": 1,
+          "useProficiencyBonus": false,
+          "proficiencyBonusOperator": 1,
+          "resetDice": null
+        },
+        "name": "Activate Large Form",
+        "description": "<p>Starting at character level 5, you can change your size to Large as a Bonus Action if you&rsquo;re in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can&rsquo;t use it again until you finish a Long Rest.</p>",
+        "snippet": "Once per Long Rest as a Bonus Action, you can change your size to Large for 10 minutes or until you end it. For that duration, you have Advantage on Strength checks, and your Speed increases by 10 ft.",
+        "abilityModifierStatId": null,
+        "onMissDescription": "",
+        "saveFailDescription": "",
+        "saveSuccessDescription": "",
+        "saveStatId": null,
+        "fixedSaveDc": null,
+        "attackTypeRange": null,
+        "actionType": 3,
+        "attackSubtype": null,
+        "dice": null,
+        "value": null,
+        "damageTypeId": null,
+        "isMartialArts": false,
+        "isProficient": false,
+        "spellRangeType": null,
+        "displayAsAttack": null,
+        "range": {
+          "range": null,
+          "longRange": null,
+          "aoeType": null,
+          "aoeSize": null,
+          "hasAoeSpecialDescription": false,
+          "minimumRange": null
+        },
+        "activation": {
+          "activationTime": null,
+          "activationType": 3
+        },
+        "numberOfTargets": null,
+        "fixedToHit": null,
+        "ammunition": null
+      },
       {
         "componentId": 3727539,
         "componentTypeId": 306912077,
@@ -9284,6 +9369,54 @@
         "modifierTypeId": 10,
         "modifierSubTypeId": 236,
         "componentId": 10292156,
+        "componentTypeId": 12168134,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": 1,
+        "id": "62627577",
+        "entityId": null,
+        "entityTypeId": null,
+        "type": "set",
+        "subType": "extra-attacks",
+        "dice": null,
+        "restriction": "",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Set",
+        "friendlySubtypeName": "Extra Attacks",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": 1,
+        "availableToMulticlass": true,
+        "modifierTypeId": 9,
+        "modifierSubTypeId": 356,
+        "componentId": 10292158,
+        "componentTypeId": 12168134,
+        "tagConstraints": []
+      },
+      {
+        "fixedValue": 10,
+        "id": "62627578",
+        "entityId": null,
+        "entityTypeId": null,
+        "type": "bonus",
+        "subType": "speed",
+        "dice": null,
+        "restriction": "while you aren’t wearing Heavy armor.",
+        "statId": null,
+        "requiresAttunement": false,
+        "duration": null,
+        "friendlyTypeName": "Bonus",
+        "friendlySubtypeName": "Speed",
+        "isGranted": true,
+        "bonusTypes": [],
+        "value": 10,
+        "availableToMulticlass": true,
+        "modifierTypeId": 1,
+        "modifierSubTypeId": 40,
+        "componentId": 10292159,
         "componentTypeId": 12168134,
         "tagConstraints": []
       },
@@ -10049,6 +10182,17 @@
         "privacyType": 3,
         "campaignId": null,
         "isAssigned": true
+      },
+      {
+        "userId": 112741854,
+        "username": "Kirk_The_Dodger",
+        "characterId": 112833037,
+        "characterName": "Indigo Montoya de Aguja",
+        "characterUrl": "/profile/Kirk_The_Dodger/characters/112833037",
+        "avatarUrl": "https://www.dndbeyond.com/avatars/29797/932/1581111423-85912204.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+        "privacyType": 2,
+        "campaignId": null,
+        "isAssigned": true
       }
     ]
   },
@@ -10313,8 +10457,8 @@
   ],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-06-14T18:45:24.044Z",
-  "providedFrom": "storage",
+  "dateModified": "2026-07-05T18:54:51.062058Z",
+  "providedFrom": "database",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,

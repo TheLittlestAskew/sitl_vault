@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-15
-updated_on: 2026-06-07
+updated_on: 2026-07-05
 type: location
 region: Underdark (between Velkynvelve and Sloobludop)
 first_appearance: "[[Session 15 — The Long Road to Sloobludop]]"
@@ -42,6 +42,12 @@ A large cavern filled with fungi and mushrooms of all sizes and types, encounter
 - **Watch 2 ([[Kit Aluri]] + [[Turvy]]):** a wild **[[Carrion Crawler]]** (~7–8 ft body, no harness) scurried along a far wall, feeding. Party stayed low; it passed.
 - Site of the horn ritual (Roxy partially stored), Binks's arachnid dream, [[Derendil]]'s sleep-hunting episode, and the **Zone of Truth** confrontation.
 - Party exited the cavern over Days 5–6: the far north end slopes downward with pooling water — the threshold of [[04-World-Lore/Locations/The Darklake]].
+
+## Session 20 — Flashback Revisit ([[Session 20 — We Are Split in Two|Session 20]])
+
+- Opening flashback scene set **four days before** S20's present-day events: the party's campsite here on Day 7 of the approach to the Darklake.
+- Site of **[[Artaxle]]'s farewell** — [[Amanita de'Champignon]] gifts him dual-purpose mushrooms; [[Kit Aluri]] and [[Darby Stonefeather]] say goodbye; Kit and Binks learn of [[Bregan D'aerthe]] and [[Jarlaxle]] via history checks; the party outfits Artaxle with drow gear and rations before he departs alone toward [[Menzoberranzan]].
+- Not new geography — a narrative revisit of the same S15/S16 camp, not a new location.
 
 ---
 

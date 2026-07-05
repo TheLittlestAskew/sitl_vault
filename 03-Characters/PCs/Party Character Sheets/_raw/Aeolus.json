@@ -842,7 +842,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "Light Armor",
+        "type": "",
         "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -5015,10 +5015,117 @@
     39,
     40,
     41,
-    42
+    42,
+    43
   ],
   "spells": {
     "race": [
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5519789,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2619174,
+          "definitionKey": "1118725998:2619174",
+          "name": "Thaumaturgy",
+          "level": 0,
+          "school": "Transmutation",
+          "duration": {
+            "durationInterval": 1,
+            "durationUnit": "Minute",
+            "durationType": "Time"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Ranged",
+            "rangeValue": 30,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.</p>\r\n<p><strong><em>Altered Eyes.</em></strong> You alter the appearance of your eyes for 1 minute.</p>\r\n<p><strong><em>Booming Voice.</em></strong> Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.</p>\r\n<p><strong><em>Fire Play.</em></strong> You cause flames to flicker, brighten, dim, or change color for 1 minute.</p>\r\n<p><strong><em>Invisible Hand.</em></strong> You instantaneously cause an unlocked door or window to fly open or slam shut.</p>\r\n<p><strong><em>Phantom Sound.</em></strong> You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p>\r\n<p><strong><em>Tremors.</em></strong> You cause harmless tremors in the ground for 1 minute.</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": false,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1
+          ],
+          "componentsDescription": "",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": null,
+          "canCastAtHigherLevel": false,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 333,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": false,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [],
+          "conditions": [],
+          "tags": [
+            "Control"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": null,
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 333,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": false,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": 6,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": null,
+        "range": {
+          "origin": "Ranged",
+          "rangeValue": 30,
+          "aoeType": null,
+          "aoeValue": null
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 3746464,
+        "componentTypeId": 306912077,
+        "spellListId": null
+      },
       {
         "overrideSaveDc": null,
         "limitedUse": null,
@@ -5552,112 +5659,6 @@
         "atWillLimitedUseLevel": null,
         "isSignatureSpell": null,
         "componentId": 3734091,
-        "componentTypeId": 306912077,
-        "spellListId": null
-      },
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5519789,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2619174,
-          "definitionKey": "1118725998:2619174",
-          "name": "Thaumaturgy",
-          "level": 0,
-          "school": "Transmutation",
-          "duration": {
-            "durationInterval": 1,
-            "durationUnit": "Minute",
-            "durationType": "Time"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Ranged",
-            "rangeValue": 30,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.</p>\r\n<p><strong><em>Altered Eyes.</em></strong> You alter the appearance of your eyes for 1 minute.</p>\r\n<p><strong><em>Booming Voice.</em></strong> Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.</p>\r\n<p><strong><em>Fire Play.</em></strong> You cause flames to flicker, brighten, dim, or change color for 1 minute.</p>\r\n<p><strong><em>Invisible Hand.</em></strong> You instantaneously cause an unlocked door or window to fly open or slam shut.</p>\r\n<p><strong><em>Phantom Sound.</em></strong> You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p>\r\n<p><strong><em>Tremors.</em></strong> You cause harmless tremors in the ground for 1 minute.</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": false,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1
-          ],
-          "componentsDescription": "",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": null,
-          "canCastAtHigherLevel": false,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 333,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": false,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [],
-          "conditions": [],
-          "tags": [
-            "Control"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": null,
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 333,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": false,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": 6,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": null,
-        "range": {
-          "origin": "Ranged",
-          "rangeValue": 30,
-          "aoeType": null,
-          "aoeValue": null
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 3746464,
         "componentTypeId": 306912077,
         "spellListId": null
       }
@@ -7565,6 +7566,22 @@
   "options": {
     "race": [
       {
+        "componentId": 13856160,
+        "componentTypeId": 1960452172,
+        "definition": {
+          "id": 3746464,
+          "entityTypeId": 306912077,
+          "name": "Charisma",
+          "description": "<p>When you cast Thaumaturgy with this trait, it uses Charisma.</p>",
+          "snippet": "You know the <em>Thaumaturgy</em> cantrip. When you cast it with this trait, the spell uses Charisma.",
+          "activation": null,
+          "sourceId": null,
+          "sourcePageNumber": 197,
+          "creatureRules": [],
+          "spellListIds": []
+        }
+      },
+      {
         "componentId": 13856164,
         "componentTypeId": 1960452172,
         "definition": {
@@ -7589,22 +7606,6 @@
           "name": "Charisma",
           "description": "<p>Your Infernal Legacy spells use Charisma.</p>",
           "snippet": "",
-          "activation": null,
-          "sourceId": null,
-          "sourcePageNumber": 197,
-          "creatureRules": [],
-          "spellListIds": []
-        }
-      },
-      {
-        "componentId": 13856160,
-        "componentTypeId": 1960452172,
-        "definition": {
-          "id": 3746464,
-          "entityTypeId": 306912077,
-          "name": "Charisma",
-          "description": "<p>When you cast Thaumaturgy with this trait, it uses Charisma.</p>",
-          "snippet": "You know the <em>Thaumaturgy</em> cantrip. When you cast it with this trait, the spell uses Charisma.",
           "activation": null,
           "sourceId": null,
           "sourcePageNumber": 197,
@@ -11986,21 +11987,21 @@
         "id": "63005617",
         "entityId": 2,
         "entityTypeId": 668550506,
-        "type": "sense",
+        "type": "set-base",
         "subType": "darkvision",
         "dice": null,
         "restriction": "",
         "statId": null,
         "requiresAttunement": false,
         "duration": null,
-        "friendlyTypeName": "Sense",
+        "friendlyTypeName": "Set Base",
         "friendlySubtypeName": "Darkvision",
         "isGranted": true,
         "bonusTypes": [],
         "value": 60,
         "availableToMulticlass": true,
-        "modifierTypeId": 8,
-        "modifierSubTypeId": 171,
+        "modifierTypeId": 39,
+        "modifierSubTypeId": 1746,
         "componentId": 13856159,
         "componentTypeId": 1960452172,
         "tagConstraints": []
@@ -12324,21 +12325,21 @@
         "id": "62627837",
         "entityId": null,
         "entityTypeId": null,
-        "type": "sense",
+        "type": "set-base",
         "subType": "devils-sight",
         "dice": null,
         "restriction": "",
         "statId": null,
         "requiresAttunement": false,
         "duration": null,
-        "friendlyTypeName": "Sense",
+        "friendlyTypeName": "Set Base",
         "friendlySubtypeName": "Devil’s Sight",
         "isGranted": true,
         "bonusTypes": [],
         "value": 120,
         "availableToMulticlass": true,
-        "modifierTypeId": 8,
-        "modifierSubTypeId": 1930,
+        "modifierTypeId": 39,
+        "modifierSubTypeId": 2401,
         "componentId": 4496872,
         "componentTypeId": 258900837,
         "tagConstraints": []
@@ -13891,14 +13892,25 @@
         "privacyType": 3,
         "campaignId": null,
         "isAssigned": true
+      },
+      {
+        "userId": 112741854,
+        "username": "Kirk_The_Dodger",
+        "characterId": 112833037,
+        "characterName": "Indigo Montoya de Aguja",
+        "characterUrl": "/profile/Kirk_The_Dodger/characters/112833037",
+        "avatarUrl": "https://www.dndbeyond.com/avatars/29797/932/1581111423-85912204.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+        "privacyType": 2,
+        "campaignId": null,
+        "isAssigned": true
       }
     ]
   },
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-06-14T18:41:13.471Z",
-  "providedFrom": "storage",
+  "dateModified": "2026-06-14T18:41:13.47168Z",
+  "providedFrom": "database",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,

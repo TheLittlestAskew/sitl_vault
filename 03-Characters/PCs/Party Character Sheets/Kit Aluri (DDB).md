@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 153130853
 ddb_url: https://www.dndbeyond.com/characters/153130853
-synced: 2026-06-14T19:25:03.642Z
+synced: 2026-07-05T19:01:36.643Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -17,7 +17,7 @@ generated_by: ddb_party_sync.js
 - **Total Level:** 5  ·  **Proficiency Bonus:** +3
 - **Background:** Soldier
 - **Max HP (approx):** 43
-- **AC:** 13  ·  *Base 10 + Dex +3*
+- **AC:** 16  ·  *Chain Mail 16 (heavy, no Dex)*
 - **Currency:** 0pp 18gp 0ep 0sp 0cp
 
 ## Ability Scores
@@ -31,13 +31,14 @@ generated_by: ddb_party_sync.js
 | WIS | 12 | +1 |
 | CHA | 11 | +0 |
 
-## Inventory (25)
+## Inventory (26)
 
 - Bracers of Defense *(equipped)*
 - Dagger, +1 *(equipped)*
+- Greatsword, +1 *(equipped)*
 - Shortsword, +1 *(equipped)*
 - Cloak of Elvenkind *(equipped)*
-- Chain Mail
+- Chain Mail *(equipped)*
 - Javelin ×8 *(equipped)*
 - Spear *(equipped)*
 - Flail *(equipped)*

@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-10
-updated_on: 2026-06-10
+updated_on: 2026-07-05
 ---
 
 # Kit Aluri — Character Journal
@@ -837,6 +837,34 @@ The priest. The fish with the ridiculous name. I laughed — let me have that, I
 He says the chaos that's been making everyone mad is getting *worse.* He says the thing wearing the elf's face will keep rotting back into the beast, and there's no cure but the peace of death. He has never heard of the kingdom the prince keeps naming. I didn't say what I was thinking, which is that I've known that for a while.
 
 We're a day out from a real city now. Walls, people who can pull curses out of a man, maybe a quiet bed. I'll believe it when I'm inside it. Until then I'm keeping my back to a wall and my eye on the prince, and I'm not going swimming again.
+
+</details>
+
+**
+
+---
+
+## Session 20 — We Are Split in Two
+
+<details><summary>Four days gone, then no days at all — Artaxle's farewell and the arrival at Sloobludop (direct continuation of Session 18)</summary>
+
+**THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR**
+
+**Day unknown — four days gone, then no days at all.**
+
+We said goodbye to the boy first. Four days back down the road, before the river took the ground out from under us — I keep circling back to it now that we're standing still again. He'd earned his gear the hard way and he was leaving to spend it in a city that would kill him for the wrong accent. I did the thing soldiers do at a goodbye: checked his straps, made him show me he knew which end of the crossbow was which, made him say the words back to me in the tongue he was still chewing through. He told me his teacher was at peace. He told me I was next in line for that kind of loyalty, whether I'd asked for it or not. I gave him the old handshake — grip to the elbow, like we do it back home — and told him I hoped our roads crossed again. I meant it. I don't say that to many people.
+
+Then the water took us and spat us out somewhere else — tired, waterlogged, and surrounded before we'd caught a full breath. I stood up on the wreck of my raft because sitting down felt like dying, and I yelled every language I own into the dark at once, common stacked on goblin stacked on the thieves' hand-code, because I didn't know which one would land and I didn't have the patience to guess politely. *Don't test me right now.* I put a bolt in the one swimming fastest at us before he got close enough to matter. It bought us exactly as much time as it needed to.
+
+They took us anyway. Walked us in at spear-point through a wall of netting and old bone hooks, and I let them, because fighting a whole flooded city on no sleep is a soldier's way of dying for nothing. I looked the one who'd thrown my crewmate to the ground dead in his flat black eyes and told him, quiet, that the next time he touched one of mine he'd lose the hand that did it. He believed me. Good.
+
+And then — of all the faces to find in a drowned, hostile town — his. Blue skin, green hair like weed on the tide, a trident he still knows how to use. I hadn't let myself wonder whether I'd see him again, because wondering costs you when the answer's no. I got the answer today, and it cost me nothing but a breath I didn't know I was holding.
+
+The priest here wants us as bait for his own daughter. Wants us walked in as prisoners so he can put a knife through his own church's other half. I've done worse things for stranger reasons, and it turns out I've got a friend on the inside now — a small, ugly, clever, wet friend who fed me lies once in a cage and is, against every soldier's instinct in me, still a friend. He looked sorry when he said it. I told him survival isn't a debt. We both got out. That's the whole ledger, closed.
+
+There's a man in this town who's given up on saving it — sits with his eyes open and his mind somewhere else, says his words are wasted breath either way. I don't think he's wrong, exactly. I think he's tired in a way I recognize, and I don't have room to judge a man for putting his sword down when I still haven't found a way to put mine down myself. Maybe that's the difference between us. Maybe it isn't.
+
+So: we go in as prisoners again. I've done that before, too. Last time, it cost me almost everything and taught me who was worth carrying out the other side. I'd like to think I already know the answer here. I'm about to find out if I'm right.
 
 </details>
 
