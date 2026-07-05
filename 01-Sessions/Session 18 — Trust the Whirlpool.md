@@ -50,8 +50,6 @@ tags: [session, sitl]
 
 ### Kit Aluri — POV Overview
 
-*(Storytelling exception. In-character, in-world. See [[Kit Aluri Journal]] for the running memoir. POV Hard Limits applied — no dice, levels, spell-labels, player or table talk.)*
-
 **Day 7.**
 
 Seven days underground and I have decided the dark has a sense of humor, and it is a cruel one. We came back to the road armed and rested for once — the elf had spent her coin, the goliath had finally learned to call her beast back with the horn, I'd been wearing my tongue out on the under-tongue the others speak — and for a few hours it felt like we were people going somewhere instead of prey running from something. Then the tunnels filled with water, the water started to move, and the fish-priest cocked his head at the current like it had insulted his mother. *This is rougher than I remember.* I have learned to hate that sentence.
