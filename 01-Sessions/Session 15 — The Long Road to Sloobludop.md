@@ -2,8 +2,9 @@
 created_on: 2026-05-15
 updated_on: 2026-05-15
 type: session
+campaign: Sky Is The Limit
 session_number: 15
-date: 2026-05-03
+session_date: 2026-05-03
 title: The Long Road to Sloobludop
 party_level: 4
 absent_players: None (Taylor arrived late)
@@ -16,6 +17,7 @@ party_present:
   - Blarg
   - Amanita de'Champignon
   - Darby Stonefeather
+tags: [session, sitl]
 ---
 
 # Session 15 — The Long Road to Sloobludop

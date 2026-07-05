@@ -1,8 +1,10 @@
 ---
 created_on: 2026-05-09
 updated_on: 2026-05-11
+type: session
+campaign: Sky Is The Limit
 session: 1
-date: 2025-10-12
+session_date: 2025-10-12
 title: "Prisoners of the Underdark"
 start_location: "Velkynvelve — Prison Cell"
 end_location: "Velkynvelve — Various locations across outpost"
@@ -10,6 +12,7 @@ party_present: ["Kit Aluri", "Amanita de'Champignon", "Darby Stonefeather", "Aeo
 absent: ["Binks Stonevein"]
 level: 2
 spelling_checked: true
+tags: [session, sitl]
 ---
 
 # Session 01 — Prisoners of the Underdark

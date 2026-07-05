@@ -2,8 +2,9 @@
 created_on: 2026-06-14
 updated_on: 2026-06-14
 type: session
+campaign: Sky Is The Limit
 session_number: 18
-date: 2026-06-14
+session_date: 2026-06-14
 title: Trust the Whirlpool
 party_level: 4 (Kit advanced to 5 — milestone, narrative timing)
 absent_players: Florian/Blarg (absent — Blarg run by Addison as an NPC this session)
@@ -15,6 +16,7 @@ party_present:
   - Amanita de'Champignon
   - Aeolus
   - Darby Stonefeather
+tags: [session, sitl]
 ---
 
 # Session 18 — Trust the Whirlpool

@@ -1,8 +1,10 @@
 ---
 created_on: 2026-05-11
 updated_on: 2026-06-11
+type: session
+campaign: Sky Is The Limit
 session: 8
-date: 2026-01-18
+session_date: 2026-01-18
 title: "The Whirlwind and the Depths"
 start_location: "Flooded parallel tunnels beneath ancient Dwarvish safe house (mid-combat, continued from S07)"
 end_location: "Mushroom caverns — approaching Feydark portal area"
@@ -20,6 +22,7 @@ npcs_present:
 party_level: "3 → 4 (Kit and Darby level up during short rest)"
 status: complete
 title_status: "Confirmed"
+tags: [session, sitl]
 ---
 
 # Session 08 — The Whirlwind and the Depths

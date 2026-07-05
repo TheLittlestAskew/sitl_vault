@@ -1,6 +1,8 @@
 ---
 created_on: 2026-05-11
 updated_on: 2026-05-11
+type: session
+campaign: Sky Is The Limit
 session_number: 7
 session_date: 2026-01-04
 session_title: Escape from the Oozing Temple
@@ -18,6 +20,7 @@ party_level: 3
 total_rolls: Transcript-only (DDB not synced)
 title_status: Pending confirmation
 spelling_checked: true
+tags: [session, sitl]
 ---
 
 # Session 07 — Escape from the Oozing Temple

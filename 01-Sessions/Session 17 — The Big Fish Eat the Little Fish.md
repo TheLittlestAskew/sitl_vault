@@ -2,8 +2,9 @@
 created_on: 2026-06-10
 updated_on: 2026-06-13
 type: session
+campaign: Sky Is The Limit
 session_number: 17
-date: 2026-06-07
+session_date: 2026-06-07
 title: The Big Fish Eat the Little Fish
 party_level: 4
 absent_players: None (Austin/Darby arrived late ~1:06:40; Hannah/Amanita returned from prior absence)
@@ -16,6 +17,7 @@ party_present:
   - Amanita de'Champignon
   - Aeolus
   - Darby Stonefeather
+tags: [session, sitl]
 ---
 
 # Session 17 — The Big Fish Eat the Little Fish

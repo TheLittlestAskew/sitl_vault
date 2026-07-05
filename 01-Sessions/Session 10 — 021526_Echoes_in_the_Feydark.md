@@ -1,6 +1,8 @@
 ---
 created_on: 2026-05-13
 updated_on: 2026-05-13
+type: session
+campaign: Sky Is The Limit
 session_number: 10
 session_date: 2026-02-15
 session_title: "Through the Fungal Gate"
@@ -17,6 +19,8 @@ tags:
   - psilofyr
   - level-up
   - myconid
+  - session
+  - sitl
 party_present:
   - Kit Aluri
   - Binks Stonevein

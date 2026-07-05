@@ -2,6 +2,7 @@
 created_on: 2026-05-13
 updated_on: 2026-05-13
 type: session
+campaign: Sky Is The Limit
 session_number: 11
 session_date: 2026-03-01
 session_title: "Gifts of the Carrion King"
@@ -13,6 +14,7 @@ npcs_present: Eldeth, Turvy, Topsy (resurrected), Roxanne, Stool, Psilofyr, Naos
 party_level: 4
 total_rolls_logged: 13
 spelling_checked: Yes
+tags: [session, sitl]
 ---
 
 # Session 11 — Gifts of the Carrion King

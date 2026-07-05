@@ -1,8 +1,10 @@
 ---
 created_on: 2026-05-09
 updated_on: 2026-06-13
+type: session
+campaign: Sky Is The Limit
 session: 2
-date: 2025-10-26
+session_date: 2025-10-26
 title: "Come Get Your Shit"
 start_location: "Velkynvelve — Various work locations"
 end_location: "Velkynvelve — Pool at base of cavern"
@@ -10,6 +12,7 @@ party_present: ["Kit Aluri", "Amanita de'Champignon", "Darby Stonefeather", "Aeo
 absent: []
 level: "2 → 3"
 spelling_checked: true
+tags: [session, sitl]
 ---
 
 # Session 02 — Come Get Your Shit

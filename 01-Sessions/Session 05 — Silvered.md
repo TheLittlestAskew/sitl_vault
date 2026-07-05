@@ -1,6 +1,8 @@
 ---
 created_on: 2026-05-10
 updated_on: 2026-06-11
+type: session
+campaign: Sky Is The Limit
 session_number: 5
 session_date: 2025-12-07
 session_title: "Silvered"
@@ -21,6 +23,7 @@ pursuit_level: 3
 total_rolls: 66
 title_status: "Confirmed"
 spelling_checked: true
+tags: [session, sitl]
 ---
 
 # Session 05 — Silvered

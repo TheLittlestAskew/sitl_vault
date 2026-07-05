@@ -1,6 +1,8 @@
 ---
 created_on: 2026-05-09
 updated_on: 2026-05-13
+type: session
+campaign: Sky Is The Limit
 session_number: 3
 session_date: 2025-11-09
 session_title: "Into the Dark"
@@ -16,6 +18,8 @@ tags:
   - gray-ooze
   - travel
   - route-choice
+  - session
+  - sitl
 party_present:
   - Kit Aluri
   - Binks Stonevein

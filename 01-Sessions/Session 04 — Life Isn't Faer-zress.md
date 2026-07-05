@@ -1,6 +1,8 @@
 ---
 created_on: 2026-05-10
 updated_on: 2026-05-11
+type: session
+campaign: Sky Is The Limit
 session_number: 4
 session_date: 2025-11-23
 start_location: "Ancient Dwarvish/Duergar Safe House"
@@ -20,6 +22,7 @@ party_level: 3
 title: "Life Isn't Faer-zress"
 title_source: "DM (Addison) — from written recap"
 source_note: "⚠ NO AUDIO RECORDING — Taylor at PAX. Source: DM written recap only."
+tags: [session, sitl]
 ---
 
 # Session 04 — Life Isn't Faer-zress

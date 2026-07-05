@@ -1,8 +1,10 @@
 ---
 created_on: 2026-05-14
 updated_on: 2026-05-14
+type: session
+campaign: Sky Is The Limit
 session: 12
-date: 2026-03-29
+session_date: 2026-03-29
 title: "Return to Velkynvelve"
 dm: Addison
 players_present: [Taylor, Matt, Sirius, Hannah, Austin]
@@ -16,6 +18,7 @@ party_present:
   - Aeolus
   - Amanita de'Champignon
   - Darby Stonefeather
+tags: [session, sitl]
 ---
 
 # Session 12 — Return to Velkynvelve

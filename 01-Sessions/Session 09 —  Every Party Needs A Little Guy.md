@@ -1,14 +1,17 @@
 ---
 created_on: 2026-05-13
 updated_on: 2026-05-13
+type: session
+campaign: Sky Is The Limit
 session_number: 9
-date: 2026-02-01
+session_date: 2026-02-01
 title: "Adopt-a-Rothe"
 start_location: "Upper Caverns — alcove between parallel tunnels"
 end_location: "Fungal Pond / Portal Room"
 party_present: ["Kit Aluri", "Binks Stonevein", "Aeolus", "Blarg", "Amanita de'Champignon", "Darby Stonefeather"]
 npcs_present: ["Stool", "Turvy", "Eldeth", "Glabbagool"]
 party_level: "Kit & Darby: 4; Others: 3"
+tags: [session, sitl]
 ---
 
 

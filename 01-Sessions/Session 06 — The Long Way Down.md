@@ -1,9 +1,11 @@
 ---
 created_on: 2026-05-11
 updated_on: 2026-05-11
+type: session
+campaign: Sky Is The Limit
 session: 6
 title: "The Long Way Down"
-date: 2025-12-21
+session_date: 2025-12-21
 party_level: 3
 start_location: "Underground shaft beneath Dwarvish safe house"
 end_location: "Oozing Temple fountain chamber — ankle-deep in rising floodwater"
@@ -26,6 +28,8 @@ tags:
   - ooze
   - glabbagool
   - darby-first-rage
+  - session
+  - sitl
 ---
 
 # Session 06 — The Long Way Down

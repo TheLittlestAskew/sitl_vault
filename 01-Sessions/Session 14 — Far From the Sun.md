@@ -1,8 +1,10 @@
 ---
 created_on: 2026-05-15
 updated_on: 2026-05-15
+type: session
+campaign: Sky Is The Limit
 session: 14
-date: 2026-04-12
+session_date: 2026-04-12
 title: "Far From the Sun"
 party_level: 5
 party_present:
@@ -21,6 +23,7 @@ companions:
   - "[[Roxanne]]"
 start_location: "Velkynvelve — cavern floor, post-battle"
 end_location: "Velkynvelve — barracks (long rest before departure to Sloobludop)"
+tags: [session, sitl]
 ---
 
 # Session 14 — Far From the Sun

@@ -1,8 +1,10 @@
 ---
 created_on: 2026-05-15
 updated_on: 2026-05-15
+type: session
+campaign: Sky Is The Limit
 session: 13
-date: 2026-04-11
+session_date: 2026-04-11
 title: "Reckoning at Velkynvelve"
 dm: Addison
 players_present: [Taylor, Matt, Sirius, Florian, Hannah, Austin]
@@ -17,6 +19,7 @@ party_present:
   - Blarg
   - Amanita de'Champignon
   - Darby Stonefeather
+tags: [session, sitl]
 ---
 
 # Session 13 — Reckoning at Velkynvelve

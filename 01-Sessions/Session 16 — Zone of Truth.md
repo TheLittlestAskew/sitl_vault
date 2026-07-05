@@ -2,8 +2,9 @@
 created_on: 2026-06-07
 updated_on: 2026-06-07
 type: session
+campaign: Sky Is The Limit
 session_number: 16
-date: 2026-05-24
+session_date: 2026-05-24
 title: Zone of Truth
 party_level: 4
 absent_players: Hannah (Amanita)
@@ -16,6 +17,7 @@ party_present:
   - Blarg
   - Amanita de'Champignon
   - Darby Stonefeather
+tags: [session, sitl]
 ---
 
 # Session 16 — Zone of Truth
