@@ -88,7 +88,7 @@ updated_on: 2026-06-07
 
 		- Following a long rest, the party investigates a suspicious table and discovers a mycelial network beneath the floor. Amanita smashes through the floor with a mithril pickaxe, revealing a three-way escape route: a dwarf-sized northern tunnel, an eastern ladder, and a southern slide. While attempting to choose the "safe" northern path through Binks's Augury, the unstable floor crumbles. Binks fails his save and is sent plummeting down the southern slide, ending the session as the party is once again split by the terrain. (edited)Tuesday, December 23, 2025 1:19 AM
 
-###### - ###### 06/07/26
+###### - 06/07/26
 
 Sloopidoop
 
@@ -96,3 +96,17 @@ Sloopidoop
 	- Sloopidoop is a cleric that serves The Sea Mother Blidoolvpoolp
 
 - The kingdom of Nelrindenvane in the high forest is where Dereindil said he was from
+###### - 070526
+Sending you info on a Mercenary that Kit at least knows of from that comes in and out of Slooplidop. You are the only member of the party who knows of this person, per your connections in [[Mantol Derith]] (Merc/Trade City/Fortress).  
+Roll two skill checks: History and your choice of Charisma-based skill. Combined Totals:
+
+- DC35+ means you know have a secret bond with this person
+- DC30-34 you are close friends "from work"
+- DC20-29 you have met before - maybe a tavern drink after work, bumping into each other on the streets, or sometime before, during, or after "a job", maybe working "together" once or twice, but you aren't close.
+- DC15-19 You haven't met but know of him well enough to you know where they may frequent when in Slooplidop.
+- DC<15 You have only heard of them, know little about them or where they may be.
+Your contact's name is Indigo
+he is an Aquan Eldritch Night Fighter
+
+> [!NOTE]
+> Roll Result: 18 but I Taylor has asked to say that Kit and this NPC have met once but only briefly
