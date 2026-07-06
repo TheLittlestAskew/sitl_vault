@@ -3,7 +3,7 @@ created_on: 2026-07-05
 updated_on: 2026-07-05
 type: session
 campaign: Sky Is The Limit
-session_number: 20
+session_number: 19
 session_date: 2026-07-05
 title: We Are Split in Two
 party_level: Kit Aluri 5; rest of party 4 (unchanged this session)
@@ -19,7 +19,7 @@ party_present:
 tags: [session, sitl]
 ---
 
-# Session 20 — We Are Split in Two
+# Session 19 — We Are Split in Two
 
 > **Date:** July 5, 2026
 > **Party Level:** [[Kit Aluri]] 5; rest of party remains 4 — no leveling this session.
@@ -30,9 +30,9 @@ tags: [session, sitl]
 
 ---
 
-## ⚠️ Session Numbering — Unresolved, Carried Forward From Phase A
+## Session Numbering — Resolved
 
-Per `_pipeline/S20/summary.md` and `flags.md` #4, this transcript's opening recap describes the *exact same events* as [[Session 18 — Trust the Whirlpool]] (the river run, the green hag, the whirlpool), then proceeds directly into new content with no indication another session occurred between them. There is no genuine Session 19 note in the vault — the file `Session_Sources/Transcripts/Raw_Unedited/19-060726_raw_transcript.md` appears to be a duplicate/mislabeled recording of Session 17's content, not real Session 19 play. This suggests the events in this transcript are the direct continuation of Session 18 and might properly be Session 19, not Session 20. **This was not resolved in Phase A and is not re-litigated here** — this note is filed as **Session 20 / 2026-07-05** per explicit instruction for this automated phase. Taylor/Convo 2 should reconcile the vault's session numbering (and the orphaned "19-060726" file) before this note's number is treated as final in the Campaign Dashboard.
+Phase A flagged that this transcript's opening recap describes the same events as [[Session 18 — Trust the Whirlpool]] before moving into new content, and that the vault's `19-060726` transcript slot was occupied by a duplicate/mislabeled recording of Session 17. **Taylor confirmed (2026-07-05): this is definitively Session 19** — a distinct session, not a continuation folded into 18. The orphaned duplicate has been relocated to `_pipeline/_ORPHANED_dup-of-S17_060726/` and `Session_Sources/Transcripts/Raw_Unedited/ORPHANED_dup-of-S17_19-060726_raw_transcript.md` so the real S19 slot is unambiguous going forward.
 
 ---
 
@@ -48,7 +48,7 @@ Per `_pipeline/S20/summary.md` and `flags.md` #4, this transcript's opening reca
 | Party Present      | [[Kit Aluri]], [[Binks Stonevein]], [[Amanita de'Champignon]], [[Darby Stonefeather]], [[Aeolus]] (no distinct voice — DM-run/relayed). **Absent:** [[Blarg]] (run as NPC). NPCs/companions present: [[Derendil]], [[Topsy]], [[Turvy]], [[Roxy]], [[Stool]].                                                   |                                                                                   |                                             |
 | Total Rolls Logged | **Supabase roll-archive cross-reference NOT performed this phase — the Supabase MCP tool was not granted permission during this run (see Archivist Notes).** All rolls below are transcript-observed only; none confirmed against `sitl_session_rolls`. Approximately 30 distinct rolls called out in dialogue. |                                                                                   |                                             |
 | Party Level        | Kit Aluri remains at 5 (leveled S18); rest of the party remains 4. No level-ups this session — Darby explicitly discusses her level-5 Wild Heart "large form" option but the scene functions as banter/housekeeping, not an in-session level-up.                                                                |                                                                                   |                                             |
-| Spelling Checked   | Yes (approved table at `_pipeline/S20/spellcheck.md`)                                                                                                                                                                                                                                                           |                                                                                   |                                             |
+| Spelling Checked   | Yes (approved table at `_pipeline/S19/spellcheck.md`)                                                                                                                                                                                                                                                           |                                                                                   |                                             |
 
 ---
 
@@ -322,7 +322,7 @@ All rows below are **transcript-only**, attributed on a best-effort basis; sever
 ### Continuity Flags, Missing Info & Ambiguities
 
 1. **Supabase roll-archive cross-reference not performed.** Both required queries were issued via the Supabase MCP but the tool call was not granted permission in this run. No rolls in the Full Roll Log above are DDB-confirmed. **Action needed:** re-run `SELECT * FROM sitl_session_rolls WHERE session_date = '2026-07-05'` and `SELECT MAX(timestamp_iso) FROM sitl_session_rolls` once Supabase access is available, and reconcile against the transcript-only log above. The `ddb_sessions` registration upsert (Convo_1_Instructions.md Step 7) was also attempted and also denied for the same reason — this session is **not yet registered** in `ddb_sessions`. Both should be re-run together once Supabase MCP access is granted.
-2. **Session numbering unresolved (carried from Phase A).** This transcript reads as the direct, uninterrupted continuation of Session 18, which would make it Session 19 — but the "19-060726" raw-transcript slot in the vault appears to hold a duplicate/mislabeled recording of Session 17. Filed as **Session 20 / 2026-07-05** per explicit instruction for this run; **not resolved**. See `_pipeline/S20/summary.md` and `flags.md` #4. Needs Taylor's confirmation (and likely a look at the actual play calendar) before the Campaign Dashboard's Sessions table is updated in Convo 2 — note the Dashboard itself is already out of date (its Sessions table stops at a garbled "18 ⚠️ | 06/07/2026" row and does not yet reflect the existing [[Session 18 — Trust the Whirlpool]] note).
+2. **Session numbering — resolved.** Phase A flagged that this transcript reads as a direct continuation of Session 18 and that the "19-060726" raw-transcript slot held a duplicate/mislabeled recording of Session 17. Taylor confirmed 2026-07-05: this is **Session 19**, a distinct session. See `_pipeline/S19/summary.md` and `flags.md` #4. The orphaned duplicate is relocated to `_pipeline/_ORPHANED_dup-of-S17_060726/`.
 3. **Aeolus has no distinct speaking voice anywhere in this transcript.** Unlike a normal "player absent, DM runs the character" case, Sirius's player ("Star") is stated to be present but delayed by train, and the transcript never clearly attributes a line to him afterward — all of his character's actions (Eldritch Blast, initiative, exhaustion) are narrated/rolled by the DM, or relayed secondhand through Kit ("Star says [...]"). It's unclear whether Sirius ever actually spoke on the call this session or participated only via text chat. Flagged per `flags.md` #3 — needs Taylor's confirmation.
 4. **Florian/[[Blarg]] absent — Blarg run as an NPC (CONFIRM).** Consistent with S18; no speaker label for Florian appears anywhere in this transcript either. Per `flags.md` #2.
 5. **"Star" = Sirius, presumed but not stated outright.** Based on the campaign roster (Sirius plays Aeolus) and context (a delayed train, the DM stalling for him to arrive), "Star" is presumed to be Sirius's nickname. Not confirmed explicitly on the record. Per `flags.md` #3.
@@ -333,7 +333,7 @@ All rows below are **transcript-only**, attributed on a best-effort basis; sever
 10. **Garbled/unresolved segments (per `flags.md` #5, no confident correction attempted):** "Bruce" preceding the (corrected) mention of Sloobludop near the escort explanation — no known referent; "everybody's back with a croutons" — unintelligible, no guess; "my words will fall on deaf Odaliths ears" (Shuushar) — left exactly as transcribed per the approved spellcheck table (speculative "deaf adder's ears" reading not applied); "may affect Largon" (pre-recording fragment) — left exactly as transcribed, referent unknown.
 11. **"Taraxi's horns" (S18-recap section, near the top of this transcript) left uncorrected.** This instance is not among the approved lines for the Artaxle correction in `spellcheck.md`, and contextually appears to describe the mount ([[Roxy]])'s horns during the S18 hag-fight recap, not Artaxle. Left as transcribed per "no change outside the approved table"; flagging here in case it warrants a future manual look.
 12. **New/unconfirmed NPC names carried from Phase A** (`flags.md` #6): **Aplopod**'s name spelling is unconfirmed (no established prior spelling); **Glug** is an explicit, deliberate short-name assigned by the DM in-session (not a mishearing); **Nanny Plunk**'s connection to the S18 hag Kit killed is speculative, not confirmed.
-13. **Corrected transcript generation.** The corrected/merged script-format transcript was generated via `_pipeline/S20/build_corrected.js` (kept for provenance/reproducibility), applying only the approved `spellcheck.md` table with the two documented exceptions (#11 above, and the intentional "our Taxolotl"/"Axolotl" nickname, left untouched). Consecutive same-speaker diarization fragments (Addison's lines split across SPEAKER A/C/E) were merged before corrections were applied, since several approved phrases span what were originally two adjacent raw fragments.
+13. **Corrected transcript generation.** The corrected/merged script-format transcript was generated via `_pipeline/S19/build_corrected.js` (kept for provenance/reproducibility), applying only the approved `spellcheck.md` table with the two documented exceptions (#11 above, and the intentional "our Taxolotl"/"Axolotl" nickname, left untouched). Consecutive same-speaker diarization fragments (Addison's lines split across SPEAKER A/C/E) were merged before corrections were applied, since several approved phrases span what were originally two adjacent raw fragments.
 
 ---
 
