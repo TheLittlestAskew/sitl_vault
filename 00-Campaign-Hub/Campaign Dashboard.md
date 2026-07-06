@@ -103,11 +103,11 @@ Most Recent Session: 2026-07-05
 | 16  | 05/24/2026 | Zone of Truth                  | [[Session 16 — Zone of Truth]]                 |
 | 17  | 06/07/2026 | The Big Fish Eat the Little Fish | [[Session 17 — The Big Fish Eat the Little Fish]] |
 | 18  | 06/14/2026 | Trust the Whirlpool | [[Session 18 — Trust the Whirlpool]] |
-| 20 ⚠️ | 07/05/2026 | We Are Split in Two | [[Session 20 — We Are Split in Two]] |
+| 20 ⚠️ | 07/05/2026 | We Are Split in Two | [[Session 19 — We Are Split in Two]] |
 
 > ⚠️ **Session-number 04 (unresolved).** Taylor was on vacation and was only able to log in for a short time at the end of the session. It was not recorded. Information from that session comes from [[[Notes from Addison]]]
 > ⚠️ **Row 17/18 correction (2026-07-05, S20 automated pass):** the prior "18 ⚠️" row was a leftover mislabel from the resolved S17/S18 collision (see [[Roll Statistics S16-S25]] / [[House Rules & Rulings]], both already using chuul=S17, whirlpool=S18). Corrected here to match.
-> ⚠️ **No Session 19 (unresolved, new).** This transcript (filed as Session 20, 07/05/2026) reads as a direct, uninterrupted continuation of Session 18 with no indication another session occurred between them — it might properly be Session 19. Filed as **Session 20** per explicit instruction for this automated phase; **not resolved**. See [[Session 20 — We Are Split in Two]] Archivist Notes.
+> ⚠️ **No Session 19 (unresolved, new).** This transcript (filed as Session 20, 07/05/2026) reads as a direct, uninterrupted continuation of Session 18 with no indication another session occurred between them — it might properly be Session 19. Filed as **Session 20** per explicit instruction for this automated phase; **not resolved**. See [[Session 19 — We Are Split in Two]] Archivist Notes.
 
 ---
 

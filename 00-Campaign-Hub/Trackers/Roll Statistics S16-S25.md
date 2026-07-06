@@ -20,7 +20,7 @@ sessions_covered: 19
 | [[Session 16 — Zone of Truth\|S16]] | 05/24/26 | 33 (+~7 transcript-only) | 0 | 33 | 1 (Kit Arcana, pt1) | 1 (Kit Survival, pt1) | Kit (17) | DDB + transcript ⚠️ pt1 recording lost — 12 rolls have inferred context |
 | [[Session 17 — The Big Fish Eat the Little Fish\|S17]] | 06/07/26 | **47 DDB** (+ Binks physical) | — | — | **0** DDB | **2** DDB | Kit (19) | ✅ cross-referenced 2026-06-14 — 47 rows (Kit 19, DM 12, Amanita 8, Aeolus 4, Darby 4); Binks 0 (physical). 0 nat 20s DDB (Derendil's crit was a DM/off-DDB roll); 2 nat 1s = Amanita Initiative + Darby History. Loot d100s ✓ (Kit 37 Lock of Trickery; DM-rolled 64→Darby/Rope, 70→Blarg/Sand scroll). |
 | [[Session 18 — Trust the Whirlpool\|S18]] | 06/14/26 | **82 DDB** (+ Aeolus physical) | —† | —† | **5** ✓DDB‡ | **0** DDB‡ | Kit / Binks (tie, 21 ea.) | ✅ cross-referenced 2026-06-14 — 82 rows, campaign 1 (Kit 21, Binks 21, Amanita 16, Darby 14, DM 10); Aeolus rolled physical |
-| [[Session 20 — We Are Split in Two\|S20]] | 07/05/26 | ~30 (transcript-only) | — | — | 2 (Kit — history flat DC18, Perception tavern) | 0 | Kit (~9 rolls) | ⚠️ **DDB NOT queried** (Supabase permission denied). No S19 — see [[Vault Sync Status]]. |
+| [[Session 19 — We Are Split in Two\|S20]] | 07/05/26 | ~30 (transcript-only) | — | — | 2 (Kit — history flat DC18, Perception tavern) | 0 | Kit (~9 rolls) | ⚠️ **DDB NOT queried** (Supabase permission denied). No S19 — see [[Vault Sync Status]]. |
 
 > † Combat/non-combat is **not cleanly separable** from DDB `roll_type` for S18 (37 roll · 23 check · 16 save · 3 to-hit · 3 damage): the session mixes a non-combat river skill-challenge (saves/checks) with the hag combat. Left blank rather than guessed.
 > ‡ **5 nat 20s** (DDB-verified): Kit ×3 (incl. the **greatsword killing-leap** to-hit `1d20+6 = 26`), Binks dex save `23`, and 1 DM/Roxy flat initiative `20`. **0 nat 1s** in DDB — the two transcript nat-1s (Aeolus jump-init; Blarg overboard) were rolled **off-DDB**.
@@ -50,6 +50,6 @@ sessions_covered: 19
 - [[Session 16 — Zone of Truth]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Session 18 — Trust the Whirlpool]]
-- [[Session 20 — We Are Split in Two]]
+- [[Session 19 — We Are Split in Two]]
 
 #mechanics #roll-statistics

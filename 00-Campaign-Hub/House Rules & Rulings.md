@@ -100,7 +100,7 @@ DM Addison's rulings override all published rules. This page tracks confirmed ho
 - **Whirlpool environmental hazard (S18):** Sloopidoop's directed whirlpool dealt **7 bludgeoning to each party member** and forced a **Constitution save vs. a level of exhaustion** ([[Amanita de'Champignon]] failed). Delivered the party one-way to [[Sloobludop]].
 
 ### Session 20 Rulings
-> Play date 07/05/2026 ([[Session 20 — We Are Split in Two]]). Filed as S20 per operator instruction; no S19 exists — see [[Vault Sync Status]].
+> Play date 07/05/2026 ([[Session 19 — We Are Split in Two]]). Filed as S20 per operator instruction; no S19 exists — see [[Vault Sync Status]].
 - **Kuo-toa can sense invisible creatures (S20):** [[Binks Stonevein]]'s self-cast Invisibility failed to conceal him from the ambushing kuo-toa faction inside Sloobludop's gate — the species can detect invisible creatures. New tactical intel for future kuo-toa encounters.
 - **Absent-PC actions narrated by DM without a distinct voice (S20, precedent extension):** [[Aeolus]] (Sirius) was present but delayed (train) and never given a clearly-attributed spoken line for the rest of the session; his mechanical actions (Eldritch Blast, initiative, exhaustion) were narrated/rolled by the DM or relayed secondhand through Kit ("Star says…"). Distinct from the established "absent PC, DM plays by proxy" precedent (S12) — flagged for Taylor's confirmation of what actually happened, not treated as a new formal ruling.
 

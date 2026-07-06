@@ -37,12 +37,12 @@ A kuo-toa settlement on the [[04-World-Lore/Locations/The Darklake]]. First name
 - [[Session 15 — The Long Road to Sloobludop]]: Travel distance corrected to 7 days from Velkynvelve.
 - [[Session 16 — Zone of Truth]]: Party ends the session ~1 day out, officially in the Darklake region.
 - [[Session 17 — The Big Fish Eat the Little Fish]]: Still "a short day's walk" away. [[Sloopidoop]] reveals it as his home village and bargains for the party to escort him there and aid it against the chaos; grants a village-access bead.
-- [[Session 20 — We Are Split in Two]]: Party arrives via whirlpool, is nearly captured by a hostile kuo-toa contingent, escorted in, then rescued mid-ambush by [[Indigo]]'s faction under [[Ploop]]. Full tour of the settlement's streets, the Shrine of the Sea Mother, Ploop's home, and the hidden tavern. Learns of the Sea Mother/Deep Father civil war; agrees to act as bait against [[Aplopod]]'s cult.
+- [[Session 19 — We Are Split in Two]]: Party arrives via whirlpool, is nearly captured by a hostile kuo-toa contingent, escorted in, then rescued mid-ambush by [[Indigo]]'s faction under [[Ploop]]. Full tour of the settlement's streets, the Shrine of the Sea Mother, Ploop's home, and the hidden tavern. Learns of the Sea Mother/Deep Father civil war; agrees to act as bait against [[Aplopod]]'s cult.
 
 ## Related
 
 - [[Session 17 — The Big Fish Eat the Little Fish]]
-- [[Session 20 — We Are Split in Two]]
+- [[Session 19 — We Are Split in Two]]
 - [[04-World-Lore/Locations/The Darklake]]
 - [[Sloopidoop]]
 - [[Ploop]]

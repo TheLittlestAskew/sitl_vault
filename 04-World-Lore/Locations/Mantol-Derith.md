@@ -14,6 +14,6 @@ updated_on: 2026-07-05
 
 ## Related
 [[Campaign Dashboard]]
-[[Session 20 — We Are Split in Two]]
+[[Session 19 — We Are Split in Two]]
 [[Indigo]]
 [[Kit Aluri]]
