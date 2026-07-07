@@ -61,9 +61,9 @@ _Note: Conservative, transcript-only count. Self-censored / self-trailed entries
 
 ---
 
-## Session 20 — We Are Split in Two
+## Session 19 — We Are Split in Two
 
-> ⚠️ Filed as S20 per operator instruction; session-numbering collision (no S19) unresolved — see [[Vault Sync Status]]. Transcript-only count (DDB archive not queried this run).
+> ✅ Session-numbering confirmed as S19 (2026-07-05, per Taylor) — see [[Vault Sync Status]]. Transcript-only count (DDB archive not queried this run).
 
 | Speaker | Curse Word | Frequency | Context |
 |---|---|---|---|
@@ -74,7 +74,7 @@ _Note: Addison, voicing Jimjar, calls Indigo "you wet bastard" in-character — 
 
 ---
 
-## Running Totals (Through S20)
+## Running Totals (Through S19)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
@@ -88,7 +88,7 @@ _Note: Addison, voicing Jimjar, calls Indigo "you wet bastard" in-character — 
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit climbs to 63, still lapping the field — a quiet session for profanity overall (just her two lines), consistent with S20's talk-first, tension-driven tone. Standings otherwise unchanged: Addison 14, Binks 12, Darby 7.*
+*Kit climbs to 63, still lapping the field — a quiet session for profanity overall (just her two lines), consistent with S19's talk-first, tension-driven tone. Standings otherwise unchanged: Addison 14, Binks 12, Darby 7.*
 
 ---
 

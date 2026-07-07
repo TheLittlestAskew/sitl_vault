@@ -844,7 +844,7 @@ We're a day out from a real city now. Walls, people who can pull curses out of a
 
 ---
 
-## Session 20 — We Are Split in Two
+## Session 19 — We Are Split in Two
 
 <details><summary>Four days gone, then no days at all — Artaxle's farewell and the arrival at Sloobludop (direct continuation of Session 18)</summary>
 

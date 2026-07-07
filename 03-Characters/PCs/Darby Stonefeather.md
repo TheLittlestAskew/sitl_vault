@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive
 player: Austin (aus10england)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Sloobludop (arrived S20)
+location: Sloobludop (arrived S19)
 Character_id: "148838177"
 user_id: "123535156"
 JSON slug / roll_name: darby-stonefeather
@@ -54,7 +54,7 @@ JSON slug / roll_name: darby-stonefeather
 - S09: Farmer instincts re-emerge — immediately claimed animal handler role for [[Roxanne]].
 - (S17) **Openly smitten with [[Sloopidoop]]** — "weird feelings… in a crushy kind of way" toward the kuo-toa priest. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 - (S17) Upbeat and easygoing even on a late arrival ("Jet lagged. Slept for 11 hours. I'm so sorry") — slots straight into the fight. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
-- (S20) Owns and reframes an awkward moment without embarrassment ("I'm a farmer, I can handle it") when [[Roxy]]'s shrine "offering" doesn't go as planned — consistent with her grounded, practical characterization. — [[Session 19 — We Are Split in Two|S20]]
+- (S19) Owns and reframes an awkward moment without embarrassment ("I'm a farmer, I can handle it") when [[Roxy]]'s shrine "offering" doesn't go as planned — consistent with her grounded, practical characterization. — [[Session 19 — We Are Split in Two|S19]]
 
 ## Abilities & Class Features
 
@@ -136,7 +136,7 @@ JSON slug / roll_name: darby-stonefeather
 - "Sweet darling girl." — S16, re: Clementine [Funny]
 - "Let's uncomplicate it." — S16 [Funny]
 - "Jet lagged. Slept for 11 hours. I'm so sorry." — S17, arriving mid-fight [Banter]
-- "I'm a farmer. I can handle it." — S20 [Funny]
+- "I'm a farmer. I can handle it." — S19 [Funny]
 
 ### S15 Key Events
 - Riding Roxy at front of the column. Fashioning armor onto Roxy during rest periods using building hammers and iron spikes.
@@ -160,7 +160,7 @@ JSON slug / roll_name: darby-stonefeather
 - Looted the lair: **Rope of Mending** (d100 = 64).
 - Comic beat: openly **smitten with [[Sloopidoop]]** ("weird feelings… in a crushy kind of way"). Physical/transcript rolls — DDB not queried.
 
-### S20 Key Events ([[Session 19 — We Are Split in Two|Session 20]])
+### S19 Key Events ([[Session 19 — We Are Split in Two|Session 19]])
 - Said goodbye to [[Artaxle]] in the flashback.
 - Made slow progress toward shore through difficult water with [[Roxy]] (Athletics 14, advantage, −2 exhaustion) during the shore skirmish.
 - At the Shrine of the Sea Mother, prompted Roxy into a botched Animal Handling check (3) that produced a dung "offering" instead of the intended vomit — then reframed it as fertilizer (Religion/Persuasion 12, −2 exhaustion), earning [[Ploop]]'s genuine praise ("a fine offering indeed") and a giggle from the shrine itself. "I'm a farmer. I can handle it."

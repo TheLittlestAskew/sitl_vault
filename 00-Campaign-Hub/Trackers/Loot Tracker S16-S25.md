@@ -86,9 +86,9 @@ _Note: No new permanent treasure looted this session — the principal "acquisit
 
 ---
 
-## Session 20 — We Are Split in Two
+## Session 19 — We Are Split in Two
 
-> ⚠️ Filed as S20 per operator instruction; session-numbering collision (no S19) unresolved — see [[Vault Sync Status]] / the session note's Archivist Notes.
+> ✅ Session-numbering confirmed as S19 (2026-07-05, per Taylor) — see [[Vault Sync Status]] / the session note's Archivist Notes.
 
 ### Shrine Offerings (consumed, not acquired)
 

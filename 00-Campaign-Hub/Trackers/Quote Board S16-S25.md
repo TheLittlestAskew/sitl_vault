@@ -237,9 +237,9 @@ updated_on: 2026-06-10
 
 ---
 
-## Session 20 — We Are Split in Two
+## Session 19 — We Are Split in Two
 
-> ⚠️ Filed as S20 per operator instruction; session-numbering collision (no S19) unresolved — see [[Vault Sync Status]].
+> ✅ Session-numbering confirmed as S19 (2026-07-05, per Taylor) — see [[Vault Sync Status]].
 
 **[[Artaxle]] · [Poignant]**
 "Kit, thank you for your camaraderie for these days [—] it has helped me overcome the grief of losing my [...] mentor [...] I will do my best to live by his example. And now yours."

@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Sloobludop (arrived S20)
+location: Sloobludop (arrived S19)
 Character_id: "152796710"
 user_id: "118690437"
 JSON slug / roll_name: aeolus

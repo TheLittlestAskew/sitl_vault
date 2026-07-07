@@ -54,8 +54,8 @@ Most Recent Session: 2026-07-05
 - [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Stabilized by Amanita (Spare the Dying, S14). Healed by Blarg (Cure Wounds, 9 HP restored → near full). Traveling with party.
 - [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Compressed into Amanita's waterskin (S09). Long rest achieved in Feydark (S10) — should be fully reconstituted.
 - [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve. **S16:** gained a Zurkhwood tent-cabin **shelter form** from her dimensional saddlebags. **S17: now fully stored in the horn** — Darby attuned; summon by calling "Roxanne." Inventory inaccessible while she's inside.
-- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Rescued (S13). **S16:** Sleep-"hunted" on all fours, returned with self-torn clothes and no memory; named his curse-wizard "Terrestor." **S17: identity debunked** by [[Sloopidoop]] — "no elf" but a chaos-deluded quaggoth, "no cure but the peace of death." Devoured the chuul, then **frenzied and dropped Kit to 0**; Slept by Aeolus and **bound** by Topsy/Turvy. Was **Captured/Restrained** (bound, asleep), +1 exhaustion. **S20:** woke mid-scene but flailing/non-functional, no memory of the past several hours; carried/supported by the party throughout. Active, unresolved intra-party danger.
-- [[Sloopidoop]] — Kuo-toa scholar-priest of the [[Society of Brilliance]]; worships "knowledge"/the Sea Mother (not Lolth). **New transactional ally (S17):** struck a mutual-aid bargain (escort him to [[Sloobludop]] + help the village vs. the chaos, for knowledge and aid), identified the party's loot, gave a village-access bead. **S18:** stayed behind to hold off two more green hags so the party could escape via whirlpool — fate unconfirmed. **S20:** not present; his successor [[Ploop]] (current Archpriest) dispatches scouts to check on him after Kit mentions the hag encounter. Open thread, unresolved.
+- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Rescued (S13). **S16:** Sleep-"hunted" on all fours, returned with self-torn clothes and no memory; named his curse-wizard "Terrestor." **S17: identity debunked** by [[Sloopidoop]] — "no elf" but a chaos-deluded quaggoth, "no cure but the peace of death." Devoured the chuul, then **frenzied and dropped Kit to 0**; Slept by Aeolus and **bound** by Topsy/Turvy. Was **Captured/Restrained** (bound, asleep), +1 exhaustion. **S19:** woke mid-scene but flailing/non-functional, no memory of the past several hours; carried/supported by the party throughout. Active, unresolved intra-party danger.
+- [[Sloopidoop]] — Kuo-toa scholar-priest of the [[Society of Brilliance]]; worships "knowledge"/the Sea Mother (not Lolth). **New transactional ally (S17):** struck a mutual-aid bargain (escort him to [[Sloobludop]] + help the village vs. the chaos, for knowledge and aid), identified the party's loot, gave a village-access bead. **S18:** stayed behind to hold off two more green hags so the party could escape via whirlpool — fate unconfirmed. **S19:** not present; his successor [[Ploop]] (current Archpriest) dispatches scouts to check on him after Kit mentions the hag encounter. Open thread, unresolved.
 - [[Clementine]] — [[Darby Stonefeather]]'s pet spider. Grew in size in the Feydark. Size/stats TBD by Addison. **S16:** Found "waiting" on Binks's shoulder after his arachnid dream. Via Speak with Animals: senses "The Master of Spiders" with Binks — "she knows him now."
 
 ### Former / Departed Companions
@@ -75,9 +75,9 @@ Most Recent Session: 2026-07-05
 - [[Artaxle]] — Young drow from Velkynvelve. Jorlan's protégé. Eyes flash purple. Declined to join party; heading to [[Menzoberranzan]] with false intel to buy the party time. First appearance S14.
 - The Corrupted Entity — Female, from the Abyss. A twisted reflection of [[Psilofyr]]. Seeks to control death and rot. Naos attempted to infiltrate her and is now in danger. Name unknown — Naos "dare not speak" it. Likely Zuggtmoy (do not metagame). (S11)
 - **Lolth / "The Master of Spiders"** — Following Binks's shrine desecration (S14), her attention on him is confirmed (S16): dream-connection through arachnid eyes, "dormant, not that it went away." Per Clementine: "she knows him now." Not yet a direct appearance.
-- [[Aplopod]] — Kuo-toa, [[Ploop]]'s daughter. Leader of the "Deep Father" (**Limu Gugun**) cult at [[Sloobludop]]; drawing away a growing faction with human/humanoid blood sacrifice and "chumming" the Darklake for something unknown. Not physically present S20; sends forces to arrest her father as the session ends. (S20)
-- Glug — Kuo-toa "whip" (enforcer), [[Ploop]]'s son. Objects loudly to outsiders' involvement in Sloobludop's civil war; overruled by his father. Hostile to the party, unresolved. (S20)
-- [[Nanny Plunk]] — Green hag (presumed). Named by [[Ploop]] as "particularly mischievous" and dangerous; possible (unconfirmed) connection to the hag [[Kit Aluri]] killed in S18. Not encountered directly. (S20)
+- [[Aplopod]] — Kuo-toa, [[Ploop]]'s daughter. Leader of the "Deep Father" (**Limu Gugun**) cult at [[Sloobludop]]; drawing away a growing faction with human/humanoid blood sacrifice and "chumming" the Darklake for something unknown. Not physically present S19; sends forces to arrest her father as the session ends. (S19)
+- Glug — Kuo-toa "whip" (enforcer), [[Ploop]]'s son. Objects loudly to outsiders' involvement in Sloobludop's civil war; overruled by his father. Hostile to the party, unresolved. (S19)
+- [[Nanny Plunk]] — Green hag (presumed). Named by [[Ploop]] as "particularly mischievous" and dangerous; possible (unconfirmed) connection to the hag [[Kit Aluri]] killed in S18. Not encountered directly. (S19)
 
 ---
 
@@ -103,11 +103,11 @@ Most Recent Session: 2026-07-05
 | 16  | 05/24/2026 | Zone of Truth                  | [[Session 16 — Zone of Truth]]                 |
 | 17  | 06/07/2026 | The Big Fish Eat the Little Fish | [[Session 17 — The Big Fish Eat the Little Fish]] |
 | 18  | 06/14/2026 | Trust the Whirlpool | [[Session 18 — Trust the Whirlpool]] |
-| 20 ⚠️ | 07/05/2026 | We Are Split in Two | [[Session 19 — We Are Split in Two]] |
+| 19  | 07/05/2026 | We Are Split in Two | [[Session 19 — We Are Split in Two]] |
 
 > ⚠️ **Session-number 04 (unresolved).** Taylor was on vacation and was only able to log in for a short time at the end of the session. It was not recorded. Information from that session comes from [[[Notes from Addison]]]
-> ⚠️ **Row 17/18 correction (2026-07-05, S20 automated pass):** the prior "18 ⚠️" row was a leftover mislabel from the resolved S17/S18 collision (see [[Roll Statistics S16-S25]] / [[House Rules & Rulings]], both already using chuul=S17, whirlpool=S18). Corrected here to match.
-> ⚠️ **No Session 19 (unresolved, new).** This transcript (filed as Session 20, 07/05/2026) reads as a direct, uninterrupted continuation of Session 18 with no indication another session occurred between them — it might properly be Session 19. Filed as **Session 20** per explicit instruction for this automated phase; **not resolved**. See [[Session 19 — We Are Split in Two]] Archivist Notes.
+> ⚠️ **Row 17/18 correction (2026-07-05, S19 automated pass):** the prior "18 ⚠️" row was a leftover mislabel from the resolved S17/S18 collision (see [[Roll Statistics S16-S25]] / [[House Rules & Rulings]], both already using chuul=S17, whirlpool=S18). Corrected here to match.
+> ✅ **Session 19 numbering resolved (2026-07-05, per Taylor).** This transcript reads as a direct, uninterrupted continuation of Session 18 with no indication another session occurred between them, but is confirmed as its own distinct Session 19. See [[Session 19 — We Are Split in Two]] Archivist Notes.
 
 ---
 
@@ -137,8 +137,8 @@ Most Recent Session: 2026-07-05
 | S16: Night camp at Fungal Cavern (horn ritual, watches, Binks's dream, Derendil episode, Zone of Truth), then travel Days 5–6. Ends ~1 day from Sloobludop, in the Darklake region. | S16 | ~2 days (incl. 1 long rest) |
 | S17 ⚠️: Day 6 of the journey — the [[Darklake Approach Pool]] clearing. Fishing → chuul ambush → Derendil's frenzy → first contact with [[Sloopidoop]]; loot the submerged lair; bargain to escort him to Sloobludop (~1 day / "a short day's walk" out). | S17 *(disputed; likely S17)* | ~half a day (no long rest narrated) |
 | S18: River run via Roxy-raft, green sea hag disguised as a "mermaid," Sloopidoop's directed whirlpool. Kit levels to 5. | S18 | Several hours (no long rest narrated) |
-| S20 ⚠️: Direct continuation of S18 — whirlpool arrival at Sloobludop's edge, four-days-earlier flashback (Artaxle's farewell), shore skirmish, escort/ambush/rescue, meeting Archpriest Ploop, shrine offerings, tavern reunion (Jimjar, Shuushar), cliffhanger arrest attempt. Party **arrives at and enters Sloobludop.** | S20 *(no S19 — see numbering flag)* | Same day as S18 (continuous); flashback scene set 4 days earlier |
-| **Total post-escape through S20** | | **~11+ full days** (present-day thread continuous from S18; exact day-count not restated in S20) |
+| S19: Direct continuation of S18 — whirlpool arrival at Sloobludop's edge, four-days-earlier flashback (Artaxle's farewell), shore skirmish, escort/ambush/rescue, meeting Archpriest Ploop, shrine offerings, tavern reunion (Jimjar, Shuushar), cliffhanger arrest attempt. Party **arrives at and enters Sloobludop.** | S19 | Same day as S18 (continuous); flashback scene set 4 days earlier |
+| **Total post-escape through S19** | | **~11+ full days** (present-day thread continuous from S18; exact day-count not restated in S19) |
 
 ---
 

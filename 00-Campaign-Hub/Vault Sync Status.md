@@ -34,7 +34,9 @@ Each column = a vault file or file group. Each row = a session. ✅ = updated, �
 | S15 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | S16 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | S18 ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| S19 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ➖ | ✅ |
 
+> ✅ **S19 numbering resolved (2026-07-05, per Taylor).** The 2026-07-05 play session ("We Are Split in Two") was filed under the pipeline's working name "S20"; Phase A flagged it as a likely direct continuation of S18 that might properly be S19, with the vault's `19-060726` transcript slot occupied by a duplicate/mislabeled recording of S17. Taylor confirmed it is a distinct **Session 19** — session note, pipeline folder (`_pipeline/S19/`), and transcripts renamed accordingly; the orphaned duplicate relocated to `_pipeline/_ORPHANED_dup-of-S17_060726/`.
 > ⚠️ **No S17 row — session-number collision (unresolved).** The 2026-06-07 play session is filed as **S18** per operator instruction but is most plausibly **S17** by play-date ordering (the same date was staged as S16/S17/S18 in pipeline folders; the vault's [[Session 16 — Zone of Truth]] is a *different*, earlier session played 2026-05-24). There is no separate S17 session. **Human decision needed** to set the true number and retire the duplicate transcripts/pipeline folders before this is finalized. The **S18 DDB roll archive is now cross-referenced** (2026-06-14): 82 rows, campaign 1, no sync gap — Roll Stats updated. **S17 (06-07) is now cross-referenced too** (47 rows). ⚠️ Note: this revealed the "Binks/Aeolus = physical dice" rule is unreliable — in S18 Binks rolled digitally (Aeolus physical), in S17 the reverse (Aeolus 4 DDB, Binks 0). **Matt has since switched to digital rolls (confirmed by Taylor 2026-06-14).**
 
 ---
@@ -138,7 +140,7 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 
 ## Current Gaps Summary
 
-**Fully synced through:** S18 (all applicable columns ✅ — filed under disputed number; see collision note)
+**Fully synced through:** S19 (all applicable columns ✅; S18 filed under disputed number, see collision note)
 
 **Partially synced:** None
 
@@ -150,6 +152,7 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 3. S04 corrected transcript still missing (legacy gap).
 
 **Resolved:**
+- ✅ **S19 session-numbering resolved (2026-07-05, per Taylor):** the 2026-07-05 session ("We Are Split in Two") is confirmed as Session 19, not a continuation of S18 or a duplicate. Session note, `_pipeline/S19/` folder, and corrected/raw transcripts renamed from the pipeline's working "S20" label; orphaned duplicate-of-S17 pipeline artifacts relocated to `_pipeline/_ORPHANED_dup-of-S17_060726/`. All ~15 vault files referencing "Session 20"/"S20" swept and corrected.
 - ✅ Tracker restructure **completed 2026-06-07**: content split into `Trackers/` batch files (`* S01-S15.md` archives + `* S16-S25.md` active). Hub-root files (`Loot Tracker.md`, `Quote Board Master.md`, `Profanity Ledger.md`, `05-Mechanics/Roll_Statistics.md`) are now pointer stubs so legacy links resolve. Misnamed empty `Loot Tracker S16-S30.md` placeholder and duplicate hub-root `Exhaustion & Madness Tracker.md` deleted (canonical copy lives in `Trackers/`). Dashboard Quick References/Quick Links updated to active batches.
 - ✅ Party level **resolved 2026-06-07 (per Taylor)**: level-up NOT complete — party is Level 4; Addison is giving the option to take Level 5 in the near future, timed by the players' feel (at/after Sloobludop). Erroneous Open Threads "Completed" entry corrected.
 
@@ -159,6 +162,7 @@ Run periodically: read this file and spot-check a few ✅ cells to confirm the v
 
 | Date | Updated By | Changes |
 |---|---|---|
+| 2026-07-05 | Claude (S19 numbering fix) | **S19 added to sync matrix, fully synced.** The 2026-07-05 session ("We Are Split in Two") was processed by the pipeline under the working label "S20" with a Phase A flag questioning whether it was really S19 (direct continuation of S18) or a duplicate of the orphaned `19-060726` transcript (itself confirmed a mislabeled dupe of S17). Taylor confirmed: distinct **Session 19**. Renamed: session note (`01-Sessions/Session 19 — We Are Split in Two.md`), `_pipeline/S20/`→`_pipeline/S19/`, corrected + raw transcripts (`20-070526`→`19-070526`). Orphaned duplicate relocated to `_pipeline/_ORPHANED_dup-of-S17_060726/` and `..._ORPHANED_dup-of-S17_19-060726_raw_transcript.md`. Swept and corrected "Session 20"/"S20" references across Campaign Dashboard, House Rules, Location Index, Open Threads, all 4 active Trackers, Kit's Journal, PC pages (Aeolus/Darby/Kit), and 4 Location pages (Fungal Cavern/Mantol-Derith/Menzoberranzan/Sloobludop). `_pipeline/state.json` and `status.json` paths/numbers updated to match. |
 | 2026-06-14 | Claude (S17 DDB cross-reference) | **S17 DDB roll archive cross-referenced** (47 rows, campaign 1, 2026-06-07). Roll Stats S17 row + session-note Full Roll Log reconciled: total now 47 DDB (Kit 19, DM 12, Amanita 8, Aeolus 4, Darby 4) + Binks physical; **0 nat 20s / 2 nat 1s** DDB-verified (Derendil's crit + chuul nat-1 were DM/off-DDB). Loot d100s and Kit's 31-damage round confirmed. **Aeolus rolled digitally at S17** (4 rows) — old physical-dice tag corrected; Binks still physical here (switched at S18). |
 | 2026-06-14 | Claude (S18 DDB cross-reference) | **S18 DDB roll archive cross-referenced** (was transcript-only). 82 rows, campaign 1 "Sky Is The Limit", `last_synced 2026-06-14 18:44`, no sync gap. Roll Stats S18 row + session-note Full Roll Log reconciled: total now 82 DDB (Kit 21, Binks 21, Amanita 16, Darby 14, DM 10) + Aeolus physical; 5 nat 20s / 0 nat 1s (DDB-verified). **Heaviest roller corrected** Kit→Kit/Binks tie. **Corrected the "Binks & Aeolus = physical dice" assumption** — Binks rolled digitally in S18 (Aeolus physical); reversed in S17. **`ddb_sessions` registry fixed**: 06-07→S17, 06-14→S18 (was 06-07 mislabeled S18, no 06-14 row). ⚠️ Follow-ups: confirm Matt switched to digital; fix sync-script NULL crit flags + double-encoded `individual_values`; cross-reference S17. |
 | 2026-05-14 | Claude (vault audit) | Initial matrix created from vault inspection. S01–S08 marked fully synced. S09–S11 marked partial. S12–S15 marked not started. S04 corrected transcript missing noted. |

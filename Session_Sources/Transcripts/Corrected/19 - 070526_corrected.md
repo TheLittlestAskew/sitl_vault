@@ -1,7 +1,7 @@
-# SITL Session 20 - Corrected Transcript
+# SITL Session 19 - Corrected Transcript
 # Session date: 07/05/2026 (2026-07-05)
-# Source: 20-070526_raw_transcript.md (STT universal-3-pro, 95.6% conf, 184 min)
-# Corrections: ONLY the approved table in _pipeline/S20/spellcheck.md (word-boundary/
+# Source: 19-070526_raw_transcript.md (STT universal-3-pro, 95.6% conf, 184 min)
+# Corrections: ONLY the approved table in _pipeline/S19/spellcheck.md (word-boundary/
 #   exact-phrase, applied wherever the approved variant string occurs), EXCEPT the one
 #   "Taraxi" instance (recap line, refers to Roxy's horns, not Artaxle -- left uncorrected,
 #   see Archivist Notes) and the intentional "our Taxolotl"/"Axolotl" nickname (left as-is).
