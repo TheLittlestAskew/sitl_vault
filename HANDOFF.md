@@ -4,18 +4,23 @@
 > Handoff is **enabled** for this repo. Every change updates the DO NEXT block below and prepends a log entry.
 > Note: this is a notes/content vault — most session-note edits won't have a "next dev step." Use the DO NEXT block for things like next-session prep if useful, or leave it as "—".
 
-## ▶ DO NEXT — before tomorrow's session (2026-07-05), in order
-1. 🚨 **Watcher — check, may already be resolved:** `Get-ScheduledTask` shows "SITL Pipeline Watcher" as `Running` right now, so `Install-SITLTask.cmd` may already have been run. Just confirm it's pointed at the new vault path (not silently stuck on the old one) rather than re-running blind.
-2. **Publish command (new):** `Workflows/scripts/Publish-SITL.cmd` commits + pushes all note changes; the site fetches session notes straight from this repo's main, so push = publish (~5 min CDN).
-3. **Inside Obsidian (never shell):** move the six root template stubs (Character/Item/Location/NPC/Quest/Session.md) into `Templates/` — they currently appear as phantom blank rows in every DnD.base view.
-4. **Kit journal cleanup (inside Obsidian):** merge `02-Character_Journal/` surgery files (`_S09_addition`, `_temp_header`, `_test`, `S09_Journal_INSERT_BEFORE_RELATED`) into `Kit Aluri Journal.md`, then delete the four leftovers.
-5. ⚠️ **Verify archive data:** load `/sky-is-the-limit/archive.html` live and confirm the session list populates — it queries Supabase `vtrtyagltwdrbastpppl`, but the MCP connection labeled SystemHorizon (same ref per prior notes) shows no ddb tables; the project↔connection mapping needs confirming in the next Code session.
-6. **Site follow-up (rectrixcaedere repo):** `session.html` hardcodes the session list; new sessions need a list entry until the list is generated from a manifest/Supabase.
+## ▶ DO NEXT
+1. **NEW — after every SITL session:** run `Workflows/scripts/Sync-Rolls-To-RC.md` (roll copy Meridian→RC + `ddb_sessions` registration). The DDB extension writes only to Aftermath Meridian now; the RC site + archivist read the RC project. Without this step, every new session repeats the S19 "no roll data" gap. Long-term automation decision still open (options in the runbook).
+2. **Inside Obsidian (never shell):** move the six root template stubs (Character/Item/Location/NPC/Quest/Session.md) into `Templates/` — they currently appear as phantom blank rows in every DnD.base view.
+3. **Kit journal cleanup (inside Obsidian):** merge `02-Character_Journal/` surgery files (`_S09_addition`, `_temp_header`, `_test`, `S09_Journal_INSERT_BEFORE_RELATED`) into `Kit Aluri Journal.md`, then delete the four leftovers.
+4. **S19 archivist follow-up:** the Full Roll Log in `Session 19 — We Are Split in Two.md` is transcript-only; the Supabase cross-reference can now run (56 DDB rolls for 2026-07-05 are in `sitl_session_rolls`, and S19 is registered in `ddb_sessions` as id 20). Re-run the reconciliation pass when convenient.
+5. ⚠️ **Publish path reminder:** the scheduled backup commit/push is permanently dead (S-9). `Workflows/scripts/Publish-SITL.cmd` or a manual push is the only way notes reach the live site.
 
 ---
 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
+
+### 2026-07-16 · Claude Code
+- **Changed:** Root-caused and repaired the "DDB roll sync malfunctioning" report. Root cause: the roll pipeline MOVED, it didn't break — the extension has written only to Aftermath Meridian (`drtvlcgyjlofaffbwael.rolls`) since ~2026-06-15, while the RC site + archivist read the Rectrix_Caedere project (`vtrtyagltwdrbastpppl`), where `sitl_session_rolls` turned out to be a VIEW over `ddb_rolls` (ET-timezone session dates). Repair: backfilled all 82 missing SITL rolls (S19's 56 + June/July strays) into `ddb_rolls` with idempotent ON CONFLICT dedup; per-day count+sum(total) checksums verified against Meridian; registered S19 in `ddb_sessions` (id 20); confirmed 56 rolls anon-visible via the site's exact REST query. Wrote the repeatable per-session runbook `Workflows/scripts/Sync-Rolls-To-RC.md`. Also resolved the old DO NEXT 5 mystery: the correct MCP connection for `vtrtyagltwdrbastpppl` is `supabase-cutter` (project "Rectrix_Caedere"), not SystemHorizon. Old DO NEXT items 1 (watcher path ✓ verified), 2, 5, 6 closed (6 was done earlier today: S19 wired into the RC site pages, commit `0384631` in rectrixcaedere).
+- **Commit:** this commit (runbook + HANDOFF), pushed manually — no auto-backup exists anymore.
+- **Next:** DO NEXT 1 becomes part of the post-session ritual; Tayls to pick the long-term sync automation option (runbook §Long-term).
+- **Watch out:** Meridian `rolls.individual_values` is stored as a jsonb STRING (`"[1]"`), RC `ddb_rolls` wants a real array — the runbook's Step 2 CASE handles it; don't skip it.
 
 ### 2026-07-05 ET · Claude Code
 - **Changed:** Completed DO NEXT item 3 from the 2026-07-04 audit — unified all 18 `01-Sessions/*.md` notes to the adopted schema: added `campaign: Sky Is The Limit` (0/18 had it), renamed `date:` → `session_date:` (12/18 needed it), merged `tags: [session, sitl]` into existing/new tags blocks. Also added `type: session` to the 13/18 notes that were missing it entirely — without it, `DnD.base`'s Sessions view (`filters: type == "session"`) wouldn't have shown those rows at all, so the DO NEXT item as literally written wouldn't have "lit up the Sessions view fully" as promised. Verified all 18 frontmatter blocks still parse as valid YAML after edits. Renumbered DO NEXT accordingly and noted the SITL watcher task is currently `Running` per `Get-ScheduledTask` (item 1 may already be resolved — needs a path confirmation, not a blind re-run).
