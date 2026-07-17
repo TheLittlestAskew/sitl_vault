@@ -1,15 +1,24 @@
 # HANDOFF — sitl_vault
 
 > Obsidian D&D vault for the "Sky Is The Limit" campaign. Includes Site_HTML, Templates, Workflows.
-> Handoff is **enabled** for this repo. Every change updates the DO NEXT block below and prepends a log entry.
-> Note: this is a notes/content vault — most session-note edits won't have a "next dev step." Use the DO NEXT block for things like next-session prep if useful, or leave it as "—".
+> Handoff is **enabled** for this repo. Every change updates the Status/Next Steps below and prepends a log entry.
+> Note: this is a notes/content vault — most session-note edits won't have a "next dev step."
 
-## ▶ DO NEXT
-1. **NEW — after every SITL session:** run `Workflows/scripts/Sync-Rolls-To-RC.md` (roll copy Meridian→RC + `ddb_sessions` registration). The DDB extension writes only to Aftermath Meridian now; the RC site + archivist read the RC project. Without this step, every new session repeats the S19 "no roll data" gap. Long-term automation decision still open (options in the runbook).
-2. **Inside Obsidian (never shell):** move the six root template stubs (Character/Item/Location/NPC/Quest/Session.md) into `Templates/` — they currently appear as phantom blank rows in every DnD.base view.
-3. **Kit journal cleanup (inside Obsidian):** merge `02-Character_Journal/` surgery files (`_S09_addition`, `_temp_header`, `_test`, `S09_Journal_INSERT_BEFORE_RELATED`) into `Kit Aluri Journal.md`, then delete the four leftovers.
-4. **S19 archivist follow-up:** the Full Roll Log in `Session 19 — We Are Split in Two.md` is transcript-only; the Supabase cross-reference can now run (56 DDB rolls for 2026-07-05 are in `sitl_session_rolls`, and S19 is registered in `ddb_sessions` as id 20). Re-run the reconciliation pass when convenient.
-5. ⚠️ **Publish path reminder:** the scheduled backup commit/push is permanently dead (S-9). `Workflows/scripts/Publish-SITL.cmd` or a manual push is the only way notes reach the live site.
+## Status
+
+S19's roll-sync gap is repaired (backfilled + registered in `ddb_sessions`); ongoing per-session sync and vault-cleanup items remain open.
+
+## Next Steps
+
+- [ ] After every SITL session, run `Workflows/scripts/Sync-Rolls-To-RC.md` (roll copy Meridian→RC + `ddb_sessions` registration) — the DDB extension writes only to Aftermath Meridian now
+- [ ] Inside Obsidian (never shell), move the six root template stubs (Character/Item/Location/NPC/Quest/Session.md) into `Templates/`
+- [ ] Inside Obsidian, merge `02-Character_Journal/` surgery files (`_S09_addition`, `_temp_header`, `_test`, `S09_Journal_INSERT_BEFORE_RELATED`) into `Kit Aluri Journal.md`, then delete the four leftovers
+- [ ] Re-run the Supabase cross-reference for the Full Roll Log in `Session 19 — We Are Split in Two.md` (56 rolls now in `sitl_session_rolls`, S19 registered as `ddb_sessions` id 20)
+- [ ] Publish notes via `Workflows/scripts/Publish-SITL.cmd` (or a manual push) — the scheduled backup commit/push is permanently dead (S-9)
+
+## Context
+
+Long-term roll-sync automation decision still open (options listed in `Workflows/scripts/Sync-Rolls-To-RC.md`).
 
 ---
 
