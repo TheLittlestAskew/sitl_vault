@@ -6,24 +6,32 @@
 
 ## Status
 
-S19's roll-sync gap is repaired (backfilled + registered in `ddb_sessions`); ongoing per-session sync and vault-cleanup items remain open.
+Roll data for all campaigns (SITL, Ashfall, P&P) is current in the RC database after checksum-verified backfills; the per-session sync ritual and Obsidian cleanup items remain open.
 
 ## Next Steps
 
-- [ ] After every SITL session, run `Workflows/scripts/Sync-Rolls-To-RC.md` (roll copy Meridian→RC + `ddb_sessions` registration) — the DDB extension writes only to Aftermath Meridian now
+- [ ] After each session (any campaign), sync rolls: preferred = paste `Workflows/scripts/ddb_sync_supabase.js` in the dndbeyond.com console with a DevTools Bearer token and `await syncAllCampaigns('TOKEN')`; fallback = the MCP copy in `Workflows/scripts/Sync-Rolls-To-RC.md`
+- [ ] Optional: run `ddb_sync_supabase.js` once now — its upsert fills the enrichment columns (`is_nat_20`, `dice_type`, …) left NULL on the 234 backfilled rows
 - [ ] Inside Obsidian (never shell), move the six root template stubs (Character/Item/Location/NPC/Quest/Session.md) into `Templates/`
 - [ ] Inside Obsidian, merge `02-Character_Journal/` surgery files (`_S09_addition`, `_temp_header`, `_test`, `S09_Journal_INSERT_BEFORE_RELATED`) into `Kit Aluri Journal.md`, then delete the four leftovers
-- [ ] Re-run the Supabase cross-reference for the Full Roll Log in `Session 19 — We Are Split in Two.md` (56 rolls now in `sitl_session_rolls`, S19 registered as `ddb_sessions` id 20)
-- [ ] Publish notes via `Workflows/scripts/Publish-SITL.cmd` (or a manual push) — the scheduled backup commit/push is permanently dead (S-9)
+- [ ] Re-run the Supabase cross-reference for the Full Roll Log in `Session 19 — We Are Split in Two.md` (56 rolls in `sitl_session_rolls`, S19 = `ddb_sessions` id 20)
 
 ## Context
 
-Long-term roll-sync automation decision still open (options listed in `Workflows/scripts/Sync-Rolls-To-RC.md`).
+- Long-term roll-sync automation decision still open (options in `Workflows/scripts/Sync-Rolls-To-RC.md` §Long-term).
+- ⚠️ Never load the `Workflows/ddb-roll-sync/` Chrome extension — security-flagged legacy copy; the console script is the sanctioned legacy tool.
+- Publishing notes: `Workflows/scripts/Publish-SITL.cmd` or manual push only — the scheduled backup commit/push is permanently dead (S-9).
 
 ---
 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
+
+### 2026-07-17 · Claude Code
+- **Changed:** Answered "does Workflows/ still contain the ddb sync?" — yes: `Workflows/ddb-roll-sync/` (legacy Chrome extension, security-flagged, do not load) and `Workflows/scripts/ddb_sync_supabase.js` v1.1 (the pre-Meridian console-paste ritual: DDB game-log API → RC `ddb_rolls`, ALL campaigns, fills enrichment columns, upsert-safe). That reframed the repair: the ritual stopped when the Meridian extension shipped, and the gap hit every campaign. Backfilled the rest from Meridian via MCP: Ashfall 151 rolls (Jun 23 ×130 + Jun 30 ×21), P&P 1 roll (Jun 23); count+sum checksums exact on both sides. Rewrote `Sync-Rolls-To-RC.md` to all-campaign scope with the console script as PREFERRED and the MCP copy as fallback (campaign id map included).
+- **Commit:** this commit (runbook + HANDOFF), pushed manually.
+- **Next:** optional enrichment pass via the console script (fills NULL `is_nat_20`/`dice_type` on the 234 backfilled rows); Tayls' long-term automation pick.
+- **Watch out:** an Ashfall Jun 30 row has NULL `dice_notation` (Unarmed Strike damage, empty dice) — NULLs don't collide in the unique key, so a re-run could duplicate that one row; the console script's merge-duplicates path has the same property. One-row exposure, noted.
 
 ### 2026-07-16 · Claude Code
 - **Changed:** Root-caused and repaired the "DDB roll sync malfunctioning" report. Root cause: the roll pipeline MOVED, it didn't break — the extension has written only to Aftermath Meridian (`drtvlcgyjlofaffbwael.rolls`) since ~2026-06-15, while the RC site + archivist read the Rectrix_Caedere project (`vtrtyagltwdrbastpppl`), where `sitl_session_rolls` turned out to be a VIEW over `ddb_rolls` (ET-timezone session dates). Repair: backfilled all 82 missing SITL rolls (S19's 56 + June/July strays) into `ddb_rolls` with idempotent ON CONFLICT dedup; per-day count+sum(total) checksums verified against Meridian; registered S19 in `ddb_sessions` (id 20); confirmed 56 rolls anon-visible via the site's exact REST query. Wrote the repeatable per-session runbook `Workflows/scripts/Sync-Rolls-To-RC.md`. Also resolved the old DO NEXT 5 mystery: the correct MCP connection for `vtrtyagltwdrbastpppl` is `supabase-cutter` (project "Rectrix_Caedere"), not SystemHorizon. Old DO NEXT items 1 (watcher path ✓ verified), 2, 5, 6 closed (6 was done earlier today: S19 wired into the RC site pages, commit `0384631` in rectrixcaedere).

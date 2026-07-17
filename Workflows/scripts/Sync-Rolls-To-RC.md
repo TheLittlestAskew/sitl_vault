@@ -1,16 +1,29 @@
-# Sync-Rolls-To-RC — copy new SITL rolls from Aftermath Meridian to the RC site's database
+# Sync-Rolls-To-RC — copy new rolls from Aftermath Meridian to the RC site's database
 
 > **Why this exists (2026-07-16):** the DDB roll-sync extension was migrated to the
 > Aftermath Meridian Supabase project (`drtvlcgyjlofaffbwael`, table `rolls`) around
 > 2026-06-15. Nothing writes to the Rectrix_Caedere project (`vtrtyagltwdrbastpppl`,
 > table `ddb_rolls`) anymore — but the public RC site and the SITL archivist both read
 > from there (via the `sitl_session_rolls` VIEW over `ddb_rolls`). Until the two are
-> unified, run this copy **after each SITL session** (after the Siphon has run).
+> unified, run a copy **after each session, for every campaign** (2026-07-17: the gap
+> hit Ashfall and P&P too, not just SITL).
 >
-> Run it in Claude Code — it uses the `supabase-aftermath-meridian` and `supabase-cutter`
-> MCP connections. No credentials live in this file. Idempotent: the unique key
-> `(campaign_id, roll_id, roll_type, dice_notation)` + `ON CONFLICT DO NOTHING` make
-> re-runs safe.
+> **PREFERRED TOOL — the legacy console script** `Workflows/scripts/ddb_sync_supabase.js`
+> (the pre-Meridian ritual): grab a Bearer token from DevTools on dndbeyond.com, paste
+> the script in the browser console, `await syncAllCampaigns('TOKEN')`. It pulls straight
+> from DDB's game-log API for ALL campaigns, upserts on the same unique key, and fills
+> the enrichment columns (`is_nat_20`, `is_nat_1`, `dice_type`, …) that the MCP copy
+> below leaves NULL. Its upsert (`resolution=merge-duplicates`) will also enrich rows
+> this MCP copy inserted earlier. ⚠️ Do NOT load the neighboring `Workflows/ddb-roll-sync/`
+> Chrome extension — that's the security-flagged legacy extension; console script only.
+>
+> **FALLBACK — the MCP copy below** (no DDB token needed, run in Claude Code via the
+> `supabase-aftermath-meridian` and `supabase-cutter` MCP connections). No credentials
+> in this file. Idempotent: unique key `(campaign_id, roll_id, roll_type, dice_notation)`
+> + `ON CONFLICT DO NOTHING`. Campaign ids in BOTH databases: 1 = Sky Is The Limit,
+> 2 = Pacts & Power, 3 = Ashfall Britannia, 4 = WtFF/Where the Flowers (RC "Where the
+> Flowers Forget"). Limitation: leaves enrichment columns NULL (the SITL site view
+> doesn't expose them, so SITL pages are unaffected).
 
 ## Step 1 — get the RC-side high-water mark (supabase-cutter → vtrtyagltwdrbastpppl)
 
@@ -74,8 +87,10 @@ where session_date = '<session date>' group by session_date;
 
 ## Long-term (decision pending — Tayls)
 
-Options to retire this manual step: (a) keep this runbook (1 run per session, ~2 min);
-(b) point the RC site at a public read-only SITL view in Meridian (schema change, gated
-by aftermath-atlas SECURITY.md); (c) Meridian Edge Function on a cron with the RC
-service key in secrets (credentials cross-project). Last synced: 2026-07-16
-(backfill through Meridian roll `230f5382`, S19 registered as ddb_sessions id 20).
+Options to retire this manual step: (a) the legacy console script above (the old ritual,
+~5 min, best data); (b) this MCP runbook (~2 min, no token, unenriched); (c) point the
+RC site at a public read-only view in Meridian (schema change, gated by aftermath-atlas
+SECURITY.md); (d) Meridian Edge Function on a cron with the RC service key in secrets
+(credentials cross-project). Last synced: 2026-07-17 — SITL backfilled 2026-07-16
+(82 rolls, S19 = ddb_sessions id 20); Ashfall (151: Jun 23 + Jun 30) and P&P (1: Jun 23)
+backfilled 2026-07-17, checksum-verified both sides.
