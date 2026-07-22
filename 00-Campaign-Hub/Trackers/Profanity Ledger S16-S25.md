@@ -74,21 +74,42 @@ _Note: Addison, voicing Jimjar, calls Indigo "you wet bastard" in-character — 
 
 ---
 
-## Running Totals (Through S19)
+## Session 20 — Not My Circus, Not My Demogorgon
+
+> ⚠️ Transcript-only count. This transcript's STT **redacts F-bombs as gaps** rather than rendering them; the two redacted entries below are contextually certain and ARE counted in the word columns (distinct from the self-censored/trailed-off convention, where the speaker never finished the word — those remain uncounted).
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Addison (DM) | "clusterfuck" | 1 | "The clusterfuck that is the fight right on the shrine" |
+| Addison (DM) | "damn" | 4 | "Oh, damn" (Darby's roll); "Arch priests are strong, you guys. Damn"; "Well, damn. Armor of Agathys is stronger than I thought"; "Damn" (Darby's Int check) |
+| Addison (DM) ⚠️ | "fuck" *(STT-redacted)* | 1 | "What the [__] is going on with that girl" — voicing an onlooker at Kit's corpse-stab *(speaker-in-fiction unclear; attributed to Addison per flags)* |
+| Kit Aluri (Taylor) | "goddamn" | 1 | "God damn it." — fumbling a roll |
+| Kit Aluri (Taylor) | "damn" | 1 | Reacting to the Armor of Agathys math |
+| Kit Aluri (Taylor) | "hell" | 1 | "Hell." — reacting to Binks's combined check |
+| Kit Aluri (Taylor) | "fuck" *(STT-redacted)* | 1 | "I just scared the [__] out of myself" — audio-check scare |
+| Darby Stonefeather (Austin) | "hell yeah" | 2 | Cheering Binks's stunt double |
+| Darby Stonefeather (Austin) | "damn" | 1 | "Fair enough. Damn. An eight." |
+| Darby Stonefeather (Austin) | "holy [cut off]" | 1 | Reacting to Hemeth enlarging *(self-trailed — logged, not counted)* |
+
+_Note: No other redaction-gaps were detected in this transcript. Quiet in-character session for profanity; the combat kept the table busy._
+
+---
+
+## Running Totals (Through S20)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 17 | 26 | 10 | 9 | 1 | — | 63 |
-| Addison (DM) | 4 | 5 | 3 | — | 2 | — | 14 |
+| Kit Aluri (Taylor) | 17 | 27 | 12 | 10 | 1 | — | 67 |
+| Addison (DM) | 4 | 7 | 7 | — | 2 | — | 20 |
 | Binks Stonevein (Matt) | 3 | 3 | 2 | 3 | 1 | — | 12 |
-| Darby Stonefeather (Austin) | — | 4 | 2 | 1 | — | — | 7 |
+| Darby Stonefeather (Austin) | — | 4 | 3 | 3 | — | — | 10 |
 | Blarg (Florian) | — | 1 | 1 | 1 | — | — | 3 |
 | Aeolus (Sirius) | — | 1 | — | 1 | — | — | 2 |
 | Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit climbs to 63, still lapping the field — a quiet session for profanity overall (just her two lines), consistent with S19's talk-first, tension-driven tone. Standings otherwise unchanged: Addison 14, Binks 12, Darby 7.*
+*Kit reaches 67 ("goddamn" counted in the damn column per ledger convention). Addison jumps to 20 on a damn-heavy DM session plus the clusterfuck coinage; Darby climbs to 10 on hell-yeahs. A demon lord rose and the table stayed remarkably clean about it.*
 
 ---
 

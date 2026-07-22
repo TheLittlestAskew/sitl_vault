@@ -869,3 +869,31 @@ So: we go in as prisoners again. I've done that before, too. Last time, it cost 
 </details>
 
 **
+
+---
+
+## Session 20 — Not My Circus, Not My Demogorgon
+
+<details><summary>The day the water stood up — the Altar of the Deep Father, Sloobludop (direct continuation of Session 19)</summary>
+
+**THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR**
+
+**Day unknown — the day the water stood up.**
+
+We watched it happen from a fog that was half his and half the lake's. Indigo pulled steam off the canal with a turn of that trident like it was nothing, and we stood in it, unseen, while the fish-priests marched my people to a butcher's altar. I have stood prisoner in front of an altar before. Watching my friends do it while I stayed hidden was worse. Every soldier's instinct I have said *break cover*, and every one of them was wrong, so I held.
+
+The altar was a stretched hide and dead things pinned up like trophies, with a gold basin under it drinking blood that never stopped coming. Her — the daughter, the one this whole rotten schism belonged to — she came out of a squat little hovel like a queen coming out of a palace, and you could see it on her, that perfect certainty. Nothing in the world is more dangerous than somebody who is completely sure.
+
+Then the old priest hit his own daughter with his scepter, and the whole plan happened at once. Lightning and spores and screaming, half the town's fish-folk dead in a single breath from the old man's wave of thunder, my crew carving room for themselves in the crowd. I said something to Indigo about his stealth being a skill issue. He said something about his trident throw. I showed him mine — told him I'd picked it up and thought of him, which is truer than I usually let things be — and then I stepped. Not ran. Stepped, the fey way, one foot up here and down thirty feet away. No frills. Just efficiency.
+
+The sword cost me, though. I asked it to be smaller — it does that now, if I feed it — and it obliged, and then the balance was all wrong and my first cut went through Indigo's net instead of the thing inside it. Weeks of his work, parted on my blade. I finished the netted one properly on the next pass, both blades, clean. And then I did something that wasn't clean. I put my dagger into a thing that was already dead, and I felt the water *approve*. Something out in that lake wanted me frenzied, wanted the red in my eyes to stay. I've been owned before. I shook it off. The big duergar we'd been cutting loose looked at me like he was reconsidering his threats. Good.
+
+Then the rays came out of the water in droves, eating everything, fleeing the water they live in — and things that flee their own home know something you don't. The daughter called her god's name one last time and her father killed her for it, and I heard myself ask if he had any other children. He does. One. I don't know what I wanted the answer to be.
+
+It didn't matter that she died. The pulse still went through the shrine like a heartbeat, and the fog opened, and the lake stood up. Two heads. Taller than the towers of any city I've served in. A roar that reached in through my ears and pulled — I slipped, caught myself, held on with everything I keep behind my teeth. The fish-folk who'd bled for it dropped and groveled. The ones who hadn't just stood there and watched their town start to end.
+
+Indigo says water. Jimjar says land. The little cleric says we don't split, and he's right, and I already know which way my feet are pointing. If Indigo says run, I run. I trust him — implicitly, completely, in a way I don't examine too closely because examining it costs. Two roads out of a drowning city, and a god that isn't a god wading in behind us. We move next time the world does.
+
+</details>
+
+**

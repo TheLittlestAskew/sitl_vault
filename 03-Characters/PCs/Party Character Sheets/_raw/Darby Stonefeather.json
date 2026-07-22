@@ -243,12 +243,12 @@
     "baseRaceId": 1751439,
     "baseRaceTypeId": 1743923279,
     "description": "<p>Goliaths are distant descendants of giants and seek heights above those reached by their ancestors.</p>\r\n<p style=\"font-family: Roboto Condensed;\"><strong>Goliath Traits</strong><br />Giant Ancestry, Large Form, Powerful Build</p>",
-    "longDescription": "<p>Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants&mdash;favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths&rsquo; gigantic kin.</p>\r\n<p>Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliaths have forged their own path in the multiverse&mdash;unencumbered by the internecine conflicts that have ravaged giantkind for ages&mdash;and seek heights above those reached by their ancestors.</p>\r\n<h2 id=\"GoliathTraits\">Goliath Traits</h2>\r\n<p><strong>Creature Type:</strong> Humanoid<br><strong>Size:</strong> Medium (about 7&ndash;8 feet tall)<br><strong>Speed:</strong> 35 feet</p>",
+    "longDescription": "<p>Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants&mdash;favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin.</p>\r\n<p>Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliaths have forged their own path in the multiverse&mdash;unencumbered by the internecine conflicts that have ravaged giantkind for ages&mdash;and seek heights above those reached by their ancestors.</p>\r\n<h2 id=\"GoliathTraits\">Goliath Traits</h2>\r\n<p><strong>Creature Type:</strong> Humanoid<br><strong>Size:</strong> Medium (about 7&ndash;8 feet tall)<br><strong>Speed:</strong> 35 feet</p>",
     "slug": "1751439-goliath",
     "avatarUrl": "https://www.dndbeyond.com/avatars/43940/487/638607450037398414.png?width=350&height=350&fit=bounds&quality=95&auto=webp",
     "largeAvatarUrl": "https://www.dndbeyond.com/avatars/43940/488/638607450039818400.png?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
     "portraitAvatarUrl": "https://www.dndbeyond.com/avatars/43940/489/638607450041758398.png?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
-    "detailsBackgroundAvatarUrl": null,
+    "detailsBackgroundAvatarUrl": "https://www.dndbeyond.com/avatars/57671/316/639192043147525063.jpeg",
     "detailsForegroundAvatarUrl": null,
     "moreDetailsUrl": "/species/1751439-goliath",
     "isHomebrew": false,
@@ -656,9 +656,9 @@
     "sizeId": 4,
     "creatureTypeId": 11,
     "cardDescription": "Goliaths are distant descendants of giants that tower over most folk.",
-    "highlights": "",
+    "highlights": "<ol>\r\n<li>Meet every challenge with the towering might of a giant.</li>\r\n<li>Wield the supernatural power of your giant ancestor.</li>\r\n<li>Rise above puny foes by growing in size and strength.</li>\r\n</ol>",
     "mobileCardImageUrl": null,
-    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/54962/109/639071282282321242.jpeg",
+    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/57774/185/639196533900927118.jpeg",
     "sources": [
       {
         "sourceId": 145,
@@ -677,7 +677,7 @@
     "organizations": null,
     "enemies": null,
     "backstory": "Lives at the Stonefeather Roost, a multigenerational Axebeak farm.",
-    "otherNotes": "SENTINEL\n\nGuardian. Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.\n\nHalt. When you hit a creature with an Opportunity Attack, the creature’s Speed becomes 0 for the rest of the current turn.\n\nRAGE OF THE WILDS\n\nAxebeak. While your Rage is active, you have +4 beak slashing damage for any attack, and your movement speed becomes 50 ft."
+    "otherNotes": "SENTINEL\n\nGuardian. Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.\n\nHalt. When you hit a creature with an Opportunity Attack, the creature’s Speed becomes 0 for the rest of the current turn.\n\nRAGE OF THE WILDS\n\nAxebeak. While your Rage is active, you have +4 beak slashing damage for any attack, and your movement speed becomes 55 ft."
   },
   "traits": {
     "personalityTraits": "shy",
@@ -5277,7 +5277,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 0,
+          "numberUsed": 1,
           "minNumberConsumed": null,
           "maxNumberConsumed": 0,
           "maxUses": 1,
@@ -5637,22 +5637,6 @@
   "options": {
     "race": [
       {
-        "componentId": 13856132,
-        "componentTypeId": 1960452172,
-        "definition": {
-          "id": 3727541,
-          "entityTypeId": 306912077,
-          "name": "Increase two scores (+2 / +1)",
-          "description": "<p>Increase one scores by 2 and a different score by 1.</p>",
-          "snippet": "Increase one scores by 2 and a different score by 1.",
-          "activation": null,
-          "sourceId": null,
-          "sourcePageNumber": null,
-          "creatureRules": [],
-          "spellListIds": []
-        }
-      },
-      {
         "componentId": 13856126,
         "componentTypeId": 1960452172,
         "definition": {
@@ -5664,6 +5648,22 @@
           "activation": null,
           "sourceId": null,
           "sourcePageNumber": 192,
+          "creatureRules": [],
+          "spellListIds": []
+        }
+      },
+      {
+        "componentId": 13856132,
+        "componentTypeId": 1960452172,
+        "definition": {
+          "id": 3727541,
+          "entityTypeId": 306912077,
+          "name": "Increase two scores (+2 / +1)",
+          "description": "<p>Increase one scores by 2 and a different score by 1.</p>",
+          "snippet": "Increase one scores by 2 and a different score by 1.",
+          "activation": null,
+          "sourceId": null,
+          "sourcePageNumber": null,
           "creatureRules": [],
           "spellListIds": []
         }
@@ -6174,7 +6174,7 @@
       {
         "componentId": 10292174,
         "componentTypeId": 12168134,
-        "id": "3-1675299-501758366",
+        "id": "3-1675299-517428438",
         "parentChoiceId": null,
         "type": 3,
         "subType": null,
@@ -6487,8 +6487,8 @@
           3964,
           4345,
           4346,
-          4378,
           4377,
+          4378,
           5888,
           6563,
           6564,
@@ -6498,14 +6498,12 @@
           6568,
           6569,
           6754,
-          6759,
-          6822,
           7132,
           7133,
           7134,
           7135,
-          7195,
-          7194
+          7194,
+          7195
         ],
         "tagConstraints": []
       }
@@ -7242,14 +7240,14 @@
             "sourceId": null
           },
           {
-            "id": 4378,
-            "label": "Three-Dragon Ante Set",
+            "id": 4377,
+            "label": "Dragonchess Set",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 4377,
-            "label": "Dragonchess Set",
+            "id": 4378,
+            "label": "Three-Dragon Ante Set",
             "description": null,
             "sourceId": null
           },
@@ -7308,18 +7306,6 @@
             "sourceId": null
           },
           {
-            "id": 6759,
-            "label": "Monster Harvesting Tools",
-            "description": null,
-            "sourceId": null
-          },
-          {
-            "id": 6822,
-            "label": "Monster Harvesting Tools",
-            "description": null,
-            "sourceId": null
-          },
-          {
             "id": 7132,
             "label": "Research Scrolls",
             "description": null,
@@ -7344,14 +7330,14 @@
             "sourceId": null
           },
           {
-            "id": 7195,
-            "label": "Fingerprint Kit",
+            "id": 7194,
+            "label": "Witchboard",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 7194,
-            "label": "Witchboard",
+            "id": 7195,
+            "label": "Fingerprint Kit",
             "description": null,
             "sourceId": null
           }
@@ -10182,17 +10168,6 @@
         "privacyType": 3,
         "campaignId": null,
         "isAssigned": true
-      },
-      {
-        "userId": 112741854,
-        "username": "Kirk_The_Dodger",
-        "characterId": 112833037,
-        "characterName": "Indigo Montoya de Aguja",
-        "characterUrl": "/profile/Kirk_The_Dodger/characters/112833037",
-        "avatarUrl": "https://www.dndbeyond.com/avatars/29797/932/1581111423-85912204.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
-        "privacyType": 2,
-        "campaignId": null,
-        "isAssigned": true
       }
     ]
   },
@@ -10341,7 +10316,7 @@
       "name": "Roxy",
       "description": null,
       "isActive": false,
-      "removedHitPoints": 5,
+      "removedHitPoints": 9,
       "temporaryHitPoints": 0,
       "groupId": 5,
       "definition": {
@@ -10457,8 +10432,8 @@
   ],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-07-05T18:54:51.062058Z",
-  "providedFrom": "database",
+  "dateModified": "2026-07-19T17:50:01.011Z",
+  "providedFrom": "storage",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,

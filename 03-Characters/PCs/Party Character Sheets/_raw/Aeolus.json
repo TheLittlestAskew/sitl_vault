@@ -57,8 +57,8 @@
   "baseHitPoints": 23,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 7,
-  "temporaryHitPoints": 0,
+  "removedHitPoints": 9,
+  "temporaryHitPoints": 2,
   "currentXp": 0,
   "alignmentId": 6,
   "lifestyleId": 8,
@@ -255,12 +255,12 @@
     "baseRaceId": 1751443,
     "baseRaceTypeId": 1743923279,
     "description": "<p>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there.</p>\r\n<p style=\"font-family: Roboto Condensed;\"><strong>Tiefling Traits</strong><br />Darkvision, Fiendish Legacy, Otherworldly Presence</p>",
-    "longDescription": "<p>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling&rsquo;s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling&rsquo;s moral outlook.</p>\r\n<p>A tiefling chooses whether to embrace or lament their fiendish legacy. The three legacies are described below.</p>\r\n<h2 id=\"Abyssal\">Abyssal</h2>\r\n<p>The entropy of the Abyss, the chaos of Pandemonium, and the despair of Carceri call to tieflings who have the abyssal legacy. Horns, fur, tusks, and peculiar scents are common physical features of such tieflings, most of whom have the blood of demons coursing through their veins.</p>\r\n<h2 id=\"Chthonic\">Chthonic</h2>\r\n<p>Tieflings who have the chthonic legacy feel not only the tug of Carceri but also the greed of Gehenna and the gloom of Hades. Some of these tieflings look cadaverous. Others possess the unearthly beauty of a succubus, or they have physical features in common, with a night hag, a yugoloth, or some other Neutral Evil fiendish ancestor.</p>\r\n<h2 id=\"Infernal\">Infernal</h2>\r\n<p>The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of who trace their ancestry to devils.</p>\r\n<h2 id=\"TieflingTraits\">Tiefling Traits</h2>\r\n<p><strong>Creature Type:</strong> Humanoid<br><strong>Size:</strong> Medium (about 4&ndash;7 feet tall) or Small (about 3&ndash;4 feet tall), chosen when you select this species<br><strong>Speed:</strong> 30 feet</p>",
+    "longDescription": "<p>Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling’s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling’s moral outlook.</p>\r\n<p>A tiefling chooses whether to embrace or lament their fiendish legacy. The three legacies are described below.</p>\r\n<h2 id=\"Abyssal\">Abyssal</h2>\r\n<p>The entropy of the Abyss, the chaos of Pandemonium, and the despair of Carceri call to tieflings who have the abyssal legacy. Horns, fur, tusks, and peculiar scents are common physical features of such tieflings, most of whom have the blood of demons coursing through their veins.</p>\r\n<h2 id=\"Chthonic\">Chthonic</h2>\r\n<p>Tieflings who have the chthonic legacy feel not only the tug of Carceri but also the greed of Gehenna and the gloom of Hades. Some of these tieflings look cadaverous. Others possess the unearthly beauty of a succubus, or they have physical features in common, with a night hag, a yugoloth, or some other Neutral Evil fiendish ancestor.</p>\r\n<h2 id=\"Infernal\">Infernal</h2>\r\n<p>The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of who trace their ancestry to devils.</p>\r\n<h2 id=\"TieflingTraits\">Tiefling Traits</h2>\r\n<p><strong>Creature Type:</strong> Humanoid<br><strong>Size:</strong> Medium (about 4&ndash;7 feet tall) or Small (about 3&ndash;4 feet tall), chosen when you select this species<br><strong>Speed:</strong> 30 feet</p>",
     "slug": "1751443-tiefling",
     "avatarUrl": "https://www.dndbeyond.com/avatars/43940/583/638607451951532505.png?width=350&height=350&fit=bounds&quality=95&auto=webp",
     "largeAvatarUrl": "https://www.dndbeyond.com/avatars/43940/584/638607451953752374.png?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
     "portraitAvatarUrl": "https://www.dndbeyond.com/avatars/43940/585/638607451955402370.jpeg?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
-    "detailsBackgroundAvatarUrl": null,
+    "detailsBackgroundAvatarUrl": "https://www.dndbeyond.com/avatars/57671/364/639192045615680318.jpeg",
     "detailsForegroundAvatarUrl": null,
     "moreDetailsUrl": "/species/1751443-tiefling",
     "isHomebrew": false,
@@ -668,9 +668,9 @@
     "sizeId": 10,
     "creatureTypeId": 11,
     "cardDescription": "Tieflings are either born in the Lower Planes or have fiendish ancestors.",
-    "highlights": "",
+    "highlights": "<ol>\r\n<li>Carry the mark of a fiendish ancestor or an underworld origin.</li>\r\n<li>Embrace or lament your fiendish legacy, which grants you supernatural abilities.</li>\r\n<li>Assert your otherworldly presence.</li>\r\n</ol>",
     "mobileCardImageUrl": null,
-    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/54964/265/639071345752410051.jpeg",
+    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/57636/445/639190388345386297.jpeg",
     "sources": [
       {
         "sourceId": 145,
@@ -842,7 +842,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "",
+        "type": "Light Armor",
         "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -4967,7 +4967,7 @@
     },
     {
       "level": 2,
-      "used": 2,
+      "used": 1,
       "available": 0
     },
     {
@@ -5020,112 +5020,6 @@
   ],
   "spells": {
     "race": [
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5519789,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2619174,
-          "definitionKey": "1118725998:2619174",
-          "name": "Thaumaturgy",
-          "level": 0,
-          "school": "Transmutation",
-          "duration": {
-            "durationInterval": 1,
-            "durationUnit": "Minute",
-            "durationType": "Time"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Ranged",
-            "rangeValue": 30,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.</p>\r\n<p><strong><em>Altered Eyes.</em></strong> You alter the appearance of your eyes for 1 minute.</p>\r\n<p><strong><em>Booming Voice.</em></strong> Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.</p>\r\n<p><strong><em>Fire Play.</em></strong> You cause flames to flicker, brighten, dim, or change color for 1 minute.</p>\r\n<p><strong><em>Invisible Hand.</em></strong> You instantaneously cause an unlocked door or window to fly open or slam shut.</p>\r\n<p><strong><em>Phantom Sound.</em></strong> You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p>\r\n<p><strong><em>Tremors.</em></strong> You cause harmless tremors in the ground for 1 minute.</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": false,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1
-          ],
-          "componentsDescription": "",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": null,
-          "canCastAtHigherLevel": false,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 333,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": false,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [],
-          "conditions": [],
-          "tags": [
-            "Control"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": null,
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 333,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": false,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": 6,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": null,
-        "range": {
-          "origin": "Ranged",
-          "rangeValue": 30,
-          "aoeType": null,
-          "aoeValue": null
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 3746464,
-        "componentTypeId": 306912077,
-        "spellListId": null
-      },
       {
         "overrideSaveDc": null,
         "limitedUse": null,
@@ -5659,6 +5553,112 @@
         "atWillLimitedUseLevel": null,
         "isSignatureSpell": null,
         "componentId": 3734091,
+        "componentTypeId": 306912077,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5519789,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2619174,
+          "definitionKey": "1118725998:2619174",
+          "name": "Thaumaturgy",
+          "level": 0,
+          "school": "Transmutation",
+          "duration": {
+            "durationInterval": 1,
+            "durationUnit": "Minute",
+            "durationType": "Time"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Ranged",
+            "rangeValue": 30,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.</p>\r\n<p><strong><em>Altered Eyes.</em></strong> You alter the appearance of your eyes for 1 minute.</p>\r\n<p><strong><em>Booming Voice.</em></strong> Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.</p>\r\n<p><strong><em>Fire Play.</em></strong> You cause flames to flicker, brighten, dim, or change color for 1 minute.</p>\r\n<p><strong><em>Invisible Hand.</em></strong> You instantaneously cause an unlocked door or window to fly open or slam shut.</p>\r\n<p><strong><em>Phantom Sound.</em></strong> You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</p>\r\n<p><strong><em>Tremors.</em></strong> You cause harmless tremors in the ground for 1 minute.</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": false,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1
+          ],
+          "componentsDescription": "",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": null,
+          "canCastAtHigherLevel": false,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 333,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": false,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [],
+          "conditions": [],
+          "tags": [
+            "Control"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": null,
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 333,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": false,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": 6,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": null,
+        "range": {
+          "origin": "Ranged",
+          "rangeValue": 30,
+          "aoeType": null,
+          "aoeValue": null
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 3746464,
         "componentTypeId": 306912077,
         "spellListId": null
       }
@@ -6423,7 +6423,7 @@
           "name": null,
           "statModifierUsesId": 6,
           "resetType": 2,
-          "numberUsed": 0,
+          "numberUsed": 1,
           "minNumberConsumed": null,
           "maxNumberConsumed": 0,
           "maxUses": 0,
@@ -7566,22 +7566,6 @@
   "options": {
     "race": [
       {
-        "componentId": 13856160,
-        "componentTypeId": 1960452172,
-        "definition": {
-          "id": 3746464,
-          "entityTypeId": 306912077,
-          "name": "Charisma",
-          "description": "<p>When you cast Thaumaturgy with this trait, it uses Charisma.</p>",
-          "snippet": "You know the <em>Thaumaturgy</em> cantrip. When you cast it with this trait, the spell uses Charisma.",
-          "activation": null,
-          "sourceId": null,
-          "sourcePageNumber": 197,
-          "creatureRules": [],
-          "spellListIds": []
-        }
-      },
-      {
         "componentId": 13856164,
         "componentTypeId": 1960452172,
         "definition": {
@@ -7606,6 +7590,22 @@
           "name": "Charisma",
           "description": "<p>Your Infernal Legacy spells use Charisma.</p>",
           "snippet": "",
+          "activation": null,
+          "sourceId": null,
+          "sourcePageNumber": 197,
+          "creatureRules": [],
+          "spellListIds": []
+        }
+      },
+      {
+        "componentId": 13856160,
+        "componentTypeId": 1960452172,
+        "definition": {
+          "id": 3746464,
+          "entityTypeId": 306912077,
+          "name": "Charisma",
+          "description": "<p>When you cast Thaumaturgy with this trait, it uses Charisma.</p>",
+          "snippet": "You know the <em>Thaumaturgy</em> cantrip. When you cast it with this trait, the spell uses Charisma.",
           "activation": null,
           "sourceId": null,
           "sourcePageNumber": 197,
@@ -8567,8 +8567,8 @@
         "optionIds": [
           3894,
           3895,
-          4380,
           4379,
+          4380,
           6617,
           6618,
           6619
@@ -8994,6 +8994,7 @@
           4344,
           4347,
           4348,
+          5946,
           5947,
           5948,
           6330,
@@ -9007,7 +9008,6 @@
           6338,
           6339,
           6340,
-          5946,
           6704,
           6705,
           6706,
@@ -9015,8 +9015,8 @@
           6708,
           6709,
           6710,
-          7077,
           6758,
+          7077,
           7193,
           7196
         ],
@@ -9093,6 +9093,7 @@
           4344,
           4347,
           4348,
+          5946,
           5947,
           5948,
           6330,
@@ -9106,7 +9107,6 @@
           6338,
           6339,
           6340,
-          5946,
           6704,
           6705,
           6706,
@@ -9114,8 +9114,8 @@
           6708,
           6709,
           6710,
-          7077,
           6758,
+          7077,
           7193,
           7196
         ],
@@ -9192,6 +9192,7 @@
           4344,
           4347,
           4348,
+          5946,
           5947,
           5948,
           6330,
@@ -9205,7 +9206,6 @@
           6338,
           6339,
           6340,
-          5946,
           6704,
           6705,
           6706,
@@ -9213,8 +9213,8 @@
           6708,
           6709,
           6710,
-          7077,
           6758,
+          7077,
           7193,
           7196
         ],
@@ -9465,14 +9465,14 @@
             "sourceId": null
           },
           {
-            "id": 4380,
-            "label": "Three-Dragon Ante Set",
+            "id": 4379,
+            "label": "Dragonchess Set",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 4379,
-            "label": "Dragonchess Set",
+            "id": 4380,
+            "label": "Three-Dragon Ante Set",
             "description": null,
             "sourceId": null
           },
@@ -10818,6 +10818,12 @@
             "sourceId": null
           },
           {
+            "id": 5946,
+            "label": "Vehicles (Space)",
+            "description": null,
+            "sourceId": null
+          },
+          {
             "id": 5947,
             "label": "Three-Dragon Ante Set",
             "description": null,
@@ -10896,12 +10902,6 @@
             "sourceId": null
           },
           {
-            "id": 5946,
-            "label": "Vehicles (Space)",
-            "description": null,
-            "sourceId": null
-          },
-          {
             "id": 6704,
             "label": "Trumpet",
             "description": null,
@@ -10944,14 +10944,14 @@
             "sourceId": null
           },
           {
-            "id": 7077,
-            "label": "Surgeon’s Tools",
+            "id": 6758,
+            "label": "Monster Harvesting Tools",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 6758,
-            "label": "Monster Harvesting Tools",
+            "id": 7077,
+            "label": "Surgeon’s Tools",
             "description": null,
             "sourceId": null
           },
@@ -13892,24 +13892,13 @@
         "privacyType": 3,
         "campaignId": null,
         "isAssigned": true
-      },
-      {
-        "userId": 112741854,
-        "username": "Kirk_The_Dodger",
-        "characterId": 112833037,
-        "characterName": "Indigo Montoya de Aguja",
-        "characterUrl": "/profile/Kirk_The_Dodger/characters/112833037",
-        "avatarUrl": "https://www.dndbeyond.com/avatars/29797/932/1581111423-85912204.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
-        "privacyType": 2,
-        "campaignId": null,
-        "isAssigned": true
       }
     ]
   },
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-06-14T18:41:13.47168Z",
+  "dateModified": "2026-07-19T18:29:22.585845Z",
   "providedFrom": "database",
   "canEdit": false,
   "status": 0,

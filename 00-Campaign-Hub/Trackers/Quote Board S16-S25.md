@@ -291,5 +291,78 @@ updated_on: 2026-06-10
 
 ---
 
+## Session 20 — Not My Circus, Not My Demogorgon
+
+**[[Darby Stonefeather]] · [Funny/Important to Story]**
+"Not my circus, not my Demogorgon. So I want to go." — **title quote**
+
+**[[Kit Aluri]] · [Poignant]**
+"If Indigo says we have to run, then Kit's gonna run because she. If anything, she trusts him implicitly."
+
+**[[Binks Stonevein]] · [Serious/Banter]**
+"I ain't splitting the party."
+
+**Taylor (OOC) · [Funny]**
+"No way are we in Stranger Things."
+
+**Addison (DM) · [DM Quip]**
+"We have toad and stool — toadstool."
+
+**[[Kit Aluri]] · [Banter]**
+"That sounds like a skill issue. Just attack kuo-toa."
+
+**[[Indigo]] · [Banter]**
+"You're making fun of my skills. Did you see that trident throw? I mean, come on." *(DM-voiced; attribution per flags)*
+
+**[[Kit Aluri]] · [Poignant/Banter]**
+"I picked this up and I thought of you."
+
+**[[Indigo]] · [Funny]**
+"That took me weeks to make." *(DM-voiced; attribution per flags)*
+
+**[[Kit Aluri]] · [Banter]**
+"No frills, just efficiency."
+
+**[[Hemeth]] · [Serious/Funny]**
+"You just wait. When Hemeth gets his weapons back, you're all going to die. I'll show you a blood sacrifice." *(DM-voiced)*
+
+**Addison (DM) · [DM Quip]**
+"Arch priests are strong, you guys. Damn."
+
+**Addison (DM) · [DM Quip]**
+"Nice. Good warlock security measure."
+
+**[[Blarg]] · [Funny]**
+"My plan was running away."
+
+**[[Binks Stonevein]] · [Funny/Important to Story]**
+"I have ceremony, and there is this one thing in ceremony that says I could touch a vial of water and turn it holy. Now, if I call on the Garl, can I cast it on the lake in the area of the Demogorgon to make it all holy water around him?"
+
+**Addison (DM) · [DM Quip]**
+"I'll think on that. Yeah, that'd be. That'd be like a DC30. Yeah. Religion check."
+
+**[[Kit Aluri]] · [Poignant]**
+"Does he have any other kids?"
+
+**[[Indigo]] · [Important to Story]**
+"We can escape by the water. I can cast water walk on you all, and we can flee across the Darklake." *(DM-voiced; attribution per flags)*
+
+**[[Jimjar]] · [Important to Story]**
+"This is bad, you guys. We cannot take this thing. We need to get out of here." *(DM-voiced; attribution per flags)*
+
+**[[Aeolus]] · [Banter]**
+"If we die, we die. I guess that's right."
+
+**[[Darby Stonefeather]] · [Funny]**
+"My baby." — Roxy demolishes a building
+
+**Taylor (OOC) · [Funny]**
+"You know what? Never mind. I'll. I'm sure I'll take some madness eventually." … "I want one."
+
+**[[Darby Stonefeather]] · [Banter]**
+"Yes, we will survive." — session sign-off
+
+---
+
 ## Related
 [[Campaign Dashboard]]

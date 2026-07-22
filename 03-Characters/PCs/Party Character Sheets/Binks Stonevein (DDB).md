@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 150676476
 ddb_url: https://www.dndbeyond.com/characters/150676476
-synced: 2026-07-05T19:01:36.643Z
+synced: 2026-07-19T18:46:04.145Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -13,10 +13,10 @@ generated_by: ddb_party_sync.js
 > Some derived values are approximate. Source of truth: `_raw/Binks Stonevein.json`.
 
 - **Race:** Deep Gnome
-- **Class:** Cleric (Trickery Domain) 3 / Rogue 1
-- **Total Level:** 4  ·  **Proficiency Bonus:** +2
+- **Class:** Cleric (Trickery Domain) 4 / Rogue 1
+- **Total Level:** 5  ·  **Proficiency Bonus:** +3
 - **Background:** Outlander
-- **Max HP (approx):** 39
+- **Max HP (approx):** 41
 - **AC:** 17  ·  *Chain Shirt 13 + Dex +2 (capped) + Shield +2*
 - **Currency:** 0pp 7gp 0ep 0sp 0cp
 
@@ -28,7 +28,7 @@ generated_by: ddb_party_sync.js
 | DEX | 17 | +3 |
 | CON | 14 | +2 |
 | INT | 15 | +2 |
-| WIS | 19 | +4 |
+| WIS | 20 | +5 |
 | CHA | 14 | +2 |
 
 ## Inventory (11)
@@ -45,10 +45,10 @@ generated_by: ddb_party_sync.js
 - Lamp
 - Holy Water
 
-## Spells (11)
+## Spells (13)
 
-- **Cantrips:** Guidance, Thaumaturgy, Toll the Dead
-- **Level 1:** Bless, Command, Cure Wounds, Guiding Bolt, Purify Food and Drink, Tasha's Hideous Laughter
+- **Cantrips:** Guidance, Mending, Thaumaturgy, Toll the Dead
+- **Level 1:** Bless, Ceremony, Command, Cure Wounds, Guiding Bolt, Purify Food and Drink, Tasha's Hideous Laughter
 - **Level 2:** Misty Step, Zone of Truth
 
 ## Conditions

@@ -108,5 +108,30 @@ _Note: No new permanent loot this session — the party is spending goodwill and
 
 ---
 
+## Session 20 — Not My Circus, Not My Demogorgon
+
+> ⚠️ Transcript-only (DDB archive not queried this run — Supabase permission-blocked).
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|No new loot acquired|—|Battlefield abandoned mid-combat; ritual site not looted (the altar's golden chalice-basin left behind)|—|
+
+### Item Updates from This Session
+
+|Character|Item|Update|Status|
+|---|---|---|---|
+|[[Kit Aluri]]|**Shape-shifting greatsword** (S18 homebrew property)|**First combat use of the reshape feature:** a superiority die converted greatsword → shortsword mid-fight. The unfamiliar balance forced a **DC 16 (20 − Str mod) Strength save — failed (11)**, causing an automatic miss that cut a hole in [[Indigo]]'s hand-made net. ⚠️ Feature wording lives in Taylor–Addison DMs, not the transcript — capture on Kit's page once confirmed.|Equipped — mechanics part-revealed|
+|[[Kit Aluri]]|Stealth cloak (Cloak of Elvenkind)|Used for the alleyway flank ("I've only used it once" prior); grants advantage on Dex/stealth and disadvantage on checks to perceive her. **DM lowered the stealth DC 17→15** in response.|Attuned — Worn|
+|[[Kit Aluri]]|Trident (S17 lair loot, claimed S18)|Carried on her back; shown to [[Indigo]] — "I picked this up and I thought of you."|Carried|
+|[[Kit Aluri]]|Dagger (+1, drow)|Bonus-action Dual Wielder attacks: 9 damage on the kuo-toa B kill; 6 sneak-attack dice into the corpse afterward.|Equipped|
+|[[Amanita de'Champignon]]|Mithril war pick (enspelled)|Shillelagh-buffed; **cracked the stone base of the Deep Father altar**; 19 and 24 damage hits on [[Bloppblippodd]].|Equipped|
+|[[Indigo]]|Hand-made net|Thrown over two kuo-toa; **cut open by Kit's misfire** ("That took me weeks to make") — kuo-toa B nonetheless failed to escape it.|Damaged|
+|[[Hemeth]]|Confiscated weapons|Taken by the Deep Father cult before the session; **not recovered** — "When Hemeth gets his weapons back, you're all going to die."|Lost (unrecovered)|
+|[[Binks Stonevein]]|Spell slots|Down to **one slot + Ceremony** at session end — resource pressure flagged for the S21 escape.|—|
+
+_Note: Both of the table's Heroic Inspirations (Kit, Amanita) were spent on the Demogorgon Charisma save — and both worked. Level 5 unlocked party-wide at session end; level-ups to be narrated at S21's open._
+
+---
+
 ## Related
 [[Campaign Dashboard]]

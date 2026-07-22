@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-13
+updated_on: 2026-07-22
 Campaign: Sky Is The Limit
 DM: Addison(Kirk_The_Dodger)
 System: D&D 5E (2024 Rules)
@@ -11,7 +11,7 @@ Status: Active
 Game_id: "6907990"
 Session Frequency: Bi-Weekly, Sundays
 First Session: 2025-10-12
-Most Recent Session: 2026-07-05
+Most Recent Session: 2026-07-19
 ---
 # Sky Is The Limit — Campaign Dashboard
 
@@ -54,7 +54,7 @@ Most Recent Session: 2026-07-05
 - [[Stool]] — Myconid sprout, bonded with Amanita via rapport spores. Stabilized by Amanita (Spare the Dying, S14). Healed by Blarg (Cure Wounds, 9 HP restored → near full). Traveling with party.
 - [[Glabbagool]] — Awakened gelatinous cube; befriended by Amanita (S06). Compressed into Amanita's waterskin (S09). Long rest achieved in Feydark (S10) — should be fully reconstituted.
 - [[Roxanne]] — Rothe/fungal hybrid. Killed [[Ilvara Mizzrym]] with a 27-damage gore/trample attack (S13). Decisive blow of the Battle of Velkynvelve. **S16:** gained a Zurkhwood tent-cabin **shelter form** from her dimensional saddlebags. **S17: now fully stored in the horn** — Darby attuned; summon by calling "Roxanne." Inventory inaccessible while she's inside.
-- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Rescued (S13). **S16:** Sleep-"hunted" on all fours, returned with self-torn clothes and no memory; named his curse-wizard "Terrestor." **S17: identity debunked** by [[Sloopidoop]] — "no elf" but a chaos-deluded quaggoth, "no cure but the peace of death." Devoured the chuul, then **frenzied and dropped Kit to 0**; Slept by Aeolus and **bound** by Topsy/Turvy. Was **Captured/Restrained** (bound, asleep), +1 exhaustion. **S19:** woke mid-scene but flailing/non-functional, no memory of the past several hours; carried/supported by the party throughout. Active, unresolved intra-party danger.
+- [[Derendil]] — Quaggoth (claims to be polymorphed elf prince). Rescued (S13). **S16:** Sleep-"hunted" on all fours, returned with self-torn clothes and no memory; named his curse-wizard "Terrestor." **S17: identity debunked** by [[Sloopidoop]] — "no elf" but a chaos-deluded quaggoth, "no cure but the peace of death." Devoured the chuul, then **frenzied and dropped Kit to 0**; Slept by Aeolus and **bound** by Topsy/Turvy. Was **Captured/Restrained** (bound, asleep), +1 exhaustion. **S19:** woke mid-scene but flailing/non-functional, no memory of the past several hours; carried/supported by the party throughout. **S20: frenzied through the entire altar battle** — unable to tell friend from foe, slashed toad-Blarg (6) and a kuo-toa monitor, carved through multiple kuo-toa (killed C and I), ended the session **bloodied** amid the chaos. Active, unresolved intra-party danger.
 - [[Sloopidoop]] — Kuo-toa scholar-priest of the [[Society of Brilliance]]; worships "knowledge"/the Sea Mother (not Lolth). **New transactional ally (S17):** struck a mutual-aid bargain (escort him to [[Sloobludop]] + help the village vs. the chaos, for knowledge and aid), identified the party's loot, gave a village-access bead. **S18:** stayed behind to hold off two more green hags so the party could escape via whirlpool — fate unconfirmed. **S19:** not present; his successor [[Ploop]] (current Archpriest) dispatches scouts to check on him after Kit mentions the hag encounter. Open thread, unresolved.
 - [[Clementine]] — [[Darby Stonefeather]]'s pet spider. Grew in size in the Feydark. Size/stats TBD by Addison. **S16:** Found "waiting" on Binks's shoulder after his arachnid dream. Via Speak with Animals: senses "The Master of Spiders" with Binks — "she knows him now."
 

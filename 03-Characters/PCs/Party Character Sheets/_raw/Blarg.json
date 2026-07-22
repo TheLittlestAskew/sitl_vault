@@ -57,7 +57,7 @@
   "baseHitPoints": 23,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 0,
+  "removedHitPoints": 6,
   "temporaryHitPoints": 0,
   "currentXp": 2700,
   "alignmentId": 3,
@@ -260,7 +260,7 @@
     "avatarUrl": "https://www.dndbeyond.com/avatars/43940/448/638607448975597343.png?width=350&height=350&fit=bounds&quality=95&auto=webp",
     "largeAvatarUrl": "https://www.dndbeyond.com/avatars/43940/449/638607448977617455.png?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
     "portraitAvatarUrl": "https://www.dndbeyond.com/avatars/43940/450/638607448979027418.jpeg?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
-    "detailsBackgroundAvatarUrl": null,
+    "detailsBackgroundAvatarUrl": "https://www.dndbeyond.com/avatars/57774/181/639196533676587839.jpeg",
     "detailsForegroundAvatarUrl": null,
     "moreDetailsUrl": "/species/1751436-dwarf",
     "isHomebrew": false,
@@ -668,9 +668,9 @@
     "sizeId": 4,
     "creatureTypeId": 11,
     "cardDescription": "Dwarves were raised from the earth in the elder days by a deity of the forge.",
-    "highlights": null,
+    "highlights": "<ol>\r\n<li>Stand firm with the resilience of the mountains and an affinity for life underground.</li>\r\n<li>Shrug off poison and tough out any threat.</li>\r\n<li>Sense the world around you through contact with stone.</li>\r\n</ol>",
     "mobileCardImageUrl": null,
-    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/54962/99/639071281998391272.jpeg",
+    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/57636/161/639190376243041654.jpeg",
     "sources": [
       {
         "sourceId": 145,
@@ -879,7 +879,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "",
+        "type": "Shield",
         "description": "<p>Shields require the Utilize action to Don or Doff. You gain the Armor Class benefit of a Shield only if you have training with it.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -1681,7 +1681,7 @@
           "Utility"
         ],
         "grantedModifiers": [],
-        "subType": "Tool",
+        "subType": null,
         "isConsumable": false,
         "weaponBehaviors": [],
         "baseItemId": null,
@@ -7342,7 +7342,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 0,
+          "numberUsed": 1,
           "minNumberConsumed": null,
           "maxNumberConsumed": 0,
           "maxUses": 1,
@@ -8315,8 +8315,8 @@
           3964,
           4345,
           4346,
-          4378,
           4377,
+          4378,
           5888,
           6563,
           6564,
@@ -8326,14 +8326,12 @@
           6568,
           6569,
           6754,
-          6759,
-          6822,
           7132,
           7133,
           7134,
           7135,
-          7195,
-          7194
+          7194,
+          7195
         ],
         "tagConstraints": []
       }
@@ -8860,14 +8858,14 @@
             "sourceId": null
           },
           {
-            "id": 4378,
-            "label": "Three-Dragon Ante Set",
+            "id": 4377,
+            "label": "Dragonchess Set",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 4377,
-            "label": "Dragonchess Set",
+            "id": 4378,
+            "label": "Three-Dragon Ante Set",
             "description": null,
             "sourceId": null
           },
@@ -8926,18 +8924,6 @@
             "sourceId": null
           },
           {
-            "id": 6759,
-            "label": "Monster Harvesting Tools",
-            "description": null,
-            "sourceId": null
-          },
-          {
-            "id": 6822,
-            "label": "Monster Harvesting Tools",
-            "description": null,
-            "sourceId": null
-          },
-          {
             "id": 7132,
             "label": "Research Scrolls",
             "description": null,
@@ -8962,14 +8948,14 @@
             "sourceId": null
           },
           {
-            "id": 7195,
-            "label": "Fingerprint Kit",
+            "id": 7194,
+            "label": "Witchboard",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 7194,
-            "label": "Witchboard",
+            "id": 7195,
+            "label": "Fingerprint Kit",
             "description": null,
             "sourceId": null
           }
@@ -10292,7 +10278,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 0,
+          "numberUsed": 2,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
           "maxUses": 2,
@@ -14555,17 +14541,6 @@
         "privacyType": 3,
         "campaignId": null,
         "isAssigned": true
-      },
-      {
-        "userId": 112741854,
-        "username": "Kirk_The_Dodger",
-        "characterId": 112833037,
-        "characterName": "Indigo Montoya de Aguja",
-        "characterUrl": "/profile/Kirk_The_Dodger/characters/112833037",
-        "avatarUrl": "https://www.dndbeyond.com/avatars/29797/932/1581111423-85912204.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
-        "privacyType": 2,
-        "campaignId": null,
-        "isAssigned": true
       }
     ]
   },
@@ -14852,7 +14827,7 @@
   ],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-06-07T18:23:16.70951Z",
+  "dateModified": "2026-07-19T17:47:13.36615Z",
   "providedFrom": "database",
   "canEdit": false,
   "status": 0,

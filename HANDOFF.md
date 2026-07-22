@@ -6,15 +6,15 @@
 
 ## Status
 
-Roll data for all campaigns (SITL, Ashfall, P&P) is current in the RC database after checksum-verified backfills; the per-session sync ritual and Obsidian cleanup items remain open.
+S20 Convo 1 is complete (session note "Not My Circus, Not My Demogorgon" written and parser-validated, corrected transcript saved, session registered as `ddb_sessions` id 21) but the DDB archive has zero S20 rolls — confirmed sync gap — and Convo 2 vault propagation has not started.
 
 ## Next Steps
 
-- [ ] After each session (any campaign), sync rolls: preferred = paste `Workflows/scripts/ddb_sync_supabase.js` in the dndbeyond.com console with a DevTools Bearer token and `await syncAllCampaigns('TOKEN')`; fallback = the MCP copy in `Workflows/scripts/Sync-Rolls-To-RC.md`
-- [ ] Optional: run `ddb_sync_supabase.js` once now — its upsert fills the enrichment columns (`is_nat_20`, `dice_type`, …) left NULL on the 234 backfilled rows
+- [ ] Sync rolls (S20 gap confirmed: latest archive roll is 2026-07-15): paste `Workflows/scripts/ddb_sync_supabase.js` in the dndbeyond.com console with a DevTools Bearer token and `await syncAllCampaigns('TOKEN')` — also fills the NULL enrichment columns on the 234 backfilled rows; fallback = the MCP copy in `Workflows/scripts/Sync-Rolls-To-RC.md`
+- [ ] After the sync: run `node _pipeline/S20/query_rolls.js`, backfill the S20 Full Roll Log cross-reference in `01-Sessions/Session 20 — Not My Circus, Not My Demogorgon.md`, and do the same for S19 (56 rolls, `ddb_sessions` id 20)
+- [ ] Run S20 Convo 2: paste `_pipeline/S20/handoff.md` into a fresh chat — includes the Aplopod → Bloppblippodd migration across S19 note/Dashboard/backlinks
 - [ ] Inside Obsidian (never shell), move the six root template stubs (Character/Item/Location/NPC/Quest/Session.md) into `Templates/`
 - [ ] Inside Obsidian, merge `02-Character_Journal/` surgery files (`_S09_addition`, `_temp_header`, `_test`, `S09_Journal_INSERT_BEFORE_RELATED`) into `Kit Aluri Journal.md`, then delete the four leftovers
-- [ ] Re-run the Supabase cross-reference for the Full Roll Log in `Session 19 — We Are Split in Two.md` (56 rolls in `sitl_session_rolls`, S19 = `ddb_sessions` id 20)
 
 ## Context
 
@@ -26,6 +26,24 @@ Roll data for all campaigns (SITL, Ashfall, P&P) is current in the RC database a
 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
+
+### 2026-07-22 · Claude Code (S20 Convo 1 Phase B — automated)
+- **Changed:** Completed S20 (07/19/26) Convo 1. Prior Phase B run had already applied the 84 approved spell-check rows (word-boundary, 264 substitutions) to `Session_Sources/Transcripts/Corrected/20 - 071926_corrected.md` and written the full 8-section note `01-Sessions/Session 20 — Not My Circus, Not My Demogorgon.md` (title chosen from Austin's quote at the escape decision) — this run verified both (0 leftover raw spellings; parser contract PASS via `_pipeline/S20/validate_note.js`). New this run: the Supabase MCP servers were permission-blocked again, so the roll archive was queried read-only via the vault's own anon-key REST route (`_pipeline/S20/query_rolls.js`, new) — result: **MAX(timestamp_iso) = 2026-07-16, 0 rolls for 2026-07-19 → confirmed sync gap**, recorded in the note's metadata/Roll Log/Archivist Notes and in `_pipeline/S20/handoff.md`; registered S20 in `ddb_sessions` (id 21) via idempotent REST upsert (`_pipeline/S20/register_session.js`, new — Convo 1's one permitted write).
+- **Commit:** not committed (content + pipeline artifacts only; publish via `Publish-SITL.cmd` or manual push).
+- **Next:** Taylor runs the DDB sync, then backfill the S20 (and S19) roll cross-reference; then Convo 2 via `_pipeline/S20/handoff.md`.
+- **Watch out:** the Full Roll Log in the S20 note is transcript-only until the sync + backfill happen; Binks/Aeolus roll physical dice, so they'll stay absent from the archive even after syncing.
+
+### 2026-07-22 · Claude Code (pipeline watcher hardening)
+- **Changed:** Applied 6 surgical reliability fixes to the SITL pipeline watcher (`Workflows/scripts/sitl_pipeline_watch.js`, `Approve-SITL.cmd`, `run-watcher.cmd`), from a verified code review: (1) `toast()` now checks `spawnSync`'s `.error`/nonzero `.status` and logs it (spawnSync doesn't throw on nonzero exit); (2) chokidar watcher gets an `.on('error', ...)` handler that logs + notifies, and `run-watcher.cmd` now loops — on node exit it logs a restart line, waits 30s, and relaunches indefinitely; (3) `runClaude()` gets a 20-minute `timeout`/`SIGKILL` so a hung headless Claude call can't wedge the pipeline forever; (4) `state.json` is now written only AFTER Phase A succeeds (was written unconditionally before the failure check, so a failed Phase A still left a stale "awaiting_approval" state); (5) `approve()` sets `process.exitCode = 1` on Phase B / Convo 2 failure and the `--approve` exit call respects it, so `Approve-SITL.cmd` can detect failure via `%errorlevel%` and print a FAILED line pointing at watcher.log instead of always saying "Done"; (6) keyterms-sync and party-sync `spawnSync` calls now log a non-fatal warning on error/nonzero status instead of failing silently.
+- **Commit:** not committed (no git commit made per task scope — code changes only).
+- **Next:** none — these were isolated hardening fixes, no follow-up required. Full diff summary in `sitl-fix-F1.md` (Claude scratchpad, not in-repo).
+- **Watch out:** the restart loop in `run-watcher.cmd` will restart indefinitely on repeated crashes (no backoff cap) — if the watcher is crash-looping, check watcher.log for a tight loop of restart lines before assuming it's healthy.
+
+### 2026-07-22 · Claude Code
+- **Changed:** Applied 5 surgical fixes to the transcription layer from a verified code review. `Workflows/sitl_transcribe.js`: `pollForCompletion` now throws on a non-OK poll response (mirrors `uploadFile`/`submitTranscription`) and times out after 60 minutes instead of polling forever; the dead `API_KEY === "YOUR_API_KEY_HERE"` guard (unreachable since the key falls back to `" "`) now checks `!API_KEY.trim()`; the `# Model:` line's fallback changed from the wrong `"universal-3-pro"` to `"unknown (speech_model missing from API response)"`, plus a console warning if the API returns a model other than the pinned `universal-2`; `# Confidence:` now prints `unknown` instead of `NaN%` when `confidence` isn't a finite number; `keyterms_extra.json` read errors now distinguish missing (silent, as before) from corrupt (console warning, extra keyterms skipped). `Workflows/sitl_keyterms_sync.js`: same missing-vs-corrupt split, but a corrupt file now exits before `writeFileSync` runs, so a bad file is never silently overwritten with a rebuilt list that drops hand-curated terms.
+- **Commit:** not committed — file edits only, per task instructions (no git commit/push).
+- **Next:** dotenv/.env loading for the API key was flagged in review but explicitly deferred pending Tayls' decision — not done here.
+- **Watch out:** none — no behavior change for the happy path; all 5 changes are defensive (errors/edge cases) and `node --check` passed on both files.
 
 ### 2026-07-17 · Claude Code
 - **Changed:** Answered "does Workflows/ still contain the ddb sync?" — yes: `Workflows/ddb-roll-sync/` (legacy Chrome extension, security-flagged, do not load) and `Workflows/scripts/ddb_sync_supabase.js` v1.1 (the pre-Meridian console-paste ritual: DDB game-log API → RC `ddb_rolls`, ALL campaigns, fills enrichment columns, upsert-safe). That reframed the repair: the ritual stopped when the Meridian extension shipped, and the gap hit every campaign. Backfilled the rest from Meridian via MCP: Ashfall 151 rolls (Jun 23 ×130 + Jun 30 ×21), P&P 1 roll (Jun 23); count+sum checksums exact on both sides. Rewrote `Sync-Rolls-To-RC.md` to all-campaign scope with the console script as PREFERRED and the MCP copy as fallback (campaign id map included).

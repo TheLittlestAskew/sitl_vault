@@ -41,12 +41,12 @@
   "skin": "Bronze, but hard to tell as they're often muddy.",
   "height": "5' 5\"",
   "weight": 140,
-  "inspiration": true,
+  "inspiration": false,
   "baseHitPoints": 23,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
   "removedHitPoints": 9,
-  "temporaryHitPoints": 0,
+  "temporaryHitPoints": 16,
   "currentXp": 900,
   "alignmentId": 6,
   "lifestyleId": 5,
@@ -242,13 +242,13 @@
     "fullName": "Elf",
     "baseRaceId": 1751437,
     "baseRaceTypeId": 1743923279,
-    "description": "<p>The elves&rsquo; curiosity led many of them to explore other planes of existence.</p>\r\n<p style=\"font-family: Roboto Condensed;\"><strong>Elf Traits</strong><br />Darkvision, Elven Lineage, Fey Ancestry, Keen Senses,&nbsp;Trance</p>",
-    "longDescription": "<p>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon&rsquo;s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon&rsquo;s forgiveness, but that which Corellon had taken from them was lost forever.</p>\r\n<p>No longer able to shape-shift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane&rsquo;s influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.</p>\r\n<p>Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don&rsquo;t sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations.</p>\r\n<p>An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.</p>\r\n<h2 id=\"Drow\" class=\"compendium-hr\">Drow</h2>\r\n<p>Drow typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic. In the Eberron setting, for example, drow dwell in rainforests and cyclopean ruins on the continent of Xen&rsquo;drik.</p>\r\n<h2 id=\"HighElves\" class=\"compendium-hr\">High Elves</h2>\r\n<p>High elves have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names. For example, they call themselves sun or moon elves in the Forgotten Realms setting, Silvanesti and Qualinesti in the Dragonlance setting, and Aereni in the Eberron setting.</p>\r\n<h2 id=\"WoodElves\" class=\"compendium-hr\">Wood Elves</h2>\r\n<p>Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.</p>\r\n<hr />\r\n<h2 id=\"ElfTraits\" class=\"compendium-hr\">Elf Traits</h2>\r\n<p><strong>Creature Type:</strong> Humanoid<br><strong>Size:</strong> Medium (about 5&ndash;6 feet tall)<br><strong>Speed:</strong> 30 feet</p>",
+    "description": "<p>The elves’ curiosity led many of them to explore other planes of existence.</p>\r\n<p style=\"font-family: Roboto Condensed;\"><strong>Elf Traits</strong><br />Darkvision, Elven Lineage, Fey Ancestry, Keen Senses,&nbsp;Trance</p>",
+    "longDescription": "<p>Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon’s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon’s forgiveness, but that which Corellon had taken from them was lost forever.</p>\r\n<p>No longer able to shape-shift at will, the elves retreated to the Feywild, where their sorrow was deepened by that plane’s influence. Over time, curiosity led many of them to explore other planes of existence, including worlds in the Material Plane.</p>\r\n<p>Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don’t sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations.</p>\r\n<p>An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.</p>\r\n<h2 id=\"Drow\" class=\"compendium-hr\">Drow</h2>\r\n<p>Drow typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic. In the Eberron setting, for example, drow dwell in rainforests and cyclopean ruins on the continent of Xen’drik.</p>\r\n<h2 id=\"HighElves\" class=\"compendium-hr\">High Elves</h2>\r\n<p>High elves have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names. For example, they call themselves sun or moon elves in the Forgotten Realms setting, Silvanesti and Qualinesti in the Dragonlance setting, and Aereni in the Eberron setting.</p>\r\n<h2 id=\"WoodElves\" class=\"compendium-hr\">Wood Elves</h2>\r\n<p>Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.</p>\r\n<hr />\r\n<h2 id=\"ElfTraits\" class=\"compendium-hr\">Elf Traits</h2>\r\n<p><strong>Creature Type:</strong> Humanoid<br><strong>Size:</strong> Medium (about 5&ndash;6 feet tall)<br><strong>Speed:</strong> 30 feet</p>",
     "slug": "1751437-elf",
     "avatarUrl": "https://www.dndbeyond.com/avatars/43940/466/638607449392207682.png?width=350&height=350&fit=bounds&quality=95&auto=webp",
     "largeAvatarUrl": "https://www.dndbeyond.com/avatars/43940/467/638607449394457692.png?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
     "portraitAvatarUrl": "https://www.dndbeyond.com/avatars/43940/468/638607449396397760.jpeg?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
-    "detailsBackgroundAvatarUrl": null,
+    "detailsBackgroundAvatarUrl": "https://www.dndbeyond.com/avatars/57774/21/639196527690168207.jpeg",
     "detailsForegroundAvatarUrl": null,
     "moreDetailsUrl": "/species/1751437-elf",
     "isHomebrew": false,
@@ -430,7 +430,7 @@
           "entityTypeId": 1960452172,
           "displayOrder": 5,
           "name": "Elven Lineage",
-          "description": "<p>You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.</p>\r\n<p>When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.</p>\r\n<p>Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).</p>\r\n<table class=\"table-compendium table--left-all\" style=\"--sb-table-row-bg-hover: #b3d3df; --sb-table-row-bg-dark: #d7e8ee; --sb-table-row-bg-light: #f1f7f9; --dark-sb-table-row-bg-light: #5e7982; --dark-sb-table-row-bg-dark: #5c7f8c; --dark-sb-table-row-bg-hover: #78a2b0;\"><caption>Elven Lineages</caption>\r\n<thead>\r\n<tr>\r\n<th class=\"table-column-width--20pct\">Lineage</th>\r\n<th>Level 1</th>\r\n<th class=\"table-column-width--20pct\">Level 3</th>\r\n<th class=\"table-column-width--20pct\">Level 5</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>Drow</td>\r\n<td>The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip.</td>\r\n<td>Faerie Fire</td>\r\n<td>Darkness</td>\r\n</tr>\r\n<tr>\r\n<td>High Elf</td>\r\n<td>You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.</td>\r\n<td>Detect Magic</td>\r\n<td>Misty Step</td>\r\n</tr>\r\n<tr>\r\n<td>Wood Elf</td>\r\n<td>Your Speed increases to 35 feet. You also know the Druidcraft cantrip.</td>\r\n<td>Longstrider</td>\r\n<td>Pass without Trace</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+          "description": "<p>You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.</p>\r\n<p>When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.</p>\r\n<p>Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).</p>\r\n<table class=\"table-compendium table--left-all\" style=\"--sb-table-row-bg-hover: #b3d3df; --sb-table-row-bg-dark: #d7e8ee; --sb-table-row-bg-light: #f1f7f9; --dark-sb-table-row-bg-light: #5e7982; --dark-sb-table-row-bg-dark: #5c7f8c; --dark-sb-table-row-bg-hover: #78a2b0;\"><caption>Elven Lineages</caption>\r\n<thead>\r\n<tr>\r\n<th class=\"table-column-width--20pct\">Lineage</th>\r\n<th>Level 1</th>\r\n<th class=\"table-column-width--20pct\">Level 3</th>\r\n<th class=\"table-column-width--20pct\">Level 5</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>Drow</td>\r\n<td>The range of your Darkvision increases to 120 feet. You also know the <em>Dancing Lights</em> cantrip.</td>\r\n<td><em>Faerie Fire</em></td>\r\n<td><em>Darkness</em></td>\r\n</tr>\r\n<tr>\r\n<td>High Elf</td>\r\n<td>You know the <em>Prestidigitation</em> cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.</td>\r\n<td><em>Detect Magic</em></td>\r\n<td><em>Misty Step</em></td>\r\n</tr>\r\n<tr>\r\n<td>Wood Elf</td>\r\n<td>Your Speed increases to 35 feet. You also know the <em>Druidcraft</em> cantrip.</td>\r\n<td><em>Longstrider</em></td>\r\n<td><em>Pass without Trace</em></td>\r\n</tr>\r\n</tbody>\r\n</table>",
           "snippet": "Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.",
           "hideInBuilder": false,
           "hideInSheet": false,
@@ -738,9 +738,9 @@
     "sizeId": 4,
     "creatureTypeId": 11,
     "cardDescription": "The elves’ curiosity led many of them to explore other planes of existence.",
-    "highlights": null,
+    "highlights": "<ol>\r\n<li>Channel the magic of your elven lineage: drow, high elf, or wood elf.</li>\r\n<li>Notice what others miss and resist mind-influencing effects.</li>\r\n<li>Slip into a trancelike meditation, remaining ever aware when others must sleep.</li>\r\n</ol>",
     "mobileCardImageUrl": null,
-    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/54962/102/639071282066951292.jpeg",
+    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/57774/20/639196527687568200.jpeg",
     "sources": [
       {
         "sourceId": 145,
@@ -922,7 +922,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "Medium Armor",
+        "type": "",
         "description": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -985,9 +985,9 @@
       "displayAsAttack": null,
       "quantity": 1,
       "isAttuned": false,
-      "equipped": true,
-      "equippedEntityTypeId": 1581111423,
-      "equippedEntityId": 152970581,
+      "equipped": false,
+      "equippedEntityTypeId": null,
+      "equippedEntityId": null,
       "chargesUsed": 0,
       "limitedUse": null,
       "containerEntityId": 152970581,
@@ -1169,9 +1169,9 @@
       "displayAsAttack": null,
       "quantity": 1,
       "isAttuned": false,
-      "equipped": false,
-      "equippedEntityTypeId": null,
-      "equippedEntityId": null,
+      "equipped": true,
+      "equippedEntityTypeId": 1581111423,
+      "equippedEntityId": 152970581,
       "chargesUsed": 0,
       "limitedUse": null,
       "containerEntityId": 152970581,
@@ -8067,6 +8067,10 @@
           2401,
           14558,
           14878,
+          2196500,
+          2294147,
+          2515119,
+          2515127,
           2618834,
           2618840,
           2618875,
@@ -8079,7 +8083,32 @@
           2619067,
           2619158,
           2619176,
-          2619179
+          2619179,
+          2796991,
+          2840661,
+          2840667,
+          2840671,
+          2840673,
+          2840679,
+          2857524,
+          2857543,
+          2939320,
+          2943204,
+          2952595,
+          2952608,
+          2984813,
+          2984825,
+          3014245,
+          3014277,
+          3221135,
+          3221152,
+          3221157,
+          3221162,
+          3221164,
+          3221166,
+          3221167,
+          3274598,
+          3312020
         ],
         "tagConstraints": []
       },
@@ -8308,8 +8337,8 @@
           3964,
           4345,
           4346,
-          4378,
           4377,
+          4378,
           5888,
           6563,
           6564,
@@ -8319,14 +8348,12 @@
           6568,
           6569,
           6754,
-          6759,
-          6822,
           7132,
           7133,
           7134,
           7135,
-          7195,
-          7194
+          7194,
+          7195
         ],
         "tagConstraints": []
       }
@@ -8466,6 +8493,8 @@
           2152,
           2258,
           2370,
+          176233,
+          2294144,
           2618993,
           2619059,
           2619090,
@@ -8473,6 +8502,9 @@
           2619097,
           2619166,
           2619180,
+          2872685,
+          2952579,
+          3014205,
           1993,
           2009,
           2016,
@@ -8486,6 +8518,7 @@
           2317,
           2320,
           1239804,
+          2515121,
           2618847,
           2618900,
           2618933,
@@ -8497,7 +8530,16 @@
           2619104,
           2619132,
           2619151,
-          3269309
+          2840676,
+          2857538,
+          2872693,
+          2872698,
+          3014204,
+          3014290,
+          3221159,
+          3269309,
+          3274616,
+          3274627
         ],
         "tagConstraints": []
       },
@@ -8875,14 +8917,14 @@
             "sourceId": null
           },
           {
-            "id": 4378,
-            "label": "Three-Dragon Ante Set",
+            "id": 4377,
+            "label": "Dragonchess Set",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 4377,
-            "label": "Dragonchess Set",
+            "id": 4378,
+            "label": "Three-Dragon Ante Set",
             "description": null,
             "sourceId": null
           },
@@ -8941,18 +8983,6 @@
             "sourceId": null
           },
           {
-            "id": 6759,
-            "label": "Monster Harvesting Tools",
-            "description": null,
-            "sourceId": null
-          },
-          {
-            "id": 6822,
-            "label": "Monster Harvesting Tools",
-            "description": null,
-            "sourceId": null
-          },
-          {
             "id": 7132,
             "label": "Research Scrolls",
             "description": null,
@@ -8977,14 +9007,14 @@
             "sourceId": null
           },
           {
-            "id": 7195,
-            "label": "Fingerprint Kit",
+            "id": 7194,
+            "label": "Witchboard",
             "description": null,
             "sourceId": null
           },
           {
-            "id": 7194,
-            "label": "Witchboard",
+            "id": 7195,
+            "label": "Fingerprint Kit",
             "description": null,
             "sourceId": null
           }
@@ -9071,6 +9101,30 @@
             "sourceId": 27
           },
           {
+            "id": 2196500,
+            "label": "Hunter Sense",
+            "description": "<p>You touch one willing creature. While this spell is active, the target’s senses are heightened. If the target rolls a 9 or below on the die when making a Wisdom (Perception) check, they instead act as if they rolled a 10.</p>\r\n<blockquote>\r\n<p><span style=\"color: red; text-transform: uppercase;\"><strong>This is Partnered Content</strong></span></p>\r\n<p>This content is available in your campaign with your DM’s permission and is published by Ghostfire Gaming. To use this content, enable <strong>Grim Hollow</strong> in the character builder.</p>\r\n</blockquote>",
+            "sourceId": 130
+          },
+          {
+            "id": 2294147,
+            "label": "Gust Barrier",
+            "description": "<p>You spread your arms wide, allowing yourself to become enveloped by the air around you. Until the end of your next turn, any ranged attack against you is made with disadvantage.</p>\r\n<p>Melee attackers who successfully hit you must make a Constitution saving throw against your spell save DC. On a failure, the attacker is flung away from you up to 10 feet and is knocked prone.</p>",
+            "sourceId": 133
+          },
+          {
+            "id": 2515119,
+            "label": "Drizzle",
+            "description": "<p>You conjure up a very light rain, enough to dampen the ground in a 20-foot square but not enough to drink or to put out a fire of any size larger than a candle or match. If sustained for 1 minute, the ground is wet to the touch, and if sustained for 10 minutes, the affected area is slightly muddy or slippery, though not enough to impede movement. In freezing weather, this may generate a coating of thin ice.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2515127,
+            "label": "Flowering",
+            "description": "<p>You call forth fragrant flowers from an inanimate object. If the object is held by an unwilling creature, that creature can make a Dexterity saving throw to negate the effect. If sustained for 1 minute, the flowers give forth a pleasing scent and may attract bees, hummingbirds, or other pollinators.</p>",
+            "sourceId": 151
+          },
+          {
             "id": 2618834,
             "label": "Elementalism",
             "description": "<p>You exert control over the elements, creating one of the following effects within range.</p>\r\n<p><em><strong>Beckon Air.</strong></em> You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot Cube. Doors and shutters being held open by someone or something aren’t affected.</p>\r\n<p><em><strong>Beckon Earth.</strong></em> You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.</p>\r\n<p><em><strong>Beckon Fire.</strong></em> You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot Cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke’s scent lingers for 1 minute.</p>\r\n<p><em><strong>Beckon Water.</strong></em> You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot Cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.</p>\r\n<p><em><strong>Sculpt Element.</strong></em> You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour.</p>",
@@ -9147,6 +9201,156 @@
             "label": "Thunderclap",
             "description": "<p>Each creature in a 5-foot Emanation originating from you must succeed on a Constitution saving throw or take 1d6 Thunder damage. The spell’s thunderous sound can be heard up to 100 feet away.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).</p>",
             "sourceId": 145
+          },
+          {
+            "id": 2796991,
+            "label": "Mend Plants",
+            "description": "<p>Drawing on primordial magic, you instill vitality in nearby plants to create one of the following effects within range:</p>\r\n<ul>\r\n<li>You instantly repair a single break or tear in a living plant you touch, such as torn foliage, a scorched branch, a scar cut into bark, or two pieces of a plant that have been broken apart. As long as the damage is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former destruction.</li>\r\n<li>You instantly cause a defoliated plant to grow foliage, cause a planted seed to sprout, or restore the ability to sprout to a dead seed pod.</li>\r\n<li>You can cause a 5-foot cube of living plants to flourish with foliage such as leaves and grass. This area can become thick enough to conceal a Medium or smaller creature, or become overgrown enough to become difficult terrain (your choice when you cast the spell).</li>\r\n<li>You can touch a living plant or plant creature to grant it 1d4 temporary hit points.</li>\r\n</ul>",
+            "sourceId": 158
+          },
+          {
+            "id": 2840661,
+            "label": "Water Whip",
+            "description": "<p>Choose a source of water that you can see within range that has a volume of at least 4 pints. Make a melee spell attack against a creature within 30 feet of the source of water. On a hit, the target takes 1d6 slashing damage and, if the creature is Large or smaller, you can force it to make a Strength saving throw, pulling it up to 10 feet towards the source of water on a failure.</p>\r\n<p>The spell’s damage increases by 1d6 and the distance it can pull a target increases by 5 feet when you reach 5th level (2d6 and 15 feet), 11th level (3d6 and 20 feet), and 17th level (4d6 and 25 feet).</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840667,
+            "label": "Swarm",
+            "description": "<p>Choose a target within range; a cloud of minuscule poisonous spiders floats on gossamer strands towards it. The target must succeed on a Dexterity saving throw to avoid the spiders or become poisoned until the end of its next turn.</p>\r\n<p>This spell deals poison damage on a failed saving throw when you reach certain levels. When you reach 5th level, a creature takes 1d10 poison damage; at 11th level this increases to 2d10; and at 17th level this increases to 3d10.</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840671,
+            "label": "Pins & Needles",
+            "description": "<p>You momentarily shut down a small part of the nervous system of a creature you can see within range, before overstimulating it and causing crippling pain. The creature must succeed on a Constitution saving throw or take 1d8 psychic damage. If the target fails its saving throw by 5 or more, it has disadvantage on the next attack roll it makes before the end of its next turn as it temporarily loses full control of a part of its body.</p>\r\n<p>This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840673,
+            "label": "Magnetobolt",
+            "description": "<div class=\"page\" title=\"Page 513\">\r\n<div class=\"layoutArea\">\r\n<div class=\"column\">\r\n<p>A near-invisible pulse of arcanomagnetic energy shoots towards a creature within range. Make a ranged spell attack against the target . On a hit, the target takes 1d6 force damage and must succeed on a Strength saving throw or be knocked prone. A creature made of ferrous metal or wearing ferrous armour has disadvantage on this saving throw.</p>\r\n<p>This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>\r\n</div>\r\n</div>\r\n</div>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840679,
+            "label": "Concussion",
+            "description": "<p>With a <em>thdoom</em> that can be heard 100 feet away, you cause a sudden increase in the air pressure surrounding a creature you can see within range. The target must succeed on a Constitution saving throw or take 1d8 thunder damage and become deafened until the start of your next turn.</p>\r\n<p>This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2857524,
+            "label": "Resilient Friendship",
+            "description": "<p>You magically assist a creature within range, granting it the benefits of the Help action. If the target you helped successfully accomplishes the task by the start of your next turn, you gain 1d4 temporary hit points, which last for 1 hour.</p>\r\n<p>The number of temporary hit points you gain increases when you reach 5th level (1d6), 11th level (1d8), and 17th level (1d10).</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2857543,
+            "label": "Root Grab",
+            "description": "<p>You cause roots to reach out and grasp at the creature that provoked the opportunity attack, hindering its movement. The creature’s speed is reduced by 10 feet until the start of your next turn.</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2939320,
+            "label": "Bacterial Barrage",
+            "description": "<p>You attack a creature in range with a quick spreading infection that takes advantage of existing conditions. Make a ranged spell attack against a target, on a hit the infection does 1d8 necrotic damage to the target. If the target is suffering from the poisoned condition or a disease, it instead takes 1d12 necrotic damage.</p>\r\n<p>The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).</p>",
+            "sourceId": 196
+          },
+          {
+            "id": 2943204,
+            "label": "Concealed Shot",
+            "description": "<p>A Ranged weapon you touch is made supernaturally subtle. For the duration, when you make a ranged attack using the weapon, the weapon or ammunition you’re using becomes invisible while in flight and the weapon becomes silent. If the weapon produces smoke or light, the spell suppresses these effects. The weapon or projectile you’re using becomes visible again after the attack hits or misses. If you are hidden and the target is 80 feet or further from you, the attack doesn’t reveal your location.</p>",
+            "sourceId": 197
+          },
+          {
+            "id": 2952595,
+            "label": "Eye Burn",
+            "description": "<p>You sting the eyes of a creature attacking you. The target must make a Constitution saving throw (a creature with Blindsight or Immunity to the Blinded condition succeeds automatically). On a failed save, the target has the Blinded condition until the end of the turn. On a successful save, it must subtract 1d4 from the triggering attack roll. The target automatically succeeds on its saves against your subsequent casting of this spell for 24 hours.</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 2952608,
+            "label": "Mysterious Presence",
+            "description": "<p>You touch a willing creature and shroud its presence. Until the spell ends, other creatures must subtract 1d4 from any Wisdom (Insight or Perception) checks made against the target.</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 2984813,
+            "label": "Cat's Spring",
+            "description": "<p>You jump up to 10 feet to an unoccupied space you can see and deliver a spectral claw attack that deals Slashing or Force damage (you choose when you cast the spell). Make a melee spell attack against a target. On a hit, the target takes 1d8 damage of the chosen type, and the next attack roll you make against it before the end of your next turn has Advantage.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>",
+            "sourceId": 200
+          },
+          {
+            "id": 2984825,
+            "label": "Evil Eye",
+            "description": "<p>You glare at a creature that you can see within range, imposing a baleful hex on it. The target takes 1d4+2 Psychic damage, and attack rolls and Unarmed Strikes against it can score a Critical Hit on a roll of 19 or 20 on the d20.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong>The damage increases by 1d4+2 when you reach levels 5 (2d4+4), 11 (3d4+6), and 17 (4d4+8).</p>",
+            "sourceId": 200
+          },
+          {
+            "id": 3014245,
+            "label": "Hunter Sense",
+            "description": "<p>You touch a willing creature. For the duration, the target’s senses are heightened. Whenever the target makes a Wisdom (Perception) check, it can treat a d20 roll of 9 or lower as a 10.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014277,
+            "label": "Preserve",
+            "description": "<p>Food and other perishable items weighing 5 pounds or less that you place in a sack don’t age or decay for the duration.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3221135,
+            "label": "Ferocious Strike",
+            "description": "<p>With a pulse of adrenaline, a tremendous ferocity comes upon you. Make one weapon attack against a target within your reach or range. If this attack hits, the target takes additional 1d4 damage of the weapon’s damage type.</p>\r\n<p>This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4) and 17th level (4d4).</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221152,
+            "label": "Spore Cloud",
+            "description": "<p>You produce a cloud of virulent spores. Each creature within 5 feet of you, other than you, must succeed on a Constitution saving throw or take 1d4 poison damage. A creature that fails the saving throw by 5 or more is poisoned until the end of its next turn.</p>\r\n<p>The spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221157,
+            "label": "Stalker’s Eye",
+            "description": "<p>A willing creature you touch gains a preternatural ability to perceive the weaknesses in a creature’s defences. The first time the creature makes an attack while under the effect of this spell, it makes the attack with advantage. After it makes an attack, the spell ends.</p>\r\n<p>This spell augments the creature’s ability to strike at vital points when you reach certain levels. When you reach 5th level, the augmented attack scores a critical hit on a roll of 19 or 20. At 11th level, this range is increased to 18 to 20, and at 17th level, this range becomes 17 to 20.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221162,
+            "label": "Primal Scent",
+            "description": "<p>You inhale deeply, magically enhancing the scents that surround you. You have advantage on the next ability check you make that relies on smell, and you can treat a roll of 4 or lower as a 5.</p>\r\n<p>When you reach higher levels, this spell gives you an increasingly astute ability to identify the source of the scents around you. When you reach 5th level, whenever you make an ability check that relies on smell, you can treat a d20 roll of 7 or lower as an 8. At 11th level, a roll of 10 or lower is treated as an 11, and at 17th level, a roll of 13 or lower is treated as a 14.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221164,
+            "label": "Smokescreen",
+            "description": "<p>You spew a thick cloud of dense black smoke that forms a 5-foot-diameter, 10-foot-high cylinder centred on you that lasts until the start of your next turn. The smoke heavily obscures its area. When you cast the spell, you can choose whether the cloud remains in the location where you cast it or if it moves with you, centred on you.</p>\r\n<p>When you reach higher levels, the size of the cloud you can create with this spell increases. When you reach 5th level, the cloud has a maximum diameter and height of 15 feet; at 11th level this increases to 25 feet; and at 17th level this increases to 40 feet. You choose how big the cloud is in each dimension up to this maximum each time that you cast it.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221166,
+            "label": "Howl",
+            "description": "<p>You utter a bestial, magically-augmented howl that can be heard for 1,000 feet. The howl can manifest as any animal call you’ve heard, such as the screech of a hawk or trumpet of an elephant. Choose one creature with whom you are familiar as the recipient: if it can hear your howl, it understands your meaning and can respond in a likewise manner.</p>\r\n<p>Creatures other than your recipient that hear the howl and that are under the effects of the comprehend languages spell or similar magic, or that can understand beasts, can understand the howl’s meaning. Otherwise, the howl is unintelligible to creatures that can hear it.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221167,
+            "label": "Can’t Trip",
+            "description": "<p>Choose a willing creature within range that you can see. Until the end of your next turn, that creature is immune to the prone condition. If it is already prone and is not restrained, this spell sets it on its feet.</p>\r\n<p>The number of creatures you can simultaneously target with this spell increases by 1 when you reach 5th level (2 creatures), 11th level (3 creatures), and 17th level (4 creatures).</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3274598,
+            "label": "Aegir’s Breath",
+            "description": "<p>You blow a cloud of frigid air at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Cold damage, or 1d12 if the target is at least partially submerged in water.</p>\r\n<p><em><strong>Cantrip Upgrade.</strong></em> The spell creates two clouds at level 5, three clouds at level 11, and four clouds at level 17. You can direct the clouds at the same target or at different ones. Make a separate attack roll for each cloud.</p>",
+            "sourceId": 238
+          },
+          {
+            "id": 3312020,
+            "label": "Gravity Spike",
+            "description": "<p>You create a localized gravitational field that temporarily shifts the landscape to impale a creature. Choose a creature on the ground you can see within range. The creature must make a Dexterity saving throw. On a failed save, the target takes 1d4 Piercing damage and has the Prone condition. On a successful save, the target takes half as much damage only.</p>\r\n<p><em><strong>Cantrip Upgrade. </strong></em>The damage increases by 1d4 when you reach levels 5 (2d4), 11 (3d4), and 17 (4d4).</p>",
+            "sourceId": 249
           }
         ]
       },
@@ -9471,6 +9675,18 @@
             "sourceId": 4
           },
           {
+            "id": 176233,
+            "label": "Gift of Alacrity",
+            "description": "<p>You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.</p>",
+            "sourceId": 59
+          },
+          {
+            "id": 2294144,
+            "label": "Elevated Sight",
+            "description": "<p>You cast your eyes skyward, granting you sight from a higher vantage point. You project your vision to see through an invisible sensor which appears in a spot up to 120 feet above you.</p>\r\n<p>You can see through the sensor as if you were flying, granting a full 360 degree view from its location.</p>\r\n<p>The sensor moves with you, retaining its height in relation to you. You can use a bonus action to adjust the sensor’s height, but only to a maximum of 120 feet above you.</p>\r\n<p>While looking through this sensor you are blind, though you can switch between seeing through the sensor or through your own eyes at any time during your turn.</p>",
+            "sourceId": 133
+          },
+          {
             "id": 2618993,
             "label": "Comprehend Languages",
             "description": "<p>For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn’t decode symbols or secret messages.</p>",
@@ -9511,6 +9727,24 @@
             "label": "Identify",
             "description": "<p>You touch an object throughout the spell’s casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell’s name.</p>\r\n<p>If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.</p>",
             "sourceId": 145
+          },
+          {
+            "id": 2872685,
+            "label": "Clue",
+            "description": "<p>When you cast this spell, all footprints and fingerprints within a 30-foot Emanation originating from you become highlighted and glow faintly for the duration. When you cast the spell, choose any point in time up to 10 days ago. Only footprints and fingerprints left between that time and the present will be highlighted. Each creature that leaves footprints and fingerprints is assigned a unique color, but are not otherwise identified. Any creature that moves or touches objects within the Emanation will also leave colorful footprints and fingerprints, which might reveal invisible creatures in the area.</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 2952579,
+            "label": "Ancestral Communion",
+            "description": "<p>You invoke the wisdom of your ancestors to gain insight into your trials. When you cast the spell, and at the start of each of your turns for the duration, you gain Heroic Inspiration if you don’t already have it.</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 3014205,
+            "label": "Binding Pledge",
+            "description": "<p>When you cast the spell, a willing creature within range makes a promise, swears an oath, or enters into a contract. For the duration of the spell, you immediately know if the creature breaks that promise, oath, or contract. If this happens, for the remainder of the duration of the spell, you know the distance and direction to the creature. If this spell is dispelled, you immediately know it but don’t learn the distance and direction to the creature.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> The duration becomes 30 days (level 3-4 slot) or 1 year (level 5-6 slot). If you use a level 7+ spell slot, the spell lasts until dispelled.</p>",
+            "sourceId": 207
           },
           {
             "id": 1993,
@@ -9591,6 +9825,12 @@
             "sourceId": 80
           },
           {
+            "id": 2515121,
+            "label": "Elf Shot",
+            "description": "<p>You pretend to shoot an arrow with a tiny bow. Make a ranged spell attack against a creature within range. On a hit, the target creature stumbles (is pushed) 5 feet in a random direction (roll a d8 and assign a direction to each die face), and its speed is 0 until the end of its next turn. Until the spell ends, you can make the attack again on each of your turns as an action.</p>",
+            "sourceId": 151
+          },
+          {
             "id": 2618847,
             "label": "Animal Friendship",
             "description": "<p>Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. If you or one of your allies deals damage to the target, the spell ends.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> You can target one additional Beast for each spell slot level above 1.</p>",
@@ -9657,10 +9897,64 @@
             "sourceId": 145
           },
           {
+            "id": 2840676,
+            "label": "Daydream",
+            "description": "<p>You float some mildly distracting thoughts into the mind of a humanoid you can see within range. The target must succeed on a Wisdom saving throw or have disadvantage on Wisdom (Perception) checks (taking a -5 penalty to its passive Perception as a result of this disadvantage) until the spell ends. A creature immune to being charmed is unaffected by this spell.</p>\r\n<p>A creature that succeeds on the saving throw by 5 or more is aware that an attempt was made to influence it with magic. Otherwise, the creature remains unaware of the magic that affected it.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st, or you can extend the range of the spell by 30 feet for each slot level above 1st.</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2857538,
+            "label": "Pacify Person",
+            "description": "<p>You attempt to pacify a humanoid you can see within range.</p>\r\n<p>The target must make a Wisdom saving throw. If it fails the save, it is pacified by you until the spell ends. A pacified creature can’t attack, cast a spell that affects an enemy, or deal damage to another creature. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional humanoid for each slot level above 1st. The humanoids must be within 30 feet of each other when you target them.</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2872693,
+            "label": "Memorize",
+            "description": "<p>When you cast this spell, your eyes pass over a page of written text that is committed to your memory. For the next year, you remember the exact details of all information on the page. After that time, you have Advantage on all Intelligence checks you make to recall this information.</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 2872698,
+            "label": "Rumor",
+            "description": "<p>You magically spread a rumor of 10 words or less in a 100-foot Emanation originating from you. Any creature within the Emanation that can hear and understand three or more other creatures believes that they hear the rumor being repeated by someone nearby. Different creatures hear the rumor from different people, so a concrete origin is impossible to discern. Generally, creatures won’t become Hostile upon hearing even the most vicious rumors, but hearing a rumor can affect their attitude positively or negatively.</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 3014204,
+            "label": "Assisted Aim",
+            "description": "<p>You invigorate up to three creatures within range with improved accuracy. Each target gains a +1 bonus to attack rolls it makes with Ranged weapons. Additionally, the normal and long range of Ranged weapons wielded by a target are doubled for the spell’s duration.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You can target one additional creature for each slot level above 1.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014290,
+            "label": "Somnolence",
+            "description": "<p>As part of casting this spell, you must expend one Hit Point Die or the spell automatically fails. Roll the Hit Point Die expended to cast the spell plus 2d12 and choose a creature within range. If the roll’s total is equal to or greater than the chosen creature’s current Hit Points, the creature falls into a magical slumber for 1 minute. If the roll’s total is equal to or greater than the chosen creature’s Hit Point maximum, the magical slumber lasts for 24 hours instead. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect. A creature woken early from this spell gains 1 Exhaustion level.</p>\r\n<p>Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You roll an additional 1d12 and can expend an additional two Hit Point Dice for every spell slot level above 1.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3221159,
+            "label": "Initiative",
+            "description": "<p>As a reaction when initiative is rolled, choose a willing creature you can see within range; it begins to subtly jitter as its pupils dilate. If the target is surprised, it is no longer surprised, and takes its turn on the first round as normal. If the target is not surprised, it gains advantage on the initiative roll that prompted this spell.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, you may target one additional creature for each spell slot above 1st.</p>",
+            "sourceId": 224
+          },
+          {
             "id": 3269309,
             "label": "Insidious Rhythm",
             "description": "<p>One creature of your choice that you can see within range hears a haunting yet catchy tune that continuously repeats in its mind. The target must succeed on a Wisdom saving throw, or it has Disadvantage on Intelligence checks and on Constitution saving throws made to maintain Concentration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You can target one additional creature for each spell slot level above 1.</p>",
             "sourceId": 272
+          },
+          {
+            "id": 3274616,
+            "label": "Drummer’s Cadence",
+            "description": "<p>For the duration, you radiate an aura in a 60-foot Emanation. Whenever an allied ship in this area moves by oar, its Speed increases by 10 ft. The vessel must be sufficiently crewed for this spell to have any effect.</p>",
+            "sourceId": 238
+          },
+          {
+            "id": 3274627,
+            "label": "Freyja’s Allure",
+            "description": "<p>One creature of your choice that you can see within range makes a Charisma saving throw. On a failed save, the target has Disadvantage on attack rolls and can’t willingly move farther away from you for the duration.</p>\r\n<p>At the end of each of its turns, the creature can make another Charisma saving throw. The target has Disadvantage on the save if it can see you and you are within 30 feet of it. On a successful save, the spell ends on it.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You can target one additional creature for each spell slot level above 1st.</p>",
+            "sourceId": 238
           }
         ]
       },
@@ -9969,7 +10263,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 1,
+          "numberUsed": 2,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
           "maxUses": 2,
@@ -13181,25 +13475,14 @@
         "privacyType": 3,
         "campaignId": null,
         "isAssigned": true
-      },
-      {
-        "userId": 112741854,
-        "username": "Kirk_The_Dodger",
-        "characterId": 112833037,
-        "characterName": "Indigo Montoya de Aguja",
-        "characterUrl": "/profile/Kirk_The_Dodger/characters/112833037",
-        "avatarUrl": "https://www.dndbeyond.com/avatars/29797/932/1581111423-85912204.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
-        "privacyType": 2,
-        "campaignId": null,
-        "isAssigned": true
       }
     ]
   },
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-07-05T19:01:36.18965Z",
-  "providedFrom": "database",
+  "dateModified": "2026-07-19T18:29:16.903Z",
+  "providedFrom": "storage",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,

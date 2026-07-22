@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152970581
 ddb_url: https://www.dndbeyond.com/characters/152970581
-synced: 2026-07-05T19:01:36.643Z
+synced: 2026-07-19T18:46:04.145Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -17,7 +17,7 @@ generated_by: ddb_party_sync.js
 - **Total Level:** 4  ·  **Proficiency Bonus:** +2
 - **Background:** Hermit
 - **Max HP (approx):** 39
-- **AC:** 15  ·  *Scale Mail 14 + Dex +1*
+- **AC:** 12  ·  *Leather 11 + Dex +1*
 - **Currency:** 0pp 15gp 0ep 7sp 0cp
 
 ## Ability Scores
@@ -34,9 +34,9 @@ generated_by: ddb_party_sync.js
 ## Inventory (23)
 
 - Enspelled War Pick *(equipped)*
-- Scale Mail *(equipped)*
+- Scale Mail
 - Shield
-- Leather
+- Leather *(equipped)*
 - Quarterstaff
 - Sickle
 - Sack *(equipped)*

@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 153130853
 ddb_url: https://www.dndbeyond.com/characters/153130853
-synced: 2026-07-05T19:01:36.643Z
+synced: 2026-07-19T18:46:04.145Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -13,11 +13,11 @@ generated_by: ddb_party_sync.js
 > Some derived values are approximate. Source of truth: `_raw/Kit Aluri.json`.
 
 - **Race:** Orc
-- **Class:** Fighter (Battle Master) 4 / Rogue 1
-- **Total Level:** 5  ·  **Proficiency Bonus:** +3
+- **Class:** Fighter (Battle Master) 4 / Rogue 1 / Barbarian 1
+- **Total Level:** 6  ·  **Proficiency Bonus:** +3
 - **Background:** Soldier
-- **Max HP (approx):** 43
-- **AC:** 16  ·  *Chain Mail 16 (heavy, no Dex)*
+- **Max HP (approx):** 52
+- **AC:** 15  ·  *Unarmored Defense 10 + Dex +3 + Con +2*
 - **Currency:** 0pp 18gp 0ep 0sp 0cp
 
 ## Ability Scores
@@ -38,7 +38,7 @@ generated_by: ddb_party_sync.js
 - Greatsword, +1 *(equipped)*
 - Shortsword, +1 *(equipped)*
 - Cloak of Elvenkind *(equipped)*
-- Chain Mail *(equipped)*
+- Chain Mail
 - Javelin ×8 *(equipped)*
 - Spear *(equipped)*
 - Flail *(equipped)*
