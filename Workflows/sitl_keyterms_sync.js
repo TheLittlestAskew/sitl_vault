@@ -73,9 +73,19 @@ const valid = (t) =>
   !SKIP_NAMES.has(t.toLowerCase()) &&
   t.split(' ').length <= MAX_WORDS_PER_TERM;
 
-// Load existing extra list (tolerate missing/empty)
+// Load existing extra list (tolerate missing; refuse to proceed on a corrupt file so
+// we never overwrite hand-curated terms with a rebuilt list that dropped them)
 let extra = [];
-try { extra = JSON.parse(fs.readFileSync(EXTRA_FILE, 'utf8')); } catch { extra = []; }
+try {
+  extra = JSON.parse(fs.readFileSync(EXTRA_FILE, 'utf8'));
+} catch (err) {
+  if (err.code === 'ENOENT') {
+    extra = [];
+  } else {
+    console.error(`Keyterms sync: keyterms_extra.json exists but is unreadable/corrupt (${err.message}). Refusing to write — fix or delete the file and re-run.`);
+    process.exit(1);
+  }
+}
 const have = new Set(extra.map((t) => t.toLowerCase()));
 
 // Collect candidates: page title + aliases for every page in scan folders

@@ -78,7 +78,11 @@ function toast(title, message, opts = {}) {
                 '-Title', title, '-Message', message];
   if (opts.review)  args.push('-ReviewPath',  opts.review);
   if (opts.approve) args.push('-ApprovePath', opts.approve);
-  try { spawnSync('powershell.exe', args, { windowsHide: true }); }
+  try {
+    const r = spawnSync('powershell.exe', args, { windowsHide: true });
+    if (r.error) log(`toast failed: ${r.error.message}`);
+    else if (r.status !== 0) log(`toast exited with status ${r.status}`);
+  }
   catch (e) { log(`toast failed: ${e.message}`); }
 }
 
@@ -209,7 +213,8 @@ function buildPrompt(templateName, vars) {
 // Pipe a prompt file into headless Claude Code, running in the vault root
 function runClaude(promptFile) {
   const cmd = `${catCmd} "${promptFile}" | claude -p ${CLAUDE_FLAGS}`;
-  const r = spawnSync(cmd, { cwd: VAULT_ROOT, shell: true, stdio: 'inherit' });
+  const r = spawnSync(cmd, { cwd: VAULT_ROOT, shell: true, stdio: 'inherit', timeout: 20 * 60 * 1000, killSignal: 'SIGKILL' });
+  if (r.error) { log(`runClaude failed: ${r.error.message}`); return false; }
   return r.status === 0;
 }
 
@@ -228,7 +233,9 @@ function processRecording(mp3) {
   const keytermsScript = path.join(TRANSCRIBE_CWD, 'sitl_keyterms_sync.js');
   if (fs.existsSync(keytermsScript)) {
     log('Refreshing keyterms from vault…');
-    spawnSync('node "sitl_keyterms_sync.js"', { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });
+    const kr = spawnSync('node "sitl_keyterms_sync.js"', { cwd: TRANSCRIBE_CWD, shell: true, stdio: 'inherit' });
+    if (kr.error) log(`Keyterms sync warning: ${kr.error.message}`);
+    else if (kr.status !== 0) log(`Keyterms sync warning: exited with status ${kr.status}`);
   }
 
   // Refresh party sheets from D&D Beyond (public fetch). Non-fatal: a network
@@ -237,7 +244,9 @@ function processRecording(mp3) {
   if (fs.existsSync(partyScript)) {
     log('Refreshing party sheets from D&D Beyond…');
     try {
-      spawnSync('node "ddb_party_sync.js"', { cwd: __dirname, shell: true, stdio: 'inherit' });
+      const pr = spawnSync('node "ddb_party_sync.js"', { cwd: __dirname, shell: true, stdio: 'inherit' });
+      if (pr.error) log(`Party sheet sync warning: ${pr.error.message}`);
+      else if (pr.status !== 0) log(`Party sheet sync warning: exited with status ${pr.status}`);
     } catch (e) { log(`Party sheet sync skipped: ${e.message}`); }
   }
 
@@ -262,10 +271,10 @@ function processRecording(mp3) {
   });
   const ok = runClaude(prompt);
 
+  if (!ok) { setStage('phaseA', 'failed', 'See watcher.log'); return notify('Phase A FAILED — see _pipeline\\watcher.log.'); }
+
   fs.writeFileSync(path.join(PIPELINE_DIR, 'state.json'),
     JSON.stringify({ pendingFolder: pdir, transcript, ...sess, stage: 'awaiting_approval' }, null, 2));
-
-  if (!ok) { setStage('phaseA', 'failed', 'See watcher.log'); return notify('Phase A FAILED — see _pipeline\\watcher.log.'); }
 
   const spellcheck = path.join(pdir, 'spellcheck.md');
   const { total, low } = analyzeSpellcheck(spellcheck, 60);
@@ -308,7 +317,7 @@ function approve() {
     TRANSCRIPT_PATH: st.transcript, NN: st.nn, DATE: st.mmddyy,
     ISO_DATE: st.iso, PIPELINE_DIR: pdir,
   });
-  if (!runClaude(pB)) { setStage('phaseB', 'failed', 'See console output above'); return notify('Phase B FAILED — see console output above.'); }
+  if (!runClaude(pB)) { setStage('phaseB', 'failed', 'See console output above'); process.exitCode = 1; return notify('Phase B FAILED — see console output above.'); }
   setStage('phaseB', 'done');
 
   log('Convo 2: propagating across the vault + git push…');
@@ -316,7 +325,7 @@ function approve() {
   const p2 = buildPrompt('convo2_propagate.md', {
     NN: st.nn, ISO_DATE: st.iso, PIPELINE_DIR: pdir,
   });
-  if (!runClaude(p2)) { setStage('convo2', 'failed', 'See console output above'); return notify('Convo 2 FAILED — see console output above.'); }
+  if (!runClaude(p2)) { setStage('convo2', 'failed', 'See console output above'); process.exitCode = 1; return notify('Convo 2 FAILED — see console output above.'); }
   setStage('convo2', 'done', 'Synced + pushed');
 
   st.stage = 'complete';
@@ -325,7 +334,7 @@ function approve() {
 }
 
 // ── MAIN ──
-if (process.argv.includes('--approve')) { approve(); process.exit(0); }
+if (process.argv.includes('--approve')) { approve(); process.exit(process.exitCode || 0); }
 
 fs.mkdirSync(PIPELINE_DIR, { recursive: true });
 banner('SITL Pipeline Watcher — Option B  (watching for new .mp3)');
@@ -344,4 +353,8 @@ chokidar
     if (seen.has(p)) return;
     seen.add(p);
     processRecording(p);
+  })
+  .on('error', (e) => {
+    log(`Watcher error: ${e.message}`);
+    notify(`Watcher error: ${e.message}`);
   });

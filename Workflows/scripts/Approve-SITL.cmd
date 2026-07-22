@@ -7,5 +7,9 @@ echo Approving the pending SITL session (Phase B + Convo 2)...
 echo.
 "C:\Program Files\nodejs\node.exe" sitl_pipeline_watch.js --approve
 echo.
-echo Done. You can close this window.
+if errorlevel 1 (
+  echo FAILED — see _pipeline\watcher.log for details.
+) else (
+  echo Done. You can close this window.
+)
 pause

@@ -343,7 +343,12 @@ const SITL_CUSTOM_SPELLING = [
 let KEYTERMS_EXTRA = [];
 try {
   KEYTERMS_EXTRA = JSON.parse(fs.readFileSync(path.join(__dirname, "keyterms_extra.json"), "utf-8"));
-} catch { /* no extra file yet — fine */ }
+} catch (err) {
+  if (err.code !== "ENOENT") {
+    console.warn(`⚠ Skipping extra keyterms — keyterms_extra.json exists but couldn't be read: ${err.message}`);
+  }
+  // ENOENT (no extra file yet) — fine, stay silent
+}
 const ALL_KEYTERMS = [...new Set([...SITL_KEYTERMS, ...KEYTERMS_EXTRA])];
 
 // ── HELPER FUNCTIONS ────────────────────────────────────────
@@ -454,11 +459,22 @@ async function pollForCompletion(transcriptId) {
 
   const pollUrl = `${BASE_URL}/v2/transcript/${transcriptId}`;
   let dots = 0;
+  const startTime = Date.now();
+  const MAX_ELAPSED_MS = 60 * 60 * 1000; // 60 minutes
 
   while (true) {
+    if (Date.now() - startTime > MAX_ELAPSED_MS) {
+      throw new Error(`Polling timed out after 60 minutes waiting for transcript ${transcriptId} to complete.`);
+    }
+
     const response = await fetch(pollUrl, {
       headers: { Authorization: API_KEY },
     });
+
+    if (!response.ok) {
+      const errorBody = await response.text();
+      throw new Error(`Polling failed: ${response.status} — ${errorBody}`);
+    }
 
     const data = await response.json();
 
@@ -485,11 +501,19 @@ async function pollForCompletion(transcriptId) {
 function formatTranscript(transcriptData) {
   const lines = [];
 
+  if (transcriptData.speech_model && transcriptData.speech_model !== "universal-2") {
+    console.warn(`⚠ Model pin did not hold — expected "universal-2", got "${transcriptData.speech_model}".`);
+  }
+
   lines.push("# SITL Session Transcript");
   lines.push(`# Transcribed: ${new Date().toISOString()}`);
   lines.push(`# Audio duration: ${Math.round(transcriptData.audio_duration / 60)} minutes`);
-  lines.push(`# Model: ${transcriptData.speech_model || "universal-3-pro"}`);
-  lines.push(`# Confidence: ${(transcriptData.confidence * 100).toFixed(1)}%`);
+  lines.push(`# Model: ${transcriptData.speech_model || "unknown (speech_model missing from API response)"}`);
+  lines.push(
+    Number.isFinite(transcriptData.confidence)
+      ? `# Confidence: ${(transcriptData.confidence * 100).toFixed(1)}%`
+      : "# Confidence: unknown"
+  );
   lines.push("");
   lines.push("---");
   lines.push("");
@@ -557,7 +581,7 @@ Set your API key:
   }
 
   // Validate API key
-  if (API_KEY === "YOUR_API_KEY_HERE") {
+  if (!API_KEY.trim()) {
     console.error("ERROR: Set your AssemblyAI API key first.");
     console.error("  export ASSEMBLYAI_API_KEY=your_key_here");
     console.error("  — or edit the API_KEY constant in this script.");
