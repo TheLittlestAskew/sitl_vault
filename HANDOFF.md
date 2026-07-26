@@ -27,6 +27,12 @@ S20 Convo 1 is complete (session note "Not My Circus, Not My Demogorgon" written
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-07-26 11:44 ET · Claude Code
+- **Changed:** Added the Handoff Contract to `AGENTS.md` so Codex follows it. Codex reads `AGENTS.md`, never `~/.claude/skills/`, so it had no handoff instructions at all before this.
+- **Commit:** `47490b0`
+- **Next:** Unchanged. See the block above this log.
+- **Watch out:** Log entries must now carry a tool label (`Claude Code` / `Claude desktop` / `Codex` / `ChatGPT`). Do not restructure this file; the dashboard parses it.
+
 ### 2026-07-22 · Claude Code (S20 Convo 1 Phase B — automated)
 - **Changed:** Completed S20 (07/19/26) Convo 1. Prior Phase B run had already applied the 84 approved spell-check rows (word-boundary, 264 substitutions) to `Session_Sources/Transcripts/Corrected/20 - 071926_corrected.md` and written the full 8-section note `01-Sessions/Session 20 — Not My Circus, Not My Demogorgon.md` (title chosen from Austin's quote at the escape decision) — this run verified both (0 leftover raw spellings; parser contract PASS via `_pipeline/S20/validate_note.js`). New this run: the Supabase MCP servers were permission-blocked again, so the roll archive was queried read-only via the vault's own anon-key REST route (`_pipeline/S20/query_rolls.js`, new) — result: **MAX(timestamp_iso) = 2026-07-16, 0 rolls for 2026-07-19 → confirmed sync gap**, recorded in the note's metadata/Roll Log/Archivist Notes and in `_pipeline/S20/handoff.md`; registered S20 in `ddb_sessions` (id 21) via idempotent REST upsert (`_pipeline/S20/register_session.js`, new — Convo 1's one permitted write).
 - **Commit:** not committed (content + pipeline artifacts only; publish via `Publish-SITL.cmd` or manual push).
