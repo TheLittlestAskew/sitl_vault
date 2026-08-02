@@ -8,8 +8,11 @@
 
 S20 Convo 1 is complete (session note "Not My Circus, Not My Demogorgon" written and parser-validated, corrected transcript saved, session registered as `ddb_sessions` id 21) but the DDB archive has zero S20 rolls — confirmed sync gap — and Convo 2 vault propagation has not started.
 
+New thread as of 2026-08-01: session notes do not reach rectrixcaedere.com automatically (S20 has been invisible on the site since 07-19 because each campaign's `session.html`/`archive.html` holds a hardcoded `ARC` array). Design is approved and specced at `docs/superpowers/specs/2026-08-01-sitl-auto-publish-design.md`; S20's `site_*` frontmatter is written and validated. Nothing implemented yet.
+
 ## Next Steps
 
+- [ ] Review `docs/superpowers/specs/2026-08-01-sitl-auto-publish-design.md`, then write the implementation plan (Action in this repo emits `site/sessions.json`; `rectrixcaedere` `sky-is-the-limit/session.html` + `archive.html` fetch it instead of hardcoding `ARC`). Two ⚠️ requirements are load-bearing: YAML parses `session_date` to a **date object**, so format UTC-only or every ET date shifts back a day and `rollStats()` queries the wrong day; and `archive.html`'s `build()` renders `esc(s.r)` unguarded, so a note without `site_region` prints "undefined"
 - [ ] Sync rolls (S20 gap confirmed: latest archive roll is 2026-07-15): paste `Workflows/scripts/ddb_sync_supabase.js` in the dndbeyond.com console with a DevTools Bearer token and `await syncAllCampaigns('TOKEN')` — also fills the NULL enrichment columns on the 234 backfilled rows; fallback = the MCP copy in `Workflows/scripts/Sync-Rolls-To-RC.md`
 - [ ] After the sync: run `node _pipeline/S20/query_rolls.js`, backfill the S20 Full Roll Log cross-reference in `01-Sessions/Session 20 — Not My Circus, Not My Demogorgon.md`, and do the same for S19 (56 rolls, `ddb_sessions` id 20)
 - [ ] Run S20 Convo 2: paste `_pipeline/S20/handoff.md` into a fresh chat — includes the Aplopod → Bloppblippodd migration across S19 note/Dashboard/backlinks
@@ -20,12 +23,20 @@ S20 Convo 1 is complete (session note "Not My Circus, Not My Demogorgon" written
 
 - Long-term roll-sync automation decision still open (options in `Workflows/scripts/Sync-Rolls-To-RC.md` §Long-term).
 - ⚠️ Never load the `Workflows/ddb-roll-sync/` Chrome extension — security-flagged legacy copy; the console script is the sanctioned legacy tool.
-- Publishing notes: `Workflows/scripts/Publish-SITL.cmd` or manual push only — the scheduled backup commit/push is permanently dead (S-9).
+- Publishing notes: **Obsidian Git auto-commits AND auto-pushes** this vault whenever Obsidian is open on it (`autoSaveInterval: 10`, `autoBackupAfterFileChange: true`, `differentIntervalCommitAndPush: false`, so auto-backup does commit+push together; the `vault backup: <timestamp>` commits are this plugin). `Workflows/scripts/Publish-SITL.cmd` is the manual path when Obsidian is closed. ⚠️ The "permanently dead (S-9)" backup is `wip-backup.ps1`, the disabled Task Scheduler snapshotter — a *different* mechanism. An earlier version of this line implied publishing was manual-only and misled a session on 2026-08-01.
 
 ---
 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
+
+### 2026-08-01 ET · Claude Code
+- **Changed:** Diagnosed why session notes don't reach rectrixcaedere.com and specced the fix. Root cause is narrower than expected: note *bodies* already stream live from `raw.githubusercontent.com/.../sitl_vault/main`, and rolls stream live from Supabase — the only manual step is the hardcoded `var ARC=[...]` registry duplicated in `sky-is-the-limit/session.html` and `archive.html`, which is why S20 has been invisible since 07-19. Approved design (brainstormed, 3 forks decided): session notes carry their own `site_*` frontmatter; a GitHub Action in this repo parses `01-Sessions/**` into `site/sessions.json`; the site fetches that instead of hardcoding, so `rectrixcaedere` is touched once and never again per session. Rejected an LLM-in-CI summarizer (cost, secret, unreviewed prose on a public page) and client-side GitHub API listing (60 req/hr per visitor IP). Wrote `docs/superpowers/specs/2026-08-01-sitl-auto-publish-design.md` and added S20's `site_region`/`site_arc`/`site_events` (4 bullets styled to match S16–19). Verified rather than assumed: YAML parses, frontmatter strips from the rendered body, and `session.html`'s `fm()` lookups are `^`-anchored so `site_*` keys can't collide. Also corrected the Context line above about publishing being manual-only.
+- **Commit:** `753f57f`
+- **Friction:** misread — read this file's "the scheduled backup commit/push is permanently dead (S-9)" as covering all auto-push and told Taylor she'd still have to push manually. She pushed back ("Isn't the push already happening regularly through obsidian?") and was right: S-9 is `wip-backup.ps1` only, while Obsidian Git commits *and* pushes on a 10-minute auto-backup. Ground truth was `.obsidian/plugins/obsidian-git/data.json` plus the `vault backup:` commits in `git log` — check plugin settings and commit-message signatures before claiming a repo lacks automation, and don't treat a HANDOFF Context line as authoritative over the config it describes. Context line now fixed.
+- **Friction:** gen-fail — `python -c` verification died with `UnicodeEncodeError: 'charmap' codec` printing `→` and `—` from this vault's frontmatter; the YAML had actually parsed fine, so the traceback read as a content failure when it was a console-encoding failure. Fixed by prefixing `PYTHONIOENCODING=utf-8`. Use that on every Python check in these vaults — the notes are full of em-dashes, arrows and curly quotes.
+- **Next:** Taylor reviews the spec, then write the implementation plan.
+- **Watch out:** ⚠️ YAML parses `session_date: 2026-07-19` into a **date object** at UTC midnight, not a string. Formatting it with local-time accessors in ET yields the previous day, which would shift every date on the site and make `rollStats(s.d)` query the wrong day and report "no rolls synced" on every card. UTC-only formatting, with a regression test. ⚠️ Adding `site_*` keys to notes is safe today (frontmatter is stripped before render), but S20's `site_events` go public the moment the site starts reading `sessions.json` — there is no review gate by design.
 
 ### 2026-07-26 11:44 ET · Claude Code
 - **Changed:** Added the Handoff Contract to `AGENTS.md` so Codex follows it. Codex reads `AGENTS.md`, never `~/.claude/skills/`, so it had no handoff instructions at all before this.
