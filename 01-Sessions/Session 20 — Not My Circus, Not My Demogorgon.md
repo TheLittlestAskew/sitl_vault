@@ -17,6 +17,13 @@ party_present:
   - Amanita de'Champignon
   - Darby Stonefeather
   - Aeolus
+site_region: Sloobludop
+site_arc: "Ploop’s home → the Altar of the Deep Father"
+site_events:
+  - "A kuo-toa escort marches the party toward the Altar of the Deep Father as an uncommon fog rolls off the Darklake — Kit and Indigo slip the column and shadow it, hidden in steam Indigo pulls off the canal."
+  - "Ploop springs the betrayal mid-ritual, striking his own daughter Bloppblippodd with his scepter; his Destructive Wave kills the massed Deep Father kuo-toa where they stand."
+  - "Ixitxachitls boil out of the Darklake in droves, fleeing the water they live in, while Kit shrugs off a manic pull from the lake urging her into frenzy."
+  - "Ploop’s final blow kills Blop as she calls Limu Gugun’s name, and the ritual succeeds anyway — Demogorgon rises from the Darklake and wades toward Sloobludop as combat ends unresolved."
 tags: [session, sitl]
 ---
 
