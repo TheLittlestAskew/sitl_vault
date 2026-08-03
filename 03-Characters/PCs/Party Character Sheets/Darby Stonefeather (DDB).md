@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 148838177
 ddb_url: https://www.dndbeyond.com/characters/148838177
-synced: 2026-07-19T18:46:04.145Z
+synced: 2026-08-02T20:12:28.574Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -48,10 +48,6 @@ generated_by: ddb_party_sync.js
 
 - **Level 1:** Animal Friendship, Speak with Animals
 - **Level 2:** Beast Sense, Misty Step
-
-## Conditions
-
-- 4
 
 ## Notes / Traits
 

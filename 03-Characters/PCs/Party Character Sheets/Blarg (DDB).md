@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152910077
 ddb_url: https://www.dndbeyond.com/characters/152910077
-synced: 2026-07-19T18:46:04.145Z
+synced: 2026-08-02T20:12:28.574Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -13,10 +13,10 @@ generated_by: ddb_party_sync.js
 > Some derived values are approximate. Source of truth: `_raw/Blarg.json`.
 
 - **Race:** Dwarf
-- **Class:** Druid (Circle of the Moon) 3 / Cleric 1
-- **Total Level:** 4  ·  **Proficiency Bonus:** +2
+- **Class:** Druid (Circle of the Moon) 3 / Cleric 2
+- **Total Level:** 5  ·  **Proficiency Bonus:** +3
 - **Background:** Hermit
-- **Max HP (approx):** 35
+- **Max HP (approx):** 43
 - **AC:** 15  ·  *Leather 11 + Dex +2 + Shield +2*
 - **Currency:** 0pp 25gp 0ep 0sp 0cp
 
@@ -58,8 +58,8 @@ generated_by: ddb_party_sync.js
 - Torch ×10
 - Waterskin
 
-## Spells (21)
+## Spells (22)
 
 - **Cantrips:** Druidcraft, Guidance, Mending, Mold Earth, Primal Savagery, Resistance, Spare the Dying
-- **Level 1:** Bless, Ceremony, Command, Earth Tremor, Find Familiar, Goodberry, Healing Word, Ice Knife, Purify Food and Drink, Shield of Faith, Speak with Animals
+- **Level 1:** Bless, Ceremony, Command, Earth Tremor, Find Familiar, Goodberry, Healing Word, Ice Knife, Protection from Evil and Good, Purify Food and Drink, Shield of Faith, Speak with Animals
 - **Level 2:** Hold Person, Misty Step, Warding Wind

@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 153130853
 ddb_url: https://www.dndbeyond.com/characters/153130853
-synced: 2026-07-19T18:46:04.145Z
+synced: 2026-08-02T20:12:28.574Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -13,10 +13,10 @@ generated_by: ddb_party_sync.js
 > Some derived values are approximate. Source of truth: `_raw/Kit Aluri.json`.
 
 - **Race:** Orc
-- **Class:** Fighter (Battle Master) 4 / Rogue 1 / Barbarian 1
-- **Total Level:** 6  ·  **Proficiency Bonus:** +3
+- **Class:** Fighter (Battle Master) 4 / Rogue 1 / Barbarian 2
+- **Total Level:** 7  ·  **Proficiency Bonus:** +3
 - **Background:** Soldier
-- **Max HP (approx):** 52
+- **Max HP (approx):** 61
 - **AC:** 15  ·  *Unarmored Defense 10 + Dex +3 + Con +2*
 - **Currency:** 0pp 18gp 0ep 0sp 0cp
 

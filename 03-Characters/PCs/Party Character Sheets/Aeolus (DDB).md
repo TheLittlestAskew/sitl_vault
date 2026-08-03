@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152796710
 ddb_url: https://www.dndbeyond.com/characters/152796710
-synced: 2026-07-19T18:46:04.145Z
+synced: 2026-08-02T20:12:28.574Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -13,10 +13,10 @@ generated_by: ddb_party_sync.js
 > Some derived values are approximate. Source of truth: `_raw/Aeolus.json`.
 
 - **Race:** Tiefling
-- **Class:** Warlock (Archfey Patron) 4
-- **Total Level:** 4  ·  **Proficiency Bonus:** +2
+- **Class:** Warlock (Archfey Patron) 5
+- **Total Level:** 5  ·  **Proficiency Bonus:** +3
 - **Background:** Noble
-- **Max HP (approx):** 31
+- **Max HP (approx):** 38
 - **AC:** 12  ·  *Leather 11 + Dex +1*
 - **Currency:** 0pp 44gp 0ep 0sp 0cp
 
@@ -53,11 +53,12 @@ generated_by: ddb_party_sync.js
 - Ink Pen
 - Ink
 
-## Spells (22)
+## Spells (26)
 
 - **Cantrips:** Eldritch Blast, Elementalism, Fire Bolt, Mage Hand, Minor Illusion, Prestidigitation, Shocking Grasp, Thaumaturgy
 - **Level 1:** Armor of Agathys, Command, Faerie Fire, Find Familiar, Hellish Rebuke, Sleep, Speak with Animals, Tasha's Hideous Laughter, Witch Bolt
-- **Level 2:** Calm Emotions, Darkness, Misty Step, Phantasmal Force, Spider Climb
+- **Level 2:** Calm Emotions, Darkness, Invisibility, Misty Step, Phantasmal Force, Spider Climb
+- **Level 3:** Blink, Plant Growth, Summon Fey
 
 ## Notes / Traits
 

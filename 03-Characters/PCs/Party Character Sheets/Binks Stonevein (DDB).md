@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 150676476
 ddb_url: https://www.dndbeyond.com/characters/150676476
-synced: 2026-07-19T18:46:04.145Z
+synced: 2026-08-02T20:12:28.574Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -48,9 +48,5 @@ generated_by: ddb_party_sync.js
 ## Spells (13)
 
 - **Cantrips:** Guidance, Mending, Thaumaturgy, Toll the Dead
-- **Level 1:** Bless, Ceremony, Command, Cure Wounds, Guiding Bolt, Purify Food and Drink, Tasha's Hideous Laughter
-- **Level 2:** Misty Step, Zone of Truth
-
-## Conditions
-
-- 4
+- **Level 1:** Bless, Command, Cure Wounds, Guiding Bolt, Tasha's Hideous Laughter
+- **Level 2:** Enhance Ability, Locate Object, Misty Step, Zone of Truth

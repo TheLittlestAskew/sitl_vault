@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152970581
 ddb_url: https://www.dndbeyond.com/characters/152970581
-synced: 2026-07-19T18:46:04.145Z
+synced: 2026-08-02T20:12:28.574Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -13,10 +13,10 @@ generated_by: ddb_party_sync.js
 > Some derived values are approximate. Source of truth: `_raw/Amanita de'Champignon.json`.
 
 - **Race:** Elf
-- **Class:** Druid (Circle of Spores (TCoE)) 4
-- **Total Level:** 4  ·  **Proficiency Bonus:** +2
+- **Class:** Druid (Circle of Spores (TCoE)) 5
+- **Total Level:** 5  ·  **Proficiency Bonus:** +3
 - **Background:** Hermit
-- **Max HP (approx):** 39
+- **Max HP (approx):** 48
 - **AC:** 12  ·  *Leather 11 + Dex +1*
 - **Currency:** 0pp 15gp 0ep 7sp 0cp
 
@@ -57,15 +57,12 @@ generated_by: ddb_party_sync.js
 - Torch
 - Waterskin
 
-## Spells (18)
+## Spells (21)
 
 - **Cantrips:** Chill Touch, Druidcraft, Poison Spray, Shillelagh, Spare the Dying, Thorn Whip
 - **Level 1:** Absorb Elements, Detect Poison and Disease, Entangle, Find Familiar, Longstrider, Purify Food and Drink, Sleep, Speak with Animals
-- **Level 2:** Hold Person, Lesser Restoration, Misty Step, Protection from Poison
-
-## Conditions
-
-- 4
+- **Level 2:** Hold Person, Lesser Restoration, Misty Step, Pass without Trace, Protection from Poison
+- **Level 3:** Dispel Magic, Plant Growth
 
 ## Notes / Traits
 
