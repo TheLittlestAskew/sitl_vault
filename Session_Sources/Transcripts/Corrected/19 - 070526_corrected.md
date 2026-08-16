@@ -1,21 +1,21 @@
-# SITL Session 19 - Corrected Transcript
-# Session date: 07/05/2026 (2026-07-05)
-# Source: 19-070526_raw_transcript.md (STT universal-3-pro, 95.6% conf, 184 min)
-# Corrections: ONLY the approved table in _pipeline/S19/spellcheck.md (word-boundary/
-#   exact-phrase, applied wherever the approved variant string occurs), EXCEPT the one
-#   "Taraxi" instance (recap line, refers to Roxy's horns, not Artaxle -- left uncorrected,
-#   see Archivist Notes) and the intentional "our Taxolotl"/"Axolotl" nickname (left as-is).
-# Diarization: SPEAKER A, C & E are all Addison (DM) -- his monologues were split across
-#   these three labels by the transcription engine (see flags.md #1); consecutive
-#   same-speaker lines merged. B=Kit(Taylor) D=Darby(Austin) F=Amanita(Hannah) G=Binks(Matt).
-# Florian/Blarg had no speaker label this session (Blarg run by DM as NPC, per flags.md #2).
-# Aeolus (Sirius, nicknamed "Star" -- arrived late by train) also has no distinct speaker
-#   label this session; his actions were rolled/narrated by the DM within the merged
-#   ADDISON (DM) lines, or relayed secondhand via Kit ("Star says...") -- see flags.md #3.
-#   NPC dialogue (Ploop, Indigo, Jimjar, Shuushar, etc.) is voiced inside the merged DM
-#   lines, consistent with the S18 convention -- there is no separate NPC speaker channel.
-# Speaker labels use character/DM identity (diarized). OOC table-talk is interleaved under
-#   the same character label when that player is speaking as themselves (matches S18 practice).
+### SITL Session 19 - Corrected Transcript
+### Session date: 07/05/2026 (2026-07-05)
+### Source: 19-070526_raw_transcript.md (STT universal-3-pro, 95.6% conf, 184 min)
+### Corrections: ONLY the approved table in _pipeline/S19/spellcheck.md (word-boundary/
+###   exact-phrase, applied wherever the approved variant string occurs), EXCEPT the one
+###   "Taraxi" instance (recap line, refers to Roxy's horns, not Artaxle -- left uncorrected,
+###   see Archivist Notes) and the intentional "our Taxolotl"/"Axolotl" nickname (left as-is).
+### Diarization: SPEAKER A, C & E are all Addison (DM) -- his monologues were split across
+###   these three labels by the transcription engine (see flags.md #1); consecutive
+###   same-speaker lines merged. B=Kit(Taylor) D=Darby(Austin) F=Amanita(Hannah) G=Binks(Matt).
+### Florian/Blarg had no speaker label this session (Blarg run by DM as NPC, per flags.md #2).
+### Aeolus (Sirius, nicknamed "Star" -- arrived late by train) also has no distinct speaker
+###   label this session; his actions were rolled/narrated by the DM within the merged
+###   ADDISON (DM) lines, or relayed secondhand via Kit ("Star says...") -- see flags.md #3.
+###   NPC dialogue (Ploop, Indigo, Jimjar, Shuushar, etc.) is voiced inside the merged DM
+###   lines, consistent with the S18 convention -- there is no separate NPC speaker channel.
+### Speaker labels use character/DM identity (diarized). OOC table-talk is interleaved under
+###   the same character label when that player is speaking as themselves (matches S18 practice).
 
 ---
 
