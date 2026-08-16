@@ -1488,19 +1488,19 @@
 
 [02:05:04] SPEAKER D: dirty 20, right?
 
-[02:05:05] SPEAKER F: 30, 20, yeah.
+[02:05:05] SPEAKER F: dirty 20, yeah.
 
 [02:05:08] SPEAKER A: Nice. Can you describe how Darby feels about faith and higher beings and, like, faith in yourself as Darby and how that would kind of emanate in a very successful way to both calm yourself, the party, and. And specifically Roxanne?
 
-[02:05:37] SPEAKER E: Sure. Darby's actually pretty religious. It's kind of like a. A familial religion where, you know, multigenerational ax beak farmers have, you know, they've really lent themselves to the characteristics and the personality of these creatures. So they have put a lot of. A lot of stake in these animals and what they mean to her. And so maybe she's literally, like, extending a feather out to give Roxanne some. Some much needed calmness in this very scary time, even though she is of not ax beak descent, obviously.
+[02:05:37] SPEAKER E: Sure. Darby's actually pretty religious. It's kind of like a. A familial religion where, you know, multigenerational axe beak farmers have, you know, they've really lent themselves to the characteristics and the personality of these creatures. So they have put a lot of. A lot of stake in these animals and what they mean to her. And so maybe she's literally, like, extending a feather out to give Roxanne some. Some much needed calmness in this very scary time, even though she is of not axe beak descent, obviously.
 
 [02:06:21] SPEAKER A: Nice.
 
-[02:06:22] SPEAKER B: What is ax beak
+[02:06:22] SPEAKER B: What is axe beak
 
 [02:06:24] SPEAKER A: to be?
 
-[02:06:26] SPEAKER E: Ax the animal.
+[02:06:26] SPEAKER E: Axe beak the animal.
 
 [02:06:29] SPEAKER B: Oh, cool.
 
@@ -1510,7 +1510,7 @@
 
 [02:06:42] SPEAKER E: Yeah, it's my. It's the profile picture on my.
 
-[02:06:44] SPEAKER A: Yeah, yeah, they are really cool as. Awesome. So a couple of things happen. You. You kind of like summon this, like, celestial glowing feather, And it kind of just emanates this wave, this aura of calm. So I would say for the next hour, the team has. Advantage on checks made to, made against or to avoid fish presences.
+[02:06:44] SPEAKER A: Yeah, yeah, they are really cool as. Awesome. So a couple of things happen. You. You kind of like summon this, like, celestial glowing feather, And it kind of just emanates this wave, this aura of calm. So I would say for the next hour, the team has. Advantage on checks made to, made against or to avoid fiendish presences.
 
 [02:07:32] SPEAKER B: I'll take it.
 
@@ -1528,7 +1528,7 @@
 
 [02:09:04] SPEAKER C: Okay,
 
-[02:09:10] SPEAKER A: Thanks. You see all this happening?
+[02:09:10] SPEAKER A: Binks. You see all this happening?
 
 [02:09:19] SPEAKER D: What.
 
@@ -1538,9 +1538,9 @@
 
 [02:10:33] SPEAKER A: Okay, first of all, how do you. How do you move to rejoin the company?
 
-[02:10:40] SPEAKER F: Missy step sprinting. Try to get. I can probably get to Blarg as easier.
+[02:10:40] SPEAKER F: Misty Step sprinting. Try to get. I can probably get to Blarg as easier.
 
-[02:10:49] SPEAKER A: So we'll say that you managed to catch up and they kind of. They kind of run on the water out ahead of you. And you're the only one who kind of takes this final look back as you see Demogorgon's full attention return back to everything. The it sats and shittles who didn't make it out of the slurry are getting thrown up onto shore as Demogorgon makes his move toward the deep Father shrine. And you have one remaining. You still have one remaining glowing duplicate. So I want you to make a religion check.
+[02:10:49] SPEAKER A: So we'll say that you managed to catch up and they kind of. They kind of run on the water out ahead of you. And you're the only one who kind of takes this final look back as you see Demogorgon's full attention return back to everything. The ixitxachitls who didn't make it out of the slurry are getting thrown up onto shore as Demogorgon makes his move toward the deep Father shrine. And you have one remaining. You still have one remaining glowing duplicate. So I want you to make a religion check.
 
 [02:11:28] SPEAKER E: Okay.
 
@@ -1568,7 +1568,7 @@
 
 [02:13:06] SPEAKER F: Oh, well then.
 
-[02:13:09] SPEAKER A: So at this point could roll again still. We'll see. We'll see what you can do first in terms of spell casting. But Kit, okay, so you see this happening, you're the only one. The rest of the party is also moving up and you, you're looking back, counting, just instinctively counting the party, and you see Binks behind, kind of at the edge of the mist. I want you to make your own religion check and describe before you make the check what Kit's current thoughts are on faith and your friend Binks, who you know is actually named Warmick, and what's going through your head and then result of your religion check, please.
+[02:13:09] SPEAKER A: So at this point could roll again still. We'll see. We'll see what you can do first in terms of spell casting. But Kit, okay, so you see this happening, you're the only one. The rest of the party is also moving up and you, you're looking back, counting, just instinctively counting the party, and you see Binks behind, kind of at the edge of the mist. I want you to make your own religion check and describe before you make the check what Kit's current thoughts are on faith and your friend Binks, who you know is actually named Ormic, and what's going through your head and then result of your religion check, please.
 
 [02:13:56] SPEAKER B: Kit's feelings on religion are mostly. It whatever you would call kind of. We'll just call it apathetic. I think she's been through enough to like in the DND world there's a lot more like contact with gods and seeing them actually like work and knowing that clerics exist and all that jazz. So it's not like she doesn't believe. Believe in them, but she's seen too much to want to be involved in that. That being said, she does reflexively turn to prayer in like, like times of trouble. Like the way somebody in like real life who was raised in religion but has become a agnostic, like kind of still reaches for that and like in a way that's subconscious. So I think in this moment, if she's seeing something going on with Binks, that's what she. She will reflexively reach out to the gods to help.
 
@@ -1580,7 +1580,7 @@
 
 [02:15:33] SPEAKER F: We have one God.
 
-[02:15:34] SPEAKER A: Like in general, like, is there an Orcish God? Is. Are you. Are you instinctively going toward Blart, toward Binks God?
+[02:15:34] SPEAKER A: Like in general, like, is there an Orcish God? Is. Are you. Are you instinctively going toward Blarg's, toward Binks's god?
 
 [02:15:42] SPEAKER E: I recommend an Axe as well for your troubles.
 
@@ -1600,7 +1600,7 @@
 
 [02:18:45] SPEAKER F: That's the God, by the way,
 
-[02:18:50] SPEAKER A: so thanks. This is technically a role that you're making against a fiend. So because of that, I'm going to give you advantage already on the religion check. And I'm gonna make a short homage to Dagger Heart here. I had my own feelings about it mechanically, but I think it'd be a cool roll right here for you, Kit, to. To make a little homebrew assist to Binks. So I want you to roll two D12s.
+[02:18:50] SPEAKER A: so thanks. This is technically a role that you're making against a fiend. So because of that, I'm going to give you advantage already on the religion check. And I'm gonna make a short homage to Daggerheart here. I had my own feelings about it mechanically, but I think it'd be a cool roll right here for you, Kit, to. To make a little homebrew assist to Binks. So I want you to roll two D12s.
 
 [02:19:26] SPEAKER C: Okay?
 
@@ -1618,7 +1618,7 @@
 
 [02:20:23] SPEAKER E: Okay.
 
-[02:20:23] SPEAKER A: Oh, yeah. I'll allow that either way. I mean, they were both really good rules. So. So we'll probably have to come back to. To an interaction that's in more depth here with Garl, because you kind of have a snapshot of like losing consciousness and like a flash of blinding light that comes from Binks, but for everybody else, they see a bright light come from Binks and an actual shield forms and it's kind of just like thrumming in this kind of like low sing song voice that reminds Base of Kit as it. As it kind of makes this connection with your own loop pick. So go with advantage and you're going to add a 12th on top of your advantage roll on top of your religion. So. So you're going to make that advantage roll for. So you're gonna make your second religion check roll. So you make the D20, add your religion modifier and add 12.
+[02:20:23] SPEAKER A: Oh, yeah. I'll allow that either way. I mean, they were both really good rules. So. So we'll probably have to come back to. To an interaction that's in more depth here with Garl, because you kind of have a snapshot of like losing consciousness and like a flash of blinding light that comes from Binks, but for everybody else, they see a bright light come from Binks and an actual shield forms and it's kind of just like thrumming in this kind of like low sing song voice that reminds Binks of Kit as it. As it kind of makes this connection with your own loop pick. So go with advantage and you're going to add a 12th on top of your advantage roll on top of your religion. So. So you're going to make that advantage roll for. So you're gonna make your second religion check roll. So you make the D20, add your religion modifier and add 12.
 
 [02:21:31] SPEAKER E: Damn.
 
@@ -1630,11 +1630,11 @@
 
 [02:21:55] SPEAKER B: Some clutch dice rolling out there.
 
-[02:21:58] SPEAKER A: You know, the DC rose like you, you would have had a chance for some pretty good success with a 25 anyway. But with that added bonus from Kit, it's even. It's an even more powerful effect. So Binks, you. You feel your double that you left there immediately casts a shield in front of them and they start to take on kind of an amalgamation. That's clearly a shrine to Girl,
+[02:21:58] SPEAKER A: You know, the DC rose like you, you would have had a chance for some pretty good success with a 25 anyway. But with that added bonus from Kit, it's even. It's an even more powerful effect. So Binks, you. You feel your double that you left there immediately casts a shield in front of them and they start to take on kind of an amalgamation. That's clearly a shrine to Garl,
 
 [02:22:40] SPEAKER D: but
 
-[02:22:40] SPEAKER A: has a little bit of your own facial features embedded and your own posture and robes. And Garlis is holding the shield against Demogorgon. The shield is facing out the water.
+[02:22:40] SPEAKER A: has a little bit of your own facial features embedded and your own posture and robes. And Garl is holding the shield against Demogorgon. The shield is facing out the water.
 
 [02:22:57] SPEAKER F: The other hand is holding up a middle finger.
 
@@ -1658,7 +1658,7 @@
 
 [02:24:48] SPEAKER D: as
 
-[02:24:48] SPEAKER A: you're making your way north. So. I'm going to say you get to a point, you find a small cove after you go after you run for about. For close to an hour, because that's how long walk on water lasts. So you guys are all just keeping a pace and you feel pretty safe because Indigo knows this coast, so. So he's leading you around the worst of it. Like all of these crap. Like, any waves and current that's picking up anywhere, he's leading you around and you're able to stay on top of.
+[02:24:48] SPEAKER A: you're making your way north. So. I'm going to say you get to a point, you find a small cove after you go after you run for about. For close to an hour, because that's how long Water Walk lasts. So you guys are all just keeping a pace and you feel pretty safe because Indigo knows this coast, so. So he's leading you around the worst of it. Like all of these crap. Like, any waves and current that's picking up anywhere, he's leading you around and you're able to stay on top of.
 
 [02:25:31] SPEAKER F: So
 
@@ -1668,7 +1668,7 @@
 
 [02:26:01] SPEAKER G: Amanita's like, oh, man, dudes, that was something else. Also, like, I feel like I don't know this Indigo guy. Kit. Kit, who's your awesome friend? Dude,
 
-[02:26:21] SPEAKER B: I don't. I don't know how to introduce him without just being like, this is Indigo. And you already know that. So I will say, if we still have telepathy, you will get flashes of. Of. Oh, this is actually. This actually kind of rules you based on kids mindset right now. And what just happened with Binks, what you will get is flashes of that same thing happening with Indigo at some point when we were in battle together. So you'll know that we were soldiers together. You know that. To me, he's on the same level as you guys. As like her wanting to reach out to protect him. And you'll see the connection between what she just did for Binks and what she's done for Indigo in the past. And. Yeah, I think. I think based on. Yeah. Where her mindset right now is, that is where. When you ask that question, that's what you'll see because that's what's in the forefront of her mind right now. But you'll see it's a very deep bond, and. But I think that's all you're gonna see. See?
+[02:26:21] SPEAKER B: I don't. I don't know how to introduce him without just being like, this is Indigo. And you already know that. So I will say, if we still have telepathy, you will get flashes of. Of. Oh, this is actually. This actually kind of rules you based on Kit's mindset right now. And what just happened with Binks, what you will get is flashes of that same thing happening with Indigo at some point when we were in battle together. So you'll know that we were soldiers together. You know that. To me, he's on the same level as you guys. As like her wanting to reach out to protect him. And you'll see the connection between what she just did for Binks and what she's done for Indigo in the past. And. Yeah, I think. I think based on. Yeah. Where her mindset right now is, that is where. When you ask that question, that's what you'll see because that's what's in the forefront of her mind right now. But you'll see it's a very deep bond, and. But I think that's all you're gonna see. See?
 
 [02:28:01] SPEAKER A: So Indigo kind of stands up a little bit after he's like, you know, in the process. And once everybody's been able to take a breath and kind of senses this and this.
 
@@ -1706,7 +1706,7 @@
 
 [02:29:57] SPEAKER B: Oh, God. Nat 20.
 
-[02:30:01] SPEAKER A: Okay, so he kind of likes 4 deception. He kind of senses your standoffish, and his kind of just takes a bow and says, you said your name was Darby. See? Yeah, you have. Is this. Is this beautiful Aurora yours?
+[02:30:01] SPEAKER A: Okay, so he kind of likes 4 deception. He kind of senses your standoffish, and his kind of just takes a bow and says, you said your name was Darby. See? Yeah, you have. Is this. Is this beautiful rothe yours?
 
 [02:30:25] SPEAKER E: Yeah,
 
@@ -1718,7 +1718,7 @@
 
 [02:30:39] SPEAKER E: Cool.
 
-[02:30:43] SPEAKER A: Anyway, kids, I got that nat 20.
+[02:30:43] SPEAKER A: Anyway, Kit, I got that nat 20.
 
 [02:30:45] SPEAKER E: I'm gonna use it.
 
@@ -1726,9 +1726,9 @@
 
 [02:30:49] SPEAKER E: Sorry.
 
-[02:30:51] SPEAKER A: And it was a. It was a blog, was it?
+[02:30:51] SPEAKER A: And it was a. It was a Blarg, was it?
 
-[02:30:55] SPEAKER D: Yeah. Nice to meet you. I have. I don't know what's going on with D. Normal. She's very nice.
+[02:30:55] SPEAKER D: Yeah. Nice to meet you. I have. I don't know what's going on with Derendil. She's very nice.
 
 [02:31:05] SPEAKER E: Hey, he doesn't know. Hey, he doesn't. He doesn't know. I'm not. I'm not live with them.
 
@@ -1752,7 +1752,7 @@
 
 [02:32:11] SPEAKER D: Well, I mean maybe not right now. I might need a little rest for that. But.
 
-[02:32:17] SPEAKER A: Well, it's. I would say it's interesting that you say that. If Jimjar would likely have more knowledge than I. But I do know that there are carbonoid tribes that have joined. Some that have joined with orcs, some that have joined with Quagoths and you know, other deep dwelling creatures. They are not uncommon. Generally not friendly. Generally pretty quick to attack. Fight first to the teeth and death and then talk. If they are still alive. Which oftentimes at least against me. They are not. I'm afraid. I. I'm sorry if I have killed any of your kin.
+[02:32:17] SPEAKER A: Well, it's. I would say it's interesting that you say that. If Jimjar would likely have more knowledge than I. But I do know that there are goblinoid tribes that have joined. Some that have joined with orcs, some that have joined with quaggoths and you know, other deep dwelling creatures. They are not uncommon. Generally not friendly. Generally pretty quick to attack. Fight first to the teeth and death and then talk. If they are still alive. Which oftentimes at least against me. They are not. I'm afraid. I. I'm sorry if I have killed any of your kin.
 
 [02:33:01] SPEAKER D: That's fine. We don't hold grudges.
 
@@ -1774,11 +1774,11 @@
 
 [02:33:47] SPEAKER D: Where are you from exactly?
 
-[02:33:50] SPEAKER A: I am also from. I'm from the ocean. At the surface. I'm a mercenary and such things led me to deep places. I'm a bit of a traveler myself. I'm seeking a six fingered, not really a man, but got it. You know, a six figure. Six fingered. Pretty sure who killed my father. None of you see. None of you have six fingers on your left hand, do you? I don't need to see all of your hands, please, by the way. Okay? It's fine. I think I saw it all earlier anyway. I trust kids. She knows. Anyway, I don't know how you all are feeling. I can keep swimming. I can only cast that water walk once per day, so
+[02:33:50] SPEAKER A: I am also from. I'm from the ocean. At the surface. I'm a mercenary and such things led me to deep places. I'm a bit of a traveler myself. I'm seeking a six fingered, not really a man, but got it. You know, a six figure. Six fingered. Pretty sure who killed my father. None of you see. None of you have six fingers on your left hand, do you? I don't need to see all of your hands, please, by the way. Okay? It's fine. I think I saw it all earlier anyway. I trust Kit. She knows. Anyway, I don't know how you all are feeling. I can keep swimming. I can only cast that Water Walk once per day, so
 
 [02:34:54] SPEAKER E: I would need
 
-[02:34:54] SPEAKER A: a long rest before I can let you walk on water again. But we could try to configure or find the ship. I think I saw one maybe a quarter mile back.
+[02:34:54] SPEAKER A: a long rest before I can let you Water Walk again. But we could try to configure or find the ship. I think I saw one maybe a quarter mile back.
 
 [02:35:06] SPEAKER D: Sounds great.
 
@@ -1800,9 +1800,9 @@
 
 [02:35:44] SPEAKER F: Wow. Yeah. Honestly, the Demogorgon, kind of not the weirdest thing, surprisingly, in the last week.
 
-[02:35:52] SPEAKER A: So I'd say still crazier. I mean, that thing had two big Samian heads. Simeon heads and tentacles. Did you see those? They reached, like, all the way to us, and we were a long way away.
+[02:35:52] SPEAKER A: So I'd say still crazier. I mean, that thing had two big simian heads. Simian heads and tentacles. Did you see those? They reached, like, all the way to us, and we were a long way away.
 
-[02:36:09] SPEAKER F: Yeah. I think we need a debrief view on. Exactly. Exactly. Kind of what happened to us. We went to the Fade ark. Then we kind of destroyed a drow outpost from the Fade ark. We met a demigod, gave us powers. That's cool. Now we saw the Demogorgon. It's been a crazy week. All right. I just want sleep. I just want sleep. That's what I want.
+[02:36:09] SPEAKER F: Yeah. I think we need a debrief view on. Exactly. Exactly. Kind of what happened to us. We went to the Feydark. Then we kind of destroyed a drow outpost from the Feydark. We met a demigod, gave us powers. That's cool. Now we saw the Demogorgon. It's been a crazy week. All right. I just want sleep. I just want sleep. That's what I want.
 
 [02:36:37] SPEAKER A: Right? Well, okay. Thank you for your candor.
 
@@ -1826,7 +1826,7 @@
 
 [02:39:38] SPEAKER G: Oh, there's. Okay. The one that. Actually, I must have clicked it before I did the thing. 14.
 
-[02:39:47] SPEAKER A: 14. So you see, like, there's about a half a dozen barrels and crates. Two of them are broken apart. And like, the. The supplies, mostly food and a couple of like, like raft looking like configured like O rings. Basically like floating O rings and rope and line and ties, ship replacement parts, but two of them have broken. And. And the crates. The wood is there. It's cirque wood standard. And you're able to find a little bit more zirkwood on the beach, but, like, mostly broken. The rest of the fungus that you find is kind of like more kelpie here. And there's some lichen on the. On the cavern, inside the cavern itself. Okay, thanks, kid. I'll think of me about that. So I would say you definitely get enough there with the 14 and Indigo's help. Was that 14 with advantage?
+[02:39:47] SPEAKER A: 14. So you see, like, there's about a half a dozen barrels and crates. Two of them are broken apart. And like, the. The supplies, mostly food and a couple of like, like raft looking like configured like O rings. Basically like floating O rings and rope and line and ties, ship replacement parts, but two of them have broken. And. And the crates. The wood is there. It's zurkhwood standard. And you're able to find a little bit more zurkhwood on the beach, but, like, mostly broken. The rest of the fungus that you find is kind of like more kelpie here. And there's some lichen on the. On the cavern, inside the cavern itself. Okay, thanks, Kit. I'll think of me about that. So I would say you definitely get enough there with the 14 and Indigo's help. Was that 14 with advantage?
 
 [02:41:21] SPEAKER G: Yes.
 
@@ -1838,7 +1838,7 @@
 
 [02:43:44] SPEAKER G: All right. And Amanita would volunteer to take second rest after being in their transfer a bit or second watch. Yeah.
 
-[02:43:55] SPEAKER A: All right. So we'll fast track the long rest here. If anybody wants to do any downtime, you know, your, your eight hours of sleep plus, you know, like an hour on either end of that. You can put some time or get less sleep and do anything else that you want to do a tuning or working on a project or, or a language or anything like that and kind of like your downtime routines here. But you get through your long rest and you'd be making a plan on where to go next. So by sea is where you went. You don't know where Jimjar and Hemeth are. Indigo gives you a briefing on some of the local terrain. There are. There are some larger and smaller islands further out in this massive cavern of high ceiling under Dark lake. There's there again. So you have stretches of open water, mostly open water with some jagged rock spiking out at various places. In some areas where the thing is coming from above drop down. There are inlet places that can offer coves, beaches, but also dangers in the form of like more craggy rocks and like bone teeth and high and faster water as well as like whirlpools in various places, both in the Deeper areas and some of the shallower areas where you have like runoff to caverns that are descending and water flowing away from the underdark as well as into it. So those are kind of your options. We can make a party decision. We can also roll a D6.
+[02:43:55] SPEAKER A: All right. So we'll fast track the long rest here. If anybody wants to do any downtime, you know, your, your eight hours of sleep plus, you know, like an hour on either end of that. You can put some time or get less sleep and do anything else that you want to do a tuning or working on a project or, or a language or anything like that and kind of like your downtime routines here. But you get through your long rest and you'd be making a plan on where to go next. So by sea is where you went. You don't know where Jimjar and Hemeth are. Indigo gives you a briefing on some of the local terrain. There are. There are some larger and smaller islands further out in this massive cavern of high ceiling under the Darklake. There's there again. So you have stretches of open water, mostly open water with some jagged rock spiking out at various places. In some areas where the thing is coming from above drop down. There are inlet places that can offer coves, beaches, but also dangers in the form of like more craggy rocks and like bone teeth and high and faster water as well as like whirlpools in various places, both in the Deeper areas and some of the shallower areas where you have like runoff to caverns that are descending and water flowing away from the underdark as well as into it. So those are kind of your options. We can make a party decision. We can also roll a D6.
 
 [02:46:20] SPEAKER F: For what direction is that what you're asking?
 
@@ -1848,27 +1848,27 @@
 
 [02:46:42] SPEAKER E: Yeah.
 
-[02:46:42] SPEAKER A: The water is to your west. The beach is currently pointing north south. And you have inland rock cavern or underdark canals tunnels to your east as well as like north. It's gonna. Right now you're not far enough, but it is gonna turn the coast. Indigo is able to tell you it's going to open up again, but it slowly meanders in this northeasterly direction before coming back around and around the other side is like directly across the Deep lake from you at the shortest distance, which you wouldn't be able to cross in a straight line is about 10 to 15 days away, depending on how fast you move and what you run into along the way. That's. That's probably where Indigo would try, would recommend or at least give as an option. And then around that other coast too. Getting further east northeasterly is Menzel Baron's on the drow Metropolis. And then but like right behind Mental Deris up more westerly is Blingdenstone, where you probably imagine Jimjar is trying to go. But also he could be persuaded by Hemeth to go somewhere in between because Gracklstugh is the far southwesterly Binks of Deep Lake. So completely different direction. But Hemeth probably knows the canals pretty well.
+[02:46:42] SPEAKER A: The water is to your west. The beach is currently pointing north south. And you have inland rock cavern or underdark canals tunnels to your east as well as like north. It's gonna. Right now you're not far enough, but it is gonna turn the coast. Indigo is able to tell you it's going to open up again, but it slowly meanders in this northeasterly direction before coming back around and around the other side is like directly across the Darklake from you at the shortest distance, which you wouldn't be able to cross in a straight line is about 10 to 15 days away, depending on how fast you move and what you run into along the way. That's. That's probably where Indigo would try, would recommend or at least give as an option. And then around that other coast too. Getting further east northeasterly is Menzoberranzan, the drow Metropolis. And then but like right behind Mantol-Derith up more westerly is Blingdenstone, where you probably imagine Jimjar is trying to go. But also he could be persuaded by Hemeth to go somewhere in between because Gracklstugh is the far southwesterly Binks of the Darklake. So completely different direction. But Hemeth probably knows the canals pretty well.
 
-[02:48:22] SPEAKER F: Okay, so it's either drow City and Blinden City, Stone and Menzo Barazon and
+[02:48:22] SPEAKER F: Okay, so it's either drow City and Blingdenstone and Menzoberranzan and
 
-[02:48:28] SPEAKER A: what's the other direction or your closest. So Menzo Baron Zahn would be farther like 26 days. Wingdon Stone is about 20 days. Grackle Stug is Grackle Stug. The drow. Sorry, not the drow. The Duergar, the Deep Dwarf, the gray dwarves are 20 days in a different more southerly direction. But that's like going back like around now behind Demogorgon, because Demogorgon and Sloopled off is now south of you. Stay away from that. Also I think Amanita, you between you and between you and. Stool. You reckon that Neverlight Grove is farther away than Blingdenstone, but not farther away than Gracklstugh, but like closer toward Gracklestag more of like a westerly, whereas Gracklstugh is more southerly. So across Dark Lake more westerly but still south more than 20 days is what you're able to pinpoint.
+[02:48:28] SPEAKER A: what's the other direction or your closest. So Menzoberranzan would be farther like 26 days. Blingdenstone is about 20 days. Gracklstugh is Gracklstugh. The drow. Sorry, not the drow. The Duergar, the Deep Dwarf, the gray dwarves are 20 days in a different more southerly direction. But that's like going back like around now behind Demogorgon, because Demogorgon and Sloobludop is now south of you. Stay away from that. Also I think Amanita, you between you and between you and. Stool. You reckon that Neverlight Grove is farther away than Blingdenstone, but not farther away than Gracklstugh, but like closer toward Gracklstugh more of like a westerly, whereas Gracklstugh is more southerly. So across the Darklake more westerly but still south more than 20 days is what you're able to pinpoint.
 
-[02:49:53] SPEAKER G: All right. Well, Mantledarith is mercenary city, right? And we did need to get to Blingdenstone at some point.
+[02:49:53] SPEAKER G: All right. Well, Mantol-Derith is mercenary city, right? And we did need to get to Blingdenstone at some point.
 
-[02:50:06] SPEAKER A: Topsy and Turdi are still like they're in a state where they expect not warm welcomes as where rats to Blingdenstone. They haven't been there in a long, long time. Not since they were really young. So they don't know the current things of the city. Binks has been updating them that there is a collection of them in the town, but it's fairly back and forth in terms of friendliness. But Jimjar again would also be trying to go there and knows that direction knows how to get there best if you were to run into them. But also you have Binks. So Binks is pretty knowledgeable on how to get there too. Although he's not as familiar with this stretch of the Dark Lake. You usually go around Binks or through Mantledarith and you're not the one guiding the boat. You're just riding.
+[02:50:06] SPEAKER A: Topsy and Turvy are still like they're in a state where they expect not warm welcomes as wererats to Blingdenstone. They haven't been there in a long, long time. Not since they were really young. So they don't know the current things of the city. Binks has been updating them that there is a collection of them in the town, but it's fairly back and forth in terms of friendliness. But Jimjar again would also be trying to go there and knows that direction knows how to get there best if you were to run into them. But also you have Binks. So Binks is pretty knowledgeable on how to get there too. Although he's not as familiar with this stretch of the Darklake. You usually go around Binks or through Mantol-Derith and you're not the one guiding the boat. You're just riding.
 
-[02:50:57] SPEAKER F: Yeah, I don't know the Dark Lakes. We need to get to a city like asap. We need to warn people. That's goal number one. We like hey a huge ass Demogorgon is out in the Dark Lakes. We need to warn people. So as soon as we can get city the fastest city. I don't care if it's blended stone. We're avoiding the drowsity bad place. I they will not listen. We'll go there eventually. I know we have to. But like right now.
+[02:50:57] SPEAKER F: Yeah, I don't know the Darklake. We need to get to a city like asap. We need to warn people. That's goal number one. We like hey a huge ass Demogorgon is out in the Darklake. We need to warn people. So as soon as we can get city the fastest city. I don't care if it's Blingdenstone. We're avoiding the drow city bad place. I they will not listen. We'll go there eventually. I know we have to. But like right now.
 
 [02:51:37] SPEAKER E: Not now.
 
 [02:51:38] SPEAKER F: Not now.
 
-[02:51:42] SPEAKER G: Let's see. Neverlight Grove isn't on the Dark Lake, but Grackle stug is. So they would need warning as well.
+[02:51:42] SPEAKER G: Let's see. Neverlight Grove isn't on the Darklake, but Gracklstugh is. So they would need warning as well.
 
-[02:51:51] SPEAKER F: Yes, anyone that I'm right that any city that's on the Dark Lake is probably our best bet. That's where I'm. We just need to warn at this point.
+[02:51:51] SPEAKER F: Yes, anyone that I'm right that any city that's on the Darklake is probably our best bet. That's where I'm. We just need to warn at this point.
 
-[02:52:04] SPEAKER G: All right. Is there anyone we'd need to warn in Mantle Derith?
+[02:52:04] SPEAKER G: All right. Is there anyone we'd need to warn in Mantol-Derith?
 
 [02:52:13] SPEAKER F: I mean they need to know too. I mean it. We're kind of going to use as soon as we tell people. I know travelers and merchants very well. I know them pretty well. I know who to talk to that can pass information so it'll disseminate so I can help in that way. I know who to talk to. I know who can get information out fast.
 
@@ -1882,7 +1882,7 @@
 
 [02:52:43] SPEAKER F: They know mercenaries I know the three
 
-[02:52:46] SPEAKER A: of you wanted to make you know some history checks to get some more information in the current moment about Mantle Dareth. You can do so or we can you know you can again decide on a party first. What direction are you going to go? And also Blingden Stone is in the same direction. If you, if you stay and you. If you try to follow as direct a route as possible that's going to lead through a thick area of dark lake basically just right at no coastline. Just other stuff. You can also try to hug the coastline but it's going to take longer and it's going to put you maybe more in the. In the realm of drow paths going that way and you're remembering that like you're not completely out of drow site things you know that the best and you all know that like that one guard was able to escape with the priestess on that lizard and you know we're going to make a straight shot. But you also have your boy R Taxel and you have Jimjar and you now have like a possible like you don't know what Brind d knows Reagan D is the primarily male is really the. It's a male only mercenary band. There are other they. They take it. There are females that are that work for the the the organization but they're not drow. At least. At least the drow are all male simply because they were all cast out in some way from the primarily matriarchal society and this was their only way to survive. And so they all work for Jarlaxal One Eyed Jacks and you don't know what they know because they're a massive spy network. So if you were to stumble across drow or Menzoberranzan in any way it's highly likely that it's a 5050 shot at this point. And whether or not you would run into Braven d Earth or run into loyalists to Menzo Baranza.
+[02:52:46] SPEAKER A: of you wanted to make you know some history checks to get some more information in the current moment about Mantol-Derith. You can do so or we can you know you can again decide on a party first. What direction are you going to go? And also Blingdenstone is in the same direction. If you, if you stay and you. If you try to follow as direct a route as possible that's going to lead through a thick area of the Darklake basically just right at no coastline. Just other stuff. You can also try to hug the coastline but it's going to take longer and it's going to put you maybe more in the. In the realm of drow paths going that way and you're remembering that like you're not completely out of drow site things you know that the best and you all know that like that one guard was able to escape with the priestess on that lizard and you know we're going to make a straight shot. But you also have your boy Artaxle and you have Jimjar and you now have like a possible like you don't know what Bregan D'aerthe knows Bregan D'aerthe is the primarily male is really the. It's a male only mercenary band. There are other they. They take it. There are females that are that work for the the the organization but they're not drow. At least. At least the drow are all male simply because they were all cast out in some way from the primarily matriarchal society and this was their only way to survive. And so they all work for Jarlaxle, One-Eyed Jax and you don't know what they know because they're a massive spy network. So if you were to stumble across drow or Menzoberranzan in any way it's highly likely that it's a 5050 shot at this point. And whether or not you would run into Bregan D'aerthe or run into loyalists to Menzoberranzan.
 
 [02:54:46] SPEAKER F: Dirty 20 on the history check.
 
@@ -1892,7 +1892,7 @@
 
 [02:54:56] SPEAKER B: about
 
-[02:54:58] SPEAKER A: national tariff?
+[02:54:58] SPEAKER A: Mantol-Derith?
 
 [02:55:00] SPEAKER B: Because she should know about that. Did you say history?
 
@@ -1904,7 +1904,7 @@
 
 [02:55:22] SPEAKER B: Yeah, I imagine the whole thing took something out of me.
 
-[02:55:26] SPEAKER A: Yeah. And maybe some. Maybe the politics of mental dearth were not really your cup of tea.
+[02:55:26] SPEAKER A: Yeah. And maybe some. Maybe the politics of Mantol-Derith were not really your cup of tea.
 
 [02:55:32] SPEAKER B: Oh definitely.
 
@@ -1916,7 +1916,7 @@
 
 [02:55:56] SPEAKER C: Yeah.
 
-[02:55:57] SPEAKER A: So it's. It's an outpost. It's a. It's a long standing, centuries old outpost carved into a really beautiful pillar, a column that goes from the massive ceiling down to the water line with waterfalls coming off. I should post that I will. But it's comprised, it's an. It's. It's survived as a neutral outpost where drow Duergar, Svirth Neblin, the deep gnomes and surface dwellers can meet and trade without fearing for their lives within the reason of you know, the society. And like what happens here. There is an order here, you know, order amongst thieves. I guess the surface dealings Binks you'll know is. Is pretty taken over by the Gentarum. Which is a kind of like a lawful ish, evil spy underground criminal faction. Well known, you know the biggest pretty much. And there is a. There is a black network that is kind of like a. Underneath a Gentarum umbrella. I'm going to say that like other general features of Mantold Darith that you would both know having been there. It's chilly, it's damp. There's the waterfalls and the streams that are flowing through the cavern and into the dark lake. It's brightly lit by continual flame spells and crystals in the walls that reflect the light. There's a network of walkways and small plazas that crisscross the rocky ground of the outpost, paved with crushed crystals that also reflect light. Which is kind of a beautiful thought. So you would also both know of the. You know, you're. You're likely when you're reaching. If you were to reach Mantle Dareth. Sorry, I'm just skinny here. So there's approximately one hundred and forty people here. So it's not all that large. It's never like formed into an actual city. The government itself of Mantle Dirith is an informal council comprised of four chief negotiators. One per faction, one per enclave. So drow Duragar, humans and Surf Nebulin are as the council. The trade, the commerce is rare and exotic goods.
+[02:55:57] SPEAKER A: So it's. It's an outpost. It's a. It's a long standing, centuries old outpost carved into a really beautiful pillar, a column that goes from the massive ceiling down to the water line with waterfalls coming off. I should post that I will. But it's comprised, it's an. It's. It's survived as a neutral outpost where drow Duergar, svirfneblin, the deep gnomes and surface dwellers can meet and trade without fearing for their lives within the reason of you know, the society. And like what happens here. There is an order here, you know, order amongst thieves. I guess the surface dealings Binks you'll know is. Is pretty taken over by the Zhentarim. Which is a kind of like a lawful ish, evil spy underground criminal faction. Well known, you know the biggest pretty much. And there is a. There is a black network that is kind of like a. Underneath a Zhentarim umbrella. I'm going to say that like other general features of Mantol-Derith that you would both know having been there. It's chilly, it's damp. There's the waterfalls and the streams that are flowing through the cavern and into the Darklake. It's brightly lit by continual flame spells and crystals in the walls that reflect the light. There's a network of walkways and small plazas that crisscross the rocky ground of the outpost, paved with crushed crystals that also reflect light. Which is kind of a beautiful thought. So you would also both know of the. You know, you're. You're likely when you're reaching. If you were to reach Mantol-Derith. Sorry, I'm just skimming here. So there's approximately one hundred and forty people here. So it's not all that large. It's never like formed into an actual city. The government itself of Mantol-Derith is an informal council comprised of four chief negotiators. One per faction, one per enclave. So drow duergar, humans and svirfneblin are as the council. The trade, the commerce is rare and exotic goods.
 
 [02:59:29] SPEAKER G: You know.
 
@@ -1930,15 +1930,15 @@
 
 [03:00:52] SPEAKER D: That sounds great.
 
-[03:00:54] SPEAKER F: Let's go to Mental Dereth. Sounds like they're going to be the best ones to talk to for right now.
+[03:00:54] SPEAKER F: Let's go to Mantol-Derith. Sounds like they're going to be the best ones to talk to for right now.
 
 [03:01:03] SPEAKER D: Good.
 
-[03:01:05] SPEAKER A: Okay, so you set it off. I. I want to at least get this on the record, the actual recording. And I'll put. I'm going to try to copy and paste this or else type it into Roxy's saddlebags. But I'm gonna say that before you. Before you all left. Retconning a little bit, you were able to get some treasure from Slukadot. It wasn't completely without gain, at least in terms of material, equipment, if not allies and friends. You also don't know what happened to fellow prisoner from Velkynvelve Shuushar, but that's
+[03:01:05] SPEAKER A: Okay, so you set it off. I. I want to at least get this on the record, the actual recording. And I'll put. I'm going to try to copy and paste this or else type it into Roxy's saddlebags. But I'm gonna say that before you. Before you all left. Retconning a little bit, you were able to get some treasure from Sloobludop. It wasn't completely without gain, at least in terms of material, equipment, if not allies and friends. You also don't know what happened to fellow prisoner from Velkynvelve Shuushar, but that's
 
 [03:01:57] SPEAKER B: a tale for any time I forgot.
 
-[03:02:02] SPEAKER A: But you did get some treasure from the archpriest. You got 500 copper pieces, 2,000 silver pieces, 150 gold pieces, 27 platinum pieces. So I'll put that in as I'll type that in. There was also a strand of pearls worth about a thousand gold pieces, two potions of healing, a potion of water breathing, and a spell scroll of light. So I'm going to give you all of those and we're just going to kind of retcon and say that like this guy was. Was like about ready to die. So he was just kind of like almost crazy when he was giving you this information. Like he was very certain that he was either gonna die or have to kill his own daughter and just like was in a mode of not really caring. So like all of this stuff was like mostly offerings from other travelers and like he's almost making his own at peace offering to you guys with all of that. All of that stuff. So you did get some stuff. But since we're gonna make our way towards board Mantal derith by sea. So it's going to be 10 to 15 days currently on the water. If you're able to make a ship that can imitate daily travel,
+[03:02:02] SPEAKER A: But you did get some treasure from the archpriest. You got 500 copper pieces, 2,000 silver pieces, 150 gold pieces, 27 platinum pieces. So I'll put that in as I'll type that in. There was also a strand of pearls worth about a thousand gold pieces, two potions of healing, a potion of water breathing, and a spell scroll of light. So I'm going to give you all of those and we're just going to kind of retcon and say that like this guy was. Was like about ready to die. So he was just kind of like almost crazy when he was giving you this information. Like he was very certain that he was either gonna die or have to kill his own daughter and just like was in a mode of not really caring. So like all of this stuff was like mostly offerings from other travelers and like he's almost making his own at peace offering to you guys with all of that. All of that stuff. So you did get some stuff. But since we're gonna make our way towards board Mantol-Derith by sea. So it's going to be 10 to 15 days currently on the water. If you're able to make a ship that can imitate daily travel,
 
 [03:03:27] SPEAKER E: you'll be
 
@@ -1994,7 +1994,7 @@
 
 [03:06:59] SPEAKER E: I'll take it. I'll take a dirty 20.
 
-[03:07:03] SPEAKER A: Nice. Okay, so it's not pristine, it's not perfect, but between your coaxing and your shaping and like mingling the spores all together. From what Roxy is slowly emitting, you get a much better version of Roxy's water going form. You coax her out into the shallow water of the COVID to where she's almost floating on herself, but like can still touch the bottom. And it's wide enough here so that extending out from her saddlebags and saddlebags fully open now. So like everything, most of what she's carrying is forming along the along it. So like your shields are forming along the outside. You're basically making a log boat here. So it's not too long. Indigo kind of helps too. And it's like, hold on, that's a little too long. I think you can make it a little bit wider here and there. All that giving you some assistance too. So you're able to make a pretty, pretty navigable like canoe slash, like a large canoe slash longboat that's maybe a little Viking esque. There's no sale unless you want to try to make one and try to use some kind of magic to propel it with magical wind or any kind of wind that might strike. I will say Indigo does say that while he's only visited it once, there is an expanse that's more toward the middle of the dark lake that has its own weather because it's so high.
+[03:07:03] SPEAKER A: Nice. Okay, so it's not pristine, it's not perfect, but between your coaxing and your shaping and like mingling the spores all together. From what Roxy is slowly emitting, you get a much better version of Roxy's water going form. You coax her out into the shallow water of the cove to where she's almost floating on herself, but like can still touch the bottom. And it's wide enough here so that extending out from her saddlebags and saddlebags fully open now. So like everything, most of what she's carrying is forming along the along it. So like your shields are forming along the outside. You're basically making a log boat here. So it's not too long. Indigo kind of helps too. And it's like, hold on, that's a little too long. I think you can make it a little bit wider here and there. All that giving you some assistance too. So you're able to make a pretty, pretty navigable like canoe slash, like a large canoe slash longboat that's maybe a little Viking esque. There's no sale unless you want to try to make one and try to use some kind of magic to propel it with magical wind or any kind of wind that might strike. I will say Indigo does say that while he's only visited it once, there is an expanse that's more toward the middle of the Darklake that has its own weather because it's so high.
 
 [03:08:50] SPEAKER E: I am not if you're giving me the option to try to make a sale.
 
@@ -2016,7 +2016,7 @@
 
 [03:10:45] SPEAKER E: Sure. We got. We got ropes. We can tie this together. We can create a party barge.
 
-[03:10:50] SPEAKER A: There's also Gym Jar.
+[03:10:50] SPEAKER A: There's also Jimjar.
 
 [03:10:52] SPEAKER E: Yes, that's right.
 
@@ -2030,7 +2030,7 @@
 
 [03:11:23] SPEAKER A: So sounds like smaller vessel. What's our current party number? We're at an 11.
 
-[03:11:31] SPEAKER B: Yeah, we lost Darren Dill, but we gained Indigo.
+[03:11:31] SPEAKER B: Yeah, we lost Derendil, but we gained Indigo.
 
 [03:11:37] SPEAKER F: It's 11, 11.
 
@@ -2038,7 +2038,7 @@
 
 [03:11:47] SPEAKER B: Is Jimjar with us?
 
-[03:11:50] SPEAKER A: No 5, no squares. 10, 15, 20. So you can make a 25 foot long boat that would get you. And it's going to take longer and used up a lot of Roxy's resources of Zirkwood and you probably actually need to add to it to make something that nice. But you do get help from just the spores. Like the spores around you fungally are assisting there too.
+[03:11:50] SPEAKER A: No 5, no squares. 10, 15, 20. So you can make a 25 foot long boat that would get you. And it's going to take longer and used up a lot of Roxy's resources of zurkhwood and you probably actually need to add to it to make something that nice. But you do get help from just the spores. Like the spores around you fungally are assisting there too.
 
 [03:12:17] SPEAKER B: Can they get help? Help from Kit and Indigo going to get the other ship and helping put things together?
 
@@ -2086,7 +2086,7 @@
 
 [03:14:37] SPEAKER E: Yeah, like, we're staying behind.
 
-[03:14:41] SPEAKER A: Thanks. He's gonna scavenge.
+[03:14:41] SPEAKER A: Binks. He's gonna scavenge.
 
 [03:14:43] SPEAKER D: He.
 
@@ -2104,17 +2104,17 @@
 
 [03:15:13] SPEAKER D: All accompany beings, give you advantage and guidance.
 
-[03:15:18] SPEAKER F: Sounds good. That's. I was actually going to ask Blark. That works out perfectly because he can swim.
+[03:15:18] SPEAKER F: Sounds good. That's. I was actually going to ask Blarg. That works out perfectly because he can swim.
 
-[03:15:25] SPEAKER A: Okay. Indigo is probably going to go out into the water on his own unless somebody else goes with him. But that'd be like trying to swim or water walk up the coastline. Kid, what do you want to do?
+[03:15:25] SPEAKER A: Okay. Indigo is probably going to go out into the water on his own unless somebody else goes with him. But that'd be like trying to swim or Water Walk up the coastline. Kit, what do you want to do?
 
-[03:15:43] SPEAKER B: Oh, so we've already done our long rest. So he said that he can't get anybody else to water walk until the next day. So if it's the next day, then I'll go.
+[03:15:43] SPEAKER B: Oh, so we've already done our long rest. So he said that he can't get anybody else to Water Walk until the next day. So if it's the next day, then I'll go.
 
-[03:15:54] SPEAKER A: Okay, let me see. I think. I think just for flavor. And I really don't want to use that once a day mechanic because it gets 10 people. So I think he just like, uses shape water to basically give you an increased swim. Like to give you a swim speed and give you like an air cock
+[03:15:54] SPEAKER A: Okay, let me see. I think. I think just for flavor. And I really don't want to use that once a day mechanic because it gets 10 people. So I think he just like, uses Shape Water to basically give you an increased swim. Like to give you a swim speed and give you like an air cock
 
 [03:16:15] SPEAKER F: it
 
-[03:16:18] SPEAKER A: with his magic. So you're able to kind of like go out with him and like you can run along the shoreline and swim if he wants you to, or an easy to. So we'll have. I'll let you roll either way, Kit. So Binks will make a roll with all of those bonuses with Blarg with him. And kid is with Indigo. Indigo survival is a plus six. So you could roll for with Indigo's help at advantage or you can make your own roll.
+[03:16:18] SPEAKER A: with his magic. So you're able to kind of like go out with him and like you can run along the shoreline and swim if he wants you to, or an easy to. So we'll have. I'll let you roll either way, Kit. So Binks will make a roll with all of those bonuses with Blarg with him. And Kit is with Indigo. Indigo survival is a plus six. So you could roll for with Indigo's help at advantage or you can make your own roll.
 
 [03:16:54] SPEAKER E: Good.
 
@@ -2146,9 +2146,9 @@
 
 [03:18:35] SPEAKER F: Yeah, let's patch it up.
 
-[03:18:37] SPEAKER A: Or see where these get an hour. That gives you time with Roxy as well to get Roxy more seed ready. Thank you. So I'm gonna say that maybe Alice should like.
+[03:18:37] SPEAKER A: Or see where these get an hour. That gives you time with Roxy as well to get Roxy more seed ready. Thank you. So I'm gonna say that maybe Aeolus should like.
 
-[03:18:51] SPEAKER G: Alice, do you need to recharge your. The ring with the spells. Use the rest for that. Just tried to. Anyway. Keep going. Sorry.
+[03:18:51] SPEAKER G: Aeolus, do you need to recharge your. The ring with the spells. Use the rest for that. Just tried to. Anyway. Keep going. Sorry.
 
 [03:19:03] SPEAKER A: That's okay. I'm going to say that Roxy's ship form has 50 hit points. Additional hit points or dark has like basically like a. This is like a. An animal farm. It's like. Like Darby. So no, Roxy can get hit themselves but they're pretty protected unless it's direct from underneath. But the ship hull itself that is formed. You know, it's basically like 25 hit points aside. Like. Like the raft was. But it's better. So it's 50 hit points total on top of Roxy's hit points. But if. But Roxy can still get hit.
 
@@ -2160,13 +2160,13 @@
 
 [03:20:32] SPEAKER A: And rough. Somebody needs to make a D10. Terrain. Check. Terrain encounter. Check.
 
-[03:20:39] SPEAKER F: Aola. Since he hasn't rolled in a while.
+[03:20:39] SPEAKER F: Aeolus. Since he hasn't rolled in a while.
 
-[03:20:43] SPEAKER A: Yes. A list. I need you to make more rolls. Man. You're way behind on rolls. And I feel terrible that I haven't given you enough rolls. So make more rolls. Roll.
+[03:20:43] SPEAKER A: Yes. Aeolus. I need you to make more rolls. Man. You're way behind on rolls. And I feel terrible that I haven't given you enough rolls. So make more rolls. Roll.
 
 [03:20:59] SPEAKER F: Is he alive?
 
-[03:21:04] SPEAKER G: Ellis is muted.
+[03:21:04] SPEAKER G: Aeolus is muted.
 
 [03:21:08] SPEAKER A: What do you want to do right now? Man? How would you like to help?
 
@@ -2176,11 +2176,11 @@
 
 [03:21:17] SPEAKER G: They left.
 
-[03:21:17] SPEAKER A: I never came. I never came to als.
+[03:21:17] SPEAKER A: I never came. I never came to Aeolus.
 
 [03:21:20] SPEAKER D: Shoot.
 
-[03:21:21] SPEAKER A: I totally forgot about a list when I was doing survival checks. I feel terrible now. I'm sorry, you guys.
+[03:21:21] SPEAKER A: I totally forgot about Aeolus when I was doing survival checks. I feel terrible now. I'm sorry, you guys.
 
 [03:21:30] SPEAKER F: I think he's sick. So I think he was.
 
@@ -2190,9 +2190,9 @@
 
 [03:21:37] SPEAKER E: I will.
 
-[03:21:37] SPEAKER A: I will apologize. Still. So maybe we can say that Angelus isn't feeling so hot after his surge of strength there. So he'll just be on the. On the main boat when you take off. So can somebody else please roll a terrain encounter?
+[03:21:37] SPEAKER A: I will apologize. Still. So maybe we can say that Aeolus isn't feeling so hot after his surge of strength there. So he'll just be on the. On the main boat when you take off. So can somebody else please roll a terrain encounter?
 
-[03:21:58] SPEAKER F: Blark. Since he didn't roll the survival.
+[03:21:58] SPEAKER F: Blarg. Since he didn't roll the survival.
 
 [03:22:03] SPEAKER D: Let's go. Hold.
 
@@ -2262,7 +2262,7 @@
 
 [03:24:47] SPEAKER E: Oh, I'm so sorry.
 
-[03:24:52] SPEAKER A: Did you type in anything that I missed? If you want, you can type something in to the chat if you want to do something before the team departs. The COVID We're gonna be so orientation wise team, we're gonna say that. And I don't remember how you inserted that. North.
+[03:24:52] SPEAKER A: Did you type in anything that I missed? If you want, you can type something in to the chat if you want to do something before the team departs. The cove We're gonna be so orientation wise team, we're gonna say that. And I don't remember how you inserted that. North.
 
 [03:25:16] SPEAKER B: Oh, it's just a sticker.
 
@@ -2288,7 +2288,7 @@
 
 [03:27:07] SPEAKER D: So.
 
-[03:27:08] SPEAKER A: Okay, so you're gonna try to make a big move, a big check as a team here to kind of come around these other stalag mites coming up. And you may need to do some remolding of Roxy on the fly here to not crash into smaller rocks as you make your way kind of in this way to kind of make your way further north.
+[03:27:08] SPEAKER A: Okay, so you're gonna try to make a big move, a big check as a team here to kind of come around these other stalagmites coming up. And you may need to do some remolding of Roxy on the fly here to not crash into smaller rocks as you make your way kind of in this way to kind of make your way further north.
 
 [03:27:31] SPEAKER G: All right?
 
@@ -2340,7 +2340,7 @@
 
 [03:30:03] SPEAKER E: I already have advantage on athletics when raging, so.
 
-[03:30:10] SPEAKER A: So Alice already was given less, I guess. Alice, anything else? You've got to help yourself out here. Do you want to try to invoke echo?
+[03:30:10] SPEAKER A: So Aeolus already was given less, I guess. Aeolus, anything else? You've got to help yourself out here. Do you want to try to invoke Echo?
 
 [03:30:24] SPEAKER C: I may try to do that, yeah. Okay.
 
@@ -2352,7 +2352,7 @@
 
 [03:31:03] SPEAKER C: Okay. Okay. So Hope is a 10 and fear is 7.
 
-[03:31:18] SPEAKER A: Okay, so you rolled a 10 with hope. So you are able to feel echo surge for you, and you feel, again, a sense of hope and echo hearing you somehow in all of this, I'm going to let you out of ten to your strength role right here. So to your athletics check. So we're looking for a DC. A group DC above a 15.
+[03:31:18] SPEAKER A: Okay, so you rolled a 10 with hope. So you are able to feel Echo surge for you, and you feel, again, a sense of hope and Echo hearing you somehow in all of this, I'm going to let you out of ten to your strength role right here. So to your athletics check. So we're looking for a DC. A group DC above a 15.
 
 [03:32:01] SPEAKER E: It's just flat strength.
 
@@ -2368,9 +2368,9 @@
 
 [03:32:41] SPEAKER C: Oh, yeah.
 
-[03:32:41] SPEAKER E: Thorough stripes did come through. Okay, the first one I rolled was a not 20.
+[03:32:41] SPEAKER E: Thorough stripes did come through. Okay, the first one I rolled was a nat 20.
 
-[03:32:53] SPEAKER F: Alice also gets a D4. Omnia gets a D4. Oh, Harvey does too. But, like, whatever. It doesn't matter.
+[03:32:53] SPEAKER F: Aeolus also gets a D4. Amanita gets a D4. Oh, Turvy does too. But, like, whatever. It doesn't matter.
 
 [03:33:05] SPEAKER E: I'm doing it for fun anyway.
 
@@ -2388,7 +2388,7 @@
 
 [03:34:01] SPEAKER A: Yep, just base dexterity. Yeah. They want to say this is only a DC of 12. Actually, the whirlpool is still affecting it slightly, so we're going to say 13. D.C. 13.
 
-[03:34:21] SPEAKER B: Kate, got a 22.
+[03:34:21] SPEAKER B: Kit, got a 22.
 
 [03:34:23] SPEAKER A: 10.
 
@@ -2422,7 +2422,7 @@
 
 [03:35:38] SPEAKER A: Would you.
 
-[03:35:39] SPEAKER F: I probably would have stayed with Blarg Lar.
+[03:35:39] SPEAKER F: I probably would have stayed with Blarg.
 
 [03:35:41] SPEAKER A: Would you have been in Roxy's boat or would you have been in the smaller four person rower?
 
@@ -2434,7 +2434,7 @@
 
 [03:36:00] SPEAKER D: Okay.
 
-[03:36:04] SPEAKER A: So we mostly pass, but so there's going to be half damage. So I'm going to say it's going to be 2d6 to rocks to Roxy's boat, not Roxy. Piercing damage. Actually, here's what I'm going to say because of. Because of where you're at and the smaller things I'm going to say it's going to be 1d6 to Roxy, which is still not terrible, 1d6 to the boat, which is still not terrible, and 1d6 to the smaller gun.
+[03:36:04] SPEAKER A: So we mostly pass, but so there's going to be half damage. So I'm going to say it's going to be 2d6 to rocks to Roxy's boat, not Roxy. Piercing damage. Actually, here's what I'm going to say because of. Because of where you're at and the smaller things I'm going to say it's going to be 1d6 to Roxy, which is still not terrible, 1d6 to the boat, which is still not terrible, and 1d6 to the smaller one.
 
 [03:36:35] SPEAKER F: How much health does a smaller boat have?
 
@@ -2494,7 +2494,7 @@
 
 [03:38:57] SPEAKER E: You said D6. It's on. So you said 25 for each for the left and 25 for the right. Right of the.
 
-[03:39:05] SPEAKER A: For Roxy, 50. Tone.
+[03:39:05] SPEAKER A: For Roxy, 50 total.
 
 [03:39:06] SPEAKER E: Yeah. Okay, so are we just doing 50 total?
 
@@ -2502,11 +2502,11 @@
 
 [03:39:11] SPEAKER E: Are we subtracting hit points from, like, left and right?
 
-[03:39:15] SPEAKER A: I. I'll leave that up to you. I mean, ultimately, like, actually, it probably be best just to do left and right, port and starboard sides, just for continuity and some realism. So I would say the left side probably at this one took a D6. So Roxy. Roxy took five on that left side of the. Of the boat. Roxy herself only took two points of piercing damage. And the other boat. Nope, the other boat took four. And I'm gonna say that we're gonna go like 12 and a half both sides. So come going to say that your starboard side took. Took four points and bases. Bases in the water. So a couple of things happen here.
+[03:39:15] SPEAKER A: I. I'll leave that up to you. I mean, ultimately, like, actually, it probably be best just to do left and right, port and starboard sides, just for continuity and some realism. So I would say the left side probably at this one took a D6. So Roxy. Roxy took five on that left side of the. Of the boat. Roxy herself only took two points of piercing damage. And the other boat. Nope, the other boat took four. And I'm gonna say that we're gonna go like 12 and a half both sides. So come going to say that your starboard side took. Took four points and Binks. Binks in the water. So a couple of things happen here.
 
-[03:40:17] SPEAKER D: Quick question. Can I jump after him and use weld shape?
+[03:40:17] SPEAKER D: Quick question. Can I jump after him and use Wild Shape?
 
-[03:40:21] SPEAKER F: I can also Missy step.
+[03:40:21] SPEAKER F: I can also Misty Step.
 
 [03:40:24] SPEAKER A: Who else is in the boat? Can somebody else take control of the boat?
 
@@ -2536,9 +2536,9 @@
 
 [03:42:32] SPEAKER A: And I'm gonna need an encounter wall for creature so somebody can roll me a D12.
 
-[03:42:41] SPEAKER E: You got this? A list.
+[03:42:41] SPEAKER E: You got this? Aeolus.
 
-[03:42:43] SPEAKER A: A list. Give us a D12. Can you hear me, Star? If you can you mute
+[03:42:43] SPEAKER A: Aeolus. Give us a D12. Can you hear me, Star? If you can you mute
 
 [03:43:01] SPEAKER B: four.
 
@@ -2606,7 +2606,7 @@
 
 [03:44:38] SPEAKER B: Straight decks. Okay. 22.
 
-[03:44:46] SPEAKER A: Nice. Okay, so Blurg had an 18.
+[03:44:46] SPEAKER A: Nice. Okay, so Blarg had an 18.
 
 [03:44:48] SPEAKER B: I wish I still had an 11
 
@@ -2614,13 +2614,13 @@
 
 [03:44:58] SPEAKER D: Okay.
 
-[03:45:04] SPEAKER A: Blard brings it up. Darby brings it up. Amanita was pretty low, and Binks didn't beat it either. So half failure? No, two. Two thirds passed. We're good with kits, so Kit's able to kind of, like, pull Everybody together there, and you guys are able to make it around the corner. So we can move the party here down here. And you're kind of in safe, safer water now. It's more open down on the far side of this map. But as you come around, you see another small. You see a stalactite out of the water and. And you see this time clearly, no illusion, a green hag.
+[03:45:04] SPEAKER A: Blarg brings it up. Darby brings it up. Amanita was pretty low, and Binks didn't beat it either. So half failure? No, two. Two thirds passed. We're good with kits, so Kit's able to kind of, like, pull Everybody together there, and you guys are able to make it around the corner. So we can move the party here down here. And you're kind of in safe, safer water now. It's more open down on the far side of this map. But as you come around, you see another small. You see a stalactite out of the water and. And you see this time clearly, no illusion, a green hag.
 
 [03:46:21] SPEAKER C: No,
 
-[03:46:24] SPEAKER A: this one looks a little bit older than the one you saw before. And it just kind of like is doing something on this rock that you don't see. And it turns to face you and kind of gives this look of surprise and then malevolent smile and says, it is you. It was fates that brought us back together. Kim pulls out a shotgun and you hear Indigo say, nanny Plunk, we do not have time for your games. And we're gonna end the session there.
+[03:46:24] SPEAKER A: this one looks a little bit older than the one you saw before. And it just kind of like is doing something on this rock that you don't see. And it turns to face you and kind of gives this look of surprise and then malevolent smile and says, it is you. It was fates that brought us back together. Kit pulls out a shotgun and you hear Indigo say, Nanny Plunk, we do not have time for your games. And we're gonna end the session there.
 
-[03:46:59] SPEAKER E: I don't like Diego
+[03:46:59] SPEAKER E: I don't like Indigo
 
 [03:47:04] SPEAKER A: Darby doesn't like. Okay, long session, but good one.
 
@@ -2650,7 +2650,7 @@
 
 [03:48:11] SPEAKER F: So fast.
 
-[03:48:11] SPEAKER A: Seven days, but in. Yeah, too. Too full. You're in, like, your third or 10 day since leaving Belkinbelf. But, you know, also, time was weird in Feywild. It was, you know, for some of you, it felt like moments. For some of you, it felt like a 10 day.
+[03:48:11] SPEAKER A: Seven days, but in. Yeah, too. Too full. You're in, like, your third or tenday since leaving Velkynvelve. But, you know, also, time was weird in Feywild. It was, you know, for some of you, it felt like moments. For some of you, it felt like a tenday.
 
 [03:48:28] SPEAKER B: I forgot to ask, during downtime, can I make sure to ask Indigo to let me hold his trident
 
@@ -2672,9 +2672,9 @@
 
 [03:49:18] SPEAKER F: Ah. Hey, go ahead and grab Darby's as well.
 
-[03:49:22] SPEAKER E: Yeah, you got. I got a Macy tomorrow for all two seconds. A very fun base. I'm not sure if it's specifically a tune to me. I'm not sure what the difference is.
+[03:49:22] SPEAKER E: Yeah, you got. I got a mace tomorrow for all two seconds. A very fun mace. I'm not sure if it's specifically a tune to me. I'm not sure what the difference is.
 
-[03:49:31] SPEAKER A: Might be, but this is going to make for some interesting saving throws for kid at the beginning of next session.
+[03:49:31] SPEAKER A: Might be, but this is going to make for some interesting saving throws for Kit at the beginning of next session.
 
 [03:49:37] SPEAKER B: So wait,
 
@@ -2708,7 +2708,7 @@
 
 [03:50:22] SPEAKER E: Yeah, absolutely, you dropped.
 
-[03:50:24] SPEAKER A: You dropped against the drow in Belkenwell.
+[03:50:24] SPEAKER A: You dropped against the drow in Velkynvelve.
 
 [03:50:28] SPEAKER B: But that wasn't me being unsafe. That was just a battle that happened.
 
@@ -2718,9 +2718,9 @@
 
 [03:50:41] SPEAKER F: I. I'm just saying that Binks is probably number one on the scale than you.
 
-[03:50:46] SPEAKER B: That's correct. I really never thought of it of. Of things that kids doing as, like, reckless.
+[03:50:46] SPEAKER B: That's correct. I really never thought of it of. Of things that Kit's doing as, like, reckless.
 
-[03:50:55] SPEAKER A: I will also say that, like, Amanita walked right in front of Roxy, who was like this massive oryx when they didn't even know him. And. And she was just trampling toward the portal and just was, like, calmly chilling there. Like, here, have some mushrooms.
+[03:50:55] SPEAKER A: I will also say that, like, Amanita walked right in front of Roxy, who was like this massive rothe when they didn't even know him. And. And she was just trampling toward the portal and just was, like, calmly chilling there. Like, here, have some mushrooms.
 
 [03:51:09] SPEAKER F: Oh, no. Amanita's up there too. Yeah.
 
@@ -2734,7 +2734,7 @@
 
 [03:51:30] SPEAKER G: Amanita hasn't learned caution. It's not part of their makeup. They're like, all right.
 
-[03:51:35] SPEAKER A: And I. I would say a list is cautious, but a list also tried to steal a gemstone eye from.
+[03:51:35] SPEAKER A: And I. I would say Aeolus is cautious, but Aeolus also tried to steal a gemstone eye from.
 
 [03:51:40] SPEAKER B: But that was day one. You know what? He's gotten better.
 
