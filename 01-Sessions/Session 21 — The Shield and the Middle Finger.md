@@ -707,6 +707,10 @@ Also considered and rejected: *Or Whoever You Are Now* ([[Amanita de'Champignon]
 
 ### Continuity Flags, Missing Info & Ambiguities
 
+**⚠️ [[Roxy]]: "oryx" vs "rothe" — a DM proxy ruling, not a transcription error.** S21's spell-check originally treated every "oryx" as STT garbling of "rothe" and corrected them. **S22 (08/16) showed that is wrong in one place**, because Addison distinguishes the two words on purpose: *"She's a Rothe, but she's an ancient Rothe, so we're treating her as an oryx"* and *"There's also no Rothe stat block."* [[Roxy]] **is** a rothe; Addison runs her on the **oryx stat block** because no rothe stat block exists.
+
+The standing rule for this campaign is therefore **contextual**: use **"oryx"** when the subject is the **stat block or mechanics**, and **"rothe"** when the subject is **the creature**. Applied here — line 831 ("did you bring up an oryx stat block") was reverted to **oryx**, while 1709 and 2723 stay **rothe**. Do not blanket-correct either word in any future session.
+
 **✅ Roll archive queried and registered — gap closed 2026-08-16.**
 The Supabase MCP tools were permission-blocked during the Convo 1 run, so that pass produced a transcript-only roll log. Both items have since been completed via the vault's own read-only PostgREST route (`_pipeline/S21/query_rolls.js`, `build_rollref.js`) and the idempotent REST upsert (`_pipeline/S21/register_session.js`):
 1. **87 archived rolls** retrieved for `session_date = 2026-08-02` and listed in the Archive Cross-Reference under the Full Roll Log — [[Binks Stonevein]] 27, [[Kit Aluri]] 18, [[Amanita de'Champignon]] 16, [[Darby Stonefeather]] 15, unattributed 11.

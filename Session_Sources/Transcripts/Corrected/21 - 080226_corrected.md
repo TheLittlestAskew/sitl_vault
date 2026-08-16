@@ -828,7 +828,7 @@
 
 [01:24:17] SPEAKER E: I'll run myself.
 
-[01:24:18] SPEAKER A: Okay. So you can do your full movement if you dash. Actually, I mean, I think Roxy would stay up with you, but I think you are slightly faster than them. I think their movement is 50. Did you bring up rothe stat block? Morehouse, did you bring up a rothe stat block?
+[01:24:18] SPEAKER A: Okay. So you can do your full movement if you dash. Actually, I mean, I think Roxy would stay up with you, but I think you are slightly faster than them. I think their movement is 50. Did you bring up oryx stat block? Morehouse, did you bring up an oryx stat block?
 
 [01:24:40] SPEAKER E: No.
 
