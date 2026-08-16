@@ -133,5 +133,56 @@ _Note: Both of the table's Heroic Inspirations (Kit, Amanita) were spent on the 
 
 ---
 
+## Session 21 — The Shield and the Middle Finger
+
+> ✅ DDB archive cross-referenced 2026-08-16 (87 rows). Loot itself is transcript-sourced.
+
+### From Sloobludop — the Archpriest's Treasure (RETCONNED)
+
+> ⚠️ **Retconned, not acquired in scene.** Addison granted this retroactively (transcript line 1937) *after* the party had already left [[Sloobludop]], explicitly saying so. [[Ploop]]'s near-suicidal peace offering. Logged to [[Roxy]]'s saddlebags.
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|Party|500 copper pieces|Archpriest's treasure, granted retroactively|Carried (Roxy's saddlebags)|
+|Party|2,000 silver pieces|As above|Carried (Roxy's saddlebags)|
+|Party|150 gold pieces|As above|Carried (Roxy's saddlebags)|
+|Party|27 platinum pieces|As above|Carried (Roxy's saddlebags)|
+|Party|Strand of pearls (~1,000 gp)|As above. [[Amanita de'Champignon]] later calls them "these giant jewels I found" and wants to trade them at [[Mantol-Derith]]|Carried|
+|Party|2 potions of healing|As above|Carried|
+|Party|1 potion of water breathing|As above|Carried|
+|Party|Spell scroll of *light*|As above|Carried|
+
+### From the Sheltered Cove — Indigo's Cache
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|Party|Zurkhwood, rope, line, ties, floating O-rings, ship replacement parts, food|Salvaged from ~6 barrels and crates (2 broken) in [[Indigo]]'s cove cache; [[Amanita de'Champignon]] Investigation 14 with advantage. Some used barricading the cave mouth, most consumed building the vessels|Consumed / Carried|
+|Party|Rations & water|Addison's supply tracker at departure: **~3 days of water each, 4–5 days of food**. Foraging possible at normal pace, not at fast pace|Carried|
+
+### Vessels & New Assets
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|[[Roxy]]|**Ship-form hull**|**New.** [[Darby Stonefeather]] dirty-20 Animal Handling (advantage from [[Amanita de'Champignon]]). Wide ~15–17 ft "a little Viking esque" longboat, party shields forming the outer gunwales, saddlebags open along the sides. **50 temporary hull HP (25 per side; port and starboard tracked separately), AC 14.** Roxy herself remains hittable from underneath|Active — port side 25 → 20 after the bone teeth; Roxy took 2 piercing|
+|Party|**Scavenged rowboat**|**New.** Four-person. Found by [[Kit Aluri]] and [[Indigo]] (Survival 13+ with Indigo's +6, advantage), patched over an hour. **25 HP, AC 12**|Active — **19 HP** after the bone teeth (4 damage)|
+|[[Sloobludop]]|**Golden shrine to [[Garl Glittergold]]**|**New, permanent.** [[Binks Stonevein]]'s remaining stunt double, consumed by [[Kit Aluri]]'s DC-30 prayer, solidified into a gold shrine bearing Garl's form with Binks's own facial features, posture and robes — shield raised toward the water and [[Demogorgon]], **middle finger raised on the other hand**. Hums in a low sing-song voice that reminds Binks of Kit. Addison: "it's still going to emanate Garl's power wherever it ends up, even if it gets buried or swallowed up by water." ⚠️ Addison: "There may be consequences for that later"|Left behind at Sloobludop — permanent|
+
+### Item Updates from This Session
+
+|Character|Item|Update|Status|
+|---|---|---|---|
+|[[Darby Stonefeather]]|**Mace** (Green Flame Mace)|**Upgraded: extra damage is now 1d6 fire** (up from 1d4 at level 4, originally +1 flat). **Replaces, does not stack.** Warmth felt during the celestial-feather scene; identified via Nature 15. Addison: "you'll need to attune to it further to learn more"|Equipped — partially identified|
+|[[Amanita de'Champignon]]|Shield|**LOST** — used as an improvised oar. Party shield supply on [[Roxy]] drops **6 → 5**|Lost|
+|[[Binks Stonevein]]|**Stunt doubles** (Channel Divinity, Trickery Domain)|**Permanently upgraded** on the level-5 prayer (Religion + Insight 31): **tripled to three**, golden glow, **semi-corporeal** (some ability to interact physically), and **can speak through Binks**. Two expended over the session; the last was consumed forming the Garl shrine|Upgraded — feature|
+|[[Kit Aluri]]|**Shape-shifting greatsword** (S18 homebrew)|Restated on-air: "I have this fun sword that can change into any weapon I've ever held." Kit asks to hold [[Indigo]]'s trident, [[Amanita de'Champignon]]'s weapon and [[Darby Stonefeather]]'s mace so the sword can learn all three at once. **Unresolved** — Addison: "this is going to make for some interesting saving throws for Kit at the beginning of next session"|Equipped — experiment pending S22|
+|[[Indigo]]|Trident|Handed to [[Kit Aluri]] for the attunement experiment. Properties not described. [[Kit Aluri]]: "I don't know what's special about it or if there's something special about it. I just know I want to hold it"|Lent to Kit|
+|[[Aeolus]]|Ring (spell storing / recharge)|Referenced only by [[Amanita de'Champignon]]: "do you need to recharge your. The ring with the spells. Use the rest for that." No properties or decision stated — `[Unknown/Ambiguous]`|Attuned — unchanged|
+|[[Blarg]]|Heroic inspiration|**Spent** on the DC 12 madness save (10 → 24)|Spent|
+|[[Darby Stonefeather]]|Heroic inspiration|**Spent** on the Religion + Animal Handling check that calmed [[Roxy]] (19)|Spent|
+
+_Note: The party is now **11 bodies across two damaged hulls** with ~3 days of water and 4–5 days of food, facing a **10–15 day crossing** to [[Mantol-Derith]]. Supply pressure is a live constraint. The Sloobludop treasure is the party's first substantial coin haul of the campaign and is earmarked for trade at Mantol-Derith._
+
+---
+
 ## Related
 [[Campaign Dashboard]]

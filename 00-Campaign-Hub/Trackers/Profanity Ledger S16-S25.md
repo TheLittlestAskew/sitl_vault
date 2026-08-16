@@ -95,21 +95,47 @@ _Note: No other redaction-gaps were detected in this transcript. Quiet in-charac
 
 ---
 
-## Running Totals (Through S20)
+## Session 21 — The Shield and the Middle Finger
+
+> ⚠️ This transcript's STT **drops profanity mid-word** without emitting a marker, so the dropped word is genuinely unknown rather than contextually certain. Per the S20 convention, only contextually-certain redactions are counted — these `[word dropped by STT]` rows are **logged but NOT counted** in the word columns or totals. One row per speaker/word combination.
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Addison (DM) | "shit" | 1 | "then maybe we'll do more cool shit" — describing [[Blarg]]'s 200 ft. moonlight vision |
+| Addison (DM) | "crap" | 1 | "you yourself Kit would probably be like, holy crap, if they're here" |
+| Addison (DM) | "hell" | 1 | "Hell yeah" — reacting to [[Binks Stonevein]]'s 31 combined check |
+| Addison (DM) | "Jesus" | 1 | Reacting to Taylor's totem-warrior breakdown at the break |
+| Addison (DM) ⚠️ | `[word dropped by STT]` | 2 | "they are really cool as." (axe beaks); "hard goblin is the voice of reason" *(logged, not counted)* |
+| Kit Aluri (Taylor) | "God damn it" | 1 | [[Derendil]]'s opportunity attacks landing |
+| Kit Aluri (Taylor) | "Jesus" | 1 | Reacting to [[Binks Stonevein]]'s +11 Insight modifier |
+| Kit Aluri (Taylor) | "Gross" | 2 | [[Amanita de'Champignon]]'s 9 on the tentacle save; [[Binks Stonevein]]'s natural 1 |
+| Kit Aluri (Taylor) ⚠️ | `[word dropped by STT]` | 4 | "Or how the do we get out of this?"; "I'm about to everything up"; "that sounds cool as."; "Where the. Is my phone?" *(logged, not counted)* |
+| Binks Stonevein (Matt) | "fuck" | 1 | "So fuck the other team over" — about Taylor's parallel campaign |
+| Binks Stonevein (Matt) | "ass" | 1 | "a huge ass Demogorgon is out in the Darklake" |
+| Binks Stonevein (Matt) ⚠️ | `[word dropped by STT]` | 1 | "Dim light doesn't impose disadvantage. What the." *(logged, not counted)* |
+| Darby Stonefeather (Austin) | "Hell yeah" | 1 | Addison clearing all party exhaustion |
+| Darby Stonefeather (Austin) | "God damn it" | 1 | Being told [[Binks Stonevein]] was out of the boat |
+| Darby Stonefeather (Austin) | "ass" | 1 | "It would have come out to bite me in the ass later" — on volunteering [[Roxy]]'s failed roll |
+
+_Note: [[Aeolus]] (Sirius) was ill and effectively sidelined — zero profanity logged, consistent with his near-total absence from the session's dialogue. [[Blarg]] (Florian) and [[Amanita de'Champignon]] (Hannah) logged none either. Eight further instances across four speakers were dropped mid-word by the transcriber and are uncounted; the true session count is higher than the table._
+
+---
+
+## Running Totals (Through S21)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 17 | 27 | 12 | 10 | 1 | — | 67 |
-| Addison (DM) | 4 | 7 | 7 | — | 2 | — | 20 |
-| Binks Stonevein (Matt) | 3 | 3 | 2 | 3 | 1 | — | 12 |
-| Darby Stonefeather (Austin) | — | 4 | 3 | 3 | — | — | 10 |
+| Kit Aluri (Taylor) | 17 | 27 | 13 | 10 | 1 | 3 | 71 |
+| Addison (DM) | 5 | 7 | 7 | 1 | 2 | 2 | 24 |
+| Binks Stonevein (Matt) | 3 | 4 | 2 | 3 | 2 | — | 14 |
+| Darby Stonefeather (Austin) | — | 4 | 4 | 4 | 1 | — | 13 |
 | Blarg (Florian) | — | 1 | 1 | 1 | — | — | 3 |
 | Aeolus (Sirius) | — | 1 | — | 1 | — | — | 2 |
 | Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit reaches 67 ("goddamn" counted in the damn column per ledger convention). Addison jumps to 20 on a damn-heavy DM session plus the clusterfuck coinage; Darby climbs to 10 on hell-yeahs. A demon lord rose and the table stayed remarkably clean about it.*
+*Kit crosses **70** on a "God damn it," a "Jesus" and two disgusted "Gross"es — none of them at anything that happened to her. Addison jumps to 24 and opens a **hell** column he'd never used. Darby ties her own personal high across three different columns in one session. "Other" now carries the near-miss vocabulary (crap, Jesus, Gross) that the six main columns don't cover. Notably clean for a session that watched a town die: the swearing clustered on dice, not on the demon lord.*
 
 ---
 

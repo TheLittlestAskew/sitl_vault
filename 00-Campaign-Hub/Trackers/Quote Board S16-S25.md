@@ -364,5 +364,213 @@ updated_on: 2026-06-10
 
 ---
 
+## Session 21 — The Shield and the Middle Finger
+
+**[[Indigo]] · [Important to Story]**
+"They need to come. We need to get more into more open water. We need to run into this wave. Not away from it." *(DM-voiced, untagged in transcript; attribution per flags)*
+
+**[[Binks Stonevein]] · [Poignant]**
+"Please, give me wit. Give me cleverness, Garl."
+
+**[[Binks Stonevein]] · [Important to Story]**
+"Sloobludop is lost. The demon is coming to destroy this place… Please don't hold your ego in place. Your lives are more important. We have to leave. Go."
+
+**Addison (DM) · [Important to Story]**
+"Ormic. Ormic has seen some bad."
+
+**Addison (DM) · [Important to Story]**
+"your friend Binks, who you know is actually named Ormic"
+
+**Addison (DM) · [Important to Story]**
+"That's a quaggoth. It's a quaggoth… this is like a chaotic brain damage kind of situation that gave this quaggoth. This on this weird intelligence and these false memories. It's like a reverse amnesia."
+
+**Addison (DM) · [Serious]**
+"You'd be lucky to get him to follow you again ever at this point. Unless you got him very, very far away from Demogorgon."
+
+**[[Amanita de'Champignon]] · [Poignant]**
+"All right, goodbye, Derendil, or whoever you are now. It was awesome knowing you. Like, be at peace in the mycelial network. Like, see you again someday."
+
+**[[Kit Aluri]] · [Serious]**
+"I feel like Derendil's gonna survive, and he's gonna pop up in a couple of years and either save all of us or kill all of us."
+
+**[[Jimjar]] · [Poignant]**
+"All right, I guess I'll see you when I see you." *(DM-voiced, untagged; attribution per flags)*
+
+**[[Ploop]] · [Poignant]**
+"Come, my people, we must flee. We will return. We'll retake it. Once this evil beast has been dealt with, you see the truth now for what it is." *(DM-voiced, untagged; attribution per flags)*
+
+**[[Binks Stonevein]] · [Poignant]**
+"revenge for the people because they were nice to me when I was there, they were good to me. They helped me through. Helped me through my travels"
+
+**[[Binks Stonevein]] · [Poignant]**
+"this is the second town he held in his heart that has been destroyed"
+
+**[[Kit Aluri]] · [Serious]**
+"she does reflexively turn to prayer in like, like times of trouble. Like the way somebody in like real life who was raised in religion but has become a agnostic, like kind of still reaches for that and like in a way that's subconscious."
+
+**[[Kit Aluri]] · [Poignant]**
+"She pictures a shield. Protecting Binks."
+
+**[[Kit Aluri]] · [Poignant]**
+"This is my friend. He's the one who helps me. Like, I feel like when I'm there for everybody else in the party, that Binks is there for me."
+
+**[[Kit Aluri]] · [Poignant]**
+"it's a blind reach towards Binks and whoever is attached to him"
+
+**Addison (DM) · [Important to Story]**
+"And Garl is holding the shield against Demogorgon. The shield is facing out the water."
+
+**[[Binks Stonevein]] · [Funny]**
+"The other hand is holding up a middle finger." — **title quote**
+
+**Addison (DM) · [DM Quip]**
+"Okay, all right. There may be consequences for that later,"
+
+**[[Binks Stonevein]] · [Funny]**
+"but, ah, it's fine."
+
+**Addison (DM) · [Important to Story]**
+"it's still going to emanate Garl's power wherever it ends up, even if it gets buried or swallowed up by water"
+
+**Addison (DM) · [DM Quip]**
+"Pass gas without trace."
+
+**Austin (OOC) · [Banter]**
+"That's what I heard."
+
+**Matt (OOC) · [Funny]**
+"So, like, Destruction, like everywhere we go. It's not. Maybe we're the problem. Ever thought about that?"
+
+**Taylor (OOC) · [Funny]**
+"No, I haven't, and I refuse to. I'm a perfect baby angel. There's nothing. I've never done anything wrong in my life"
+
+**[[Binks Stonevein]] · [Funny]**
+"Hey, death is always an option."
+
+**[[Indigo]] · [Important to Story]**
+"Kit, you never talked about me with your new comrades. My name is Indigo Montoya de Charmed." *(DM-voiced, untagged; surname unverifiable — see [[Indigo]])*
+
+**[[Kit Aluri]] · [Funny]**
+"It's been like a grand total of a week that we've known each other."
+
+**[[Kit Aluri]] · [Serious]**
+"Well, you know what it's like for soldiers in combat. You bond fast."
+
+**[[Indigo]] · [DM Quip]**
+"Big beluga in the room, as it were." *(DM-voiced, untagged)*
+
+**[[Indigo]] · [Funny]**
+"I met Demogorgon, that fiend called him a beluga. It's a shame to all belugas everywhere. I take it back." *(DM-voiced, untagged)*
+
+**[[Darby Stonefeather]] · [Banter]**
+"Okay, I don't like this one. I think Darby has beef with Indigo."
+
+**[[Kit Aluri]] · [Banter]**
+"I've decided you don't want to come down. You don't want to come down on Indigo with that kind of beef."
+
+**[[Indigo]] · [Funny]**
+"I'm seeking a six fingered, not really a man, but got it. You know, a six figure. Six fingered. Pretty sure who killed my father. None of you see. None of you have six fingers on your left hand, do you?" *(DM-voiced, untagged)*
+
+**[[Blarg]] · [Funny]**
+"I mean not like biologically, but like in spirit."
+
+**[[Blarg]] · [Funny]**
+"No, but I could disguise myself as a goblin if I wanted to."
+
+**[[Indigo]] · [Funny]**
+"I'm afraid. I. I'm sorry if I have killed any of your kin." *(DM-voiced, untagged)*
+
+**[[Blarg]] · [Funny]**
+"That's fine. We don't hold grudges… It's kill or be killed. Usually they get killed. I told them don't run everything. But they don't listen."
+
+**[[Binks Stonevein]] · [Funny]**
+"We went to the Feydark. Then we kind of destroyed a drow outpost from the Feydark. We met a demigod, gave us powers. That's cool. Now we saw the Demogorgon. It's been a crazy week. All right. I just want sleep. I just want sleep. That's what I want."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"She's a mushroom, dude. She's the awesomest."
+
+**[[Binks Stonevein]] · [Funny]**
+"Honestly, the Demogorgon, kind of not the weirdest thing, surprisingly, in the last week."
+
+**[[Binks Stonevein]] · [Important to Story]**
+"We need to get to a city like asap. We need to warn people. That's goal number one. We like hey a huge ass Demogorgon is out in the Darklake. We need to warn people."
+
+**[[Binks Stonevein]] · [Funny]**
+"We're avoiding the drow city bad place."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Maybe we could find some stuff that'll help us with fiends or whatever because they're cropping up everywhere now, you guys. Did you notice?"
+
+**[[Amanita de'Champignon]] · [Poignant]**
+"I could take you all to Neverlight Grove after. We just have to skirt the lake around. It'd be cool. We could meet more mushrooms. You could get to know all the fungi. Be an awesome trip. What do you think?"
+
+**Addison (DM) · [Important to Story]**
+"you also don't know what happened to fellow prisoner from Velkynvelve Shuushar, but that's a tale for another time"
+
+**[[Darby Stonefeather]] · [Funny]**
+"We got. We got ropes. We can tie this together. We can create a party barge."
+
+**[[Kit Aluri]] · [Funny]**
+"Party barge."
+
+**[[Darby Stonefeather]] · [Funny]**
+"Like grasping Roxy respectfully and consensually and then locking into a rage so that I couldn't steer this. This ship."
+
+**[[Binks Stonevein]] · [Funny]**
+"Don't worry, I'm kind of an anchor. Natural one."
+
+**[[Binks Stonevein]] · [Funny]**
+"hey, I said I was an anchor, but anchors also sink, so, you know."
+
+**Addison (DM) · [DM Quip]**
+"I totally forgot about Aeolus when I was doing survival checks. I feel terrible now. I'm sorry, you guys."
+
+**[[Nanny Plunk]] · [Important to Story]**
+"It is you. It was fates that brought us back together." *(DM-voiced, untagged; session-closing line)*
+
+**[[Indigo]] · [Important to Story]**
+"Nanny Plunk, we do not have time for your games." *(DM-voiced, untagged)*
+
+**Addison (DM) — 🛑 attribution unresolved · [Funny]**
+"Kit pulls out a shotgun" *(sits inside the DM's segment between Nanny Plunk's line and Indigo's; may be Addison narrating a joke or Taylor's OOC line bleeding in. Needs Taylor's ear on the recording — see [[Session 21 — The Shield and the Middle Finger]] Archivist Notes)*
+
+**[[Darby Stonefeather]] · [Funny]**
+"I don't like Indigo"
+
+**[[Kit Aluri]] · [Banter]**
+"I love a long session."
+
+**[[Darby Stonefeather]] · [Banter]**
+"We really needed this."
+
+**[[Binks Stonevein]] · [Banter]**
+"Made a lot of progress."
+
+**[[Binks Stonevein]] · [Banter]**
+"I'm just saying that Binks is probably number one on the scale than you."
+
+**[[Kit Aluri]] · [Banter]**
+"I really never thought of it of. Of things that Kit's doing as, like, reckless."
+
+**[[Binks Stonevein]] · [Funny]**
+"reason change challenge two gods and desecrate their shrines. That's nothing."
+
+**Addison (DM) · [DM Quip]**
+"I think our barbarian is one of the most. Is one of the safest of the entire party. Honestly,"
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Amanita hasn't learned caution. It's not part of their makeup."
+
+**[[Kit Aluri]] · [Funny]**
+"Have we invented throat medicine and, like, cough drops yet? We need to do that, like, as a people."
+
+**[[Kit Aluri]] · [Important to Story]**
+"I have this fun sword that can change into any weapon I've ever held."
+
+**Addison (DM) · [DM Quip]**
+"attunement is a process… And now you're trying to jump right into. Trying to attune your weapon with other attuned weapons that are magical. I'm super. I'm super down for it. Let's learn the hard."
+
+---
+
 ## Related
 [[Campaign Dashboard]]
