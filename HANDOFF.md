@@ -148,15 +148,4 @@ New thread as of 2026-08-01: session notes do not reach rectrixcaedere.com autom
 - **Commit:** picked up automatically by the vault's scheduled backup commit/push (not committed manually this session).
 - **Next:** Open the vault in Obsidian and confirm the Sessions view in DnD.base now shows all 18 rows ordered by session_date. Then proceed to items 1 (path check) and 3–4 (Obsidian-only moves) above.
 
-### 2026-07-04 ET · Claude chat
-- **Changed:** Added `Workflows/scripts/Publish-SITL.cmd` (one-command note publish). Rewrote DO NEXT as the pre-session work order from the 2026-07-04 three-vault consistency audit (frontmatter drift, phantom stub rows, Kit journal cruft, archive-data verification).
-- **Commit:** `Add Publish-SITL.cmd; DO NEXT = pre-session work order (vault audit)`
-- **Next:** Items 1–2 tonight (60 seconds each); item 3 in Claude Code before tomorrow if possible.
-- **Watch out:** items 4–5 must happen inside Obsidian so wikilinks update; never via shell or file tools.
-
-### 2026-06-29 ET · Claude chat
-- **Changed:** Added `Workflows/scripts/Install-SITLTask.cmd` (mirror of the WTFF/Ashfall installer). SITL had the watcher, `start-watcher-hidden.vbs`, and `run-watcher.cmd` but no installer to re-register its Task Scheduler entry. After the vaults moved under `C:\Users\theli\Obsidian Vaults\`, the existing logon task pointed at the old absolute path and failed silently.
-- **Commit:** `Add Install-SITLTask.cmd: registers the SITL Pipeline Watcher logon task`
-- **Next:** Tayls runs `Install-SITLTask.cmd` from the new location, then starts `start-watcher-hidden.vbs`. Remove the stale old-path task if its name differs from "SITL Pipeline Watcher".
-
-> Older entries archived to `handoff-archive/2026-06.md`
+> Older entries archived to `handoff-archive/2026-07.md` and `handoff-archive/2026-06.md`
