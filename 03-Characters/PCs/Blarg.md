@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-13
+updated_on: 2026-08-16
 type: pc
 race: Dwarf
 class: Cleric / Druid (Circle of the Moon) multiclass
@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive
 player: Florian (TwinkeyKrieger)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Velkynvelve — departing for Sloobludop (as of S14)
+location: The Darklake — the bone teeth, aboard the scavenged rowboat (S21)
 Character_id: "152910077"
 user_id: "113530950"
 JSON slug / roll_name: blarg
@@ -39,6 +39,7 @@ JSON slug / roll_name: blarg
 - Fell through a sinkhole in the [[Evermoors]] (a surface region) and was captured by drow below (S01)
 - Arrived with a drow prisoner exchange (S01)
 - Does NOT speak Dwarvish despite being a dwarf — "I haven't been raised by my family" (S03)
+- (S21) **Prays to [[Selûne]] and "the moon" for guidance under pressure** — his second Cleric level is explicitly framed around it. This is the first time the moon connection running through the campaign (the flask, the moonstone, "shouting into a pillow," Moonbeam) is named as a *devotional* relationship rather than a druidic one. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Personality
 
@@ -49,6 +50,9 @@ JSON slug / roll_name: blarg
 - Compassionate — spoke privately to Turvy about shared loss, offered healing and the moon flask (S05)
 - Good teammate above the table — Florian checked on Taylor when she was muted in S06, earning heroic inspiration from DM
 - S09: Observant of Kit's character growth — noted the "quite the 180" when Kit advocated for Topsy's resurrection, highlighting a shift from the person who wanted to kill Turvy in S04-S05.
+- (S21) **Identifies as "a goblin in spirit," not biologically** — *"I mean not like biologically, but like in spirit"* — and claims he could disguise himself as one, "maybe not right now." Formalizes the S11 goblin wild-shape homebrew as an actual piece of self-concept rather than a party trick. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Cheerfully unsentimental about violence toward his adopted kin.** Told [[Indigo]] may have killed goblinoids: *"That's fine. We don't hold grudges… It's kill or be killed. Usually they get killed. I told them don't run everything. But they don't listen."* — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Openly frightened of [[Demogorgon]]** — a rare crack in his default unflappability, and the reason he reaches for [[Selûne]]. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Abilities & Class Features
 
@@ -117,6 +121,19 @@ JSON slug / roll_name: blarg
 - Post-combat healer: **Cure Wounds 15** on Kit. **Insight 18** on Sloopidoop — believes him truthful.
 - Holds the party's recovered **Spell Scroll of Sand** (loot d100 70). ⚠️ All transcript-only (DDB not queried).
 
+> ⚠️ **Gap — S18, S19 and S20 are not written up on this page.** Those sessions' propagation reached the trackers and the Dashboard but not the PC pages. Backfill in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- **Took his 2nd Cleric level** in the opening round, framing it around **[[Selûne]] and the moon** — openly frightened of [[Demogorgon]] and reaching for guidance. **Religion 26** confirmed just how bad the demon lord's presence is. Addison rewarded the moment by **rounding his darkvision from 120 up to 200 feet** and describing the world in black-and-white moonlight — the sharpest his moon connection has ever been underground, a direct answer to his S08 "shouting into a pillow" complaint.
+- **Perception 16** picked out the refracted moonlight line of the building tidal wave.
+- **Carried [[Aeolus]] through the escape** — a 20 ft jump plus an 80 ft swim-dash, with Aeolus holding on via a Strength check (12 + 4 from Blarg's Help = 16 vs. DC 15).
+- **Survived the tentacle in toad form** (Str save 11) and **passed the DC 12 madness save by spending his heroic inspiration** — a natural 10 boosted to **24**.
+- **Group Dex 18** through the bone teeth. Rolled the **d10 = 7** that triggered the whirlpool / bone-teeth terrain encounter in the first place.
+- **Guided and helped [[Binks Stonevein]]'s Survival 18** on the second-hull scavenge.
+- **Declared himself "a goblin in spirit"** to [[Indigo]], prompting a lecture on goblinoid tribes and an apology for any kin Indigo may have killed — which Blarg waved off entirely.
+- ⚠️ **Zero DDB archive rows this session.** Every roll above is transcript-confirmed only; Florian rolled entirely off-DDB. Per the standing S18 correction, this is *not* an expected pattern for him — it varies session to session.
+
 ## Key Quotes
 
 - "I didn't touch anything. I could just leave." — S01 [Banter]
@@ -137,6 +154,9 @@ JSON slug / roll_name: blarg
 - "I mean, that's fine, but it's still a god, you know." — S16, re: "fuck Lolth" [Funny/Poignant]
 - "You seem like the cursed kind." — S16, to Aeolus [Funny]
 - "Keep on dreaming, champion." — S16 [Funny]
+- "I mean not like biologically, but like in spirit." — S21, on being a goblin [Funny/Defining]
+- "No, but I could disguise myself as a goblin if I wanted to." — S21 [Funny]
+- "That's fine. We don't hold grudges… It's kill or be killed. Usually they get killed. I told them don't run everything. But they don't listen." — S21, to Indigo [Funny]
 
 ---
 
@@ -158,6 +178,16 @@ JSON slug / roll_name: blarg
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 18 — Trust the Whirlpool]]
+- [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Selûne]]
+- [[Demogorgon]]
+- [[Indigo]]
+- [[04-World-Lore/Locations/The Darklake]]
+- [[The Bone Teeth]]
+- [[The Sheltered Cove]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

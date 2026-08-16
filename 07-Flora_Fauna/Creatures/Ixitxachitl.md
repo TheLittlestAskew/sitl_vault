@@ -1,6 +1,6 @@
 ---
 created_on: 2026-07-19
-updated_on: 2026-07-19
+updated_on: 2026-08-16
 tags: [creature, sitl]
 first_appearance: "[[Session 20 — Not My Circus, Not My Demogorgon]]"
 type: aberration
@@ -23,9 +23,11 @@ Small, evil, manta-ray-like aberrations native to [[The Darklake]]. [[Kit Aluri]
 ## Encounters
 
 - [[Session 20 — Not My Circus, Not My Demogorgon]]: Swarmed out of the Darklake at the [[Altar of the Deep Father]] mid-battle, killing kuo-toa faster than the fight itself; the water foamed red. Third-party combatants — never directly engaged the PCs before the hard stop.
+- [[Session 21 — The Shield and the Middle Finger]]: Still present among the dead and the chaos in the [[Sloobludop]] canal district as the session opened. **They never engaged the party across either session** — in two full sessions of proximity, the ixitxachitls have functioned entirely as a **barometer for [[Demogorgon]]'s presence** rather than as an enemy. Left behind with the town.
 
 ## Related
 
-- [[The Darklake]] · [[Altar of the Deep Father]] · [[Demogorgon]]
+- [[04-World-Lore/Locations/The Darklake]] · [[Altar of the Deep Father]] · [[Demogorgon]] · [[Sloobludop]]
 - [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
 #creature

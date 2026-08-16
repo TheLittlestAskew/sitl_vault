@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-07-05
+updated_on: 2026-08-16
 type: pc
 race: Tiefling
 class: Warlock (Archfey Patron)
@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive (Cursed by Lolth)
 player: Sirius (SiriusTheStar)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Sloobludop (arrived S19)
+location: The Darklake — the bone teeth, aboard Roxy's ship-form (S21)
 Character_id: "152796710"
 user_id: "118690437"
 JSON slug / roll_name: aeolus
@@ -49,6 +49,7 @@ JSON slug / roll_name: aeolus
 - When overwhelmed, tends to default to running: "I'm just gonna, you know, run when my friends just did." (S02)
 - Sided with Kit on killing Turvy during the S05 debate
 - S09: Cautious instinct vs. party curiosity — immediately warned the party "Don't check it out!" when Amanita rushed toward the portal, showing self-preservation clashing with party momentum.
+- (S21) **His patron-contact scene reads as homesickness, and as the first peace he has felt in the campaign.** Addison's narration: *"you smell grapes and wine and flowers that remind you of home and your patron,"* and *"this peace that you haven't really felt in a really long time… You're not scared right now."* Twenty-one sessions of shell-shock and resigned fatalism, interrupted. Notable that it arrives via **[[Naos]] and the fey**, not via safety. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Abilities & Class Features
 
@@ -155,6 +156,20 @@ Recorded 2026-08-16 from Sirius's Features & Traits (PHB-2024 p. 153). The DDB p
 - **Insight 19** on [[Sloopidoop]] — believes him truthful. Earlier, **Arcana 22** assisted [[Darby Stonefeather]]'s horn ritual (lowered the DC).
 - Raised his standing open concerns again — **"Clementine"** and the **Darkness safe word** — neither resolved. Briefly noted his own existing curse when curses came up. Physical dice (no DDB entries); transcript-only.
 
+> ⚠️ **Gap — S18, S19 and S20 are not written up on this page.** Those sessions' propagation reached the trackers and the Dashboard but not the PC pages. Notable missing beats include S18's Phantasmal Force landing on the sea hag, and S19's delayed arrival (train) with his actions narrated by proxy. Backfill in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+> ⚠️ **Sirius was ill this session** — hoarse from the start, "my throat is worse" by 03:24 — plus internet trouble, and was effectively sidelined. **Addison apologised on air twice** for skipping him ("I totally forgot about Aeolus when I was doing survival checks. I feel terrible now. I'm sorry, you guys"). Expect a thin log. Zero DDB archive rows.
+
+- **Took his 5th Warlock level and two invocations.** Picked **Repelling Blast**; Addison then **granted [[Aeolus]] *One with Shadows* free on the spot** — and staged it as the session's quietest, warmest beat: clean air, grapes and wine, home and his patron, then smoke and shadow as he turned invisible in front of a kuo-toa monitor that should have been able to see through it. Addison's narration named it as **"this peace that you haven't really felt in a really long time… You're not scared right now."**
+- **Perception 10** — did not see the tidal wave; learned about it through [[Amanita de'Champignon]]'s spores.
+- **Carried out of Sloobludop by [[Blarg]]** — held on through a 20 ft jump plus an 80 ft swim-dash on a Strength check of 12 + 4 (Blarg's Help) = **16 vs. DC 15**.
+- ⚠️ **Contradictory madness save.** Addison called Aeolus's DC 12 Wisdom save both **"a 10"** and **"a Nat 20"** two lines apart (transcript 1413–1417) and never resolved it. Outcome is not in doubt — everyone passed — only the value. Recorded as contradictory in the [[Session 21 — The Shield and the Middle Finger|session note]].
+- 🏆 **Invoked [[Echo]] at the bone teeth** through the session's second **Hope/Fear d12** roll (Hope **10** / Fear **7**), granting **+10** to the group Athletics check that got both hulls around the whirlpool. Addison: *"You feel Echo surge for you… a sense of hope and Echo hearing you somehow."* His one decisive contribution of the night, and it was a patron beat.
+- Rolled the **d12 = 4** encounter/creature roll ("This is crazy," per Addison). Ruled onto the main boat for the crossing.
+- ⚠️ **Open mechanical question carried forward:** which cantrip **Repelling Blast** attaches to. *Agonizing Blast* is tagged `(Eldritch Blast)`; Repelling Blast is untagged; he also has *Shocking Grasp* via Pact of the Tome. **Assume Eldritch Blast — do not assert it as canon.** Ask Sirius.
+
 ---
 
 ## Related
@@ -176,6 +191,15 @@ Recorded 2026-08-16 from Sirius's Features & Traits (PHB-2024 p. 153). The DDB p
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 18 — Trust the Whirlpool]]
+- [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Echo]]
+- [[Demogorgon]]
+- [[04-World-Lore/Locations/The Darklake]]
+- [[The Bone Teeth]]
+- [[The Sheltered Cove]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-07-05
+updated_on: 2026-08-16
 type: pc
 race: Orc (Half-Orc flavored)
 class: Fighter (Battle Master) / Rogue (Assassin) multiclass
@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive
 player: Taylor (OnceAndFutureQueen)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Sloobludop (arrived S19)
+location: The Darklake — the bone teeth, aboard the scavenged rowboat (S21)
 Character_id: "153130853"
 user_id: "107965379"
 JSON slug / roll_name: kit-aluri
@@ -46,6 +46,9 @@ JSON slug / roll_name: kit-aluri
 - Underdark-bred; Deep Delver background feature (navigation and survival specialist)
 - Gladiator background
 - No known dead family members — this became narratively significant in S10 when Kit was the only PC who did not receive a Feydark vision of deceased relatives
+- (S21) **She has parents, and a song from them.** Kit hums "her parents' song" when she reaches for something divine. Nothing further about them is stated — no names, no fate, no whereabouts. `[Unknown/Ambiguous]` beyond the song's existence. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Kit canonically knows [[Binks Stonevein]]'s real name is Ormic.** Addison, on the record: "your friend Binks, who you know is actually named Ormic" (transcript line 1571). She has known it long enough that it needs no scene. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **She has made this same blind prayer before — for [[Indigo]].** Through [[Amanita de'Champignon]]'s rapport spores she showed the party a memory of reaching for whoever was watching over Indigo, exactly as she just did for Binks. Predates the campaign; no further detail given. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Personality
 
@@ -68,6 +71,11 @@ JSON slug / roll_name: kit-aluri
 - (S17) Voices weariness at perpetually standing beside the party's most dangerous member ("I'm just always going to be standing right next to the person in our party who wants to kill us"). — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 - (S17) Sincerely thanks [[Aeolus]] for a non-lethal solution ("Thank you, Aeolus, which I feel like is going to be canon") — a softer beat after a near-death fight. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 - (S19) Reconciles openly with a past betrayer ([[Jimjar]]) without minimizing what happened ("survival is survival... no hard feelings"), and separately narrates an explicit throughline connecting her current voluntary "prisoner/bait" status to her original captivity — a self-aware character beat. — [[Session 19 — We Are Split in Two|S19]]
+- (S21) **Her stance on faith, stated at length for the first time.** Kit is **not an atheist** — she has "seen too much to want to be involved." But she "does reflexively turn to prayer in like, times of trouble. Like the way somebody in real life who was raised in religion but has become agnostic, like kind of still reaches for that… in a way that's subconscious." She **refuses to name a god** and makes "a blind reach" instead. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Hums her parents' song reflexively when reaching for the divine.** Addison prompted it as a "religious connection to your music"; Taylor confirmed "that's also reflexive for her. It's not even like a conscious thought." Extends the private humming ritual established in S15 from her gear to her prayers. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Names [[Binks Stonevein]] as her one reciprocal relationship** — "when I'm there for everybody else in the party, Binks is there for me." Her instinctive protective image, held wordlessly in place of a prayer, is **a shield**. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Counts heads under pressure as her first action, every time.** In the opening round of a demon lord's arrival she spent her entire turn on triage — locating every party member, identifying which two were unreachable, confirming the telepathic link still held. Counts exits out of habit even in a cove she's decided is safe. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Deflects grief with prediction.** On abandoning [[Derendil]]: "I feel like Derendil's gonna survive, and he's gonna pop up in a couple of years and either save all of us or kill all of us." Delivered fast — the POV account names it as a way of not sitting in the other thing. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Inner Life & Evolution
 
@@ -89,7 +97,17 @@ JSON slug / roll_name: kit-aluri
 
 ### Active Emotional State
 
-*Updated: Session 19 (07/05/26)*
+*Updated: Session 21 (08/02/26)*
+
+- **Something finally answered her — and it wasn't for her.** The defining beat of Kit's arc since S10 has been that everyone else got a vision, a gift, a voice in the dark, and she got a nightmare and a doll. In S21 she prayed for the first time on-screen — blind, godless, humming her parents' song, holding one image of a shield in front of [[Binks Stonevein]] — and **something reached back**, cleared a DC 30 by six, and hummed in a voice the others said sounded like hers. Her own read on it: *"I've been on the outside of every miracle this party's been handed… This time something reached back, and it wasn't even for me. That feels about right."* She does not want it explained.
+- **Protection is the shape of her love.** She did not pray for victory, escape, or herself. One image, no words, no god named. Consistent with every prior turning point: Kit's affection expresses itself as standing between people and the thing coming for them.
+- **The telepathy unsettles her.** [[Amanita de'Champignon]]'s spore-speech now lands a plan in six heads at once without her opening her mouth. For a character whose core trait is controlling the flow of information, this is a live discomfort she has explicitly not resolved: *"I've spent my whole life controlling what people know. Now they get it whether I hand it over or not. I haven't decided how I feel about that."*
+- **Two losses she is refusing to grieve.** [[Derendil]] and [[Sloobludop]]. She deflected the first with a prediction and did not mention the second. Explicitly aware she is doing it.
+- **Names [[Binks Stonevein]] out loud, for the first time, as the one who carries her.** "When I'm there for everybody else in the party, Binks is there for me." Twenty-one sessions of implicit trust, finally said.
+- **Hollowed out and knows it.** Failed a History check on [[04-World-Lore/Locations/Mantol-Derith]] and blamed her own capacity, not her knowledge — Addison: "you're probably just so little zonked out right now." Then immediately asked to hold three attuned magical weapons at once.
+- **Warmth toward [[Darby Stonefeather]] that doesn't land.** Warned her off her grudge with [[Indigo]] and meant it kindly. Kit's own assessment: "I don't think it landed kindly."
+
+**Prior state — Session 19 (07/05/26):**
 
 - **Closes a chapter cleanly.** Said a genuine, unguarded goodbye to [[Artaxle]] in the flashback ("I hope our paths cross again... I don't say that to many people") — one of the few farewells in the campaign she hasn't had to process through violence or guilt first.
 - **Reconciles without erasing.** Found [[Jimjar]] alive after his S01 betrayal and chose forgiveness over the ledger: "survival is survival... no hard feelings." Paired with a warm, wordless reunion with a new contact, [[Indigo]] — continues the trust-earning arc she opened with Darby in S18.
@@ -110,10 +128,19 @@ JSON slug / roll_name: kit-aluri
 | S14 | Nat 20 Persuasion speech to the drow elite | First conflict resolved through words, not violence. Kit can be heard, not just feared. Jorlan's death gave the words weight. |
 | S17 | Downed by Derendil, refused the Doll, survived on Orcish blood | The enforcer role calcifies into resentment. She names it aloud — always beside the one who'd kill them all — and still does the work. Refusing the puppet is a statement: she'd rather bleed than be saved by the thing she won't trust. |
 | S19 | Reconciled with Jimjar; named the prisoner/bait throughline aloud | Forgiveness without amnesia. Also the first time Kit describes her own survivor pattern from the outside — watching herself do it again rather than just doing it. |
+| **S21** | **The blind reach — prayed to no one, for someone else, and was answered (DC 30, cleared at 36)** | **The isolation arc cracks.** Kit has spent eleven sessions on the outside of every miracle. Here she initiated contact herself, refused to name a god, asked for nothing on her own behalf, and got a golden shrine that hums in her voice. She won't examine it and doesn't want it explained — but for the first time the silence answered. Paired with saying aloud, finally, that [[Binks Stonevein]] is the one who carries her. |
 
 ### Relationship Undercurrents
 
-*Updated: Session 19 (07/05/26)*
+*Updated: Session 21 (08/02/26)*
+
+- **[[Binks Stonevein]]:** Named, at last. S21 makes the campaign's oldest bond explicit in both directions — Kit says it out loud ("when I'm there for everybody else in the party, Binks is there for me"), and the divine answer to her prayer comes back wearing his face and singing in her voice. She also now canonically knows his real name is **Ormic**. The relationship has moved from assumed to load-bearing.
+- **[[Indigo]]:** Deepened and, for the first time, made visible to the party. Kit couldn't find words for what he is to her, so she let the spores carry the picture instead — him and her in the line together, and the same blind prayer she'd just made for Binks, made for him once before. Places him "on the same level as you guys." She followed his order to run *into* a tidal wave against every instinct she has, because "I have fought beside that certainty before."
+- **[[Darby Stonefeather]]:** Complicated by [[Indigo]]. Darby took an instant dislike to him; Kit warned her off it and it came out harder than intended. First real friction between them since the S18 trust arc — small, unspoken, unresolved.
+- **[[Amanita de'Champignon]]:** The rapport spores have made Amanita the person Kit can't hide from — and the one who understood the Indigo memory "faster than I could have said it." Kit finds the intimacy useful and unsettling in equal measure.
+- **[[Derendil]]:** Closed on Kit's terms, not the story's. She left him raging on a dock and immediately built a future for him in which he survives. Guilt deferred, not processed.
+
+**Prior state — Session 19 (07/05/26):**
 
 - **[[Jimjar]]:** Reopened and closed in the same breath (S19). Found him alive at Sloobludop, running an intelligence network, disguised in kuo-toa netting. Kit chose forgiveness explicitly and without conditions — "survival isn't a debt."
 - **[[Indigo]]:** New (S19). A prior contact from [[04-World-Lore/Locations/Mantol-Derith]], reunited at Sloobludop as an active ally. The reunion registered as an audible sigh of relief — rare visible relief from Kit.
@@ -160,6 +187,12 @@ JSON slug / roll_name: kit-aluri
 | Cloak of Elvenkind (Jorlan's) | S14 (from Jorlan) / S15 (attuned) | **Attuned — Worn.** Confirmed as Cloak of Elvenkind (S15). Stealth bonus. Attuned via humming ritual. Kit experienced déjà vu/memory during attunement — possible story hook. Family crest on garment. |
 | Armor (acid-damaged) | S02 (armory recovery) | **Degraded -1 AC (S08).** Permanent acid damage from Black Pudding. Accumulates per hit; destroyed at AC 10. |
 | Lock of Trickery | S17 (chuul's lair, loot d100 = 37) | Carried. Pristine deadbolt lock; identified by [[Sloopidoop]]. |
+| Shape-shifting greatsword (homebrew property) | S18 (granted on the nat-20 hag kill) | **Equipped.** "I have this fun sword that can change into any weapon I've ever held" (S21, her own phrasing). Reshapes with concentration into any weapon Kit is proficient with and has previously carried; extra damage vs. fey and aquatic creatures. ⚠️ Exact bonus dice/type and action economy still DM-pending. |
+| [[Indigo]]'s trident (borrowed) | S21 | **Held, not owned.** Requested so the shape-shifting sword can learn the form. Properties unknown — "I just know I want to hold it." ⚠️ Resolves S22. |
+| [[Amanita de'Champignon]]'s mithril war pick (borrowed) | S21 | **Held, not owned.** Same attunement experiment. ⚠️ Resolves S22. |
+| [[Darby Stonefeather]]'s mace (borrowed) | S21 | **Held, not owned.** Same attunement experiment; the mace is itself a growth item now dealing 1d6 fire. ⚠️ Resolves S22. |
+
+> ⚠️ **S21 attunement experiment — unresolved.** Kit is holding **three attuned magical weapons belonging to other party members simultaneously**, on purpose, so her own sword can learn all three at once. Addison allowed it — *"attunement is a process… I'm super down for it. Let's learn the hard"* — and warned of **"some interesting saving throws for Kit at the beginning of next session."** Her own closing line: *"I'm holding three weapons that don't belong to me and I have no idea which one my hands will want in the morning."*
 
 ## Relationships
 
@@ -197,6 +230,8 @@ JSON slug / roll_name: kit-aluri
 - **[[Session 16 — Zone of Truth|Session 16]]:** Took second watch with [[Turvy]] at the Fungal Cavern camp. Spotted a wild [[Carrion Crawler]] (Perception 16 adv, Nature 15 to identify); group stealth (24, with Turvy's 15) let it pass. Heard the shelter commotion after Binks's dream (Perception 18) but stayed at her post. In the morning confrontation: chose to fail the **Zone of Truth** save deliberately — "I had nothing to hide, and I wanted everyone to see me not hiding." Escalation arc: hand on hilt → grabbed Binks's chin → hand on his throat → drew short sword on Derendil. **Intimidation 22** cracked Derendil into admitting his hunting dream. Interrogated Binks on possession and his real name. Delivered her second group trust speech in ~4 in-game days ("there's no royal status in this group… everybody get your shit together"). Accepted [[Topsy]]'s gentle check on her use of force. Gained Heroic Inspiration with the party. ⚠️ Pt1 (lost recording): DDB shows Survival nat-1 (2), Nature 12, Perception 6, Stealth 13 adv travel checks, and an **Arcana nat-20 (22)** — likely the horn identification scene.
 - **[[Session 17 — The Big Fish Eat the Little Fish|Session 17]]:** At the [[Darklake Approach Pool]], kept watch from a mushroom cap while the others fished/bathed. **Combat 1 (chuul):** Hunter's Mark + short sword (17 to hit, 15 dmg), failed Trip Attack, passed a Con save (16), was grappled and nearly dragged under (9 dmg), then **pried the pincer off easily (Strength 21)**. **Combat 2 (Derendil's frenzy):** moved in to put the beast down before it could turn on [[Sloopidoop]] — it turned on **her** instead. Derendil's **Nat 20 crit dropped her to 0; survived at 1 HP via Orcish/Relentless Endurance.** Refusing to fall, unloaded a **31-damage round** — Sneak Attack (25 to hit) + Trip (Derendil failed) + Savage Attacker reroll + **Action Surge**. [[Aeolus]]'s **Sleep** ended it before she had to make it permanent; she **thanked him sincerely** and let [[Blarg]] heal her (Cure Wounds 15; +9 from Binks). Insight 6 on Sloopidoop (couldn't read him). Recalled the kingdom "Nel Rinden Vain" (party History — her 21 was best memory). Looted the lair (d100 37 → **Lock of Trickery**). Heard Sloopidoop's verdict on Derendil and privately agreed. Voiced the session's thesis on her role: "I'm just always going to be standing right next to the person in our party who wants to kill us." ⚠️ Transcript-only rolls (DDB not queried).
 - **[[Session 19 — We Are Split in Two|Session 19]]:** In a flashback four days prior, said goodbye to [[Artaxle]] at the Fungal Cavern; rolled History (advantage, 17) on [[Bregan D'aerthe]], then a private History+Intimidation combo confirming a personal Bregan D'aerthe-adjacent contact, then a flat nat 20 History learning more about that contact. In the present, shouted multilingual warnings from her raft (Intelligence 11→15 with Second Wind) and shot the lead kuo-toa (17 to-hit, 9 damage) during the shore skirmish. Spotted a fleeing [[Indigo]] near the docks (Perception 15, Insight 19) but said nothing yet. Used Intimidation (22) to drop a hostile whip during the ambush. Rolled Religion (21) at the Shrine of the Sea Mother, learning [[Blibdoolpoolp|the Sea Mother]] is a scavenger goddess. Slipped away from the group (staying in telepathic contact via Amanita's spores) to reunite with [[Indigo]] at a hidden tavern, where she found [[Shuushar]] and [[Jimjar]] alive (nat 20 "dirty 20" Perception) and reconciled with Jimjar over his past betrayal. Learned of the imminent arrest of [[Ploop]] moments before the session's cliffhanger. ⚠️ Transcript-only rolls (DDB not queried).
+- ⚠️ **[[Session 20 — Not My Circus, Not My Demogorgon|Session 20]] — not yet written up on this page.** S20's propagation pass reached the trackers but not the PC pages. Kit's S20 beats (the Misty Step flank, the shape-shifting sword's first combat reshape and the failed DC 16 Strength save that cut [[Indigo]]'s net, the kuo-toa B kill to the exact hit point, the corpse-stab and the water's approval, shrugging off a madness point, and the Heroic Inspiration spent on the [[Demogorgon]] Charisma save) live in the S20 session note and the [[Loot Tracker S16-S25|Loot Tracker]]. Backfill in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+- **[[Session 21 — The Shield and the Middle Finger|Session 21]]:** **The session's centrepiece is hers.** Opened the level-5 round on pure triage (Perception 15) — counted the whole party, identified [[Roxy]] and [[Derendil]] as the only unreachable ones, confirmed the spore-link held, and told [[Aeolus]] to ready for darkness. History 19 identified [[Demogorgon]] as a summoned demon lord. Passed every save she rolled: Dex 22 vs. the tidal wave, Str 14 vs. the tentacle, and the **DC 12 madness save on a natural 10 boosted to 19** by spending Indomitable/Tactical Mind (d10 = 9) — Addison afterwards: "because of those boosts, you barely all passed." **Then the prayer.** [[Binks Stonevein]] hung back at the mist line to pray for the kuo-toa dead and rolled an 8; Kit passed the high-DC Perception (**19**) needed to notice. Asked what Kit believes, Taylor gave the session's best character statement: not an atheist, "seen too much to want to be involved," but still reaching the way a lapsed believer does. Kit **refused to name a god**, hummed her parents' song, and reached for "whoever would have its eyes on Binks at that moment," holding one image — a shield. Addison granted advantage (the target was a fiend) and imported a **[[House Rules & Rulings|Daggerheart Hope/Fear d12]]** mechanic; Kit rolled **Hope 12 / Fear 10**, assigning Hope the higher die deliberately because "she's putting her trust somewhere that she wouldn't normally." Final result: natural 19 +2 Religion +3 Guidance = 24, **+12 = 36 vs. DC 30.** She blacked out at the edges; everyone else saw a blinding light and Binks's last duplicate solidify into a **golden shrine to [[Garl Glittergold]]** wearing his face, shield raised at Demogorgon, humming in a voice that reminded him of *her*. Afterwards: told [[Amanita de'Champignon]] through the spores that she'd made the same reach for [[Indigo]] once before; warned [[Darby Stonefeather]] off her grudge with him; failed a History check on [[04-World-Lore/Locations/Mantol-Derith]] (**7** — "the politics of Mantol-Derith were not really your cup of tea"); found and patched the four-person rowboat with Indigo (Survival 13+ with his +6, advantage); and pulled the party through the bone teeth on two 22s and a dirty-20 group Athletics. Closed the session asking to hold **three attuned magical weapons at once** so her sword could learn them. ✅ 18 DDB archive rolls cross-referenced.
 
 ## Key Quotes
 
@@ -250,6 +285,19 @@ JSON slug / roll_name: kit-aluri
 - "Everybody keep your cool. I don't know what the fuck's going on, but just [stay] cool." — S19 [Funny/Banter]
 - "Next time you do that, you'll lose a hand." — S19, to a hostile guard [Serious]
 - "No, I mean, survival is survival. And you did what you needed to do to get out, and we still got out. So no hard feelings." — S19, to Jimjar [Poignant]
+- "she does reflexively turn to prayer in like, like times of trouble. Like the way somebody in like real life who was raised in religion but has become a agnostic, like kind of still reaches for that and like in a way that's subconscious." — S21, on her faith [Serious/Defining]
+- "it's a blind reach towards Binks and whoever is attached to him" — S21 [Poignant]
+- "She pictures a shield. Protecting Binks." — S21 [Poignant/Defining]
+- "This is my friend. He's the one who helps me. Like, I feel like when I'm there for everybody else in the party, that Binks is there for me." — S21 [Poignant/Defining]
+- "I feel like Derendil's gonna survive, and he's gonna pop up in a couple of years and either save all of us or kill all of us." — S21 [Serious]
+- "It's been like a grand total of a week that we've known each other." — S21, on the party [Funny]
+- "Well, you know what it's like for soldiers in combat. You bond fast." — S21 [Serious]
+- "I've decided you don't want to come down. You don't want to come down on Indigo with that kind of beef." — S21, to Darby [Banter]
+- "I have this fun sword that can change into any weapon I've ever held." — S21 [Important to Story]
+- "Party barge." — S21 [Funny]
+- "Have we invented throat medicine and, like, cough drops yet? We need to do that, like, as a people." — S21, re: Sirius's illness [Funny]
+- "I really never thought of it of. Of things that Kit's doing as, like, reckless." — S21 [Banter]
+- "I love a long session." — S21 [Banter]
 
 ## POV Journal
 
@@ -277,6 +325,18 @@ Kit's first-person memoir is titled **"The Things We Carried in the Dark: A Sold
 - [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Session 18 — Trust the Whirlpool]]
 - [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Demogorgon]]
+- [[Nanny Plunk]]
+- [[Garl Glittergold]]
+- [[Derendil]]
+- [[Amanita de'Champignon]]
+- [[Aeolus]]
+- [[04-World-Lore/Locations/The Darklake]]
+- [[The Bone Teeth]]
+- [[The Sheltered Cove]]
+- [[04-World-Lore/Locations/Mantol-Derith]]
 - [[Sloopidoop]]
 - [[Ploop]]
 - [[Indigo]]

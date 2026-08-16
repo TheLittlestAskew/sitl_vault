@@ -41,6 +41,15 @@ last_known_location: The sacrifice post, Altar of the Deep Father, Sloobludop
 - **Enlarged to Large size** mid-struggle; ranted third-person threats once ungagged; [[Darby Stonefeather]] deflected his wild freed-arm swing with a burst of wind
 - Ended the session free, disarmed, and furious, with [[Demogorgon]] wading toward the town — potential contact, liability, or both for S21
 
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]]) — **separated**
+
+- Acted **eleventh in the carried-over initiative order** ("after Amanita is Hemeth").
+- **Froze.** Failed his Wisdom save (**8**) against the demon lord's presence — he already carried a point of madness from S20 — and spent the opening of the escape **half-bound and unresponsive.**
+- **Ripped free of his remaining bonds** and ran.
+- **Took the overland tunnels northeast with [[Jimjar]]**, after [[Binks Stonevein]]'s persuasion to bring them along failed (two DCs, one roll).
+- **Still disarmed.** His confiscated weapons were never recovered — the standing threat from S20 ("When Hemeth gets his weapons back, you're all going to die") remains unfulfilled and unforgotten.
+- 🛑 **Separated from the party with no reunion plan.** Whereabouts unknown to them.
+
 ## Relationships
 
 - **[[Darby Stonefeather]]:** Freed him mid-battle "because they feel really bad that they are being sacrificed" — met with threats, not thanks.
@@ -54,8 +63,9 @@ last_known_location: The sacrifice post, Altar of the Deep Father, Sloobludop
 
 ## Related
 
-- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]] · [[Session 21 — The Shield and the Middle Finger]]
 - [[Altar of the Deep Father]]
 - [[Sloobludop]]
-- [[Darby Stonefeather]] · [[Topsy]] · [[Kit Aluri]]
+- [[Darby Stonefeather]] · [[Topsy]] · [[Kit Aluri]] · [[Jimjar]] · [[Binks Stonevein]] · [[Demogorgon]]
+- [[Open Threads & Mysteries]]
 #npc

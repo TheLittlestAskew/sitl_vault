@@ -1,19 +1,23 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-13
+updated_on: 2026-08-16
 type: npc
-race: Quaggoth
-affiliation: Claims to be elven royalty (polymorphed by a curse)
-status: Alive — Captured/Restrained (bound, asleep) since S17; identity debunked; +1 exhaustion
+race: Quaggoth (confirmed — never an elf)
+affiliation: Former party companion — written out S21
+status: Alive — LEFT BEHIND at Sloobludop, hostile and unreachable (S21). Identity confirmed false.
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Bound and carried with the party, ~1 day from Sloobludop (S17)
+location: The Sloobludop docks, raging, as the town was destroyed (S21)
 ---
 
 # Prince Derendil
 
-Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who claims to be a polymorphed elven prince. Speaks Elvish. Wearing clothing — unusual for a quaggoth.
+> 🛑 **RESOLVED (S21): there was never a prince.** [[Amanita de'Champignon]]'s Insight **21** settled it definitively — Derendil **is and always was a quaggoth**, carrying implanted false memories. Addison: *"this is like a chaotic brain damage kind of situation that gave this quaggoth… these false memories. It's like a reverse amnesia."* [[Demogorgon]]'s arrival shook them loose entirely. He was **left behind at [[Sloobludop]], in slaughter mode**, as the town was destroyed. Addison: *"you'd be lucky to get him to follow you again ever at this point."*
+>
+> **The elf-prince identity is false, not deleted.** It is what he believed and what he told the party for twenty sessions, and it stays on this page as the record of that belief. There was no curse, no kingdom, and no wizard.
 
-The kingdom of Nelrindenvane in the high forest is where Dereindil said he was from
+Quaggoth prisoner at [[04-World-Lore/Locations/Velkynvelve]] who **believed** he was a polymorphed elven prince. Speaks Elvish. Wore clothing — unusual for a quaggoth.
+
+He said he was from the kingdom of Nelrindenvane in the High Forest. ⚠️ **Confirmed non-existent (S17 via [[Sloopidoop]], ruled S21).**
 
 ## Description / Appearance
 
@@ -49,6 +53,21 @@ The kingdom of Nelrindenvane in the high forest is where Dereindil said he was f
 - **[[Session 16 — Zone of Truth|Session 16]]:** **The beast bled through.** Left camp unnoticed during the night watches, returned **walking on all fours** — "not his normal attitude" — and collapsed in a heap outside Roxy's shelter, unconscious, clothes **torn by his own claws** (no other injuries, no blood found). No memory of leaving: "I was asleep in this ghastly shelter, if you call it one." Defensive under questioning (Blarg Insight 10 inconclusive). Under Kit's Intimidation 22, admitted: **"I dreamt that I was hunting… I dreamt that I was a beast, that I was what I appear to be, and that I was chasing something. I don't know what."** Also dreamt of being "in a hole underground covered in dirt." Blamed the curse for the erratic behavior: "peaceful elven prince." Named his curser — **Terrestor** — and asked the party to break the curse. **Passed the Zone of Truth CHA save — the only one in the party who did (DM rolled). Only Binks knows.** Spoke no detectable lie, including "I don't know how to hit anything" — yet Kit recalled he tore through combat "like a quaggoth" at Velkynvelve (in defense of Topsy and Turvy). His hunting-dream occurred the same night as Binks's arachnid dream — possibly the same Faerzress dream mechanism.
 - **[[Session 17 — The Big Fish Eat the Little Fish|Session 17]]: The story collapses; the beast takes over.** At the [[Darklake Approach Pool]], Derendil **emerged from his exhausted stupor, leapt the entire pool, and devoured the dying [[Chuul]]** in a gruesome frenzy. The kuo-toa priest [[Sloopidoop]] then declared him **"no elf… a quaggoth, and he will kill you"** — a creature gaslit by chaotic magic into a false royal memory, with **"no cure besides the peace of death."** As Derendil fixed on the priest, the party tried to restrain him; he **turned on [[Kit Aluri]] and dropped her to 0** (she survived at 1 HP via Orcish Endurance). [[Blarg]]'s **Hold Person failed** (monstrosity, not Humanoid); [[Aeolus]]'s **Sleep** finally dropped him onto the chuul's corpse, and [[Topsy]] & [[Turvy]] **bound him**. Sloopidoop debunked his claims directly — he knows the **High Forest** and has never heard of **"Nel Rinden Vain"** *(Derendil's kingdom)* nor the wizard **"Pterostor"/"terroristor"** *(⚠️ rendered "Terrestor" in S16 — same entity, divergent DM renderings; not reconciled)*. **Took another exhaustion level.** Now **bound, asleep, and watched** as an active intra-party danger.
 
+> ⚠️ **Gap — S19 and S20 are not written up on this page.** Per the Campaign Dashboard: S19 he woke mid-scene but was flailing and non-functional with no memory of the past several hours, carried and supported by the party throughout; S20 he **frenzied through the entire altar battle**, unable to tell friend from foe, slashed toad-[[Blarg]] (6) and a kuo-toa monitor, carved through multiple kuo-toa (killed C and I) and ended the session bloodied. Backfill from those session notes in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]]) — **written out**
+
+- **Opened the session outside the party's reach**, ringed by fleeing kuo-toa on the [[Sloobludop]] docks, in slaughter mode. Took **two opportunity attacks on fleeing kuo-toa, both hits, killing one.** He was no longer distinguishing anyone from anyone.
+- 🛑 **[[Amanita de'Champignon]]'s Insight 21 (advantage) — the session-defining check.** Addison ruled definitively: *"That's a quaggoth. It's a quaggoth… this is like a chaotic brain damage kind of situation that gave this quaggoth. This on this weird intelligence and these false memories. It's like a reverse amnesia."* [[Demogorgon]]'s arrival shook the whole construct loose. He will not follow. Addison: *"You'd be lucky to get him to follow you again ever at this point. Unless you got him very, very far away from Demogorgon."*
+- **[[Amanita de'Champignon]] chose blessing over rescue.** She said goodbye rather than trying to subdue or save him: *"All right, goodbye, Derendil, or whoever you are now. It was awesome knowing you. Like, be at peace in the mycelial network. Like, see you again someday."*
+- **One moment of clarity.** A reroll with advantage (18) bought it: a sad, haunted look — *something almost like a person behind his eyes*, per [[Kit Aluri]]'s account — then a **howl**, and he gave up the fight and loped away.
+- **Left behind, raging, as the town was destroyed.** Quest *Recover Derendil* is **Closed — Failed.**
+- [[Kit Aluri]] refused to close the file: *"I feel like Derendil's gonna survive, and he's gonna pop up in a couple of years and either save all of us or kill all of us."*
+
+> **What this retroactively explains.** The S16 hunting dream and the clothes torn by his own claws; the S17 leap across the pool to devour the [[Chuul]]; the failure of [[Blarg]]'s **Hold Person** (monstrosity, not Humanoid); [[Sloopidoop]]'s flat *"that is no elf… no cure besides the peace of death"*; and the fact that he tore through Velkynvelve "like a quaggoth" while claiming he didn't know how to hit anything. The wizard **Terrestor** *(also rendered "Pterostor"/"terroristor")* and the kingdom **Nel Rinden Vain** were both part of the implanted memory set. He was never cursed and there was never anything to cure.
+>
+> **Motif note.** Derendil's reveal sits alongside [[Roxy]]'s resurrection-as-fungal-hybrid, [[Topsy]]'s resurrection, [[Binks Stonevein]]'s stunt doubles wearing his own face, and [[Kit Aluri]]'s Doll of the Fallen Soldier. The campaign keeps asking who a person is when the substrate is replaced.
+
 ---
 
 ## Key Quotes
@@ -64,6 +83,12 @@ The kingdom of Nelrindenvane in the high forest is where Dereindil said he was f
 - [[Session 02 — Come Get Your Shit]]
 - [[Session 16 — Zone of Truth]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Amanita de'Champignon]]
+- [[Demogorgon]]
+- [[Sloobludop]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Sloopidoop]]
 - [[Chuul]]

@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-07-05
+updated_on: 2026-08-16
 type: pc
 race: Goliath
 class: Barbarian (Path of the Wild Heart)
@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive
 player: Austin (aus10england)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: Sloobludop (arrived S19)
+location: The Darklake — the bone teeth, at the helm of Roxy's ship-form (S21)
 Character_id: "148838177"
 user_id: "123535156"
 JSON slug / roll_name: darby-stonefeather
@@ -40,6 +40,7 @@ JSON slug / roll_name: darby-stonefeather
 - Imprisoned at [[04-World-Lore/Locations/Velkynvelve]] for 5 days as of S01
 - Socially inexperienced — a sheltered farmer who has never left her family's farm (the Stonefeather Roost, a multigenerational axebeak farm)
 - Faith: Dollyism
+- (S21) **Her faith is the farm.** Stated plainly for the first time: her family are **multigenerational axe beak farmers** and her religion is *"a familial religion"* tied to the birds — *"they've really lent themselves to the characteristics and the personality of these creatures."* This retroactively explains the S08 ancestral awakening and the S11 Axe Beak totem: the spectral feathers were never a coincidence. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Personality
 
@@ -55,6 +56,9 @@ JSON slug / roll_name: darby-stonefeather
 - (S17) **Openly smitten with [[Sloopidoop]]** — "weird feelings… in a crushy kind of way" toward the kuo-toa priest. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 - (S17) Upbeat and easygoing even on a late arrival ("Jet lagged. Slept for 11 hours. I'm so sorry") — slots straight into the fight. — [[Session 17 — The Big Fish Eat the Little Fish|S17]]
 - (S19) Owns and reframes an awkward moment without embarrassment ("I'm a farmer, I can handle it") when [[Roxy]]'s shrine "offering" doesn't go as planned — consistent with her grounded, practical characterization. — [[Session 19 — We Are Split in Two|S19]]
+- (S21) **"Coming into her own as this, like, true Barbarian she didn't know she had in her"** — and explicitly because of the **camaraderie with [[Kit Aluri]]**, rather than "living life solo." Names the party, not the rage, as the source of her growth. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Takes an instant, quietly-held dislike to [[Indigo]] and chooses to hide it rather than voice it** — *"I think Darby has beef with Indigo"* — then rolls a **natural 20 Deception** to keep it off her face. Indigo reads only standoffishness, bows, and compliments [[Roxy]] instead. Her closing line of the session is still *"I don't like Indigo."* First time Darby has concealed a feeling rather than blurted it. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Carries guilt about her mount as a live stressor.** In the opening round she is exhausted, "really stressed out," and narrates having left [[Roxy]] behind against her better judgment. Addison rated her the **safest** member of the party in the closing round-table. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Abilities & Class Features
 
@@ -81,7 +85,7 @@ JSON slug / roll_name: darby-stonefeather
 | 100-foot coil of silk rope with grappling hook | S02+ | Carried |
 | Enhanced Totem Carving | S02 / S11 (empowered during Feydark) | **Growth item.** +1 CHA. Shifts between father's face and axe beak. Fourth rage option: Axe Beak (50ft move, +D4 slashing on hits). |
 | Fey Touched feat | S11 (granted by Psilofyr) | Active — Misty Step + Animal Friendship (confirmed S12) |
-| Green Flame Mace (common magical) | S06 (retrieved from [[Glabbagool]]) | **Attuned** — Equipped. Action to light/extinguish. Extra damage upgraded from +1 flat to D4 (S08). Normally fire; dealt radiant during S08. Sap weapon mastery. |
+| Green Flame Mace (common magical) | S06 (retrieved from [[Glabbagool]]) | **Attuned** — Equipped. Action to light/extinguish. Extra damage upgraded from +1 flat to D4 (S08), then **to 1d6 fire (S21 — replaces, does not stack)**. Normally fire; dealt radiant during S08. Sap weapon mastery. **S21: warmed during the celestial-feather scene; identified on a Nature 15. Addison: "you'll need to attune to it further to learn more" — confirmed growth item with more hidden.** ⚠️ Currently **lent to [[Kit Aluri]]** for her S21 attunement experiment. |
 | The horn (Roxy's attunement focus) | S16 (ritual) / **S17 (fully attuned)** | **Attuned.** [[Roxanne]] now storable in the horn and summoned by calling "Roxanne." Inventory inaccessible while she's inside. |
 | Rope of Mending | S17 (chuul's lair, loot d100 = 64) | Party inventory. Magically enhanced rope; identified by [[Sloopidoop]]. |
 
@@ -137,6 +141,11 @@ JSON slug / roll_name: darby-stonefeather
 - "Let's uncomplicate it." — S16 [Funny]
 - "Jet lagged. Slept for 11 hours. I'm so sorry." — S17, arriving mid-fight [Banter]
 - "I'm a farmer. I can handle it." — S19 [Funny]
+- "Okay, I don't like this one. I think Darby has beef with Indigo." — S21 [Banter]
+- "I don't like Indigo" — S21, closing line [Funny]
+- "We got. We got ropes. We can tie this together. We can create a party barge." — S21 [Funny]
+- "Like grasping Roxy respectfully and consensually and then locking into a rage so that I couldn't steer this. This ship." — S21 [Funny]
+- "We really needed this." — S21, session sign-off [Banter]
 
 ### S15 Key Events
 - Riding Roxy at front of the column. Fashioning armor onto Roxy during rest periods using building hammers and iron spikes.
@@ -167,6 +176,21 @@ JSON slug / roll_name: darby-stonefeather
 - Failed her own Religion check (6) on the Sea Mother's lore.
 - Spent the session's back half with Ploop planning the bait operation; agreed to it when the arrest attempt arrived.
 
+> ⚠️ **Gap — S20 is not written up on this page.** [[Session 20 — Not My Circus, Not My Demogorgon]]'s propagation reached the trackers but not the PC pages. Backfill in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- **Took her 5th Barbarian level** in the opening round — Extra Attack and +10 movement — while narrating a barbarian "coming into her own," explicitly crediting the party rather than going solo. Opened on a **Perception 2**: still exhausted, blind to her surroundings, and stressed about [[Roxy]].
+- **Beckoned [[Roxy]] to her** on an Animal Handling 13 → DM-granted **15**. Addison used the moment to **clear all party exhaustion** for the level-5 milestone.
+- 🏆 **The celestial feather.** Spent her **heroic inspiration** on a combined **Religion + Animal Handling** check (16 +1 +3 = **19**) to calm Roxy under [[Demogorgon]]'s presence — narrating her family's multigenerational axe-beak faith and extending a celestial feather. Results: **the whole party gains advantage for 1 hour on checks made against, or to avoid, fiendish presences**; **her Religion checks are permanently +2**; her mace warms (and later upgrades to 1d6 fire); and Roxy's fungal filaments visibly light up. Her single biggest mechanical contribution of the campaign so far.
+- **Natural 20 Deception** (at a −1 modifier) to hide her instant dislike of [[Indigo]] from his passive Insight 16. He read only standoffishness, bowed, and complimented Roxy.
+- **Nature 15** examining her mace → upgraded to **1d6 fire**.
+- 🏆 **Dirty-20 Animal Handling** (with advantage from [[Amanita de'Champignon]]) **reshaped [[Roxy]] into a seaworthy longboat** — wide, ~15–17 ft, "a little Viking esque," party shields forming the gunwales, saddlebags open along the sides. **50 temporary hull HP (25/side, port and starboard tracked separately), AC 14.** Third form in Roxy's sequence after the S16 shelter and S18 twin rafts.
+- **Held the helm through the bone teeth raging**, gripping Roxy — *"grasping Roxy respectfully and consensually and then locking into a rage so that I couldn't steer this. This ship."* Group Athletics **28** (a genuine natural 20, DDB-verified). Passed the DC 12 madness save on a 13.
+- Proposed the **"party barge"** (ropes lashing both hulls together), which [[Kit Aluri]] immediately repeated back approvingly.
+- Closed the session with *"I don't like Indigo"* and *"We really needed this."* Addison named her **the safest member of the entire party.**
+- ✅ **15 DDB archive rolls** cross-referenced — including both of the session's confidently-verified natural 20s.
+
 ---
 
 ## Related
@@ -190,6 +214,13 @@ JSON slug / roll_name: darby-stonefeather
 - [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Session 18 — Trust the Whirlpool]]
 - [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Indigo]]
+- [[Demogorgon]]
+- [[04-World-Lore/Locations/The Darklake]]
+- [[The Bone Teeth]]
+- [[The Sheltered Cove]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]

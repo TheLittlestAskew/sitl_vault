@@ -1,6 +1,6 @@
 ---
 created_on: 2026-07-19
-updated_on: 2026-07-19
+updated_on: 2026-08-16
 type: npc
 tags: [npc, sitl, antagonist, demon-lord]
 aliases: [Limu Gugun, The Deep Father, Prince of Demons]
@@ -8,13 +8,13 @@ status: Active threat
 race: Demon lord (Prince of Demons)
 affiliations: The Deep Father cult (worshipped as "Limu Gugun")
 first_appearance: "[[Session 20 — Not My Circus, Not My Demogorgon]]"
-last_known_location: Wading across The Darklake toward Sloobludop
+last_known_location: The ruins of Sloobludop / at large in The Darklake
 ---
 
 # Demogorgon
 
 > **Type:** Demon lord — Prince of Demons. The campaign's first revealed antagonist of demon-lord tier.
-> **Status:** Active threat — rose from [[The Darklake]] at the S20 ritual's success; wading toward [[Sloobludop]], arrival "in an indeterminate number of rounds."
+> **Status:** Active threat, at large. **Destroyed [[Sloobludop]] in S21.** Warning the rest of the Underdark that he is loose in [[04-World-Lore/Locations/The Darklake]] is now the party's stated goal number one.
 > ⚠️ *Filed under `03-Characters/NPCs/` per the S20 handoff's "new active antagonist page" note; whether he should instead live in `07-Flora_Fauna/Creatures/` is Taylor's call — move if preferred.*
 
 ## Description / Appearance
@@ -31,6 +31,12 @@ last_known_location: Wading across The Darklake toward Sloobludop
 
 - **Gaze/roar (S20):** His roar forced a **DC 13 Charisma save** on every party member; all six passed ([[Kit Aluri]] and [[Amanita de'Champignon]] both burned Heroic Inspiration to do it), and Addison shelved the madness table.
 - **Madness as weather (S20):** For a full round before he surfaced, the battlefield signaled his approach — thickening fog, a pervasive manic energy in the water that tried to push Kit into frenzy, ixitxachitls fleeing their own element, kuo-toa dragged under mid-chant.
+- **Fog (S21):** He rolls fog **ahead** of himself up the canals. Per [[Kit Aluri]]'s account it arrives before he does, "like it had been sent ahead to soften us."
+- **Tidal wave (S21):** His rising raised a wave that hit the whole shoreline. **Dexterity DC 10** — [[Amanita de'Champignon]] (1 damage, saved by grabbing [[Roxy]]) and [[Binks Stonevein]] (**10 bludgeoning**, flung into a dock) failed.
+- **Tentacle and gaze (S21):** One of his two heads **turned on the party through both the fog and [[Amanita de'Champignon]]'s Pass Without Trace** — magic did not hide them — and reached with a tentacle "inordinately long." **Strength DC 10** — [[Amanita de'Champignon]] and [[Turvy]] flung **30 ft, 7 bludgeoning each, driven 10 ft underwater.** [[Stool]] survived only on a natural 20 by latching onto Roxy's horns.
+- **Madness aura (S21):** Forced party-wide **DC 12 Wisdom saves**, [[Binks Stonevein]] at disadvantage. **Everyone passed, several by inches** — [[Kit Aluri]] on a natural 10 boosted to 19 with a superiority die, [[Blarg]] on a 10 boosted to 24 with heroic inspiration. Addison afterwards: *"because of those boosts, you barely all passed."* A slightly worse round would have started distributing long-term madness across the party.
+- **Can be made to pause (S21).** ⚠️ The single most tactically significant fact learned about him. The **golden shrine to [[Garl Glittergold]]** created by [[Kit Aluri]]'s DC-30 prayer held a **shield** out toward him; a wave of protection rolled out from the city and **Demogorgon visibly paused.** Divine opposition registers with him.
+- **Party-wide anti-fiend boon (S21):** [[Darby Stonefeather]]'s celestial-feather scene granted the party **advantage for 1 hour on checks made against, or to avoid, fiendish presences** — used through the escape.
 
 ## Key Events
 
@@ -39,10 +45,20 @@ last_known_location: Wading across The Darklake toward Sloobludop
 - The Deep Father kuo-toa dropped and groveled; the Sea Mother kuo-toa stood in shock. He began wading toward [[Sloobludop]], heedless of everything.
 - The party's unanimous response — for the first time in the campaign — was retreat; the land-vs-water escape choice is deferred to S21.
 
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- **Destroyed [[Sloobludop]].** He moved on the Deep Father shrine as the party fled; the town is gone. [[Ploop]] stayed behind to evacuate his surviving people; [[Shuushar]]'s fate is explicitly unknown; [[Derendil]] was left raging on the docks.
+- **Broke [[Derendil]].** Addison ruled that Demogorgon's arrival is what **shook loose the false elf-prince memories** that had been implanted in a quaggoth — "a chaotic brain damage kind of situation… It's like a reverse amnesia." Derendil went into slaughter mode and was written out.
+- **Raised the tidal wave** the party escaped by running *into*, on [[Indigo]]'s call.
+- **Noticed them.** One head turned on the party through fog and magic and reached. Per Kit's account: *"I have never in my life felt something that big decide to notice me."*
+- **Was paused.** [[Kit Aluri]]'s blind, godless prayer for [[Binks Stonevein]] cleared **DC 30 with a 36** and turned Binks's last stunt double into a permanent **golden shrine to [[Garl Glittergold]]** holding a shield toward the water — **and a raised middle finger.** A wave of protection rolled out of the city; Demogorgon paused. Addison: *"There may be consequences for that later."*
+- **Remains at large in [[04-World-Lore/Locations/The Darklake]].** The party's new campaign objective, in [[Binks Stonevein]]'s words: *"a huge ass Demogorgon is out in the Darklake. We need to warn people."*
+
 ## Related
 
-- [[Session 20 — Not My Circus, Not My Demogorgon]]
-- [[The Darklake]] · [[Sloobludop]] · [[Altar of the Deep Father]]
-- [[Bloppblippodd]] · [[Ploop]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]] · [[Session 21 — The Shield and the Middle Finger]]
+- [[04-World-Lore/Locations/The Darklake]] · [[Sloobludop]] · [[Altar of the Deep Father]] · [[The Sheltered Cove]]
+- [[Bloppblippodd]] · [[Ploop]] · [[Derendil]] · [[Garl Glittergold]] · [[Kit Aluri]] · [[Binks Stonevein]] · [[Indigo]]
+- [[Open Threads & Mysteries]]
 - [[Campaign Dashboard]]
 #npc #antagonist

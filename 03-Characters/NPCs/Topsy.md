@@ -76,6 +76,14 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - Went to **explore the left-hand cave** with [[Turvy]] and **missed both fights** (the [[Chuul]] ambush and [[Derendil]]'s frenzy) — no combat rolls this session.
 - **Returned to help bind the Slept, frenzied [[Derendil]]** for everyone's safety after he dropped Kit and was put to sleep.
 
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- Acted **at the end of the round** with [[Turvy]] in the carried-over initiative order.
+- **Passed every save she rolled** during the escape: Dex 15 vs. the tidal wave, Str 16 vs. [[Demogorgon]]'s tentacle, Wis 14 vs. madness (all including her +2). One of the few party members to come through the whole gauntlet untouched.
+- Boarded [[Roxy]]'s ship-form for the crossing to [[04-World-Lore/Locations/Mantol-Derith]].
+- **Expects a cool reception at [[04-World-Lore/Locations/Blingdenstone]]** as a wererat — she and [[Turvy]] haven't been since they were very young, and [[Binks Stonevein]] reports local attitudes are "fairly back and forth."
+- ⚠️ **Her rolls were entered on [[Binks Stonevein]]'s DDB account** as composite `2d20` custom rolls paired with Turvy's — they decompose exactly against the transcript. Attribute by transcript, not by the archive's `character` column. See [[Roll Statistics S16-S25]].
+
 ---
 
 ## Related
@@ -90,6 +98,10 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - [[Session 11 — Gifts_of_the_Carrion_King]]
 - [[Session 12 — Return to Velkynvelve]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Roxy]]
+- [[Demogorgon]]
+- [[04-World-Lore/Locations/The Darklake]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Aeolus]]
 - [[Derendil]]

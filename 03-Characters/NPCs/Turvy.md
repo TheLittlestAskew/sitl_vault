@@ -86,10 +86,25 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 - Observed rummaging through party gear daily with Topsy — methodical, not malicious. Thieves' habits.
 - Working with Topsy to manipulate/fit armor to gnome-sized bodies.
 
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- Acted **at the end of the round** with [[Topsy]] in the carried-over initiative order. Positioned near [[Amanita de'Champignon]], [[Blarg]] and [[Aeolus]] by the shrine at the session's open.
+- 🎲 **Natural 20 on the tidal-wave Dexterity save** — DDB-verified inside [[Binks Stonevein]]'s composite `2d20 = 33`.
+- ⚠️ **Then failed the tentacle Strength save (8).** [[Demogorgon]]'s tentacle **flung him 30 feet, dealt 7 bludgeoning, and drove him 10 feet underwater.** He and [[Amanita de'Champignon]] were the only two caught by it. Recovered.
+- **Passed the DC 12 madness save at 16** (+2).
+- Boarded [[Roxy]]'s ship-form for the crossing to [[04-World-Lore/Locations/Mantol-Derith]].
+- **Expects a cool reception at [[04-World-Lore/Locations/Blingdenstone]]** as a wererat — he and [[Topsy]] haven't been since they were very young.
+- ⚠️ **His rolls were entered on [[Binks Stonevein]]'s DDB account** as composite `2d20` custom rolls paired with Topsy's. Attribute by transcript, not by the archive's `character` column. See [[Roll Statistics S16-S25]].
+
 ## Related
 - [[Topsy]]
 - [[Derendil]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Roxy]]
+- [[Demogorgon]]
+- [[Selûne]]
+- [[04-World-Lore/Locations/The Darklake]]
 - [[04-World-Lore/Locations/Blingdenstone]]
 - [[Session 01 — Prisoners of the Underdark]]
 - [[Session 02 — Come Get Your Shit]]

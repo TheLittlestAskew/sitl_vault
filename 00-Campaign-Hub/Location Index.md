@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-21
-updated_on: 2026-06-10
+updated_on: 2026-08-16
 ---
 
 # Location Index
@@ -19,14 +19,16 @@ updated_on: 2026-06-10
 ## Key Campaign Locations
 
 - [[04-World-Lore/Locations/Velkynvelve]] — Drow outpost/prison; campaign starting location (S01-S03). Party assaulted and decisively won the Battle of Velkynvelve (S12-S14). All drow command killed or fled. Shrine of Lolth partially desecrated by Binks (S14). Faerzress shifted from purple to gold. Quaggoths fled after shrine disruption. Party took long rest and looted the outpost before departing for Sloobludop.
-- [[04-World-Lore/Locations/Blingdenstone]] — Deep gnome city; party's intended destination as of S03
-- [[04-World-Lore/Locations/Gracklstugh]] — Duergar city
-- [[04-World-Lore/Locations/Menzoberranzan]] — Iconic drow city
-- [[04-World-Lore/Locations/Neverlight Grove]] — Myconid settlement; Stool's home; Sarith's destination
-- [[04-World-Lore/Locations/Mantol-Derith]] — Trade enclave; Kit has connections there (S11)
+- [[04-World-Lore/Locations/Blingdenstone]] — Deep gnome city; party's intended destination as of S03. **S21: ~20 days out; [[Topsy]]/[[Turvy]] expect a cool reception as wererats; [[Jimjar]]'s likely destination after splitting off.** Deferred.
+- [[04-World-Lore/Locations/Gracklstugh]] — Duergar trade hub; forge powered by a red dragon; slave trade prominent. **S21: ~20 days southerly, but reaching it means going back around behind [[Demogorgon]].** Ruled out.
+- [[04-World-Lore/Locations/Menzoberranzan]] — Iconic drow city. **S21: ~26 days east-northeast, explicitly ruled out** — "We're avoiding the drow city bad place." Drow encounters are now a coin flip between [[Bregan D'aerthe]] and Menzoberranzan loyalists.
+- [[04-World-Lore/Locations/Neverlight Grove]] — Myconid settlement; Stool's home; Sarith's destination. **S21: farther than Blingdenstone, nearer than Gracklstugh, more westerly, not on the lake. [[Amanita de'Champignon]] pitched it as the trip after Mantol-Derith — deferred, not dropped.**
+- [[04-World-Lore/Locations/Mantol-Derith]] — Trade enclave; Kit has connections there (S11, S19). 🎯 **S21: THE PARTY'S CURRENT DESTINATION — 10–15 days by water.** [[Binks Stonevein]]'s dirty-20 History delivered the full briefing: a centuries-old neutral outpost carved into a pillar from cavern ceiling to waterline with waterfalls, ~140 people, chilly and damp, lit by continual flame and reflecting crystals, crushed-crystal plazas, an informal council of four chief negotiators (drow, duergar, human, svirfneblin), surface trade dominated by the [[Zhentarim]] with a "black network" beneath.
 - [[04-World-Lore/Locations/The Silken Paths]] — Webbed travel route
-- [[Sloobludop]] — Kuo-toa settlement near [[04-World-Lore/Locations/The Darklake]]; 7 days travel from Velkynvelve (S15 corrected from 8). **S17: revealed as [[Sloopidoop]]'s home village.** **S19: party arrives and enters** — netting gate, stilt streets, Shrine of the Sea Mother, Archpriest [[Ploop]]'s home, and a hidden non-kuo-toa tavern. Sea Mother vs. "Deep Father" civil war discovered; party agrees to act as bait for Ploop.
-- [[04-World-Lore/Locations/The Darklake]] — Vast Underdark water region. Party officially entered the region at the end of S16. **S17: traveled its approach — the [[Darklake Approach Pool]] clearing — fighting a chuul and meeting a Society of Brilliance kuo-toa.**
+- [[Sloobludop]] — 🛑 **DESTROYED (S21).** Kuo-toa settlement near [[04-World-Lore/Locations/The Darklake]]; 7 days travel from Velkynvelve (S15 corrected from 8). **S17: revealed as [[Sloopidoop]]'s home village.** **S19: party arrives and enters** — netting gate, stilt streets, Shrine of the Sea Mother, Archpriest [[Ploop]]'s home, and a hidden non-kuo-toa tavern. Sea Mother vs. "Deep Father" civil war discovered. **S20: the altar ambush fails to stop the summoning and [[Demogorgon]] rises from the lake. S21: the town is destroyed.** [[Ploop]] stayed to evacuate his people; [[Derendil]] was left raging on the docks; a **permanent golden shrine to [[Garl Glittergold]]** remains in the ruins.
+- [[04-World-Lore/Locations/The Darklake]] — Vast Underdark water region. Party officially entered the region at the end of S16. **S17: traveled its approach — the [[Darklake Approach Pool]] clearing — fighting a chuul and meeting a Society of Brilliance kuo-toa.** **S20: [[Demogorgon]] rose out of it. S21: the party took to the water and is now crossing it toward Mantol-Derith on two damaged hulls, with a demon lord loose in these waters.** Islands further out, open water west, one central expanse with its own weather (elementally and magically infused, per [[Indigo]]).
+- [[The Sheltered Cove]] — 🆕 **(S21)** [[Indigo]]'s cache. A small, dry, one-way-in cove roughly an hour's Water Walk north of Sloobludop, with a shallow cave. The party's long-rest site after Demogorgon; where Indigo gave his full name, the destination was chosen, and both vessels were built.
+- [[The Bone Teeth]] — 🆕 **(S21)** A field of jagged rock and stalagmites rising out of the Darklake north of the cove, with a whirlpool at its mouth. Both hulls ran aground and took damage; [[Binks Stonevein]] went overboard on a natural 1. **Where [[Nanny Plunk]] was waiting — the session's cliffhanger.**
 - [[Darklake Approach Pool]] — High-ceilinged bioluminescent clearing around a deep underground pool on the Darklake approach, with a submerged chuul lair beneath it. Site of the chuul ambush, Derendil's frenzy, first contact with [[Sloopidoop]], and the lair loot recovery. (S17)
 - [[Fungal Cavern (Day 4)]] — Large cavern filled with fungi and mushrooms of all sizes and types, encountered on Day 4 of travel to Sloobludop. Contains Timmask (explosive), Tongue of Madness, Nightlight, Waterorb, and other fungi. Groundwater trickling through. Amanita guided party safely through. (S15) **S16: party night-camped here in Roxy's shelter form — violet fungi spotted within the cavern (Watch 1) and a wild carrion crawler passed by (Watch 2). Site of the horn ritual, Binks's dream, Derendil's episode, and the Zone of Truth confrontation. Party exited toward the Darklake.** **S19 (flashback, revisited): site of [[Artaxle]]'s farewell four days before the present-day scenes — party outfits him and he departs alone toward [[Menzoberranzan]].**
 

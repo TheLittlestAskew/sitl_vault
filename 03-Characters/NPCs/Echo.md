@@ -31,6 +31,7 @@ Cryptic, confident, amused. Taunts Aeolus about the desire to kill him ("Good lu
 
 - **[[Session 10 — 021526_Echoes_in_the_Feydark|Session 10]]:** Appeared in the Feydark while Aeolus/Blarg/Amanita rode Roxanne. Landed and spoke. Explained: they are in the Feydark, realm of [[Psilofyr]] (the Carrion King). Told Aeolus he was "meant to be here, but not yet." Departed before the trial. Last seen: landed on Aeolus's chest as he fell asleep — "Good job not dying."
 - **[[Session 11 — Gifts_of_the_Carrion_King|Session 11]]:** Appeared during Aeolus's dream/vision with [[Naos]]. After Naos dissolved into the Ring of Spell Storing, Echo landed and pecked at the ring: "So dramatic. What a romantic. Will he never learn?"
+- **[[Session 21 — The Shield and the Middle Finger|Session 21]]:** 🏆 **Invoked directly by [[Aeolus]] for the first time, and answered.** During the bone-teeth crossing Aeolus reached for Echo through the session's second **Hope/Fear d12** roll (Hope **10** / Fear **7**). Addison: *"You feel Echo surge for you… a sense of hope and Echo hearing you somehow."* The result granted **+10** to the group Athletics check that got both hulls around the whirlpool — Aeolus's one decisive contribution of a session in which illness had otherwise sidelined him. **No taunting, no detached amusement — Echo simply answered.** A marked shift from the S10/S11 dynamic. This came the same session as Aeolus's patron-contact scene of grapes, wine, home and "this peace that you haven't really felt in a really long time."
 
 ## Key Quotes
 
@@ -50,6 +51,9 @@ Cryptic, confident, amused. Taunts Aeolus about the desire to kill him ("Good lu
 
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]
 - [[Session 11 — Gifts_of_the_Carrion_King]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[The Bone Teeth]]
+- [[House Rules & Rulings]]
 - [[Aeolus]]
 - [[Naos]]
 - [[Psilofyr]]

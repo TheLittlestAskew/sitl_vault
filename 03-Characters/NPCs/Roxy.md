@@ -66,10 +66,35 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - **[[Session 16 — Zone of Truth|Session 16]]:** Subject of the horn ritual at the Fungal Cavern camp — stopped eating, lay down next to Darby, partially dissolved into spores and entered the horn before reconstituting. Then **manifested her shelter form for the first time**: saddlebags opened, stored matter flooded out and congealed into a Zurkhwood tent-cabin that housed the whole party for the night.
 - **[[Session 17 — The Big Fish Eat the Little Fish|Session 17]]:** In **Combat 1**, Darby controlled her for a **17-damage gore** (21 to hit) on the [[Chuul]], helping bring it down. Too buoyant to dive into the pool afterward, so the party **finally stored her fully in the horn** (second ritual attempt — Aeolus Arcana 22 → Darby success) before descending to the submerged lair. She is now transportable through water and narrow spaces.
 
+> ⚠️ **Gap — S18, S19 and S20 are not written up on this page.** Notable missing beats: the S18 twin-raft form (two zurkhwood rafts, 20 HP each), the S19 shrine "offering," and S20's building demolition. Backfill in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- Started the session **unreachable** — one of only two figures [[Kit Aluri]] couldn't get to in her opening head-count, ringed by kuo-toa and obscured by the shrine. [[Darby Stonefeather]] beckoned her back on an Animal Handling 13 → DM-granted **15**.
+- **Passed the tidal-wave Dex save** at 19 (Dex +0 with a DM-granted +2) and the tentacle Str save at 10. [[Amanita de'Champignon]] survived her own failed save by grabbing hold of Roxy; [[Stool]] survived on a natural 20 by **latching onto Roxy's horns.**
+- 🏆 **The celestial feather.** [[Darby Stonefeather]] spent heroic inspiration on a **Religion + Animal Handling 19** to calm her under [[Demogorgon]]'s presence, narrating her family's axe-beak faith and extending a celestial feather. **Roxy's fungal filaments are now visibly glowing.** The party also gained an hour of advantage against fiendish presences from the same moment.
+- 🏆 **New form: the ship.** On [[Darby Stonefeather]]'s dirty-20 Animal Handling (advantage from [[Amanita de'Champignon]]), Roxy became a **wide ~15–17 ft longboat, "a little Viking esque,"** with the party's **shields forming the outer gunwales** and her saddlebags open along the sides. **50 temporary hull HP (25 per side; port and starboard tracked separately), AC 14.** ⚠️ **Roxy herself is still hittable from underneath** and takes damage independently of the hull.
+- **Damage at the bone teeth:** 5 to the port hull (25 → 20) and **2 piercing to Roxy herself.**
+- Complimented by [[Indigo]], which is what he did instead of confronting [[Darby Stonefeather]]'s hostility.
+
+> **Form progression:** S16 zurkhwood shelter-cabin → S18 twin rafts (20 HP each) → **S21 longboat (50 hull HP, AC 14).** Each is a larger, more structured expression of the same dimensional-saddlebag trick. Whether the form persists, recharges or improves further is unstated.
+>
+> ⚠️ **"Oryx" vs. "rothe" — a naming rule, not a typo.** Addison distinguishes the words deliberately: *"She's a Rothe, but she's an ancient Rothe, so we're treating her as an oryx"* and *"There's also no Rothe stat block."* Roxy **is** a rothe; she is **run on the oryx stat block** because no rothe stat block exists. Use **"oryx"** for stat-block/mechanics contexts and **"rothe"** for the creature. Do not blanket-correct either word. See [[House Rules & Rulings]].
+
 ---
 
 ## Related
 
+- [[Session 18 — Trust the Whirlpool]]
+- [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[The Bone Teeth]]
+- [[The Sheltered Cove]]
+- [[04-World-Lore/Locations/The Darklake]]
+- [[Stool]]
+- [[Demogorgon]]
+- [[House Rules & Rulings]]
 - [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 08 — The Whirlwind and the Depths]]
 - [[Session 10 — 021526_Echoes_in_the_Feydark]]

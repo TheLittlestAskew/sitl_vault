@@ -1,6 +1,6 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-13
+updated_on: 2026-08-16
 type: pc
 race: Wood Elf
 class: Druid (Circle of Spores, Tasha's)
@@ -8,7 +8,7 @@ affiliation: Party
 status: Alive (Madness Level 1)
 player: Hannah (Kyouya38445)
 first_appearance: "[[Session 01 — Prisoners of the Underdark]]"
-location: En route to Sloobludop (Day 4 of 7, as of S15)
+location: The Darklake — the bone teeth, aboard Roxy's ship-form (S21)
 Character_id: "152970581"
 user_id: "117527745"
 JSON slug / roll_name: amanita-dechampignon
@@ -45,6 +45,10 @@ JSON slug / roll_name: amanita-dechampignon
 - Refers to companions affectionately as "spider dude," "man"
 - First instinct in the elite barracks upon finding her pipe: "Oh man, my pipe. Oh, I missed it so much. I'm gonna smoke everything." (S02)
 - S11: When Psilofyr offered four possible future forms, Amanita's response was characteristically unforced: "I haven't thought about it much. I just kind of went with it... Yeah, I'll go. I'll go do some shit with my friends." No agonizing, no analysis paralysis — just acceptance and loyalty.
+- (S21) **"Amanita hasn't learned caution. It's not part of their makeup"** — Hannah, verbatim, in the closing round-table on recklessness. Addison named Amanita a close second to [[Binks Stonevein]] for most reckless. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Level-up manifests physically and is described with delight** — growing "little mushrooms on their arms… flexing mushrooms," "rooting down into soil," and "becoming more themselves and more fungal." Growth in power reads to Amanita as growth in *identity*, not capability. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Meets loss with blessing rather than grief or rescue.** Farewelled [[Derendil]] — the person she had just proven never existed — with *"be at peace in the mycelial network. Like, see you again someday."* Chose to release him rather than subdue or save him. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Keeps recruiting for [[04-World-Lore/Locations/Neverlight Grove]] even mid-catastrophe** — pitches the trip as a follow-on holiday: "We could meet more mushrooms. You could get to know all the fungi. Be an awesome trip. What do you think?" — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Abilities & Class Features
 
@@ -146,6 +150,11 @@ JSON slug / roll_name: amanita-dechampignon
 - "Oh, you're welcome, man. Like, anytime you want to talk about the secrets of the universe and, and fungus, I'm here for you." — S15, to Blarg [Funny/Defining]
 - "Oh yeah, that's great stuff. You know, if you eat it, your tongue glows." — S15, re: Ormu [Funny]
 - "That's my superpower. I'm psychic and I'm drawn to—" — S15, re: finding another fungal cavern [Funny]
+- "All right, goodbye, Derendil, or whoever you are now. It was awesome knowing you. Like, be at peace in the mycelial network. Like, see you again someday." — S21, farewelling Derendil [Poignant/Defining]
+- "She's a mushroom, dude. She's the awesomest." — S21 [Funny]
+- "Maybe we could find some stuff that'll help us with fiends or whatever because they're cropping up everywhere now, you guys. Did you notice?" — S21 [Funny]
+- "I could take you all to Neverlight Grove after. We just have to skirt the lake around. It'd be cool. We could meet more mushrooms. You could get to know all the fungi. Be an awesome trip. What do you think?" — S21 [Poignant]
+- "Amanita hasn't learned caution. It's not part of their makeup." — S21 (Hannah, verbatim) [Funny/Defining]
 
 ### S16 Key Events ([[Session 16 — Zone of Truth|Session 16]])
 - **Hannah absent** — Amanita DM-voiced/rolled by proxy only.
@@ -159,6 +168,20 @@ JSON slug / roll_name: amanita-dechampignon
 - **Defining combat beat:** used **War Caster** to cast **Thorn Whip** as an opportunity attack (18, +Bless) on the grappling chuul, **hauling it bodily out of the pool** — stripping its drown advantage (DM: "Mortal Kom… are you able to grapple with Thorn Whip?"). Also Chill Touch (15, missed) and Halo of Spores (chuul CON save 15 — necrotic resisted).
 - Looted the lair: **5 gems** (~50 gp each, 2d6 = 5) and the non-metal **kuo-toa scale armor** she can wear.
 - Per the DM's insight exposition, Amanita is consciously learning to **bargain** with [[Sloopidoop]] rather than give everything away. ⚠️ Transcript-only rolls (DDB not queried).
+
+> ⚠️ **Gap — S18, S19 and S20 are not written up on this page.** Those sessions' propagation reached the trackers and the Dashboard but not the PC pages. Notable missing beats include the S18 crocodile grapple on the sea hag and the exhaustion she took from the whirlpool, and S20's mithril war pick cracking the Deep Father altar. Backfill in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- **Took their 5th Druid level** in the opening round, narrating "rooting down into soil" and "becoming more themselves and more fungal," with a fresh crop of "flexing mushrooms" on their arms. **Passive Perception raised 18 → 20** as a DM-granted extra.
+- 🏆 **Rolled the session's single best check — Perception 26** — pulsing out through every spore, fungus and algae mat in the water for a full spherical read of the drop-off, the thermal vents, the growing whirlpools, and, critically, **the tidal wave already building.** The party's entire early warning came from this roll.
+- 🏆 **Insight 21 (advantage) on [[Derendil]] — the session-defining check.** Ruled definitively that he **is and always was a quaggoth** with implanted false memories, shaken loose by [[Demogorgon]]. Then rolled again for a farewell (17 → reroll **18**) and got one moment of clarity out of him: *"All right, goodbye, Derendil, or whoever you are now. It was awesome knowing you. Like, be at peace in the mycelial network. Like, see you again someday."*
+- **Held the party's telepathic link** throughout the escape via rapport spores — the medium through which [[Kit Aluri]] issued the retreat order without speaking, and later showed the party her memory of [[Indigo]].
+- **Held Pass Without Trace** until every party member was inside the radius (group stealth 14–28), then **had the session's worst luck on saves**: failed the tidal-wave Dex save (9 — caught [[Roxy]] on a reroll, took 1 damage), failed the tentacle Str save (9 — flung 30 ft, **7 bludgeoning**, driven 10 ft underwater), and rolled a **4** on the final bone-teeth Dex check. Passed the madness save cleanly at 16.
+- **Investigation 14 (advantage)** on the cove flotsam recovered the salvage that built both vessels — ~6 barrels and crates, food, rope, line, ties, floating O-rings, ship parts, zurkhwood, kelp-like fungus and lichen. **Lost a shield** using it as an improvised oar (party supply 6 → 5). Took the second watch.
+- **Granted [[Darby Stonefeather]] advantage** on the dirty-20 Animal Handling check that turned [[Roxy]] into a longboat.
+- Wants to trade the retconned **strand of pearls** ("these giant jewels I found") at [[04-World-Lore/Locations/Mantol-Derith]], and pitched [[04-World-Lore/Locations/Neverlight Grove]] as the trip after.
+- ✅ **16 DDB archive rolls** cross-referenced. Note: [[Stool]]'s saves were entered on Amanita's account as **custom rolls** — including the natural 20 Strength save — so they appear unattributed in the archive.
 
 ---
 
@@ -181,6 +204,17 @@ JSON slug / roll_name: amanita-dechampignon
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 18 — Trust the Whirlpool]]
+- [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Derendil]]
+- [[Demogorgon]]
+- [[Indigo]]
+- [[04-World-Lore/Locations/The Darklake]]
+- [[The Sheltered Cove]]
+- [[The Bone Teeth]]
+- [[04-World-Lore/Locations/Mantol-Derith]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Stool]]

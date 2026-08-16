@@ -897,3 +897,79 @@ Indigo says water. Jimjar says land. The little cleric says we don't split, and 
 </details>
 
 **
+
+---
+
+## Session 21 — The Shield and the Middle Finger
+
+<details><summary>Third tenday out of Velkynvelve — the fall of Sloobludop, the cove, and the bone teeth of the Darklake</summary>
+
+**THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR**
+
+**Day — third tenday out of [[Velkynvelve]].**
+
+The fog came in ahead of the thing. That's the part I keep coming back to. Not the twin heads, not the tentacles — the fog. It rolled up the canal like it had been sent ahead to soften us.
+
+I counted heads. That's what I do. [[Amanita de'Champignon]] and [[Blarg]] and [[Aeolus]] stacked on top of each other by the shrine. [[Turvy]] with them. [[Topsy]] and [[Darby Stonefeather]] with me. [[Binks Stonevein]] somewhere in the middle, and then two of him, which took a second to sort. [[Derendil]] the farthest out, and [[Roxy]] beside him, and both of them ringed by fish.
+
+My back was to the water. I didn't like that. I still don't.
+
+I told them to move toward the canal. I told [[Aeolus]] to get ready for the dark. I didn't shout it — we've got the spore-speech now, [[Amanita de'Champignon]]'s gift, and it's strange to feel a plan land in six heads at once without opening your mouth. I've spent my whole life controlling what people know. Now they get it whether I hand it over or not. I haven't decided how I feel about that.
+
+[[Binks Stonevein]] prayed. Out loud, in front of everybody, before he did anything else — asked for wit, asked for cleverness, and then his voice came out of three mouths at once, big as a bell, telling a whole dying town which way to run. Some of them ran. That's more than I'd have managed.
+
+[[Derendil]] didn't.
+
+[[Amanita de'Champignon]] got close enough to look at him properly and came back with the thing I think we'd all been walking around for weeks. There was never a prince. There was a quaggoth with somebody else's memories stuffed into him, and when the demon came up out of the lake it shook them loose. He stood in the middle of the dead and swung at anything that moved. [[Amanita de'Champignon]] said goodbye to him. Said *be at peace in the mycelial network*, said *it was awesome knowing you*, and he turned and looked at her for about a heartbeat with something almost like a person behind his eyes, and then he was gone.
+
+I said he'd survive. I said he'd turn up in a few years and either save all of us or kill all of us. I said it fast, the way you say a thing so you don't have to sit in the other thing. We left him raging on a dock in a town that was about to stop existing.
+
+That's two now — him and the town. I'm not counting [[Jimjar]] and the dwarf, because they chose the tunnels and they'll be fine. Probably. [[Jimjar]] said *I guess I'll see you when I see you* and bobbed off into the fog like a man who has never once been where a disaster was.
+
+[[Indigo]] told us to run *into* the wave.
+
+Every instinct I have said no. You don't charge water. But he was standing in a spinning ring of it he'd pulled up out of the canal with his hands, and he was completely certain, and I have fought beside that certainty before. So I told everybody to come, and we came, and the water held us up like a floor, and the wave went under us instead of over us.
+
+Mostly. It picked up [[Amanita de'Champignon]] and [[Turvy]] and drove them under. It threw [[Binks Stonevein]] into a dock hard enough that I heard it from a hundred feet out. Then the second head turned — through the fog, through [[Amanita de'Champignon]]'s spore-cloak, straight at us — and reached, and I have never in my life felt something that big decide to notice me.
+
+We got clear. And then I looked back, because I always look back, and I was counting again, and [[Binks Stonevein]] wasn't with us.
+
+He was at the edge of the mist saying a prayer for a town full of fish-people who'd been kind to him. That's the whole of it. Nobody made him. There was no advantage in it. He just stopped and did it.
+
+So I did something I don't do.
+
+I closed my eyes and I hummed my parents' song and I reached out. Not to anyone in particular — I don't have a god and I don't want one — but I know he's attached to somebody, he's said so a hundred times and I've listened to maybe four of them. So I reached for whoever had their eyes on [[Binks Stonevein]] right then, and I held one picture in my head: a shield in front of him.
+
+Something answered. I went grey around the edges and there was a flash I felt more than saw, and when I came back the others were staring at a shield of light standing between [[Binks Stonevein]] and the demon, humming in a low voice that they said sounded like me.
+
+And then [[Binks Stonevein]] — because he is who he is — made the thing raise its other hand and put up one finger at a demon lord.
+
+The shrine went gold. Whatever else sinks into that lake, that stays.
+
+I don't know what I did. I'm not sure I want it explained. I've been on the outside of every miracle this party's been handed — everybody else got a vision, a gift, a voice in the dark, and I got a nightmare and a doll. This time something reached back, and it wasn't even for me. That feels about right.
+
+We ran an hour up the coast on water that held. Found a cove [[Indigo]] knew, dry and sheltered, one way in. I counted the exits out of habit and there was only the one, and I decided that was fine.
+
+He introduced himself properly then. *Indigo Montoya de Charmed.* Mercenary, from the ocean, hunting a six-fingered not-quite-man who killed his father. [[Amanita de'Champignon]] asked who he was to me and I didn't have words for it, so I let the spores carry the picture instead — him and me in the line together, and the same reach I'd just made for [[Binks Stonevein]], made for him once before. She saw it. She understood it faster than I could have said it.
+
+[[Darby Stonefeather]] doesn't like him. Won't say so out loud, which I respect, and hid it well enough that he bowed and complimented her mount instead of calling her on it. I told her she doesn't want that beef. I meant it kindly. I don't think it landed kindly.
+
+Then it was rope and salvage and mushrooms. [[Amanita de'Champignon]] and [[Darby Stonefeather]] coaxed [[Roxy]] into a boat — an actual boat, hull and all, shields lining the sides like a raiding ship. [[Binks Stonevein]] and [[Blarg]] and [[Indigo]] and I went out for a second hull and patched what we found. [[Darby Stonefeather]]'s mace runs hotter now. She'll figure out what it wants eventually.
+
+We're going to [[Mantol-Derith]]. Ten to fifteen days on the water. [[Binks Stonevein]] wants to warn people, and he's right — a thing like that in the lake is everyone's problem now, not ours. I tried to remember the politics of the place and came up with nothing useful. I was too hollowed out to hold it. [[Binks Stonevein]] remembered everything, because of course he did.
+
+Last thing, before the light: I asked to hold [[Indigo]]'s trident. Then [[Amanita de'Champignon]]'s weapon. Then [[Darby Stonefeather]]'s mace. My sword learns what I hold. Nobody asked me why I wanted three at once. I think that was generous of them.
+
+The bone teeth pulled us in before we were ready for them. Current, then a whirlpool, then rock. [[Binks Stonevein]] went over the side and [[Indigo]] came up out of the water and put him back. We got around the corner.
+
+And there was a hag on a rock, older than the one we saw before, and she looked at me like she'd been waiting.
+
+*It is you. It was fates that brought us back together.*
+
+[[Indigo]] knew her name.
+
+I'm holding three weapons that don't belong to me and I have no idea which one my hands will want in the morning.
+
+</details>
+
+**

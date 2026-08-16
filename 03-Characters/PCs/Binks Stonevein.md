@@ -1,14 +1,15 @@
 ---
 created_on: 2026-05-09
-updated_on: 2026-06-13
+updated_on: 2026-08-16
 type: pc
 race: Deep Gnome (Gnome mechanically)
 class: Cleric (Trickery Domain) / Rogue multiclass
+aliases: [Ormic]
 affiliation: Party
 status: Alive
 player: Matt (MattOli)
 first_appearance: "[[Session 02 — Come Get Your Shit]]"
-location: En route to Sloobludop (Day 4 of 7, as of S15)
+location: The Darklake — the bone teeth, aboard the scavenged rowboat (S21)
 Character_id: "150676476"
 user_id: "107236097"
 JSON slug / roll_name: binks-stonevein
@@ -40,6 +41,9 @@ JSON slug / roll_name: binks-stonevein
 - Absent from S01 (player Matt was not present); formally introduced in S02
 - Long-time Underdark resident
 - Knowledgeable about [[04-World-Lore/Locations/Blingdenstone]] and the wererat community there (S05)
+- (S21) **✅ HIS REAL NAME IS *ORMIC*.** Withheld under Zone of Truth in S16 ("my name's not Binks… I'm not the guy that I named myself after"); Addison states it plainly twice on air in S21 — *"Ormic. Ormic has seen some bad"* (line 279) and *"your friend Binks, who you know is actually named Ormic"* (line 1571). **[[Kit Aluri]] already knew.** Spelling ruled by Taylor 2026-08-16 over the competing *Warmick* rendering in the same transcript; earlier *Ormik* normalized to **Ormic**. Still unanswered: *who* Binks is named after, and why he took the name. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **[[Sloobludop]] is "the second town he held in his heart that has been destroyed."** The kuo-toa there "were nice to me when I was there, they were good to me. They helped me through my travels." The first town is unnamed — `[Unknown/Ambiguous]` — but the phrasing places a prior settlement loss in his history alongside the drow captivity revealed in S14. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) Claims a **personal network of travellers and merchants** across the Underdark who can disseminate a warning fast. Not previously mentioned; the basis for the party's "warn everyone about [[Demogorgon]]" plan. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Personality
 
@@ -48,6 +52,10 @@ JSON slug / roll_name: binks-stonevein
 - Quick decision-maker under pressure
 - Emerging combat identity as the party's ooze slayer — 4 total ooze kills (S06-S08)
 - Deep faith in [[Garl Glittergold]]
+- (S21) **Prays out loud, publicly, before acting** — and asks for exactly the thing his god values: *"Please, give me wit. Give me cleverness, Garl."* His own reasoning: Garl "likes wittiness, trickery, cleverness." Then puts a middle finger on the resulting divine monument. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Self-aware about his own recklessness and unbothered by it** — "I keep doing dumb stuff, but hey, madness doesn't touch me." The table voted him the party's most reckless member; his defence was to escalate: *"reason change challenge two gods and desecrate their shrines. That's nothing."* — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Stops for the dead when there is no advantage in it.** Hung back alone at the mist line to pray for the kuo-toa of a town that was already lost. Nobody asked him to; it cost him the escape window and nearly cost him more. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S21) **Turns grief into resolve rather than despair** — frames the loss of Sloobludop as "revenge for the people because they were nice to me," and immediately converts it into a party objective. — [[Session 21 — The Shield and the Middle Finger|S21]]
 
 ## Abilities & Class Features
 
@@ -142,6 +150,21 @@ JSON slug / roll_name: binks-stonevein
 - "Amanita, the fishermen of the year." — S17 [Banter]
 - "We've been running away from [death] for like two weeks." — S17 [Banter]
 - "Please be a family name. Please be a family name." — S17, on Sloopidoop's name [Funny]
+- "Please, give me wit. Give me cleverness, Garl." — S21 [Poignant/Defining]
+- "Sloobludop is lost. The demon is coming to destroy this place… Please don't hold your ego in place. Your lives are more important. We have to leave. Go." — S21, evacuating the town [Important to Story]
+- "revenge for the people because they were nice to me when I was there, they were good to me. They helped me through. Helped me through my travels" — S21 [Poignant]
+- "this is the second town he held in his heart that has been destroyed" — S21 [Poignant/Defining]
+- "The other hand is holding up a middle finger." — S21, adding to the Garl shrine [Funny/Defining]
+- "but, ah, it's fine." — S21, on the promised consequences [Funny]
+- "Hey, death is always an option." — S21 [Funny]
+- "We went to the Feydark. Then we kind of destroyed a drow outpost from the Feydark. We met a demigod, gave us powers. That's cool. Now we saw the Demogorgon. It's been a crazy week. All right. I just want sleep." — S21 [Funny]
+- "Honestly, the Demogorgon, kind of not the weirdest thing, surprisingly, in the last week." — S21 [Funny]
+- "We need to get to a city like asap. We need to warn people. That's goal number one. We like hey a huge ass Demogorgon is out in the Darklake. We need to warn people." — S21 [Important to Story]
+- "We're avoiding the drow city bad place." — S21 [Funny]
+- "Don't worry, I'm kind of an anchor. Natural one." — S21, going overboard [Funny]
+- "hey, I said I was an anchor, but anchors also sink, so, you know." — S21 [Funny]
+- "So, like, Destruction, like everywhere we go. It's not. Maybe we're the problem. Ever thought about that?" — S21 (Matt, OOC) [Funny]
+- "reason change challenge two gods and desecrate their shrines. That's nothing." — S21, on being voted most reckless [Funny/Defining]
 
 ### S15 Key Events
 - Scouting on foot with Kit at front of marching order.
@@ -169,6 +192,22 @@ JSON slug / roll_name: binks-stonevein
 - **+1 exhaustion** this session (sleepless nights). Remains the party's **lone madness-carrier** (Lolth thread still open).
 - All rolls physical dice — zero DDB entries (pattern continues); transcript-only.
 
+> ⚠️ **Gap — S18, S19 and S20 are not written up on this page.** Those sessions' propagation reached the trackers and the Dashboard but not Binks's page. Notable missing beats include his S18 digital-dice switch (21 DDB rolls, incl. a nat-20 Dex save), his S19 invisibility failing against kuo-toa and two big Persuasions, and his S20 Ceremony/holy-water proposal and one-slot-remaining resource crunch. Backfill from those session notes in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+
+### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
+
+- **Took his 4th Cleric level** in the opening round, mid-catastrophe, plus the **Skill Expert** feat: **expertise in Insight, proficiency in Deception.** Party-wide level 5.
+- **Prayed out loud before doing anything else** — *"Please, give me wit. Give me cleverness, Garl"* — and rolled a combined **Religion + Insight 31** (natural 18, +2 +11). Addison: "You beat a 30, dude." Reward: his **stunt doubles tripled to three**, made **golden, semi-corporeal** (able to interact physically) and **able to speak through him**. Permanent upgrade.
+- **Evacuated an entire town in one action.** Cast **Thaumaturgy** through all three duplicates simultaneously to boom an order in Undercommon across [[Sloobludop]]: *"Sloobludop is lost. The demon is coming to destroy this place… Your lives are more important. We have to leave. Go."* Spellcasting roll **20**, followed by a **26 Persuasion** at advantage. The town started running; [[Ploop]] reinforced it in Undercommon.
+- **Failed the persuasion to keep [[Jimjar]] and [[Hemeth]] with the party** (two DCs, one roll). Both took the overland tunnels northeast and are now separated with no reunion plan.
+- **Ran hot and cold to an extreme degree.** Group Stealth 28 and a dirty-20 History on [[04-World-Lore/Locations/Mantol-Derith]] bracket a **failed Dex save vs. the tidal wave (10 bludgeoning, flung into a dock)**, an **8 on the prayer for the kuo-toa dead**, and a **natural 1** on the bone-teeth Dex check that put him over the side into a whirlpool — *"Don't worry, I'm kind of an anchor."* [[Indigo]] hauled him back aboard (Athletics 20 with advantage). His own summary: *"I keep doing dumb stuff, but hey, madness doesn't touch me."*
+- **Passed the DC 12 madness save at disadvantage, on a 19.** Still the party's lone madness-carrier; count remains 1.
+- 🏆 **The session's centrepiece.** Hung back alone at the mist line to watch Sloobludop die and say a prayer for the kuo-toa — "the second town he held in his heart that has been destroyed" — and **rolled an 8**. Addison had built the moment so the party could assist; [[Kit Aluri]] noticed (Perception 19), refused to name a god, and made a blind reach for "whoever would have its eyes on Binks," clearing **DC 30 with a 36**. **Binks's last remaining duplicate solidified into a golden shrine to [[Garl Glittergold]]** — wearing *Binks's own face, posture and robes* — holding a shield out toward [[Demogorgon]] and **humming in a low sing-song voice that reminded him of Kit.** He immediately added a **raised middle finger** to the statue's other hand. A wave of protection rolled out of the city; Demogorgon visibly paused. Addison: *"There may be consequences for that later."* Binks: *"but, ah, it's fine."*
+- **Dirty-20 History on [[04-World-Lore/Locations/Mantol-Derith]]** delivered the session's whole lore briefing: a centuries-old neutral outpost carved into a pillar from cavern ceiling to waterline with waterfalls, ~140 people, chilly and damp, lit by continual flame and light-reflecting crystals, crushed-crystal plazas, an informal council of four chief negotiators (drow, duergar, human, svirfneblin), surface trade dominated by the [[Zhentarim]] with a "black network" beneath.
+- **Set the party's new objective:** *"We need to get to a city like asap. We need to warn people. That's goal number one."*
+- Scavenged the second hull with [[Blarg]]'s help and guidance (**Survival 18** — "not a pristine success, but it is success"), and cast a **2nd-level Bless** on the four lowest-Strength party members for the bone-teeth crossing.
+- ✅ **27 DDB archive rolls** — he rolled digitally this session. ⚠️ Three of those rows are composite `2d20` **[[Topsy]]/[[Turvy]] proxy saves** on Matt's account, not Binks's own (see [[Roll Statistics S16-S25]]). Note also that the archive logs **Kit's DC-30 Religion check on Binks's account** (`1d20+2 = 21` at 14:25) — the die was Matt's, the action was Kit's.
+
 ---
 
 ## Related
@@ -189,6 +228,18 @@ JSON slug / roll_name: binks-stonevein
 - [[Session 15 — The Long Road to Sloobludop]]
 - [[Session 16 — Zone of Truth]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 18 — Trust the Whirlpool]]
+- [[Session 19 — We Are Split in Two]]
+- [[Session 20 — Not My Circus, Not My Demogorgon]]
+- [[Session 21 — The Shield and the Middle Finger]]
+- [[Demogorgon]]
+- [[Indigo]]
+- [[Ploop]]
+- [[Sloobludop]]
+- [[04-World-Lore/Locations/Mantol-Derith]]
+- [[04-World-Lore/Locations/The Darklake]]
+- [[The Bone Teeth]]
+- [[The Sheltered Cove]]
 - [[04-World-Lore/Locations/Velkynvelve]]
 - [[Oozing Temple]]
 - [[Glabbagool]]
