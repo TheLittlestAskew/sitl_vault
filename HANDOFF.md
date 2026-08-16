@@ -137,7 +137,4 @@ New thread as of 2026-08-01: session notes do not reach rectrixcaedere.com autom
 - **Commit:** `Add Install-SITLTask.cmd: registers the SITL Pipeline Watcher logon task`
 - **Next:** Tayls runs `Install-SITLTask.cmd` from the new location, then starts `start-watcher-hidden.vbs`. Remove the stale old-path task if its name differs from "SITL Pipeline Watcher".
 
-### 2026-06-23 09:37 ET · Claude chat
-- **Changed:** Enabled repo handoff — added this `HANDOFF.md` at root.
-- **Commit:** `docs: enable repo handoff`
-- **Next:** Set by the next real change to the repo.
+> Older entries archived to `handoff-archive/2026-06.md`
