@@ -69,6 +69,12 @@ New thread as of 2026-08-01: session notes do not reach rectrixcaedere.com autom
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-08-16 16:33 ET · Claude Code (S21 Convo 2 — in-flight snapshot)
+- **Changed:** No new work of my own — banked three files Convo 2 had written so far (`Loot Tracker S16-S25.md`, `Profanity Ledger S16-S25.md`, `Quote Board S16-S25.md`, +291 lines) while it was still running as pid 4216. Also completed the log trim back to 15 entries that was deferred at 16:30.
+- **Commit:** `22f596a`
+- **Next:** Wait for Convo 2 to finish, verify its `S21 — automated session sync` commit, then clear `READY_FOR_REVIEW`.
+- **Watch out:** 🛑 **`22f596a` is NOT a completion marker.** It is 3 of Convo 2's ~13 checklist items, snapshotted mid-run purely because the handoff guard flags any dirty tree and cannot distinguish another agent's in-flight work from abandoned work. Convo 2 self-commits the remainder. Judge S21's sync by **Vault Sync Status.md** and Convo 2's own commit, never by this one.
+
 ### 2026-08-16 16:30 ET · Claude Code (S21 — oryx revert + Convo 2 launched)
 - **Changed:** Reverted **S21 L831 both occurrences** back to "oryx stat block" and recorded the campaign's real rule, which is **contextual, not a spelling**: **"oryx" for the stat block/mechanics, "rothe" for the creature.** L1709 and L2723 keep **rothe**. Documented in three places so it can't be re-litigated — a new Continuity Flag in the session note, `_pipeline/S21/spellcheck.md` (row marked RULED-split), and `_pipeline/S21/flags.md` §3 (original ruling struck through but preserved for context). Verified after: `oryx` ×2 (both L831), `rothe` ×2 (L1709, L2723), no `an rothe`, no `a rothe stat`. Then built the Convo 2 prompt from `Workflows/Project/Automation/convo2_propagate.md` and launched it.
 - **Commit:** `3063045`
@@ -163,17 +169,5 @@ New thread as of 2026-08-01: session notes do not reach rectrixcaedere.com autom
 - **Commit:** not committed (content + pipeline artifacts only; publish via `Publish-SITL.cmd` or manual push).
 - **Next:** Taylor runs the DDB sync, then backfill the S20 (and S19) roll cross-reference; then Convo 2 via `_pipeline/S20/handoff.md`.
 - **Watch out:** the Full Roll Log in the S20 note is transcript-only until the sync + backfill happen; Binks/Aeolus roll physical dice, so they'll stay absent from the archive even after syncing.
-
-### 2026-07-22 · Claude Code (pipeline watcher hardening)
-- **Changed:** Applied 6 surgical reliability fixes to the SITL pipeline watcher (`Workflows/scripts/sitl_pipeline_watch.js`, `Approve-SITL.cmd`, `run-watcher.cmd`), from a verified code review: (1) `toast()` now checks `spawnSync`'s `.error`/nonzero `.status` and logs it (spawnSync doesn't throw on nonzero exit); (2) chokidar watcher gets an `.on('error', ...)` handler that logs + notifies, and `run-watcher.cmd` now loops — on node exit it logs a restart line, waits 30s, and relaunches indefinitely; (3) `runClaude()` gets a 20-minute `timeout`/`SIGKILL` so a hung headless Claude call can't wedge the pipeline forever; (4) `state.json` is now written only AFTER Phase A succeeds (was written unconditionally before the failure check, so a failed Phase A still left a stale "awaiting_approval" state); (5) `approve()` sets `process.exitCode = 1` on Phase B / Convo 2 failure and the `--approve` exit call respects it, so `Approve-SITL.cmd` can detect failure via `%errorlevel%` and print a FAILED line pointing at watcher.log instead of always saying "Done"; (6) keyterms-sync and party-sync `spawnSync` calls now log a non-fatal warning on error/nonzero status instead of failing silently.
-- **Commit:** not committed (no git commit made per task scope — code changes only).
-- **Next:** none — these were isolated hardening fixes, no follow-up required. Full diff summary in `sitl-fix-F1.md` (Claude scratchpad, not in-repo).
-- **Watch out:** the restart loop in `run-watcher.cmd` will restart indefinitely on repeated crashes (no backoff cap) — if the watcher is crash-looping, check watcher.log for a tight loop of restart lines before assuming it's healthy.
-
-### 2026-07-22 · Claude Code
-- **Changed:** Applied 5 surgical fixes to the transcription layer from a verified code review. `Workflows/sitl_transcribe.js`: `pollForCompletion` now throws on a non-OK poll response (mirrors `uploadFile`/`submitTranscription`) and times out after 60 minutes instead of polling forever; the dead `API_KEY === "YOUR_API_KEY_HERE"` guard (unreachable since the key falls back to `" "`) now checks `!API_KEY.trim()`; the `# Model:` line's fallback changed from the wrong `"universal-3-pro"` to `"unknown (speech_model missing from API response)"`, plus a console warning if the API returns a model other than the pinned `universal-2`; `# Confidence:` now prints `unknown` instead of `NaN%` when `confidence` isn't a finite number; `keyterms_extra.json` read errors now distinguish missing (silent, as before) from corrupt (console warning, extra keyterms skipped). `Workflows/sitl_keyterms_sync.js`: same missing-vs-corrupt split, but a corrupt file now exits before `writeFileSync` runs, so a bad file is never silently overwritten with a rebuilt list that drops hand-curated terms.
-- **Commit:** not committed — file edits only, per task instructions (no git commit/push).
-- **Next:** dotenv/.env loading for the API key was flagged in review but explicitly deferred pending Tayls' decision — not done here.
-- **Watch out:** none — no behavior change for the happy path; all 5 changes are defensive (errors/edge cases) and `node --check` passed on both files.
 
 > Older entries archived to `handoff-archive/2026-07.md` and `handoff-archive/2026-06.md`
