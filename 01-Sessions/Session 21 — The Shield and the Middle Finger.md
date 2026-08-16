@@ -32,7 +32,7 @@ updated_on: 2026-08-16
 | Start Location | [[Sloobludop]] — the canal district and docks beside the Shrine of the Sea Mother, mid-escape |
 | End Location | [[The Darklake]] — the bone teeth north of a sheltered cove, aboard [[Roxy]]'s ship-form and a scavenged rowboat |
 | Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Aeolus]], [[Blarg]], [[Amanita de'Champignon]], [[Darby Stonefeather]]; companions [[Roxy]], [[Stool]], [[Topsy]], [[Turvy]]; NPC ally [[Indigo]] |
-| Total Rolls Logged | See **Full Roll Log** below — every entry is transcript-confirmed. The D&D Beyond archive could **not** be queried this run (see [[#Archivist Notes]]) |
+| Total Rolls Logged | **87 in the D&D Beyond archive** (queried 2026-08-16), plus transcript-confirmed rolls not captured there — see **Full Roll Log** and its Archive Cross-Reference |
 | Party Level | **Level 5, party-wide.** [[Blarg]] +1 Cleric (2nd); [[Binks Stonevein]] +1 Cleric (4th) + Skill Expert; [[Aeolus]] +1 Warlock + 2 invocations; [[Amanita de'Champignon]] +1 Druid (5th); [[Darby Stonefeather]] +1 Barbarian (5th). [[Kit Aluri]] reached 5 back in S18. |
 | Spelling Checked | Yes |
 | Unusual Circumstances | All six players present, but Sirius ([[Aeolus]]) was ill — hoarse from the start, "my throat is worse" by 03:24, plus internet trouble. Addison twice apologised on air for skipping him. Morning session (~9:07 AM–1:00 PM ET), 233 minutes — the longest logged so far. |
@@ -358,7 +358,7 @@ The bone-teeth crossing cost the fleet its first damage before the voyage proper
 
 ### Full Roll Log
 
-Background-shaded rows (marked ⚔) are combat/initiative-round rolls. **All entries below are transcript-confirmed.** The D&D Beyond archive could not be queried this run — see [[#Archivist Notes]].
+Background-shaded rows (marked ⚔) are combat/initiative-round rolls. **All entries below are transcript-confirmed.** The D&D Beyond archive **has since been queried** (2026-08-16) and its 87 rows are listed in the Archive Cross-Reference immediately after this table.
 
 | Character / NPC | Roll / Check | Result | Context / Outcome |
 |---|---|---|---|
@@ -455,6 +455,123 @@ Background-shaded rows (marked ⚔) are combat/initiative-round rolls. **All ent
 - **[[Aeolus]] rolled almost nothing.** Illness and connection trouble meant Addison twice apologised for skipping him. His only meaningful contributions were a Strength check (16), a d12 encounter roll and the Hope/Fear invocation of [[Echo]].
 
 ---
+
+#### Archive Cross-Reference (D&D Beyond)
+
+Queried 2026-08-16 against `sitl_session_rolls` for `session_date = 2026-08-02`. **87 archived rolls.** These are the raw D&D Beyond entries, listed separately from the narrative log above because the archive records the mechanical roll while the log records what it *did*. Times are ET.
+
+**[[Binks Stonevein]]** — 27 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:01 | custom | roll | 1d8 | **3** |
+| 12:01 | custom | roll | 1d8 | **7** |
+| 12:10 | Perception | check | 1d20+5 | **16** |
+| 12:38 | custom | roll | 1d20 | **18** |
+| 12:52 | custom | roll | 1d20 | **15** |
+| 12:54 | Persuasion | check | 2d20+8 | **26** |
+| 13:12 | History | check | 1d20+2 | **13** |
+| 13:21 | Persuasion | check | 1d20+8 | **10** |
+| 13:38 | Stealth | check | 1d20+9 | **15** |
+| 13:38 | Stealth | check | 1d20+9 | **18** |
+| 13:39 | dex | save | 1d20+3 | **5** |
+| 13:39 | custom | roll | 2d20 | **33** |
+| 13:44 | str | save | 1d20+2 | **22** |
+| 13:44 | custom | roll | 2d20 | **20** |
+| 14:04 | wis | save | 2d20+8 | **19** |
+| 14:05 | custom | roll | 2d20 | **26** |
+| 14:18 | Religion | check | 1d20+2 | **5** |
+| 14:18 | custom | roll | 1d4 | **3** |
+| 14:25 | Religion | check | 1d20+2 | **21** |
+| 14:58 | History | check | 1d20+2 | **20** |
+| 15:22 | Survival | check | 2d20+8 | **16** |
+| 15:22 | custom | roll | 1d4 | **1** |
+| 15:35 | Athletics | check | 1d20+5 | **16** |
+| 15:35 | custom | roll | 1d4 | **1** |
+| 15:39 | dex | check | 1d20+3 | **4** |
+| 15:47 | Athletics | check | 2d20+5 | **20** |
+| 15:49 | dex | check | 1d20+3 | **11** |
+
+**[[Kit Aluri]]** — 18 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 11:49 | History | check | 1d20+2 | **19** |
+| 12:10 | Perception | check | 1d20+4 | **15** |
+| 13:16 | History | check | 1d20+2 | **22** |
+| 13:38 | Stealth | check | 2d20+6 | **22** |
+| 13:39 | dex | save | 1d20+3 | **17** |
+| 13:44 | str | save | 1d20+7 | **10** |
+| 13:44 | custom | roll | 1d10 | **1** |
+| 14:05 | wis | save | 1d20+1 | **10** |
+| 14:05 | custom | roll | 1d10 | **9** |
+| 14:17 | Perception | check | 2d20+4 | **24** |
+| 14:25 | custom | roll | 2d12 | **22** |
+| 14:35 | Insight | check | 1d20+1 | **15** |
+| 15:00 | History | check | 1d20+2 | **7** |
+| 15:22 | custom | roll | 1d20 | **13** |
+| 15:23 | custom | roll | 1d20 | **8** |
+| 15:37 | Athletics | check | 1d20+7 | **20** |
+| 15:39 | dex | check | 1d20+3 | **22** |
+| 15:50 | dex | check | 1d20+3 | **22** |
+
+**[[Amanita de'Champignon]]** — 16 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:10 | Perception | check | 1d20+8 | **26** |
+| 13:05 | Insight | check | 1d20+5 | **21** |
+| 13:06 | Insight | check | 1d20+5 | **13** |
+| 13:38 | Stealth | check | 1d20+1 | **18** |
+| 13:39 | dex | save | 1d20+1 | **9** |
+| 13:42 | dex | save | 1d20+1 | **10** |
+| 13:44 | str | save | 1d20+1 | **9** |
+| 14:04 | wis | save | 1d20+8 | **16** |
+| 14:44 | Investigation | check | 1d20 | **4** |
+| 14:45 | Investigation | check | 2d20 | **14** |
+| 15:37 | Athletics | check | 1d20+1 | **17** |
+| 15:38 | custom | roll | 1d4 | **2** |
+| 15:39 | dex | check | 1d20+1 | **12** |
+| 15:40 | custom | roll | 1d4 | **2** |
+| 15:49 | dex | check | 1d20+1 | **3** |
+| 15:49 | custom | roll | 1d4 | **1** |
+
+**[[Darby Stonefeather]]** — 15 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:10 | PERCEPTION | check | 1d20 | **4** |
+| 13:02 | ANIMAL HANDLING | check | 2d20+3 | **15** |
+| 13:38 | STEALTH | check | 1d20+3 | **7** |
+| 14:04 | wis | check | 1d20 | **13** |
+| 14:18 | PERCEPTION | check | 1d20 | **19** |
+| 14:35 | Deception | check | 1d20-1 | **19** |
+| 15:10 | NATURE | check | 1d20+4 | **15** |
+| 15:12 | ANIMAL HANDLING | check | 2d20+3 | **20** |
+| 15:38 | ATHLETICS | check | 2d20+8 | **28** |
+| 15:38 | ATHLETICS | check | 2d20+8 | **20** |
+| 15:38 | custom | roll | 1d4 | **1** |
+| 15:39 | dex | check | 1d20+3 | **10** |
+| 15:40 | custom | roll | 1d4 | **1** |
+| 15:49 | dex | check | 1d20+3 | **15** |
+| 15:49 | custom | roll | 1d4 | **1** |
+
+**(unattributed)** — 11 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 13:08 | custom | roll | 1d20 | **3** |
+| 13:09 | custom | roll | 1d20 | **8** |
+| 13:40 | custom | roll | 1d20 | **14** |
+| 13:41 | custom | roll | 1d20 | **17** |
+| 13:44 | custom | roll | 1d20 | **5** |
+| 13:44 | custom | roll | 1d20 | **20** |
+| 13:44 | custom | roll | 1d20 | **9** |
+| 14:04 | custom | roll | 1d20 | **5** |
+| 14:04 | custom | roll | 1d20 | **19** |
+| 15:27 | custom | roll | 1d10 | **7** |
+| 15:28 | custom | roll | 1d4 | **1** |
+
 
 ## Quotes & Language
 
@@ -590,11 +707,14 @@ Also considered and rejected: *Or Whoever You Are Now* ([[Amanita de'Champignon]
 
 ### Continuity Flags, Missing Info & Ambiguities
 
-**🛑 Roll archive not queried — hard gap this run.**
-The Supabase MCP tools (`supabase-account2` and `supabase-cutter`) were **permission-blocked** in this non-interactive session; neither `SELECT * FROM sitl_session_rolls WHERE session_date = '2026-08-02'` nor `SELECT MAX(timestamp_iso) FROM sitl_session_rolls` could be executed. **No roll archive cross-reference was performed, and no sync status could be confirmed.** Every entry in the Full Roll Log above is therefore **transcript-only** and unverified against D&D Beyond. Nothing has been fabricated to fill the gap. Two consequences for Convo 2:
-1. The **Total Rolls Logged** metadata field is intentionally left as a pointer to the roll log rather than a number.
-2. `ddb_sessions` registration (Convo 1 Step 7) could **not** be performed. Session 21 is **not yet registered**. This must be run before the character-snapshot system will recognise it.
-Re-run both queries plus the `ddb_sessions` upsert in an interactive session.
+**✅ Roll archive queried and registered — gap closed 2026-08-16.**
+The Supabase MCP tools were permission-blocked during the Convo 1 run, so that pass produced a transcript-only roll log. Both items have since been completed via the vault's own read-only PostgREST route (`_pipeline/S21/query_rolls.js`, `build_rollref.js`) and the idempotent REST upsert (`_pipeline/S21/register_session.js`):
+1. **87 archived rolls** retrieved for `session_date = 2026-08-02` and listed in the Archive Cross-Reference under the Full Roll Log — [[Binks Stonevein]] 27, [[Kit Aluri]] 18, [[Amanita de'Champignon]] 16, [[Darby Stonefeather]] 15, unattributed 11.
+2. **Session 21 is registered** in `ddb_sessions` as **id 22** (`campaign_id` 1, `session_no` 21, title "The Shield and the Middle Finger").
+
+⚠️ **Correction to `flags.md` §6.9 — the session-start clock was inferred wrong.** That flag read line 25's "907am" as a **9:07 AM ET** start, ending ~1:00 PM ET. The archive contradicts it: the first roll is **11:49 AM ET** and the last is **3:50 PM ET**. Addison is evidently on **Pacific time** and was quoting his own clock — which also reconciles the two asides the flag relied on ("around 11 my time" at elapsed 1:42 → 1:31 PM ET = 10:31 AM PT; "It's 12:30" at elapsed 3:28 → 3:17 PM ET = 12:17 PM PT). Actual session window: **≈11:49 AM – 3:50 PM ET**.
+
+⚠️ **[[Binks Stonevein]] has 27 archived rolls**, which contradicts the standing "Matt rolls physical dice" expectation below. Either he used D&D Beyond this session or these are [[Topsy]]/[[Turvy]] rolls on his account. Worth confirming before the physical-dice note is carried into another session.
 
 **Expected physical-dice behaviour (not a gap).** Per `flags.md` §7, [[Binks Stonevein]] (Matt) and [[Aeolus]] (Sirius) consistently roll physical dice; zero DDB archive rows for them is normal. All of their results above should be treated as **physical dice roll**. Additionally, the DM repeatedly audited which rolls came through D&D Beyond versus which were "custom rolls" (lines 1389–1435, 1479–1491) — several Wisdom saves were entered as custom rolls and will not be correctly typed in the archive even once it is queryable. [[Roxy]], [[Stool]], [[Topsy]] and [[Turvy]] rolls are made on [[Darby Stonefeather]]'s, [[Amanita de'Champignon]]'s and [[Binks Stonevein]]'s accounts respectively and must be attributed by transcript, not by the `character` column.
 
