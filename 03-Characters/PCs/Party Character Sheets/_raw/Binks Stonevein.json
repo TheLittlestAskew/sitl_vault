@@ -45,7 +45,7 @@
   "baseHitPoints": 31,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 0,
+  "removedHitPoints": 10,
   "temporaryHitPoints": 0,
   "currentXp": 900,
   "alignmentId": null,
@@ -357,8 +357,8 @@
     "avatarUrl": null,
     "largeAvatarUrl": null,
     "portraitAvatarUrl": "https://www.dndbeyond.com/avatars/9/379/636327459112456155.jpeg?width=1000&height=1000&fit=bounds&quality=95&auto=webp",
-    "detailsBackgroundAvatarUrl": null,
-    "detailsForegroundAvatarUrl": null,
+    "detailsBackgroundAvatarUrl": "https://www.dndbeyond.com/avatars/58165/574/639214701703350342.jpeg",
+    "detailsForegroundAvatarUrl": "https://www.dndbeyond.com/avatars/58165/575/639214701705160376.png",
     "moreDetailsUrl": "/species/18-gnome#DeepGnome",
     "isHomebrew": false,
     "isLegacy": true,
@@ -858,9 +858,9 @@
     "sizeId": 3,
     "creatureTypeId": 11,
     "cardDescription": "Deep gnomes are guarded and suspicious of outsiders, rarely seen by surface-dwellers.",
-    "highlights": null,
+    "highlights": "",
     "mobileCardImageUrl": null,
-    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/54986/852/639072222393898669.png",
+    "desktopCardImageUrl": "https://www.dndbeyond.com/avatars/58165/573/639214701701810358.jpeg",
     "sources": [
       {
         "sourceId": 4,
@@ -1115,7 +1115,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "Medium Armor",
+        "type": "",
         "description": "<p>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -5991,12 +5991,12 @@
   "spellSlots": [
     {
       "level": 1,
-      "used": 0,
+      "used": 1,
       "available": 0
     },
     {
       "level": 2,
-      "used": 1,
+      "used": 2,
       "available": 0
     },
     {
@@ -7255,12 +7255,6 @@
           4643012,
           4643013,
           4643014,
-          5985042,
-          5985043,
-          5985044,
-          5985045,
-          5985046,
-          5985047,
           4496725
         ],
         "tagConstraints": []
@@ -7325,12 +7319,6 @@
           4643012,
           4643013,
           4643014,
-          5985042,
-          5985043,
-          5985044,
-          5985045,
-          5985046,
-          5985047,
           4496720
         ],
         "tagConstraints": []
@@ -9433,42 +9421,6 @@
             "id": 4643014,
             "label": "Shotgun (Push)",
             "description": "<p>Your training with weapons allows you to use the mastery property of Shotguns:</p>\r\n<p><strong><em>Push.</em></strong>&nbsp;If you hit a creature with a Shotgun, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985042,
-            "label": "Blunderbuss (Topple)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Blunderbuss:</p>\r\n<p><strong><em>Topple.</em></strong> If you hit a creature with a Lance, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985043,
-            "label": "Flintlock (Sap)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of the Flintlock:</p>\r\n<p><strong><em>Sap.</em></strong> If you hit a creature with a Flintlock, that creature has Disadvantage on its next attack roll before the start of your next turn.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985044,
-            "label": "Scythe (Cleave)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Scythes:</p>\r\n<p><strong><em>Cleave.</em></strong> If you hit a creature with a melee attack roll using a Scythe, you can make a melee attack roll with the Scythe against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the Scythe’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985045,
-            "label": "Cleaver (Graze)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Cleavers:</p>\r\n<p><strong><em>Graze.</em></strong> If your attack roll with a&nbsp;Cleaver misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the Cleaver, and the damage can be increased only by increasing the ability modifier.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985046,
-            "label": "Cannon (Push)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Cannons:</p>\r\n<p><strong><em>Push.</em></strong> If you hit a creature with Cannon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985047,
-            "label": "Atgeir (Pull)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Atgeir:</p>\r\n<p><strong><em>Pull.</em></strong> If you hit a creature with this weapon, you can pull the creature 5 feet toward yourself if it is Large or smaller. When you do so, you can also move back 5 feet without provoking Opportunity Attacks, and this does not use any of your normal movement speed.</p>",
             "sourceId": null
           },
           {
@@ -13409,113 +13361,6 @@
         {
           "overrideSaveDc": null,
           "limitedUse": null,
-          "id": 21172905,
-          "entityTypeId": 435869154,
-          "definition": {
-            "id": 2619221,
-            "definitionKey": "1118725998:2619221",
-            "name": "Zone of Truth",
-            "level": 2,
-            "school": "Enchantment",
-            "duration": {
-              "durationInterval": 10,
-              "durationUnit": "Minute",
-              "durationType": "Time"
-            },
-            "activation": {
-              "activationTime": 1,
-              "activationType": 1
-            },
-            "range": {
-              "origin": "Ranged",
-              "rangeValue": 60,
-              "aoeType": "Sphere",
-              "aoeValue": 15
-            },
-            "asPartOfWeaponAttack": false,
-            "description": "<p>You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.</p>\r\n<p>An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.</p>",
-            "snippet": "",
-            "concentration": false,
-            "ritual": false,
-            "rangeArea": null,
-            "damageEffect": null,
-            "components": [
-              1,
-              2
-            ],
-            "componentsDescription": "",
-            "saveDcAbilityId": 6,
-            "healing": null,
-            "healingDice": [],
-            "tempHpDice": [],
-            "attackType": null,
-            "canCastAtHigherLevel": false,
-            "isHomebrew": false,
-            "version": null,
-            "sourceId": null,
-            "sourcePageNumber": 343,
-            "requiresSavingThrow": true,
-            "requiresAttackRoll": false,
-            "atHigherLevels": {
-              "higherLevelDefinitions": [],
-              "additionalAttacks": [],
-              "additionalTargets": [],
-              "areaOfEffect": [],
-              "duration": [],
-              "creatures": [],
-              "special": [],
-              "points": [],
-              "range": []
-            },
-            "modifiers": [],
-            "conditions": [],
-            "tags": [
-              "Control"
-            ],
-            "castingTimeDescription": "",
-            "scaleType": null,
-            "sources": [
-              {
-                "sourceId": 145,
-                "pageNumber": 343,
-                "sourceType": 1
-              }
-            ],
-            "spellGroups": [],
-            "isLegacy": false
-          },
-          "definitionId": 0,
-          "prepared": true,
-          "countsAsKnownSpell": true,
-          "usesSpellSlot": true,
-          "castAtLevel": null,
-          "alwaysPrepared": false,
-          "restriction": null,
-          "spellCastingAbilityId": null,
-          "displayAsAttack": null,
-          "additionalDescription": null,
-          "castOnlyAsRitual": false,
-          "ritualCastingType": null,
-          "range": {
-            "origin": "Ranged",
-            "rangeValue": 60,
-            "aoeType": "Sphere",
-            "aoeValue": 15
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "baseLevelAtWill": false,
-          "atWillLimitedUseLevel": null,
-          "isSignatureSpell": null,
-          "componentId": 0,
-          "componentTypeId": 0,
-          "spellListId": null
-        },
-        {
-          "overrideSaveDc": null,
-          "limitedUse": null,
           "id": 21171839,
           "entityTypeId": 435869154,
           "definition": {
@@ -13624,126 +13469,18 @@
         {
           "overrideSaveDc": null,
           "limitedUse": null,
-          "id": 21171649,
+          "id": 21172704,
           "entityTypeId": 435869154,
           "definition": {
-            "id": 2619002,
-            "definitionKey": "1118725998:2619002",
-            "name": "Locate Object",
-            "level": 2,
-            "school": "Divination",
+            "id": 2619181,
+            "definitionKey": "1118725998:2619181",
+            "name": "Inflict Wounds",
+            "level": 1,
+            "school": "Necromancy",
             "duration": {
-              "durationInterval": 10,
-              "durationUnit": "Minute",
-              "durationType": "Concentration"
-            },
-            "activation": {
-              "activationTime": 1,
-              "activationType": 1
-            },
-            "range": {
-              "origin": "Self",
-              "rangeValue": 0,
-              "aoeType": null,
-              "aoeValue": null
-            },
-            "asPartOfWeaponAttack": false,
-            "description": "<p>Describe or name an object that is familiar to you. You sense the direction to the object’s location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.</p>\r\n<p>The spell can locate a specific object known to you if you have seen it up close&mdash;within 30 feet&mdash;at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.</p>\r\n<p>This spell can’t locate an object if any thickness of lead blocks a direct path between you and the object.</p>",
-            "snippet": "",
-            "concentration": true,
-            "ritual": false,
-            "rangeArea": null,
-            "damageEffect": null,
-            "components": [
-              1,
-              2,
-              3
-            ],
-            "componentsDescription": "a forked twig",
-            "saveDcAbilityId": null,
-            "healing": null,
-            "healingDice": [],
-            "tempHpDice": [],
-            "attackType": null,
-            "canCastAtHigherLevel": false,
-            "isHomebrew": false,
-            "version": null,
-            "sourceId": null,
-            "sourcePageNumber": 293,
-            "requiresSavingThrow": false,
-            "requiresAttackRoll": false,
-            "atHigherLevels": {
-              "higherLevelDefinitions": [],
-              "additionalAttacks": [],
-              "additionalTargets": [],
-              "areaOfEffect": [],
-              "duration": [],
-              "creatures": [],
-              "special": [],
-              "points": [],
-              "range": []
-            },
-            "modifiers": [],
-            "conditions": [],
-            "tags": [
-              "Detection"
-            ],
-            "castingTimeDescription": "",
-            "scaleType": null,
-            "sources": [
-              {
-                "sourceId": 145,
-                "pageNumber": 293,
-                "sourceType": 1
-              }
-            ],
-            "spellGroups": [],
-            "isLegacy": false
-          },
-          "definitionId": 0,
-          "prepared": true,
-          "countsAsKnownSpell": true,
-          "usesSpellSlot": true,
-          "castAtLevel": null,
-          "alwaysPrepared": false,
-          "restriction": null,
-          "spellCastingAbilityId": null,
-          "displayAsAttack": null,
-          "additionalDescription": null,
-          "castOnlyAsRitual": false,
-          "ritualCastingType": null,
-          "range": {
-            "origin": "Self",
-            "rangeValue": 0,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "baseLevelAtWill": false,
-          "atWillLimitedUseLevel": null,
-          "isSignatureSpell": null,
-          "componentId": 0,
-          "componentTypeId": 0,
-          "spellListId": null
-        },
-        {
-          "overrideSaveDc": null,
-          "limitedUse": null,
-          "id": 21172610,
-          "entityTypeId": 435869154,
-          "definition": {
-            "id": 2619165,
-            "definitionKey": "1118725998:2619165",
-            "name": "Enhance Ability",
-            "level": 2,
-            "school": "Transmutation",
-            "duration": {
-              "durationInterval": 1,
-              "durationUnit": "Hour",
-              "durationType": "Concentration"
+              "durationInterval": 0,
+              "durationUnit": null,
+              "durationType": "Instantaneous"
             },
             "activation": {
               "activationTime": 1,
@@ -13756,19 +13493,18 @@
               "aoeValue": null
             },
             "asPartOfWeaponAttack": false,
-            "description": "<p>You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.</p>",
+            "description": "<p>A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> The damage increases by 1d10 for each spell slot level above 1.</p>",
             "snippet": "",
-            "concentration": true,
+            "concentration": false,
             "ritual": false,
             "rangeArea": null,
             "damageEffect": null,
             "components": [
               1,
-              2,
-              3
+              2
             ],
-            "componentsDescription": "fur or a feather",
-            "saveDcAbilityId": null,
+            "componentsDescription": "",
+            "saveDcAbilityId": 3,
             "healing": null,
             "healingDice": [],
             "tempHpDice": [],
@@ -13777,19 +13513,11 @@
             "isHomebrew": false,
             "version": null,
             "sourceId": null,
-            "sourcePageNumber": 268,
-            "requiresSavingThrow": false,
+            "sourcePageNumber": 288,
+            "requiresSavingThrow": true,
             "requiresAttackRoll": false,
             "atHigherLevels": {
-              "higherLevelDefinitions": [
-                {
-                  "level": 1,
-                  "typeId": 1,
-                  "dice": null,
-                  "value": 1,
-                  "details": "You can choose a different ability for each target."
-                }
-              ],
+              "higherLevelDefinitions": [],
               "additionalAttacks": [],
               "additionalTargets": [],
               "areaOfEffect": [],
@@ -13802,18 +13530,18 @@
             "modifiers": [
               {
                 "fixedValue": null,
-                "id": "spell_2619165_2142260",
+                "id": "spell_2619181_2142286",
                 "entityId": null,
                 "entityTypeId": null,
-                "type": "advantage",
-                "subType": "constitution-ability-checks",
+                "type": "damage",
+                "subType": "necrotic",
                 "dice": null,
-                "restriction": "Bear's Endurance",
+                "restriction": "",
                 "statId": null,
                 "requiresAttunement": false,
                 "duration": null,
-                "friendlyTypeName": "Advantage",
-                "friendlySubtypeName": "Constitution Ability Checks",
+                "friendlyTypeName": "Damage",
+                "friendlySubtypeName": "Necrotic",
                 "isGranted": false,
                 "bonusTypes": [],
                 "value": null,
@@ -13823,237 +13551,31 @@
                 "componentId": 0,
                 "componentTypeId": 0,
                 "die": {
-                  "diceCount": null,
-                  "diceValue": null,
+                  "diceCount": 2,
+                  "diceValue": 10,
                   "diceMultiplier": null,
                   "fixedValue": null,
-                  "diceString": null
+                  "diceString": "2d10"
                 },
                 "count": 1,
                 "durationUnit": null,
                 "usePrimaryStat": false,
                 "atHigherLevels": {
-                  "higherLevelDefinitions": [],
-                  "additionalAttacks": [],
-                  "additionalTargets": [],
-                  "areaOfEffect": [],
-                  "duration": [],
-                  "creatures": [],
-                  "special": [],
-                  "points": [],
-                  "range": []
-                }
-              },
-              {
-                "fixedValue": null,
-                "id": "spell_2619165_2142261",
-                "entityId": null,
-                "entityTypeId": null,
-                "type": "advantage",
-                "subType": "strength-ability-checks",
-                "dice": null,
-                "restriction": "Bull's Strength",
-                "statId": null,
-                "requiresAttunement": false,
-                "duration": null,
-                "friendlyTypeName": "Advantage",
-                "friendlySubtypeName": "Strength Ability Checks",
-                "isGranted": false,
-                "bonusTypes": [],
-                "value": null,
-                "availableToMulticlass": null,
-                "modifierTypeId": 0,
-                "modifierSubTypeId": 0,
-                "componentId": 0,
-                "componentTypeId": 0,
-                "die": {
-                  "diceCount": null,
-                  "diceValue": null,
-                  "diceMultiplier": null,
-                  "fixedValue": null,
-                  "diceString": null
-                },
-                "count": 1,
-                "durationUnit": null,
-                "usePrimaryStat": false,
-                "atHigherLevels": {
-                  "higherLevelDefinitions": [],
-                  "additionalAttacks": [],
-                  "additionalTargets": [],
-                  "areaOfEffect": [],
-                  "duration": [],
-                  "creatures": [],
-                  "special": [],
-                  "points": [],
-                  "range": []
-                }
-              },
-              {
-                "fixedValue": null,
-                "id": "spell_2619165_2142262",
-                "entityId": null,
-                "entityTypeId": null,
-                "type": "advantage",
-                "subType": "dexterity-ability-checks",
-                "dice": null,
-                "restriction": "Cat's Grace",
-                "statId": null,
-                "requiresAttunement": false,
-                "duration": null,
-                "friendlyTypeName": "Advantage",
-                "friendlySubtypeName": "Dexterity Ability Checks",
-                "isGranted": false,
-                "bonusTypes": [],
-                "value": null,
-                "availableToMulticlass": null,
-                "modifierTypeId": 0,
-                "modifierSubTypeId": 0,
-                "componentId": 0,
-                "componentTypeId": 0,
-                "die": {
-                  "diceCount": null,
-                  "diceValue": null,
-                  "diceMultiplier": null,
-                  "fixedValue": null,
-                  "diceString": null
-                },
-                "count": 1,
-                "durationUnit": null,
-                "usePrimaryStat": false,
-                "atHigherLevels": {
-                  "higherLevelDefinitions": [],
-                  "additionalAttacks": [],
-                  "additionalTargets": [],
-                  "areaOfEffect": [],
-                  "duration": [],
-                  "creatures": [],
-                  "special": [],
-                  "points": [],
-                  "range": []
-                }
-              },
-              {
-                "fixedValue": null,
-                "id": "spell_2619165_2142263",
-                "entityId": null,
-                "entityTypeId": null,
-                "type": "advantage",
-                "subType": "charisma-ability-checks",
-                "dice": null,
-                "restriction": "Eagle's Splendor",
-                "statId": null,
-                "requiresAttunement": false,
-                "duration": null,
-                "friendlyTypeName": "Advantage",
-                "friendlySubtypeName": "Charisma Ability Checks",
-                "isGranted": false,
-                "bonusTypes": [],
-                "value": null,
-                "availableToMulticlass": null,
-                "modifierTypeId": 0,
-                "modifierSubTypeId": 0,
-                "componentId": 0,
-                "componentTypeId": 0,
-                "die": {
-                  "diceCount": null,
-                  "diceValue": null,
-                  "diceMultiplier": null,
-                  "fixedValue": null,
-                  "diceString": null
-                },
-                "count": 1,
-                "durationUnit": null,
-                "usePrimaryStat": false,
-                "atHigherLevels": {
-                  "higherLevelDefinitions": [],
-                  "additionalAttacks": [],
-                  "additionalTargets": [],
-                  "areaOfEffect": [],
-                  "duration": [],
-                  "creatures": [],
-                  "special": [],
-                  "points": [],
-                  "range": []
-                }
-              },
-              {
-                "fixedValue": null,
-                "id": "spell_2619165_2142264",
-                "entityId": null,
-                "entityTypeId": null,
-                "type": "advantage",
-                "subType": "intelligence-ability-checks",
-                "dice": null,
-                "restriction": "Fox's Cunning",
-                "statId": null,
-                "requiresAttunement": false,
-                "duration": null,
-                "friendlyTypeName": "Advantage",
-                "friendlySubtypeName": "Intelligence Ability Checks",
-                "isGranted": false,
-                "bonusTypes": [],
-                "value": null,
-                "availableToMulticlass": null,
-                "modifierTypeId": 0,
-                "modifierSubTypeId": 0,
-                "componentId": 0,
-                "componentTypeId": 0,
-                "die": {
-                  "diceCount": null,
-                  "diceValue": null,
-                  "diceMultiplier": null,
-                  "fixedValue": null,
-                  "diceString": null
-                },
-                "count": 1,
-                "durationUnit": null,
-                "usePrimaryStat": false,
-                "atHigherLevels": {
-                  "higherLevelDefinitions": [],
-                  "additionalAttacks": [],
-                  "additionalTargets": [],
-                  "areaOfEffect": [],
-                  "duration": [],
-                  "creatures": [],
-                  "special": [],
-                  "points": [],
-                  "range": []
-                }
-              },
-              {
-                "fixedValue": null,
-                "id": "spell_2619165_2142265",
-                "entityId": null,
-                "entityTypeId": null,
-                "type": "advantage",
-                "subType": "wisdom-ability-checks",
-                "dice": null,
-                "restriction": "Owl's Wisdom",
-                "statId": null,
-                "requiresAttunement": false,
-                "duration": null,
-                "friendlyTypeName": "Advantage",
-                "friendlySubtypeName": "Wisdom Ability Checks",
-                "isGranted": false,
-                "bonusTypes": [],
-                "value": null,
-                "availableToMulticlass": null,
-                "modifierTypeId": 0,
-                "modifierSubTypeId": 0,
-                "componentId": 0,
-                "componentTypeId": 0,
-                "die": {
-                  "diceCount": null,
-                  "diceValue": null,
-                  "diceMultiplier": null,
-                  "fixedValue": null,
-                  "diceString": null
-                },
-                "count": 1,
-                "durationUnit": null,
-                "usePrimaryStat": false,
-                "atHigherLevels": {
-                  "higherLevelDefinitions": [],
+                  "higherLevelDefinitions": [
+                    {
+                      "level": 1,
+                      "typeId": 15,
+                      "dice": {
+                        "diceCount": 1,
+                        "diceValue": 10,
+                        "diceMultiplier": null,
+                        "fixedValue": 0,
+                        "diceString": "1d10"
+                      },
+                      "value": null,
+                      "details": ""
+                    }
+                  ],
                   "additionalAttacks": [],
                   "additionalTargets": [],
                   "areaOfEffect": [],
@@ -14067,14 +13589,14 @@
             ],
             "conditions": [],
             "tags": [
-              "Buff"
+              "Damage"
             ],
             "castingTimeDescription": "",
             "scaleType": "spellscale",
             "sources": [
               {
                 "sourceId": 145,
-                "pageNumber": 268,
+                "pageNumber": 288,
                 "sourceType": 1
               }
             ],
@@ -14109,6 +13631,279 @@
           "componentId": 0,
           "componentTypeId": 0,
           "spellListId": null
+        },
+        {
+          "overrideSaveDc": null,
+          "limitedUse": null,
+          "id": 21172113,
+          "entityTypeId": 435869154,
+          "definition": {
+            "id": 2619081,
+            "definitionKey": "1118725998:2619081",
+            "name": "Spiritual Weapon",
+            "level": 2,
+            "school": "Evocation",
+            "duration": {
+              "durationInterval": 1,
+              "durationUnit": "Minute",
+              "durationType": "Concentration"
+            },
+            "activation": {
+              "activationTime": 1,
+              "activationType": 3
+            },
+            "range": {
+              "origin": "Ranged",
+              "rangeValue": 60,
+              "aoeType": null,
+              "aoeValue": null
+            },
+            "asPartOfWeaponAttack": false,
+            "description": "<p>You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The force appears within range in a space of your choice, and you can immediately make one melee spell attack against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to 1d8 plus your spellcasting ability modifier.</p>\r\n<p>As a Bonus Action on your later turns, you can move the force up to 20 feet and repeat the attack against a creature within 5 feet of it.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> The damage increases by 1d8 for every slot level above 2.</p>",
+            "snippet": "",
+            "concentration": true,
+            "ritual": false,
+            "rangeArea": null,
+            "damageEffect": null,
+            "components": [
+              1,
+              2
+            ],
+            "componentsDescription": "",
+            "saveDcAbilityId": null,
+            "healing": null,
+            "healingDice": [],
+            "tempHpDice": [],
+            "attackType": 1,
+            "canCastAtHigherLevel": true,
+            "isHomebrew": false,
+            "version": null,
+            "sourceId": null,
+            "sourcePageNumber": 318,
+            "requiresSavingThrow": false,
+            "requiresAttackRoll": true,
+            "atHigherLevels": {
+              "higherLevelDefinitions": [],
+              "additionalAttacks": [],
+              "additionalTargets": [],
+              "areaOfEffect": [],
+              "duration": [],
+              "creatures": [],
+              "special": [],
+              "points": [],
+              "range": []
+            },
+            "modifiers": [
+              {
+                "fixedValue": null,
+                "id": "spell_2619081_2142178",
+                "entityId": null,
+                "entityTypeId": null,
+                "type": "damage",
+                "subType": "force",
+                "dice": null,
+                "restriction": "",
+                "statId": null,
+                "requiresAttunement": false,
+                "duration": null,
+                "friendlyTypeName": "Damage",
+                "friendlySubtypeName": "Force",
+                "isGranted": false,
+                "bonusTypes": [],
+                "value": null,
+                "availableToMulticlass": null,
+                "modifierTypeId": 0,
+                "modifierSubTypeId": 0,
+                "componentId": 0,
+                "componentTypeId": 0,
+                "die": {
+                  "diceCount": 1,
+                  "diceValue": 8,
+                  "diceMultiplier": null,
+                  "fixedValue": null,
+                  "diceString": "1d8"
+                },
+                "count": 1,
+                "durationUnit": null,
+                "usePrimaryStat": true,
+                "atHigherLevels": {
+                  "higherLevelDefinitions": [
+                    {
+                      "level": 1,
+                      "typeId": 15,
+                      "dice": {
+                        "diceCount": 1,
+                        "diceValue": 8,
+                        "diceMultiplier": null,
+                        "fixedValue": 0,
+                        "diceString": "1d8"
+                      },
+                      "value": null,
+                      "details": ""
+                    }
+                  ],
+                  "additionalAttacks": [],
+                  "additionalTargets": [],
+                  "areaOfEffect": [],
+                  "duration": [],
+                  "creatures": [],
+                  "special": [],
+                  "points": [],
+                  "range": []
+                }
+              }
+            ],
+            "conditions": [],
+            "tags": [
+              "Damage"
+            ],
+            "castingTimeDescription": "",
+            "scaleType": "spellscale",
+            "sources": [
+              {
+                "sourceId": 145,
+                "pageNumber": 318,
+                "sourceType": 1
+              }
+            ],
+            "spellGroups": [],
+            "isLegacy": false
+          },
+          "definitionId": 0,
+          "prepared": true,
+          "countsAsKnownSpell": true,
+          "usesSpellSlot": true,
+          "castAtLevel": null,
+          "alwaysPrepared": false,
+          "restriction": null,
+          "spellCastingAbilityId": null,
+          "displayAsAttack": null,
+          "additionalDescription": null,
+          "castOnlyAsRitual": false,
+          "ritualCastingType": null,
+          "range": {
+            "origin": "Ranged",
+            "rangeValue": 60,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 3
+          },
+          "baseLevelAtWill": false,
+          "atWillLimitedUseLevel": null,
+          "isSignatureSpell": null,
+          "componentId": 0,
+          "componentTypeId": 0,
+          "spellListId": null
+        },
+        {
+          "overrideSaveDc": null,
+          "limitedUse": null,
+          "id": 21172905,
+          "entityTypeId": 435869154,
+          "definition": {
+            "id": 2619221,
+            "definitionKey": "1118725998:2619221",
+            "name": "Zone of Truth",
+            "level": 2,
+            "school": "Enchantment",
+            "duration": {
+              "durationInterval": 10,
+              "durationUnit": "Minute",
+              "durationType": "Time"
+            },
+            "activation": {
+              "activationTime": 1,
+              "activationType": 1
+            },
+            "range": {
+              "origin": "Ranged",
+              "rangeValue": 60,
+              "aoeType": "Sphere",
+              "aoeValue": 15
+            },
+            "asPartOfWeaponAttack": false,
+            "description": "<p>You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.</p>\r\n<p>An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.</p>",
+            "snippet": "",
+            "concentration": false,
+            "ritual": false,
+            "rangeArea": null,
+            "damageEffect": null,
+            "components": [
+              1,
+              2
+            ],
+            "componentsDescription": "",
+            "saveDcAbilityId": 6,
+            "healing": null,
+            "healingDice": [],
+            "tempHpDice": [],
+            "attackType": null,
+            "canCastAtHigherLevel": false,
+            "isHomebrew": false,
+            "version": null,
+            "sourceId": null,
+            "sourcePageNumber": 343,
+            "requiresSavingThrow": true,
+            "requiresAttackRoll": false,
+            "atHigherLevels": {
+              "higherLevelDefinitions": [],
+              "additionalAttacks": [],
+              "additionalTargets": [],
+              "areaOfEffect": [],
+              "duration": [],
+              "creatures": [],
+              "special": [],
+              "points": [],
+              "range": []
+            },
+            "modifiers": [],
+            "conditions": [],
+            "tags": [
+              "Control"
+            ],
+            "castingTimeDescription": "",
+            "scaleType": null,
+            "sources": [
+              {
+                "sourceId": 145,
+                "pageNumber": 343,
+                "sourceType": 1
+              }
+            ],
+            "spellGroups": [],
+            "isLegacy": false
+          },
+          "definitionId": 0,
+          "prepared": true,
+          "countsAsKnownSpell": true,
+          "usesSpellSlot": true,
+          "castAtLevel": null,
+          "alwaysPrepared": false,
+          "restriction": null,
+          "spellCastingAbilityId": null,
+          "displayAsAttack": null,
+          "additionalDescription": null,
+          "castOnlyAsRitual": false,
+          "ritualCastingType": null,
+          "range": {
+            "origin": "Ranged",
+            "rangeValue": 60,
+            "aoeType": "Sphere",
+            "aoeValue": 15
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "baseLevelAtWill": false,
+          "atWillLimitedUseLevel": null,
+          "isSignatureSpell": null,
+          "componentId": 0,
+          "componentTypeId": 0,
+          "spellListId": null
         }
       ]
     },
@@ -14118,7 +13913,26 @@
       "spells": []
     }
   ],
-  "customItems": [],
+  "customItems": [
+    {
+      "id": 36347857,
+      "name": "string of pearls",
+      "description": null,
+      "weight": null,
+      "cost": 1000,
+      "quantity": 1,
+      "notes": null
+    },
+    {
+      "id": 36347937,
+      "name": "gold braclets",
+      "description": null,
+      "weight": null,
+      "cost": 25,
+      "quantity": 3,
+      "notes": null
+    }
+  ],
   "campaign": {
     "id": 6907990,
     "name": "Sky is the Limit",
@@ -14199,8 +14013,8 @@
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-08-02T19:35:30.223Z",
-  "providedFrom": "cache",
+  "dateModified": "2026-08-16T19:12:18.359Z",
+  "providedFrom": "storage",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,

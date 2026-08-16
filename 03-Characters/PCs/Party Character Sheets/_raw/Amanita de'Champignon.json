@@ -45,7 +45,7 @@
   "baseHitPoints": 28,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 0,
+  "removedHitPoints": 5,
   "temporaryHitPoints": 0,
   "currentXp": 900,
   "alignmentId": 6,
@@ -907,98 +907,6 @@
       "originDefinitionKey": null
     },
     {
-      "id": 1033350185,
-      "entityTypeId": 1439493548,
-      "definition": {
-        "id": 6,
-        "baseTypeId": 701257905,
-        "entityTypeId": 701257905,
-        "definitionKey": "701257905:6",
-        "canEquip": true,
-        "magic": false,
-        "name": "Scale Mail",
-        "snippet": null,
-        "weight": 45,
-        "weightMultiplier": 1,
-        "capacity": null,
-        "capacityWeight": 0,
-        "type": "",
-        "description": "<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</p>",
-        "canAttune": false,
-        "attunementDescription": null,
-        "rarity": "Common",
-        "isHomebrew": false,
-        "version": null,
-        "sourceId": null,
-        "sourcePageNumber": null,
-        "stackable": false,
-        "bundleSize": 1,
-        "avatarUrl": null,
-        "largeAvatarUrl": null,
-        "filterType": "Armor",
-        "cost": 50,
-        "isPack": false,
-        "tags": [
-          "Warding"
-        ],
-        "grantedModifiers": [],
-        "subType": null,
-        "isConsumable": false,
-        "weaponBehaviors": [],
-        "baseItemId": 6,
-        "baseArmorName": "Scale Mail",
-        "strengthRequirement": null,
-        "armorClass": 14,
-        "stealthCheck": 2,
-        "damage": null,
-        "damageType": null,
-        "fixedDamage": null,
-        "properties": null,
-        "attackType": null,
-        "categoryId": null,
-        "range": null,
-        "longRange": null,
-        "isMonkWeapon": false,
-        "levelInfusionGranted": null,
-        "sources": [
-          {
-            "sourceId": 148,
-            "pageNumber": null,
-            "sourceType": 1
-          },
-          {
-            "sourceId": 1,
-            "pageNumber": null,
-            "sourceType": 2
-          }
-        ],
-        "armorTypeId": 2,
-        "gearTypeId": null,
-        "groupedId": null,
-        "canBeAddedToInventory": true,
-        "isContainer": false,
-        "isCustomItem": false,
-        "isLegacy": false
-      },
-      "definitionId": 0,
-      "definitionTypeId": 0,
-      "displayAsAttack": null,
-      "quantity": 1,
-      "isAttuned": false,
-      "equipped": false,
-      "equippedEntityTypeId": null,
-      "equippedEntityId": null,
-      "chargesUsed": 0,
-      "limitedUse": null,
-      "containerEntityId": 152970581,
-      "containerEntityTypeId": 1581111423,
-      "containerDefinitionKey": "1581111423:152970581",
-      "currency": null,
-      "originEntityTypeId": null,
-      "originEntityId": null,
-      "originDefinitionKey": null
-    },
-    {
       "id": 891723679,
       "entityTypeId": 1439493548,
       "definition": {
@@ -1106,7 +1014,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "",
+        "type": "Light Armor",
         "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -2031,7 +1939,7 @@
           "Consumable"
         ],
         "grantedModifiers": [],
-        "subType": "Potion",
+        "subType": null,
         "isConsumable": true,
         "weaponBehaviors": [],
         "baseItemId": null,
@@ -6258,7 +6166,7 @@
   "spellSlots": [
     {
       "level": 1,
-      "used": 0,
+      "used": 1,
       "available": 0
     },
     {
@@ -6268,7 +6176,7 @@
     },
     {
       "level": 3,
-      "used": 0,
+      "used": 2,
       "available": 0
     },
     {
@@ -7240,198 +7148,6 @@
       {
         "overrideSaveDc": null,
         "limitedUse": null,
-        "id": 5477372,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2618965,
-          "definitionKey": "1118725998:2618965",
-          "name": "Chill Touch",
-          "level": 0,
-          "school": "Necromancy",
-          "duration": {
-            "durationInterval": 0,
-            "durationUnit": null,
-            "durationType": "Instantaneous"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Touch",
-            "rangeValue": null,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can’t regain Hit Points until the end of your next turn.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": false,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1,
-            2
-          ],
-          "componentsDescription": "",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": 1,
-          "canCastAtHigherLevel": true,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 249,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": true,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [
-            {
-              "fixedValue": null,
-              "id": "spell_2618965_2142084",
-              "entityId": null,
-              "entityTypeId": null,
-              "type": "damage",
-              "subType": "necrotic",
-              "dice": null,
-              "restriction": "",
-              "statId": null,
-              "requiresAttunement": false,
-              "duration": null,
-              "friendlyTypeName": "Damage",
-              "friendlySubtypeName": "Necrotic",
-              "isGranted": false,
-              "bonusTypes": [],
-              "value": null,
-              "availableToMulticlass": null,
-              "modifierTypeId": 0,
-              "modifierSubTypeId": 0,
-              "componentId": 0,
-              "componentTypeId": 0,
-              "die": {
-                "diceCount": 1,
-                "diceValue": 10,
-                "diceMultiplier": null,
-                "fixedValue": null,
-                "diceString": "1d10"
-              },
-              "count": 1,
-              "durationUnit": null,
-              "usePrimaryStat": false,
-              "atHigherLevels": {
-                "higherLevelDefinitions": [
-                  {
-                    "level": 5,
-                    "typeId": 15,
-                    "dice": {
-                      "diceCount": 2,
-                      "diceValue": 10,
-                      "diceMultiplier": null,
-                      "fixedValue": 0,
-                      "diceString": "2d10"
-                    },
-                    "value": null,
-                    "details": ""
-                  },
-                  {
-                    "level": 11,
-                    "typeId": 15,
-                    "dice": {
-                      "diceCount": 3,
-                      "diceValue": 10,
-                      "diceMultiplier": null,
-                      "fixedValue": 0,
-                      "diceString": "3d10"
-                    },
-                    "value": null,
-                    "details": ""
-                  },
-                  {
-                    "level": 17,
-                    "typeId": 15,
-                    "dice": {
-                      "diceCount": 4,
-                      "diceValue": 10,
-                      "diceMultiplier": null,
-                      "fixedValue": 0,
-                      "diceString": "4d10"
-                    },
-                    "value": null,
-                    "details": ""
-                  }
-                ],
-                "additionalAttacks": [],
-                "additionalTargets": [],
-                "areaOfEffect": [],
-                "duration": [],
-                "creatures": [],
-                "special": [],
-                "points": [],
-                "range": []
-              }
-            }
-          ],
-          "conditions": [],
-          "tags": [
-            "Damage"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": "characterlevel",
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 249,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": false,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": 5,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": null,
-        "range": {
-          "origin": "Touch",
-          "rangeValue": null,
-          "aoeType": null,
-          "aoeValue": null
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 10292576,
-        "componentTypeId": 12168134,
-        "spellListId": null
-      },
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
         "id": 5477216,
         "entityTypeId": 420821570,
         "definition": {
@@ -7705,6 +7421,198 @@
         "isSignatureSpell": null,
         "componentId": 4496848,
         "componentTypeId": 258900837,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5477372,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2618965,
+          "definitionKey": "1118725998:2618965",
+          "name": "Chill Touch",
+          "level": 0,
+          "school": "Necromancy",
+          "duration": {
+            "durationInterval": 0,
+            "durationUnit": null,
+            "durationType": "Instantaneous"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Touch",
+            "rangeValue": null,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can’t regain Hit Points until the end of your next turn.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": false,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1,
+            2
+          ],
+          "componentsDescription": "",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": 1,
+          "canCastAtHigherLevel": true,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 249,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": true,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [
+            {
+              "fixedValue": null,
+              "id": "spell_2618965_2142084",
+              "entityId": null,
+              "entityTypeId": null,
+              "type": "damage",
+              "subType": "necrotic",
+              "dice": null,
+              "restriction": "",
+              "statId": null,
+              "requiresAttunement": false,
+              "duration": null,
+              "friendlyTypeName": "Damage",
+              "friendlySubtypeName": "Necrotic",
+              "isGranted": false,
+              "bonusTypes": [],
+              "value": null,
+              "availableToMulticlass": null,
+              "modifierTypeId": 0,
+              "modifierSubTypeId": 0,
+              "componentId": 0,
+              "componentTypeId": 0,
+              "die": {
+                "diceCount": 1,
+                "diceValue": 10,
+                "diceMultiplier": null,
+                "fixedValue": null,
+                "diceString": "1d10"
+              },
+              "count": 1,
+              "durationUnit": null,
+              "usePrimaryStat": false,
+              "atHigherLevels": {
+                "higherLevelDefinitions": [
+                  {
+                    "level": 5,
+                    "typeId": 15,
+                    "dice": {
+                      "diceCount": 2,
+                      "diceValue": 10,
+                      "diceMultiplier": null,
+                      "fixedValue": 0,
+                      "diceString": "2d10"
+                    },
+                    "value": null,
+                    "details": ""
+                  },
+                  {
+                    "level": 11,
+                    "typeId": 15,
+                    "dice": {
+                      "diceCount": 3,
+                      "diceValue": 10,
+                      "diceMultiplier": null,
+                      "fixedValue": 0,
+                      "diceString": "3d10"
+                    },
+                    "value": null,
+                    "details": ""
+                  },
+                  {
+                    "level": 17,
+                    "typeId": 15,
+                    "dice": {
+                      "diceCount": 4,
+                      "diceValue": 10,
+                      "diceMultiplier": null,
+                      "fixedValue": 0,
+                      "diceString": "4d10"
+                    },
+                    "value": null,
+                    "details": ""
+                  }
+                ],
+                "additionalAttacks": [],
+                "additionalTargets": [],
+                "areaOfEffect": [],
+                "duration": [],
+                "creatures": [],
+                "special": [],
+                "points": [],
+                "range": []
+              }
+            }
+          ],
+          "conditions": [],
+          "tags": [
+            "Damage"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": "characterlevel",
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 249,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": false,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": 5,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": null,
+        "range": {
+          "origin": "Touch",
+          "rangeValue": null,
+          "aoeType": null,
+          "aoeValue": null
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 10292576,
+        "componentTypeId": 12168134,
         "spellListId": null
       }
     ],
@@ -10287,7 +10195,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 0,
+          "numberUsed": 1,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
           "maxUses": 2,
@@ -10420,94 +10328,6 @@
         "activation": {
           "activationTime": null,
           "activationType": 2
-        },
-        "numberOfTargets": null,
-        "fixedToHit": null,
-        "ammunition": null
-      },
-      {
-        "componentId": 10292577,
-        "componentTypeId": 12168134,
-        "id": "9414319",
-        "entityTypeId": "222216831",
-        "limitedUse": null,
-        "name": "Halo of Spores",
-        "description": "<p>You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal 1d4 necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.</p>",
-        "snippet": "You can use your reaction to deal {{scalevalue}} necrotic damage to one creature you can see when it moves into a space within 10 feet of you or starts its turn there, if it fails a CON saving throw (DC {{savedc:wis}}).",
-        "abilityModifierStatId": null,
-        "onMissDescription": "",
-        "saveFailDescription": "",
-        "saveSuccessDescription": "",
-        "saveStatId": 3,
-        "fixedSaveDc": null,
-        "attackTypeRange": 2,
-        "actionType": 3,
-        "attackSubtype": null,
-        "dice": {
-          "diceCount": 1,
-          "diceValue": 4,
-          "diceMultiplier": null,
-          "fixedValue": null,
-          "diceString": "1d4"
-        },
-        "value": null,
-        "damageTypeId": 4,
-        "isMartialArts": false,
-        "isProficient": false,
-        "spellRangeType": null,
-        "displayAsAttack": null,
-        "range": {
-          "range": 10,
-          "longRange": null,
-          "aoeType": null,
-          "aoeSize": null,
-          "hasAoeSpecialDescription": false,
-          "minimumRange": null
-        },
-        "activation": {
-          "activationTime": null,
-          "activationType": 4
-        },
-        "numberOfTargets": null,
-        "fixedToHit": null,
-        "ammunition": null
-      },
-      {
-        "componentId": 10292578,
-        "componentTypeId": 12168134,
-        "id": "9414320",
-        "entityTypeId": "222216831",
-        "limitedUse": null,
-        "name": "Symbiotic Entity",
-        "description": "",
-        "snippet": "You can use Wild Shape to awaken the spores that infuse you to gain {{(classlevel*4)#signed}} temp HP, roll double damage dice for your Halo of Spores damage, and deal 1d6 additional necrotic damage when you hit with a melee weapon attack. These all last for 10 minutes, or until you lose all these temporary hit points, or until you use your Wild Shape again.",
-        "abilityModifierStatId": null,
-        "onMissDescription": "",
-        "saveFailDescription": "",
-        "saveSuccessDescription": "",
-        "saveStatId": null,
-        "fixedSaveDc": null,
-        "attackTypeRange": null,
-        "actionType": 3,
-        "attackSubtype": null,
-        "dice": null,
-        "value": null,
-        "damageTypeId": null,
-        "isMartialArts": false,
-        "isProficient": false,
-        "spellRangeType": null,
-        "displayAsAttack": null,
-        "range": {
-          "range": null,
-          "longRange": null,
-          "aoeType": null,
-          "aoeSize": null,
-          "hasAoeSpecialDescription": false,
-          "minimumRange": null
-        },
-        "activation": {
-          "activationTime": null,
-          "activationType": 1
         },
         "numberOfTargets": null,
         "fixedToHit": null,
@@ -10795,6 +10615,94 @@
         "activation": {
           "activationTime": null,
           "activationType": 8
+        },
+        "numberOfTargets": null,
+        "fixedToHit": null,
+        "ammunition": null
+      },
+      {
+        "componentId": 10292577,
+        "componentTypeId": 12168134,
+        "id": "9414319",
+        "entityTypeId": "222216831",
+        "limitedUse": null,
+        "name": "Halo of Spores",
+        "description": "<p>You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal 1d4 necrotic damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to 1d6 at 6th level, 1d8 at 10th level, and 1d10 at 14th level.</p>",
+        "snippet": "You can use your reaction to deal {{scalevalue}} necrotic damage to one creature you can see when it moves into a space within 10 feet of you or starts its turn there, if it fails a CON saving throw (DC {{savedc:wis}}).",
+        "abilityModifierStatId": null,
+        "onMissDescription": "",
+        "saveFailDescription": "",
+        "saveSuccessDescription": "",
+        "saveStatId": 3,
+        "fixedSaveDc": null,
+        "attackTypeRange": 2,
+        "actionType": 3,
+        "attackSubtype": null,
+        "dice": {
+          "diceCount": 1,
+          "diceValue": 4,
+          "diceMultiplier": null,
+          "fixedValue": null,
+          "diceString": "1d4"
+        },
+        "value": null,
+        "damageTypeId": 4,
+        "isMartialArts": false,
+        "isProficient": false,
+        "spellRangeType": null,
+        "displayAsAttack": null,
+        "range": {
+          "range": 10,
+          "longRange": null,
+          "aoeType": null,
+          "aoeSize": null,
+          "hasAoeSpecialDescription": false,
+          "minimumRange": null
+        },
+        "activation": {
+          "activationTime": null,
+          "activationType": 4
+        },
+        "numberOfTargets": null,
+        "fixedToHit": null,
+        "ammunition": null
+      },
+      {
+        "componentId": 10292578,
+        "componentTypeId": 12168134,
+        "id": "9414320",
+        "entityTypeId": "222216831",
+        "limitedUse": null,
+        "name": "Symbiotic Entity",
+        "description": "",
+        "snippet": "You can use Wild Shape to awaken the spores that infuse you to gain {{(classlevel*4)#signed}} temp HP, roll double damage dice for your Halo of Spores damage, and deal 1d6 additional necrotic damage when you hit with a melee weapon attack. These all last for 10 minutes, or until you lose all these temporary hit points, or until you use your Wild Shape again.",
+        "abilityModifierStatId": null,
+        "onMissDescription": "",
+        "saveFailDescription": "",
+        "saveSuccessDescription": "",
+        "saveStatId": null,
+        "fixedSaveDc": null,
+        "attackTypeRange": null,
+        "actionType": 3,
+        "attackSubtype": null,
+        "dice": null,
+        "value": null,
+        "damageTypeId": null,
+        "isMartialArts": false,
+        "isProficient": false,
+        "spellRangeType": null,
+        "displayAsAttack": null,
+        "range": {
+          "range": null,
+          "longRange": null,
+          "aoeType": null,
+          "aoeSize": null,
+          "hasAoeSpecialDescription": false,
+          "minimumRange": null
+        },
+        "activation": {
+          "activationTime": null,
+          "activationType": 1
         },
         "numberOfTargets": null,
         "fixedToHit": null,
@@ -13821,8 +13729,8 @@
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-08-02T18:49:37.389Z",
-  "providedFrom": "storage",
+  "dateModified": "2026-08-16T19:01:48.906882Z",
+  "providedFrom": "database",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,

@@ -57,8 +57,8 @@
   "baseHitPoints": 28,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 9,
-  "temporaryHitPoints": 2,
+  "removedHitPoints": 10,
+  "temporaryHitPoints": 0,
   "currentXp": 0,
   "alignmentId": 6,
   "lifestyleId": 8,
@@ -842,7 +842,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "Light Armor",
+        "type": "",
         "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -1593,7 +1593,7 @@
           "Social"
         ],
         "grantedModifiers": [],
-        "subType": null,
+        "subType": "Tool",
         "isConsumable": false,
         "weaponBehaviors": [],
         "baseItemId": null,
@@ -4972,7 +4972,7 @@
     },
     {
       "level": 3,
-      "used": 0,
+      "used": 1,
       "available": 0
     },
     {
@@ -5891,794 +5891,6 @@
       }
     ],
     "class": [
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5477237,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2618986,
-          "definitionKey": "1118725998:2618986",
-          "name": "Shocking Grasp",
-          "level": 0,
-          "school": "Evocation",
-          "duration": {
-            "durationInterval": 0,
-            "durationUnit": null,
-            "durationType": "Instantaneous"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Touch",
-            "rangeValue": 0,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can’t make Opportunity Attacks until the start of its next turn.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": false,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1,
-            2
-          ],
-          "componentsDescription": "",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": 1,
-          "canCastAtHigherLevel": true,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 316,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": true,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [
-            {
-              "fixedValue": null,
-              "id": "spell_2618986_2142105",
-              "entityId": null,
-              "entityTypeId": null,
-              "type": "damage",
-              "subType": "lightning",
-              "dice": null,
-              "restriction": "",
-              "statId": null,
-              "requiresAttunement": false,
-              "duration": null,
-              "friendlyTypeName": "Damage",
-              "friendlySubtypeName": "Lightning",
-              "isGranted": false,
-              "bonusTypes": [],
-              "value": null,
-              "availableToMulticlass": null,
-              "modifierTypeId": 0,
-              "modifierSubTypeId": 0,
-              "componentId": 0,
-              "componentTypeId": 0,
-              "die": {
-                "diceCount": 1,
-                "diceValue": 8,
-                "diceMultiplier": null,
-                "fixedValue": null,
-                "diceString": "1d8"
-              },
-              "count": 1,
-              "durationUnit": null,
-              "usePrimaryStat": false,
-              "atHigherLevels": {
-                "higherLevelDefinitions": [
-                  {
-                    "level": 5,
-                    "typeId": 15,
-                    "dice": {
-                      "diceCount": 2,
-                      "diceValue": 8,
-                      "diceMultiplier": null,
-                      "fixedValue": 0,
-                      "diceString": "2d8"
-                    },
-                    "value": null,
-                    "details": ""
-                  },
-                  {
-                    "level": 11,
-                    "typeId": 15,
-                    "dice": {
-                      "diceCount": 3,
-                      "diceValue": 8,
-                      "diceMultiplier": null,
-                      "fixedValue": 0,
-                      "diceString": "3d8"
-                    },
-                    "value": null,
-                    "details": ""
-                  },
-                  {
-                    "level": 17,
-                    "typeId": 15,
-                    "dice": {
-                      "diceCount": 4,
-                      "diceValue": 8,
-                      "diceMultiplier": null,
-                      "fixedValue": 0,
-                      "diceString": "4d8"
-                    },
-                    "value": null,
-                    "details": ""
-                  }
-                ],
-                "additionalAttacks": [],
-                "additionalTargets": [],
-                "areaOfEffect": [],
-                "duration": [],
-                "creatures": [],
-                "special": [],
-                "points": [],
-                "range": []
-              }
-            },
-            {
-              "fixedValue": null,
-              "id": "spell_2618986_2142106",
-              "entityId": null,
-              "entityTypeId": null,
-              "type": "advantage",
-              "subType": "spell-attacks",
-              "dice": null,
-              "restriction": "if the target is wearing metal armor",
-              "statId": null,
-              "requiresAttunement": false,
-              "duration": null,
-              "friendlyTypeName": "Advantage",
-              "friendlySubtypeName": "Spell Attacks",
-              "isGranted": false,
-              "bonusTypes": [],
-              "value": null,
-              "availableToMulticlass": null,
-              "modifierTypeId": 0,
-              "modifierSubTypeId": 0,
-              "componentId": 0,
-              "componentTypeId": 0,
-              "die": {
-                "diceCount": null,
-                "diceValue": null,
-                "diceMultiplier": null,
-                "fixedValue": null,
-                "diceString": null
-              },
-              "count": 1,
-              "durationUnit": null,
-              "usePrimaryStat": false,
-              "atHigherLevels": {
-                "higherLevelDefinitions": [],
-                "additionalAttacks": [],
-                "additionalTargets": [],
-                "areaOfEffect": [],
-                "duration": [],
-                "creatures": [],
-                "special": [],
-                "points": [],
-                "range": []
-              }
-            }
-          ],
-          "conditions": [],
-          "tags": [
-            "Damage"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": "characterlevel",
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 316,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": false,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": null,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": null,
-        "range": {
-          "origin": "Touch",
-          "rangeValue": 0,
-          "aoeType": null,
-          "aoeValue": null
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 4496891,
-        "componentTypeId": 258900837,
-        "spellListId": null
-      },
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5477238,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2619039,
-          "definitionKey": "1118725998:2619039",
-          "name": "Minor Illusion",
-          "level": 0,
-          "school": "Illusion",
-          "duration": {
-            "durationInterval": 1,
-            "durationUnit": "Minute",
-            "durationType": "Time"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Ranged",
-            "rangeValue": 30,
-            "aoeType": "Cube",
-            "aoeValue": 5
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.</p>\r\n<p>If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.</p>\r\n<p><strong><em>Sound.</em></strong> If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.</p>\r\n<p><strong><em>Image.</em></strong> If you create an image of an object&mdash;such as a chair, muddy footprints, or a small chest&mdash;it must be no larger than a 5-foot Cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": false,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            2,
-            3
-          ],
-          "componentsDescription": "a bit of fleece",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": null,
-          "canCastAtHigherLevel": false,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 298,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": false,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [],
-          "conditions": [],
-          "tags": [
-            "Control"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": "characterlevel",
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 298,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": false,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": null,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": null,
-        "range": {
-          "origin": "Ranged",
-          "rangeValue": 30,
-          "aoeType": "Cube",
-          "aoeValue": 5
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 4496891,
-        "componentTypeId": 258900837,
-        "spellListId": null
-      },
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5477239,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2618834,
-          "definitionKey": "1118725998:2618834",
-          "name": "Elementalism",
-          "level": 0,
-          "school": "Transmutation",
-          "duration": {
-            "durationInterval": 0,
-            "durationUnit": null,
-            "durationType": "Instantaneous"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Ranged",
-            "rangeValue": 30,
-            "aoeType": "Cube",
-            "aoeValue": 5
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>You exert control over the elements, creating one of the following effects within range.</p>\r\n<p><em><strong>Beckon Air.</strong></em> You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot Cube. Doors and shutters being held open by someone or something aren’t affected.</p>\r\n<p><em><strong>Beckon Earth.</strong></em> You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.</p>\r\n<p><em><strong>Beckon Fire.</strong></em> You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot Cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke’s scent lingers for 1 minute.</p>\r\n<p><em><strong>Beckon Water.</strong></em> You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot Cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.</p>\r\n<p><em><strong>Sculpt Element.</strong></em> You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour.</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": false,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1,
-            2
-          ],
-          "componentsDescription": "",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": null,
-          "canCastAtHigherLevel": false,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 267,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": false,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [],
-          "conditions": [],
-          "tags": [],
-          "castingTimeDescription": "",
-          "scaleType": null,
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 267,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": false,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": null,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": null,
-        "range": {
-          "origin": "Ranged",
-          "rangeValue": 30,
-          "aoeType": "Cube",
-          "aoeValue": 5
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 4496891,
-        "componentTypeId": 258900837,
-        "spellListId": null
-      },
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5477240,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2618877,
-          "definitionKey": "1118725998:2618877",
-          "name": "Find Familiar",
-          "level": 1,
-          "school": "Conjuration",
-          "duration": {
-            "durationInterval": 0,
-            "durationUnit": null,
-            "durationType": "Instantaneous"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 7
-          },
-          "range": {
-            "origin": "Ranged",
-            "rangeValue": 10,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or <a href=\"https://www.dndbeyond.com/monsters?filter-type=0&amp;filter-type=2&amp;filter-search=&amp;filter-cr-min=1&amp;filter-cr-max=1\">another Beast that has a Challenge Rating of 0</a>. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.</p>\r\n<p><strong><em>Telepathic Connection.</em></strong> While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.</p>\r\n<p>Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a Reaction to deliver the touch when you cast the spell.</p>\r\n<p><strong><em>Combat.</em></strong> The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can’t attack, but it can take other actions as normal.</p>\r\n<p><strong><em>Disappearance of the Familiar.</em></strong> When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.</p>\r\n<p><strong><em>One Familiar Only.</em></strong> You can’t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": true,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1,
-            2,
-            3
-          ],
-          "componentsDescription": "burning incense worth 10+ GP, which the spell consumes",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": null,
-          "canCastAtHigherLevel": false,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 272,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": false,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [],
-          "conditions": [],
-          "tags": [
-            "Summoning"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": null,
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 272,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": true,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": null,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": 1,
-        "range": {
-          "origin": "Ranged",
-          "rangeValue": 10,
-          "aoeType": null,
-          "aoeValue": null
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 7
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 4496891,
-        "componentTypeId": 258900837,
-        "spellListId": null
-      },
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5477241,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2619059,
-          "definitionKey": "1118725998:2619059",
-          "name": "Speak with Animals",
-          "level": 1,
-          "school": "Divination",
-          "duration": {
-            "durationInterval": 10,
-            "durationUnit": "Minute",
-            "durationType": "Time"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Self",
-            "rangeValue": 0,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action’s skill options with them.</p>\r\n<p>Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.</p>",
-          "snippet": "",
-          "concentration": false,
-          "ritual": true,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1,
-            2
-          ],
-          "componentsDescription": "",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": null,
-          "canCastAtHigherLevel": false,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 318,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": false,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [],
-          "conditions": [],
-          "tags": [
-            "Communication",
-            "Social"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": null,
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 318,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": true,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "",
-        "spellCastingAbilityId": null,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": 1,
-        "range": {
-          "origin": "Self",
-          "rangeValue": 0,
-          "aoeType": null,
-          "aoeValue": null
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 4496891,
-        "componentTypeId": 258900837,
-        "spellListId": null
-      },
-      {
-        "overrideSaveDc": null,
-        "limitedUse": null,
-        "id": 5477234,
-        "entityTypeId": 420821570,
-        "definition": {
-          "id": 2619116,
-          "definitionKey": "1118725998:2619116",
-          "name": "Invisibility",
-          "level": 2,
-          "school": "Illusion",
-          "duration": {
-            "durationInterval": 1,
-            "durationUnit": "Hour",
-            "durationType": "Concentration"
-          },
-          "activation": {
-            "activationTime": 1,
-            "activationType": 1
-          },
-          "range": {
-            "origin": "Touch",
-            "rangeValue": 0,
-            "aoeType": null,
-            "aoeValue": null
-          },
-          "asPartOfWeaponAttack": false,
-          "description": "<p>A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> You can target one additional creature for each spell slot level above 2.</p>",
-          "snippet": "",
-          "concentration": true,
-          "ritual": false,
-          "rangeArea": null,
-          "damageEffect": null,
-          "components": [
-            1,
-            2,
-            3
-          ],
-          "componentsDescription": "an eyelash in gum arabic",
-          "saveDcAbilityId": null,
-          "healing": null,
-          "healingDice": [],
-          "tempHpDice": [],
-          "attackType": null,
-          "canCastAtHigherLevel": true,
-          "isHomebrew": false,
-          "version": null,
-          "sourceId": null,
-          "sourcePageNumber": 289,
-          "requiresSavingThrow": false,
-          "requiresAttackRoll": false,
-          "atHigherLevels": {
-            "higherLevelDefinitions": [
-              {
-                "level": 1,
-                "typeId": 1,
-                "dice": null,
-                "value": 1,
-                "details": ""
-              }
-            ],
-            "additionalAttacks": [],
-            "additionalTargets": [],
-            "areaOfEffect": [],
-            "duration": [],
-            "creatures": [],
-            "special": [],
-            "points": [],
-            "range": []
-          },
-          "modifiers": [],
-          "conditions": [
-            {
-              "type": 1,
-              "conditionId": 8,
-              "conditionDuration": 1,
-              "durationUnit": "Hour",
-              "exception": "Until spell ends"
-            }
-          ],
-          "tags": [
-            "Buff"
-          ],
-          "castingTimeDescription": "",
-          "scaleType": "spellscale",
-          "sources": [
-            {
-              "sourceId": 145,
-              "pageNumber": 289,
-              "sourceType": 1
-            }
-          ],
-          "spellGroups": [],
-          "isLegacy": false
-        },
-        "definitionId": 0,
-        "prepared": false,
-        "countsAsKnownSpell": false,
-        "usesSpellSlot": false,
-        "castAtLevel": null,
-        "alwaysPrepared": false,
-        "restriction": "Can only be cast on yourself while you’re in an area of Dim Light or Darkness.",
-        "spellCastingAbilityId": null,
-        "displayAsAttack": null,
-        "additionalDescription": "",
-        "castOnlyAsRitual": false,
-        "ritualCastingType": null,
-        "range": {
-          "origin": "Touch",
-          "rangeValue": 0,
-          "aoeType": null,
-          "aoeValue": null
-        },
-        "activation": {
-          "activationTime": 1,
-          "activationType": 1
-        },
-        "baseLevelAtWill": false,
-        "atWillLimitedUseLevel": null,
-        "isSignatureSpell": null,
-        "componentId": 4496887,
-        "componentTypeId": 258900837,
-        "spellListId": null
-      },
       {
         "overrideSaveDc": null,
         "limitedUse": null,
@@ -7652,7 +6864,7 @@
           "name": null,
           "statModifierUsesId": 6,
           "resetType": 2,
-          "numberUsed": 1,
+          "numberUsed": 2,
           "minNumberConsumed": null,
           "maxNumberConsumed": 0,
           "maxUses": 0,
@@ -7762,6 +6974,794 @@
         "isSignatureSpell": null,
         "componentId": 10292956,
         "componentTypeId": 12168134,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5477237,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2618986,
+          "definitionKey": "1118725998:2618986",
+          "name": "Shocking Grasp",
+          "level": 0,
+          "school": "Evocation",
+          "duration": {
+            "durationInterval": 0,
+            "durationUnit": null,
+            "durationType": "Instantaneous"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Touch",
+            "rangeValue": 0,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can’t make Opportunity Attacks until the start of its next turn.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": false,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1,
+            2
+          ],
+          "componentsDescription": "",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": 1,
+          "canCastAtHigherLevel": true,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 316,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": true,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [
+            {
+              "fixedValue": null,
+              "id": "spell_2618986_2142105",
+              "entityId": null,
+              "entityTypeId": null,
+              "type": "damage",
+              "subType": "lightning",
+              "dice": null,
+              "restriction": "",
+              "statId": null,
+              "requiresAttunement": false,
+              "duration": null,
+              "friendlyTypeName": "Damage",
+              "friendlySubtypeName": "Lightning",
+              "isGranted": false,
+              "bonusTypes": [],
+              "value": null,
+              "availableToMulticlass": null,
+              "modifierTypeId": 0,
+              "modifierSubTypeId": 0,
+              "componentId": 0,
+              "componentTypeId": 0,
+              "die": {
+                "diceCount": 1,
+                "diceValue": 8,
+                "diceMultiplier": null,
+                "fixedValue": null,
+                "diceString": "1d8"
+              },
+              "count": 1,
+              "durationUnit": null,
+              "usePrimaryStat": false,
+              "atHigherLevels": {
+                "higherLevelDefinitions": [
+                  {
+                    "level": 5,
+                    "typeId": 15,
+                    "dice": {
+                      "diceCount": 2,
+                      "diceValue": 8,
+                      "diceMultiplier": null,
+                      "fixedValue": 0,
+                      "diceString": "2d8"
+                    },
+                    "value": null,
+                    "details": ""
+                  },
+                  {
+                    "level": 11,
+                    "typeId": 15,
+                    "dice": {
+                      "diceCount": 3,
+                      "diceValue": 8,
+                      "diceMultiplier": null,
+                      "fixedValue": 0,
+                      "diceString": "3d8"
+                    },
+                    "value": null,
+                    "details": ""
+                  },
+                  {
+                    "level": 17,
+                    "typeId": 15,
+                    "dice": {
+                      "diceCount": 4,
+                      "diceValue": 8,
+                      "diceMultiplier": null,
+                      "fixedValue": 0,
+                      "diceString": "4d8"
+                    },
+                    "value": null,
+                    "details": ""
+                  }
+                ],
+                "additionalAttacks": [],
+                "additionalTargets": [],
+                "areaOfEffect": [],
+                "duration": [],
+                "creatures": [],
+                "special": [],
+                "points": [],
+                "range": []
+              }
+            },
+            {
+              "fixedValue": null,
+              "id": "spell_2618986_2142106",
+              "entityId": null,
+              "entityTypeId": null,
+              "type": "advantage",
+              "subType": "spell-attacks",
+              "dice": null,
+              "restriction": "if the target is wearing metal armor",
+              "statId": null,
+              "requiresAttunement": false,
+              "duration": null,
+              "friendlyTypeName": "Advantage",
+              "friendlySubtypeName": "Spell Attacks",
+              "isGranted": false,
+              "bonusTypes": [],
+              "value": null,
+              "availableToMulticlass": null,
+              "modifierTypeId": 0,
+              "modifierSubTypeId": 0,
+              "componentId": 0,
+              "componentTypeId": 0,
+              "die": {
+                "diceCount": null,
+                "diceValue": null,
+                "diceMultiplier": null,
+                "fixedValue": null,
+                "diceString": null
+              },
+              "count": 1,
+              "durationUnit": null,
+              "usePrimaryStat": false,
+              "atHigherLevels": {
+                "higherLevelDefinitions": [],
+                "additionalAttacks": [],
+                "additionalTargets": [],
+                "areaOfEffect": [],
+                "duration": [],
+                "creatures": [],
+                "special": [],
+                "points": [],
+                "range": []
+              }
+            }
+          ],
+          "conditions": [],
+          "tags": [
+            "Damage"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": "characterlevel",
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 316,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": false,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": null,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": null,
+        "range": {
+          "origin": "Touch",
+          "rangeValue": 0,
+          "aoeType": null,
+          "aoeValue": null
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 4496891,
+        "componentTypeId": 258900837,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5477238,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2619039,
+          "definitionKey": "1118725998:2619039",
+          "name": "Minor Illusion",
+          "level": 0,
+          "school": "Illusion",
+          "duration": {
+            "durationInterval": 1,
+            "durationUnit": "Minute",
+            "durationType": "Time"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Ranged",
+            "rangeValue": 30,
+            "aoeType": "Cube",
+            "aoeValue": 5
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.</p>\r\n<p>If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.</p>\r\n<p><strong><em>Sound.</em></strong> If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.</p>\r\n<p><strong><em>Image.</em></strong> If you create an image of an object&mdash;such as a chair, muddy footprints, or a small chest&mdash;it must be no larger than a 5-foot Cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": false,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            2,
+            3
+          ],
+          "componentsDescription": "a bit of fleece",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": null,
+          "canCastAtHigherLevel": false,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 298,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": false,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [],
+          "conditions": [],
+          "tags": [
+            "Control"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": "characterlevel",
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 298,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": false,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": null,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": null,
+        "range": {
+          "origin": "Ranged",
+          "rangeValue": 30,
+          "aoeType": "Cube",
+          "aoeValue": 5
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 4496891,
+        "componentTypeId": 258900837,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5477239,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2618834,
+          "definitionKey": "1118725998:2618834",
+          "name": "Elementalism",
+          "level": 0,
+          "school": "Transmutation",
+          "duration": {
+            "durationInterval": 0,
+            "durationUnit": null,
+            "durationType": "Instantaneous"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Ranged",
+            "rangeValue": 30,
+            "aoeType": "Cube",
+            "aoeValue": 5
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>You exert control over the elements, creating one of the following effects within range.</p>\r\n<p><em><strong>Beckon Air.</strong></em> You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot Cube. Doors and shutters being held open by someone or something aren’t affected.</p>\r\n<p><em><strong>Beckon Earth.</strong></em> You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.</p>\r\n<p><em><strong>Beckon Fire.</strong></em> You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot Cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke’s scent lingers for 1 minute.</p>\r\n<p><em><strong>Beckon Water.</strong></em> You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot Cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.</p>\r\n<p><em><strong>Sculpt Element.</strong></em> You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour.</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": false,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1,
+            2
+          ],
+          "componentsDescription": "",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": null,
+          "canCastAtHigherLevel": false,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 267,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": false,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [],
+          "conditions": [],
+          "tags": [],
+          "castingTimeDescription": "",
+          "scaleType": null,
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 267,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": false,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": null,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": null,
+        "range": {
+          "origin": "Ranged",
+          "rangeValue": 30,
+          "aoeType": "Cube",
+          "aoeValue": 5
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 4496891,
+        "componentTypeId": 258900837,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5477240,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2618877,
+          "definitionKey": "1118725998:2618877",
+          "name": "Find Familiar",
+          "level": 1,
+          "school": "Conjuration",
+          "duration": {
+            "durationInterval": 0,
+            "durationUnit": null,
+            "durationType": "Instantaneous"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 7
+          },
+          "range": {
+            "origin": "Ranged",
+            "rangeValue": 10,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or <a href=\"https://www.dndbeyond.com/monsters?filter-type=0&amp;filter-type=2&amp;filter-search=&amp;filter-cr-min=1&amp;filter-cr-max=1\">another Beast that has a Challenge Rating of 0</a>. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.</p>\r\n<p><strong><em>Telepathic Connection.</em></strong> While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.</p>\r\n<p>Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a Reaction to deliver the touch when you cast the spell.</p>\r\n<p><strong><em>Combat.</em></strong> The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can’t attack, but it can take other actions as normal.</p>\r\n<p><strong><em>Disappearance of the Familiar.</em></strong> When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.</p>\r\n<p><strong><em>One Familiar Only.</em></strong> You can’t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": true,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1,
+            2,
+            3
+          ],
+          "componentsDescription": "burning incense worth 10+ GP, which the spell consumes",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": null,
+          "canCastAtHigherLevel": false,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 272,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": false,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [],
+          "conditions": [],
+          "tags": [
+            "Summoning"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": null,
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 272,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": true,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": null,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": 1,
+        "range": {
+          "origin": "Ranged",
+          "rangeValue": 10,
+          "aoeType": null,
+          "aoeValue": null
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 7
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 4496891,
+        "componentTypeId": 258900837,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5477241,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2619059,
+          "definitionKey": "1118725998:2619059",
+          "name": "Speak with Animals",
+          "level": 1,
+          "school": "Divination",
+          "duration": {
+            "durationInterval": 10,
+            "durationUnit": "Minute",
+            "durationType": "Time"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Self",
+            "rangeValue": 0,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action’s skill options with them.</p>\r\n<p>Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.</p>",
+          "snippet": "",
+          "concentration": false,
+          "ritual": true,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1,
+            2
+          ],
+          "componentsDescription": "",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": null,
+          "canCastAtHigherLevel": false,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 318,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": false,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [],
+          "conditions": [],
+          "tags": [
+            "Communication",
+            "Social"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": null,
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 318,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": true,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "",
+        "spellCastingAbilityId": null,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": 1,
+        "range": {
+          "origin": "Self",
+          "rangeValue": 0,
+          "aoeType": null,
+          "aoeValue": null
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 4496891,
+        "componentTypeId": 258900837,
+        "spellListId": null
+      },
+      {
+        "overrideSaveDc": null,
+        "limitedUse": null,
+        "id": 5477234,
+        "entityTypeId": 420821570,
+        "definition": {
+          "id": 2619116,
+          "definitionKey": "1118725998:2619116",
+          "name": "Invisibility",
+          "level": 2,
+          "school": "Illusion",
+          "duration": {
+            "durationInterval": 1,
+            "durationUnit": "Hour",
+            "durationType": "Concentration"
+          },
+          "activation": {
+            "activationTime": 1,
+            "activationType": 1
+          },
+          "range": {
+            "origin": "Touch",
+            "rangeValue": 0,
+            "aoeType": null,
+            "aoeValue": null
+          },
+          "asPartOfWeaponAttack": false,
+          "description": "<p>A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> You can target one additional creature for each spell slot level above 2.</p>",
+          "snippet": "",
+          "concentration": true,
+          "ritual": false,
+          "rangeArea": null,
+          "damageEffect": null,
+          "components": [
+            1,
+            2,
+            3
+          ],
+          "componentsDescription": "an eyelash in gum arabic",
+          "saveDcAbilityId": null,
+          "healing": null,
+          "healingDice": [],
+          "tempHpDice": [],
+          "attackType": null,
+          "canCastAtHigherLevel": true,
+          "isHomebrew": false,
+          "version": null,
+          "sourceId": null,
+          "sourcePageNumber": 289,
+          "requiresSavingThrow": false,
+          "requiresAttackRoll": false,
+          "atHigherLevels": {
+            "higherLevelDefinitions": [
+              {
+                "level": 1,
+                "typeId": 1,
+                "dice": null,
+                "value": 1,
+                "details": ""
+              }
+            ],
+            "additionalAttacks": [],
+            "additionalTargets": [],
+            "areaOfEffect": [],
+            "duration": [],
+            "creatures": [],
+            "special": [],
+            "points": [],
+            "range": []
+          },
+          "modifiers": [],
+          "conditions": [
+            {
+              "type": 1,
+              "conditionId": 8,
+              "conditionDuration": 1,
+              "durationUnit": "Hour",
+              "exception": "Until spell ends"
+            }
+          ],
+          "tags": [
+            "Buff"
+          ],
+          "castingTimeDescription": "",
+          "scaleType": "spellscale",
+          "sources": [
+            {
+              "sourceId": 145,
+              "pageNumber": 289,
+              "sourceType": 1
+            }
+          ],
+          "spellGroups": [],
+          "isLegacy": false
+        },
+        "definitionId": 0,
+        "prepared": false,
+        "countsAsKnownSpell": false,
+        "usesSpellSlot": false,
+        "castAtLevel": null,
+        "alwaysPrepared": false,
+        "restriction": "Can only be cast on yourself while you’re in an area of Dim Light or Darkness.",
+        "spellCastingAbilityId": null,
+        "displayAsAttack": null,
+        "additionalDescription": "",
+        "castOnlyAsRitual": false,
+        "ritualCastingType": null,
+        "range": {
+          "origin": "Touch",
+          "rangeValue": 0,
+          "aoeType": null,
+          "aoeValue": null
+        },
+        "activation": {
+          "activationTime": 1,
+          "activationType": 1
+        },
+        "baseLevelAtWill": false,
+        "atWillLimitedUseLevel": null,
+        "isSignatureSpell": null,
+        "componentId": 4496887,
+        "componentTypeId": 258900837,
         "spellListId": null
       }
     ],
@@ -8147,22 +8147,6 @@
         }
       },
       {
-        "componentId": 13856160,
-        "componentTypeId": 1960452172,
-        "definition": {
-          "id": 3746464,
-          "entityTypeId": 306912077,
-          "name": "Charisma",
-          "description": "<p>When you cast Thaumaturgy with this trait, it uses Charisma.</p>",
-          "snippet": "You know the <em>Thaumaturgy</em> cantrip. When you cast it with this trait, the spell uses Charisma.",
-          "activation": null,
-          "sourceId": null,
-          "sourcePageNumber": 197,
-          "creatureRules": [],
-          "spellListIds": []
-        }
-      },
-      {
         "componentId": 13856165,
         "componentTypeId": 1960452172,
         "definition": {
@@ -8171,6 +8155,22 @@
           "name": "Charisma",
           "description": "<p>Your Infernal Legacy spells use Charisma.</p>",
           "snippet": "",
+          "activation": null,
+          "sourceId": null,
+          "sourcePageNumber": 197,
+          "creatureRules": [],
+          "spellListIds": []
+        }
+      },
+      {
+        "componentId": 13856160,
+        "componentTypeId": 1960452172,
+        "definition": {
+          "id": 3746464,
+          "entityTypeId": 306912077,
+          "name": "Charisma",
+          "description": "<p>When you cast Thaumaturgy with this trait, it uses Charisma.</p>",
+          "snippet": "You know the <em>Thaumaturgy</em> cantrip. When you cast it with this trait, the spell uses Charisma.",
           "activation": null,
           "sourceId": null,
           "sourcePageNumber": 197,
@@ -12312,6 +12312,94 @@
         "ammunition": null
       },
       {
+        "componentId": 10292956,
+        "componentTypeId": 12168134,
+        "id": "9414634",
+        "entityTypeId": "222216831",
+        "limitedUse": null,
+        "name": "Misty Step: Refreshing Step",
+        "description": "<p>Your patron grants you the ability to move between the boundaries of the planes. You can cast [spells]Misty Step[/spells] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [rules]Long Rest[/rules].</p>\r\n<p>In addition, whenever you cast that spell, you can choose one of the following additional effects.</p>\r\n<p><strong><em>Refreshing Step.</em></strong> Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains 1d10 [rules]Temporary Hit Points[/rules].</p>\r\n<p><strong><em>Taunting Step.</em></strong> Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [rules]Disadvantage[/rules] on attack rolls against creatures other than you until the start of your next turn.</p>",
+        "snippet": "Immediately after you teleport, you or one creature you can see within 10 ft. gains <strong>1d10</strong> Temp HP.",
+        "abilityModifierStatId": null,
+        "onMissDescription": "",
+        "saveFailDescription": "",
+        "saveSuccessDescription": "",
+        "saveStatId": null,
+        "fixedSaveDc": null,
+        "attackTypeRange": null,
+        "actionType": 3,
+        "attackSubtype": null,
+        "dice": {
+          "diceCount": 1,
+          "diceValue": 10,
+          "diceMultiplier": null,
+          "fixedValue": null,
+          "diceString": "1d10"
+        },
+        "value": null,
+        "damageTypeId": null,
+        "isMartialArts": false,
+        "isProficient": false,
+        "spellRangeType": null,
+        "displayAsAttack": true,
+        "range": {
+          "range": 10,
+          "longRange": null,
+          "aoeType": null,
+          "aoeSize": null,
+          "hasAoeSpecialDescription": false,
+          "minimumRange": null
+        },
+        "activation": {
+          "activationTime": null,
+          "activationType": 3
+        },
+        "numberOfTargets": null,
+        "fixedToHit": null,
+        "ammunition": null
+      },
+      {
+        "componentId": 10292956,
+        "componentTypeId": 12168134,
+        "id": "9414635",
+        "entityTypeId": "222216831",
+        "limitedUse": null,
+        "name": "Misty Step: Taunting Step",
+        "description": "<p>Your patron grants you the ability to move between the boundaries of the planes. You can cast [spells]Misty Step[/spells] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [rules]Long Rest[/rules].</p>\r\n<p>In addition, whenever you cast that spell, you can choose one of the following additional effects.</p>\r\n<p><strong><em>Refreshing Step.</em></strong> Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains 1d10 [rules]Temporary Hit Points[/rules].</p>\r\n<p><strong><em>Taunting Step.</em></strong> Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [rules]Disadvantage[/rules] on attack rolls against creatures other than you until the start of your next turn.</p>",
+        "snippet": "Creatures within 5 ft. of space you left must succeed on a DC {{savedc:cha}} or have Disadvantage on attacks against creatures other than you until the start of your next turn.",
+        "abilityModifierStatId": 6,
+        "onMissDescription": "",
+        "saveFailDescription": "Creatures within 5 ft. of the space you left have Disadvantage on attacks against creatures other than you until the start of your next turn.",
+        "saveSuccessDescription": "",
+        "saveStatId": 5,
+        "fixedSaveDc": null,
+        "attackTypeRange": null,
+        "actionType": 3,
+        "attackSubtype": null,
+        "dice": null,
+        "value": null,
+        "damageTypeId": null,
+        "isMartialArts": false,
+        "isProficient": false,
+        "spellRangeType": null,
+        "displayAsAttack": null,
+        "range": {
+          "range": 5,
+          "longRange": null,
+          "aoeType": null,
+          "aoeSize": null,
+          "hasAoeSpecialDescription": false,
+          "minimumRange": null
+        },
+        "activation": {
+          "activationTime": null,
+          "activationType": 3
+        },
+        "numberOfTargets": null,
+        "fixedToHit": null,
+        "ammunition": null
+      },
+      {
         "componentId": 12373810,
         "componentTypeId": 12168134,
         "id": "11522185",
@@ -12593,94 +12681,6 @@
         "activation": {
           "activationTime": null,
           "activationType": 8
-        },
-        "numberOfTargets": null,
-        "fixedToHit": null,
-        "ammunition": null
-      },
-      {
-        "componentId": 10292956,
-        "componentTypeId": 12168134,
-        "id": "9414634",
-        "entityTypeId": "222216831",
-        "limitedUse": null,
-        "name": "Misty Step: Refreshing Step",
-        "description": "<p>Your patron grants you the ability to move between the boundaries of the planes. You can cast [spells]Misty Step[/spells] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [rules]Long Rest[/rules].</p>\r\n<p>In addition, whenever you cast that spell, you can choose one of the following additional effects.</p>\r\n<p><strong><em>Refreshing Step.</em></strong> Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains 1d10 [rules]Temporary Hit Points[/rules].</p>\r\n<p><strong><em>Taunting Step.</em></strong> Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [rules]Disadvantage[/rules] on attack rolls against creatures other than you until the start of your next turn.</p>",
-        "snippet": "Immediately after you teleport, you or one creature you can see within 10 ft. gains <strong>1d10</strong> Temp HP.",
-        "abilityModifierStatId": null,
-        "onMissDescription": "",
-        "saveFailDescription": "",
-        "saveSuccessDescription": "",
-        "saveStatId": null,
-        "fixedSaveDc": null,
-        "attackTypeRange": null,
-        "actionType": 3,
-        "attackSubtype": null,
-        "dice": {
-          "diceCount": 1,
-          "diceValue": 10,
-          "diceMultiplier": null,
-          "fixedValue": null,
-          "diceString": "1d10"
-        },
-        "value": null,
-        "damageTypeId": null,
-        "isMartialArts": false,
-        "isProficient": false,
-        "spellRangeType": null,
-        "displayAsAttack": true,
-        "range": {
-          "range": 10,
-          "longRange": null,
-          "aoeType": null,
-          "aoeSize": null,
-          "hasAoeSpecialDescription": false,
-          "minimumRange": null
-        },
-        "activation": {
-          "activationTime": null,
-          "activationType": 3
-        },
-        "numberOfTargets": null,
-        "fixedToHit": null,
-        "ammunition": null
-      },
-      {
-        "componentId": 10292956,
-        "componentTypeId": 12168134,
-        "id": "9414635",
-        "entityTypeId": "222216831",
-        "limitedUse": null,
-        "name": "Misty Step: Taunting Step",
-        "description": "<p>Your patron grants you the ability to move between the boundaries of the planes. You can cast [spells]Misty Step[/spells] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [rules]Long Rest[/rules].</p>\r\n<p>In addition, whenever you cast that spell, you can choose one of the following additional effects.</p>\r\n<p><strong><em>Refreshing Step.</em></strong> Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains 1d10 [rules]Temporary Hit Points[/rules].</p>\r\n<p><strong><em>Taunting Step.</em></strong> Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [rules]Disadvantage[/rules] on attack rolls against creatures other than you until the start of your next turn.</p>",
-        "snippet": "Creatures within 5 ft. of space you left must succeed on a DC {{savedc:cha}} or have Disadvantage on attacks against creatures other than you until the start of your next turn.",
-        "abilityModifierStatId": 6,
-        "onMissDescription": "",
-        "saveFailDescription": "Creatures within 5 ft. of the space you left have Disadvantage on attacks against creatures other than you until the start of your next turn.",
-        "saveSuccessDescription": "",
-        "saveStatId": 5,
-        "fixedSaveDc": null,
-        "attackTypeRange": null,
-        "actionType": 3,
-        "attackSubtype": null,
-        "dice": null,
-        "value": null,
-        "damageTypeId": null,
-        "isMartialArts": false,
-        "isProficient": false,
-        "spellRangeType": null,
-        "displayAsAttack": null,
-        "range": {
-          "range": 5,
-          "longRange": null,
-          "aoeType": null,
-          "aoeSize": null,
-          "hasAoeSpecialDescription": false,
-          "minimumRange": null
-        },
-        "activation": {
-          "activationTime": null,
-          "activationType": 3
         },
         "numberOfTargets": null,
         "fixedToHit": null,
@@ -14725,8 +14725,8 @@
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-08-02T16:51:02.966Z",
-  "providedFrom": "storage",
+  "dateModified": "2026-08-16T18:36:15.927833Z",
+  "providedFrom": "database",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,

@@ -41,11 +41,11 @@
   "skin": "Pale gray skin",
   "height": "Very Tall",
   "weight": null,
-  "inspiration": false,
+  "inspiration": true,
   "baseHitPoints": 40,
   "bonusHitPoints": null,
   "overrideHitPoints": null,
-  "removedHitPoints": 0,
+  "removedHitPoints": 19,
   "temporaryHitPoints": 0,
   "currentXp": 0,
   "alignmentId": 1,
@@ -5660,22 +5660,6 @@
   "options": {
     "race": [
       {
-        "componentId": 13856126,
-        "componentTypeId": 1960452172,
-        "definition": {
-          "id": 3727539,
-          "entityTypeId": 306912077,
-          "name": "Stone’s Endurance (Stone Giant)",
-          "description": "<p>When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.</p>",
-          "snippet": "When you take damage, you can take a Reaction to roll <strong>1d12{{modifier:con#signed}}</strong> and reduce the damage by that total.",
-          "activation": null,
-          "sourceId": null,
-          "sourcePageNumber": 192,
-          "creatureRules": [],
-          "spellListIds": []
-        }
-      },
-      {
         "componentId": 13856132,
         "componentTypeId": 1960452172,
         "definition": {
@@ -5687,6 +5671,22 @@
           "activation": null,
           "sourceId": null,
           "sourcePageNumber": null,
+          "creatureRules": [],
+          "spellListIds": []
+        }
+      },
+      {
+        "componentId": 13856126,
+        "componentTypeId": 1960452172,
+        "definition": {
+          "id": 3727539,
+          "entityTypeId": 306912077,
+          "name": "Stone’s Endurance (Stone Giant)",
+          "description": "<p>When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.</p>",
+          "snippet": "When you take damage, you can take a Reaction to roll <strong>1d12{{modifier:con#signed}}</strong> and reduce the damage by that total.",
+          "activation": null,
+          "sourceId": null,
+          "sourcePageNumber": 192,
           "creatureRules": [],
           "spellListIds": []
         }
@@ -6592,12 +6592,6 @@
           4643012,
           4643013,
           4643014,
-          5985042,
-          5985043,
-          5985044,
-          5985045,
-          5985046,
-          5985047,
           4496712
         ],
         "tagConstraints": []
@@ -6661,12 +6655,6 @@
           4643012,
           4643013,
           4643014,
-          5985042,
-          5985043,
-          5985044,
-          5985045,
-          5985046,
-          5985047,
           4496695
         ],
         "tagConstraints": []
@@ -6730,12 +6718,6 @@
           4643012,
           4643013,
           4643014,
-          5985042,
-          5985043,
-          5985044,
-          5985045,
-          5985046,
-          5985047,
           4496702
         ],
         "tagConstraints": []
@@ -7953,42 +7935,6 @@
             "sourceId": null
           },
           {
-            "id": 5985042,
-            "label": "Blunderbuss (Topple)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Blunderbuss:</p>\r\n<p><strong><em>Topple.</em></strong> If you hit a creature with a Lance, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985043,
-            "label": "Flintlock (Sap)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of the Flintlock:</p>\r\n<p><strong><em>Sap.</em></strong> If you hit a creature with a Flintlock, that creature has Disadvantage on its next attack roll before the start of your next turn.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985044,
-            "label": "Scythe (Cleave)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Scythes:</p>\r\n<p><strong><em>Cleave.</em></strong> If you hit a creature with a melee attack roll using a Scythe, you can make a melee attack roll with the Scythe against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the Scythe’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985045,
-            "label": "Cleaver (Graze)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Cleavers:</p>\r\n<p><strong><em>Graze.</em></strong> If your attack roll with a&nbsp;Cleaver misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the Cleaver, and the damage can be increased only by increasing the ability modifier.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985046,
-            "label": "Cannon (Push)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Cannons:</p>\r\n<p><strong><em>Push.</em></strong> If you hit a creature with Cannon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.</p>",
-            "sourceId": null
-          },
-          {
-            "id": 5985047,
-            "label": "Atgeir (Pull)",
-            "description": "<p>Your training with weapons allows you to use the mastery property of Atgeir:</p>\r\n<p><strong><em>Pull.</em></strong> If you hit a creature with this weapon, you can pull the creature 5 feet toward yourself if it is Large or smaller. When you do so, you can also move back 5 feet without provoking Opportunity Attacks, and this does not use any of your normal movement speed.</p>",
-            "sourceId": null
-          },
-          {
             "id": 4496712,
             "label": "Whip (Slow)",
             "description": "<p>Your training with weapons allows you to use the mastery property of Whips:</p><p><em><strong>Slow.</strong></em> If you hit a creature with a Whip and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.</p>",
@@ -8834,7 +8780,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 0,
+          "numberUsed": 1,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
           "maxUses": 0,
@@ -8895,7 +8841,7 @@
           "name": null,
           "statModifierUsesId": null,
           "resetType": 2,
-          "numberUsed": 1,
+          "numberUsed": 2,
           "minNumberConsumed": 1,
           "maxNumberConsumed": 1,
           "maxUses": 3,
@@ -10564,7 +10510,7 @@
   ],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-08-02T19:46:00.31Z",
+  "dateModified": "2026-08-16T18:41:13.807Z",
   "providedFrom": "storage",
   "canEdit": false,
   "status": 0,

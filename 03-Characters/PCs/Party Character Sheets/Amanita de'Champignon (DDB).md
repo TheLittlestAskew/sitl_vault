@@ -3,7 +3,7 @@ type: pc-sheet
 source: dndbeyond
 ddb_character_id: 152970581
 ddb_url: https://www.dndbeyond.com/characters/152970581
-synced: 2026-08-02T20:12:28.574Z
+synced: 2026-08-16T19:16:18.071Z
 generated_by: ddb_party_sync.js
 ---
 
@@ -31,10 +31,9 @@ generated_by: ddb_party_sync.js
 | WIS | 20 | +5 |
 | CHA | 14 | +2 |
 
-## Inventory (23)
+## Inventory (22)
 
 - Enspelled War Pick *(equipped)*
-- Scale Mail
 - Shield
 - Leather *(equipped)*
 - Quarterstaff
