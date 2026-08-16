@@ -52,6 +52,24 @@ JSON slug / roll_name: aeolus
 
 ## Abilities & Class Features
 
+### Eldritch Invocations (all five, as of Warlock 5 / S21)
+
+Recorded 2026-08-16 from Sirius's Features & Traits (PHB-2024 p. 153). The DDB party-sheet sync does **not** capture invocations — its `## Notes / Traits` section comes through empty — so this list is the vault's source of truth for them.
+
+| Invocation | Effect | Since |
+|---|---|---|
+| **Agonizing Blast** *(Eldritch Blast)* | Add Cha. modifier to Eldritch Blast damage rolls | pre-S21 |
+| **Devil's Sight** | See normally in Dim Light and Darkness, magical and non-magical, within 120 ft. | S03 |
+| **Pact of the Tome** | Book of Shadows on a Short/Long Rest; usable as a Spellcasting Focus. Cantrips: **Elementalism, Minor Illusion, Shocking Grasp**. Ritual spells: **Find Familiar, Speak with Animals** | pre-S21 |
+| **Repelling Blast** | On a hit with a chosen attack-roll cantrip, push a Large-or-smaller creature up to 10 ft. straight away | **new S21** |
+| **One with Shadows** | In Dim Light or Darkness, cast *Invisibility* on yourself without expending a slot | **new S21** (DM-granted free) |
+
+⚠️ **Repelling Blast's cantrip is unspecified.** PHB-2024 has it attach to one chosen Warlock cantrip requiring an attack roll; his sheet tags Agonizing Blast `(Eldritch Blast)` but leaves Repelling Blast untagged, and he also has Shocking Grasp. Assume Eldritch Blast; confirm with Sirius before treating it as canon.
+
+⚠️ The S21 transcript renders Repelling Blast as **"the padding blast"** (line 349) — identified from this sheet plus the level-5 invocation count, not from the audio. See `_pipeline/S21/flags.md` §3.5.
+
+### Other features
+
 - **Devil's Sight:** 120ft darkvision that sees through both magical and non-magical darkness. Discovered S03. DM explicitly noted this as a game-changing tactical asset for scouting. First used to spot hidden dwarven door at 120ft range.
 - **Eldritch Blast:** Ranged spell attack. Used S01 (7 force damage vs spider) and S02 (missed quaggoth). Hit Turvy during wererat fight (S04).
 - **Find Familiar:** Cast in S01 shrine. Summoned a bat. Bat retrieved gemstone before being destroyed.
