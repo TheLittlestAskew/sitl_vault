@@ -319,7 +319,7 @@ Key updates:
 
 - ⚠️ **Pt1 recording lost (unrecoverable).** ~1.25+ hours unrecorded. DDB rolls 15:45–16:32 UTC partially reconstruct it: travel checks, then a History + 3×Arcana cluster — almost certainly **the horn's introduction/identification** (Kit nat-20 Arcana 22). **The horn's origin, name, and properties as established in pt1 are [Unknown/Ambiguous] — ask Addison or the table for a recap.**
 - ⚠️ **Where did the horn come from?** No prior vault record of any horn item. First on-record appearance is mid-ritual at pt2 00:00. *Per Taylor (2026-06-07): there will be a recap at the top of the next session (06/07) — expect the horn's origin there.*
-- ⚠️ **Binks's real name** — deliberately withheld. Addison's sign-off "I'm sorry, Binks. *Ormik.*" `[unclear]` may be a name tease or a mishear. Flag for next session.
+- ✅ **Binks's real name — RESOLVED (S21).** Withheld in-scene here, but Addison's sign-off "I'm sorry, Binks. *Ormic.*" was a genuine name tease, not a mishear. Confirmed **Ormic** by Taylor's ruling 2026-08-16; S21 has Addison say "Ormic. Ormic has seen some bad" and tell Kit she "know[s] he is actually named" it. Spelling normalized from the earlier *Ormik* rendering.
 - ⚠️ **"Thanks, Steph"** (Austin, 1:16:50) `[unclear]` — unknown referent.
 - ⚠️ **Aeolus's curse** — "I was cursed recently when I stole—" cuts off. Pre-existing thread; no new detail captured.
 - ⚠️ **Who heard Clementine?** Taylor's "the rest of us understand Clementine" was not clearly ruled on-mic. POV journal hedges accordingly.

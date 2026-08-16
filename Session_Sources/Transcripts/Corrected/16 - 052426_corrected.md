@@ -846,7 +846,7 @@ absent_players: Amanita (Hannah)
 
 [01:14:47] BLARG: Uh, can we take the long rest that we just—
 
-[01:14:50] ADDISON (DM): Yes, you got— you all got— you, you all got your long rest. Yep, you, you were still able to get your long rest. A lot of that action kind of happened. Matthew was able to shrug off madness and still still got their long rest. I'm sorry, Binks. Ormik. [unclear]
+[01:14:50] ADDISON (DM): Yes, you got— you all got— you, you all got your long rest. Yep, you, you were still able to get your long rest. A lot of that action kind of happened. Matthew was able to shrug off madness and still still got their long rest. I'm sorry, Binks. Ormic.
 
 [01:15:08] TAYLOR (OOC): Way to go, Binks.
 

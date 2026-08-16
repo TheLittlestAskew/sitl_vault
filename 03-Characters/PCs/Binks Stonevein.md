@@ -156,7 +156,7 @@ JSON slug / roll_name: binks-stonevein
 - WIS save 16 — **avoided a third madness point** (count stays at 1). Forced Religion check **19**: connection to the Velkynvelve act diminished — "protected from something that would have been very, very bad" — but it went **dormant, not away**. He was seeing through arachnid eyes.
 - Woke Darby: "Get your spider and keep her away from me."
 - **Cast Zone of Truth** (DC 14) on the whole party — and failed his own save. Caught attempting "I am not possessed." Admitted he "might be possessed" by something tied to the Lolth statue.
-- **Revealed his name is not Binks:** "I'm not the guy that I named myself after. I've been the same person through and through." Real name withheld. (DM's wrap-up aside "I'm sorry, Binks. Ormik." `[unclear]` — possible tease.)
+- **Revealed his name is not Binks:** "I'm not the guy that I named myself after. I've been the same person through and through." Real name withheld in-scene. (DM's wrap-up aside "I'm sorry, Binks. Ormic." — confirmed a genuine tease, not a mishear; see the S21 reveal below once that note is written. Spelling normalized from *Ormik* per Taylor's ruling 2026-08-16.)
 - Persuasion 4 vs party Insight; Blarg's 21 + DM exposition: not true possession yet, but via Faerzress dreams he has "made a connection" — Lolth has "gained that attention." Clementine: "she knows him now."
 - **Only Binks knows [[Derendil]] passed his save.** ("Fuck.")
 - Proposed dream journaling: "Don't trust dreams." Defused the confrontation: "I think we've grown closer… team building exercise."
