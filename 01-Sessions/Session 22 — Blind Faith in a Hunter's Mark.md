@@ -32,7 +32,7 @@ updated_on: 2026-08-19
 | Start Location | [[The Mermaid Cove]] — a fog-drowned starlit cove on [[The Darklake]], reached through the shoals and the bone teeth; party aboard [[Roxy]]'s ship-form and a scavenged skiff |
 | End Location | [[The Mermaid Cove]] — the cleared shallows beneath [[Nanny Plunk]]'s rock outcropping, with combat deliberately left unfinished |
 | Party Present | [[Kit Aluri]], [[Binks Stonevein]], [[Aeolus]], [[Blarg]], [[Amanita de'Champignon]], [[Darby Stonefeather]]; companions [[Roxy]], [[Stool]], [[Topsy]], [[Turvy]], [[Glabbagool]]; NPC ally [[Indigo]] |
-| Total Rolls Logged | **11 in the D&D Beyond archive** (queried 2026-08-19) out of **~80 transcript-confirmed rolls**. ⚠️ The archive stops at 16:43:52 UTC — roughly 41 minutes into a 188-minute session. See **Full Roll Log → Archive Cross-Reference**. |
+| Total Rolls Logged | **68 in the D&D Beyond archive** (re-synced and queried 2026-08-19), covering 12:22–15:06 ET, plus transcript-confirmed rolls not captured there. The earlier 11-row partial sync is closed. See **Full Roll Log → Archive Cross-Reference**. |
 | Party Level | **Level 5, party-wide** — confirmed from the D&D Beyond sheets synced 2026-08-16T19:16:18Z: [[Aeolus]] Warlock 5, [[Amanita de'Champignon]] Druid 5, [[Darby Stonefeather]] Barbarian 5, [[Binks Stonevein]] Cleric 4 / Rogue 1, [[Blarg]] Druid 3 / Cleric 2, [[Kit Aluri]] Fighter 4 / Rogue 1. No level-ups this session. |
 | Spelling Checked | Yes |
 | Unusual Circumstances | All six players present. **DM audio failure** at 00:46:44–00:50:42 — Addison could hear no one, called a five-minute break and restarted Discord. Taylor was double-booked with a concurrent campaign and stepped away at ~01:30, returning before her turn. Mid-session break ~01:47–02:01. Addison held the table **40 minutes late** to finish the combat sequence, and still ended mid-initiative. |
@@ -340,6 +340,8 @@ Tactically the encounter was decided by three plays: [[Stool]]'s round-one Misty
 
 ### Full Roll Log
 
+🛑 **The `✅ archive` / `transcript-only` tags in this table are STALE** — they were assigned against the original 11-row pull, before the 2026-08-19 re-sync brought the archive to 68 rolls. Several rows tagged `transcript-only` almost certainly have archive rows now. **The Archive Cross-Reference below this table is authoritative**; these per-row tags are not, until re-derived. See Archivist Notes §1.
+
 Combat rounds are shaded by the **Round** column. `✅ archive` = confirmed in the D&D Beyond archive. `transcript-only` = confirmed in the transcript but absent from the archive. `physical dice roll` = the player rolled physical dice ([[Aeolus]] and [[Blarg]] throughout; [[Binks Stonevein]] intermittently).
 
 | Round | Character/NPC | Roll/Check | Result | Context / Outcome |
@@ -433,11 +435,107 @@ Combat rounds are shaded by the **Round** column. `✅ archive` = confirmed in t
 
 **Archive Cross-Reference.**
 
-- **11 rolls** returned for `session_date = '2026-08-16'` in `sitl_session_rolls`, split [[Binks Stonevein]] 3, [[Kit Aluri]] 2, [[Amanita de'Champignon]] 2, [[Darby Stonefeather]] 2, blank-character 2.
-- The **two blank-character rows are resolvable by `user_id`**: `117527745` (Hannah) rolling a flat d20 = 20 is **[[Stool]]'s initiative**, and `123535156` (Austin) rolling a flat d20 = 18 is **[[Roxy]]'s initiative** (19 with her +1). Both match the transcript exactly.
-- The **2d20 `[13, 2]`** on [[Binks Stonevein]]'s account at 16:43:52 is the [[Topsy]]/[[Turvy]] initiative pair, and Addison's line "who did you roll for first? That was 13 and 2" makes it an **independent confirmation of the Topsy-first ruling**.
-- ⚠️ **Probable partial sync.** `SELECT MAX(timestamp_iso) FROM sitl_session_rolls` returns **2026-08-16T16:43:52.926Z** — a timestamp *inside* this session, roughly **41 minutes into a 188-minute recording**. Nothing later exists in the view for any campaign date. Every roll after that point is transcript-only, including rolls by players demonstrably still using D&D Beyond ([[Kit Aluri]] says "I'm gonna navigate back over to D&D Beyond" at 01:37). **This is flagged as a possible sync gap, not a claim about how anyone rolled. No rolls have been fabricated to fill it.**
-- ⚠️ [[Aeolus]] and [[Blarg]] have **zero** archive rolls even inside the covered window, which is consistent with their known physical-dice habit rather than with the gap. [[Aeolus]] says so explicitly three times.
+- **68 rolls** returned for `session_date = '2026-08-16'` in `sitl_session_rolls`, split [[Kit Aluri]] 20, [[Darby Stonefeather]] 15, [[Amanita de'Champignon]] 13, [[Binks Stonevein]] 11, blank-character 9.
+- ✅ **The earlier partial-sync gap is CLOSED (re-synced 2026-08-19).** The first pull returned only **11** rolls ending at `16:43:52Z`; that timestamp was the moment the D&D Beyond sync was triggered — **while this session was still being played** — so everything rolled afterwards had simply never been captured. It was never a pipeline fault. Coverage now runs **12:22–15:06 ET**. 📌 Sync rolls *after* a session ends, never during.
+- The **blank-character rows are resolvable by `user_id`**: `117527745` (Hannah) rolling a flat d20 = 20 is **[[Stool]]'s initiative**, and `123535156` (Austin) rolling a flat d20 = 18 is **[[Roxy]]'s initiative** (19 with her +1). Both match the transcript exactly.
+- ⭐ The **2d20 `[13, 2]`** on [[Binks Stonevein]]'s account at 16:43:52 is the [[Topsy]]/[[Turvy]] initiative pair, and Addison's line "who did you roll for first? That was 13 and 2" makes it an **independent confirmation of the Topsy-first ruling** on transcript line 413.
+- ⚠️ [[Aeolus]] and [[Blarg]] still have **zero** archive rolls across the full covered window. That is their known physical-dice habit, not a gap — [[Aeolus]] says so explicitly three times. Per the standing S18 correction, never treat a player's DDB absence as expected without checking.
+- ⚠️ Rolls stop at **15:06 ET** while the recording runs to roughly 15:30. The tail is wrap-up and out-of-character discussion with no rolls in the transcript either, so this is not a second gap.
+
+Queried 2026-08-19 against `sitl_session_rolls` for `session_date = 2026-08-16`. **68 archived rolls.** These are the raw D&D Beyond entries, listed separately from the narrative log above because the archive records the mechanical roll while the log records what it *did*. Times are ET.
+
+**[[Kit Aluri]]** — 20 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:23 | History | check | 1d20+2 | **19** |
+| 12:37 | Initiative | check | 1d20+3 | **4** |
+| 13:13 | Perception | check | 1d20+4 | **11** |
+| 13:47 | Shortsword | to hit | 1d20+7 | **19** |
+| 13:48 | str | save | 1d20+7 | **19** |
+| 13:48 | Greatsword, +1* | to hit | 1d20+8 | **21** |
+| 13:49 | Greatsword, +1* | damage | 2d6+5 | **7** |
+| 13:49 | custom | roll | 1d6 | **5** |
+| 14:07 | wis | save | 1d20+1 | **14** |
+| 14:34 | dex | save | 1d20+3 | **12** |
+| 14:37 | Insight | check | 1d20+1 | **10** |
+| 14:46 | Insight | check | 1d20+1 | **6** |
+| 14:49 | Insight | check | 1d20+1 | **2** |
+| 14:52 | Greatsword, +1* | to hit | 1d20+8 | **21** |
+| 14:53 | Greatsword, +1* | damage | 2d6+5 | **10** |
+| 14:53 | custom | roll | 1d6 | **3** |
+| 14:53 | custom | roll | 1d6 | **3** |
+| 14:55 | Maneuver: Trip Attack (Dex.) | damage | 1d8 | **6** |
+| 14:55 | Greatsword, +1* | to hit | 1d20+8 | **20** |
+| 14:57 | custom | roll | 1d100 | **55** |
+
+**[[Darby Stonefeather]]** — 15 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:30 | NATURE | check | 1d20+4 | **8** |
+| 12:36 | INITIATIVE | roll | 1d20+3 | **14** |
+| 13:13 | PERCEPTION | check | 1d20 | **13** |
+| 13:26 | SURVIVAL | check | 1d20+3 | **21** |
+| 14:08 | wis | save | 1d20 | **20** |
+| 14:16 | ANIMAL HANDLING | check | 1d20+3 | **13** |
+| 14:30 | Fire Mace | to hit | 2d20+8 | **19** |
+| 14:30 | Fire Mace | damage | 1d6+8 | **14** |
+| 14:33 | int | save | 1d20+1 | **7** |
+| 14:35 | dex | save | 2d20+3 | **13** |
+| 14:43 | wis | save | 1d20 | **20** |
+| 15:05 | Fire Mace | to hit | 1d20+8 | **27** |
+| 15:05 | Fire Mace | to hit | 1d20+8 | **10** |
+| 15:05 | Fire Mace | damage | 1d6+8 | **12** |
+| 15:06 | wis | save | 1d20 | **5** |
+
+**[[Amanita de'Champignon]]** — 13 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:23 | Nature | check | 1d20+8 | **26** |
+| 12:37 | Initiative | roll | 1d20+1 | **18** |
+| 13:11 | Arcana | check | 1d20+5 | **22** |
+| 13:21 | Chill Touch | to hit | 1d20+8 | **16** |
+| 13:21 | Chill Touch | damage | 2d10 | **8** |
+| 13:22 | Insight | check | 1d20+5 | **17** |
+| 14:07 | wis | save | 1d20+8 | **12** |
+| 14:23 | wis | check | 1d20+5 | **19** |
+| 14:26 | Ancient Mithril War Pick | to hit | 1d20+1 | **7** |
+| 14:26 | Ancient Mithril War Pick | to hit | 1d20+1 | **13** |
+| 14:34 | dex | save | 1d20+1 | **9** |
+| 14:37 | Insight | check | 1d20+5 | **25** |
+| 14:39 | custom | roll | 1d6 | **4** |
+
+**[[Binks Stonevein]]** — 11 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:22 | Insight | check | 1d20+11 | **25** |
+| 12:37 | Initiative | roll | 1d20+3 | **15** |
+| 12:43 | custom | roll | 2d20 | **15** |
+| 13:13 | Perception | check | 1d20+5 | **23** |
+| 13:17 | Spiritual Weapon | to hit | 1d20+8 | **13** |
+| 14:07 | wis | save | 1d20+8 | **21** |
+| 14:27 | Guiding Bolt | to hit | 1d20+8 | **14** |
+| 14:27 | Spiritual Weapon | to hit | 1d20+8 | **18** |
+| 14:27 | Spiritual Weapon | damage | 1d8+5 | **8** |
+| 14:34 | dex | save | 1d20+3 | **21** |
+| 14:37 | Insight | check | 1d20+11 | **21** |
+
+**(unattributed)** — 9 archived rolls
+
+| Time (ET) | Action | Type | Dice | Total |
+|---|---|---|---|---|
+| 12:37 | custom | roll | 1d20 | **20** |
+| 12:39 | custom | roll | 1d20 | **18** |
+| 12:55 | custom | roll | 1d20 | **4** |
+| 12:56 | custom | roll | 1d20 | **9** |
+| 14:31 | custom | roll | 1d4 | **2** |
+| 14:35 | custom | roll | 1d20 | **14** |
+| 14:37 | custom | roll | 1d12 | **1** |
+| 14:42 | custom | roll | 1d100 | **70** |
+| 15:05 | custom | roll | 1d4 | **2** |
 
 ---
 
@@ -595,7 +693,9 @@ Combat rounds are shaded by the **Round** column. `✅ archive` = confirmed in t
 
 **Roll archive**
 
-1. 🛑 **Probable partial roll sync.** `MAX(timestamp_iso)` for the whole `sitl_session_rolls` view is **2026-08-16T16:43:52.926Z**, a timestamp *inside* this session (~41 minutes into 188). Only **11 rolls** exist for the date. Every roll after that point — including from players who kept rolling on D&D Beyond — is transcript-only. **Nothing has been fabricated.** Recommend Taylor re-run `ddb_sync_supabase.js` for 2026-08-16 and reprocess the Roll Log if more rows appear.
+1. ✅ **Partial roll sync — RESOLVED 2026-08-19.** The original pull returned only **11 rolls**, ending at `2026-08-16T16:43:52.926Z`. That was never a pipeline fault: the timestamp is the exact moment the D&D Beyond sync was triggered, **while this session was still being played**, so nothing rolled afterwards had been captured yet. Taylor re-synced after the session and the archive now holds **68 rolls** spanning **12:22–15:06 ET** ([[Kit Aluri]] 20, [[Darby Stonefeather]] 15, [[Amanita de'Champignon]] 13, [[Binks Stonevein]] 11, blank-character 9). The Archive Cross-Reference under the Full Roll Log has been rebuilt against the full set. 📌 **Standing lesson: sync DDB rolls after a session ends, never during.**
+
+   🛑 **But the per-row markers in the narrative Full Roll Log above are STALE.** Its `✅ archive` / `transcript-only` tags were assigned against the original **11-row** pull, so of the **44 rows currently tagged `transcript-only`, an unknown number now have archive rows** and are mislabelled. They have deliberately **not** been auto-flipped: matching a narrative row to an archive row on character-and-total alone is a guess, and asserting `✅ archive` on a guess would break the no-invention rule. **Treat only the Archive Cross-Reference as authoritative on what is in the archive until the per-row tags are re-derived.** The 13 `physical dice roll` tags are unaffected ([[Aeolus]] and [[Blarg]] have zero archive rows across the full window).
 2. ⚠️ [[Amanita de'Champignon]]'s **"NAT20" insight** on the second green hag (credited by Addison at 02:34) appears **neither in the transcript nor in the archive**. Recorded as `[Unknown/Ambiguous]`. Per the S21 precedent, "nat 20" at this table sometimes means a *total* of 20.
 
 **Attribution**
