@@ -16,6 +16,13 @@ party_present:
 party_level: 5
 spelling_checked: Yes
 absent_players: none
+site_region: The Darklake
+site_arc: "Sloobludop’s canal district → the bone teeth"
+site_events:
+  - "The whole party crosses to level 5 in the middle of Demogorgon’s arrival — Addison has every player narrate their own surge."
+  - "Amanita’s Insight settles Derendil for good: there was never a prince. He was always a quaggoth, and he breaks off into the dark."
+  - "Kit prays for the first time in the campaign and clears a DC 30 — Binks’s last duplicate solidifies into a golden shrine to Garl Glittergold holding a shield toward Demogorgon, and Binks adds a raised middle finger."
+  - "Roxy is coaxed into longboat form; the party clears the whirlpool and the bone teeth and finds a green hag waiting on a stalactite — “It is you.”"
 created_on: 2026-08-16
 updated_on: 2026-08-16
 ---

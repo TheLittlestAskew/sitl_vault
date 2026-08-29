@@ -16,6 +16,14 @@ party_present:
 party_level: 5
 spelling_checked: Yes
 absent_players: none
+site_region: The Mermaid Cove
+site_waypoint: The Mermaid Cove
+site_arc: "Into the fog → the cleared shallows"
+site_events:
+  - "Nanny Plunk is waiting in a fog-drowned starlit cove — Indigo names her aloud, and the ritual hidden behind the fog is converting charmed merfolk into a third hag."
+  - "Amanita’s Dispel Magic collapses the fog, revealing the Stormcallers, the Wave Benders, and a second green hag who was a merfolk hours ago."
+  - "Darby knowingly kills a charmed Wave Bender, fails an Intelligence save against her own mace, and takes her first level of madness."
+  - "The hags shimmer and Kit sees two Binkses — she trusts her own Hunter’s Mark over her Insight, stabs through the illusion, and kills Nanny Plunk."
 created_on: 2026-08-19
 updated_on: 2026-08-19
 ---
