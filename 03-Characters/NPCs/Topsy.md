@@ -86,6 +86,13 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 
 ---
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- 🛑 **Setting foot on [[The Mermaid Cove]]'s sand forced her fully into wererat hybrid form**, in pain and effectively suffering short-term madness. She could not hold onto her own head. **Cause unstated** — the cove, the ritual, the faerzress, or her own corruption.
+- **[[Blarg]] steadied her.** Having explicitly channeled the moon to heal [[Aeolus]], he was granted moon-intuitive sight of the wavelength around the twins and **removed their disadvantage** — but not the form. He considered **Moonbeam** to force them out of rat shape and **decided against it**; [[Binks Stonevein]] raised the open question: *"Would that clear like some of their corruption? I wonder."*
+- ⚔️ **Killed the first merfolk Skirmisher**, working with [[Turvy]] — Addison: "the twins work together to take down the first Skirmisher."
+- ⚠️ **Still in hybrid form at session's end.** Steadied, not cured.
+- 💔 **[[Kit Aluri]] watched.** From her journal: *"I stood there in the shallows and watched [[Topsy]] struggle against her own body, and I have a crowbar on my belt that used to be an ordinary crowbar, and there's nothing useful to say about that so I'm not going to say it."*
+
 ## Related
 
 - [[Turvy]]
@@ -99,6 +106,7 @@ Deep gnome prisoner at [[04-World-Lore/Locations/Velkynvelve]]. Twin sibling of 
 - [[Session 12 — Return to Velkynvelve]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Roxy]]
 - [[Demogorgon]]
 - [[04-World-Lore/Locations/The Darklake]]

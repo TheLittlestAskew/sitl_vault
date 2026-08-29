@@ -54,9 +54,17 @@ last_known_location: The ruins of Sloobludop / at large in The Darklake
 - **Was paused.** [[Kit Aluri]]'s blind, godless prayer for [[Binks Stonevein]] cleared **DC 30 with a 36** and turned Binks's last stunt double into a permanent **golden shrine to [[Garl Glittergold]]** holding a shield toward the water — **and a raised middle finger.** A wave of protection rolled out of the city; Demogorgon paused. Addison: *"There may be consequences for that later."*
 - **Remains at large in [[04-World-Lore/Locations/The Darklake]].** The party's new campaign objective, in [[Binks Stonevein]]'s words: *"a huge ass Demogorgon is out in the Darklake. We need to warn people."*
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- **Not present — and still the reason the session happens.** His released **chaotic aura** was powering [[Nanny Plunk]], and Addison confirmed a **psychic faerzress connection** running between them.
+- 🛑 **That connection was SEVERED at her death.** Addison: *"The Psychic faerzress connection between Nanny Plunk and Demogorgon is cut."* The storm collapsed with it.
+- **The party felt him anyway.** During the post-break group madness check they felt *"an echoing deep rumble"* from him and saw the faerzress light up around them — enormous, rolling over in the water somewhere behind the world. They held their initiative through it.
+- 📖 **Addison framed him explicitly for the table:** *"This is not Stranger Things. Demogorgons are not beasts of the Upside Down, but a demon prince."*
+- ⚠️ **He is the stated cause of the dream sequences that were set up and never run.** Addison asked every player to design a dream, warned they would involve rolls, and invoked *The Matrix* — *"if your mind thinks it's real, then it'll have real effects on your character's bodies."* **The encounter ate the session. The dreams remain open.**
+
 ## Related
 
 - [[Session 20 — Not My Circus, Not My Demogorgon]] · [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[04-World-Lore/Locations/The Darklake]] · [[Sloobludop]] · [[Altar of the Deep Father]] · [[The Sheltered Cove]]
 - [[Bloppblippodd]] · [[Ploop]] · [[Derendil]] · [[Garl Glittergold]] · [[Kit Aluri]] · [[Binks Stonevein]] · [[Indigo]]
 - [[Open Threads & Mysteries]]

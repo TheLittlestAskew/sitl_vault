@@ -83,12 +83,18 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 
 ---
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- **Held ship form for the entire session** as the party's shield and escape route. Failed her checks early and was **pinned by the current** in the cove's swift shallow water.
+- 💚 **Gave [[Darby Stonefeather]] a "loving nudge"** (Animal Handling 13) in round two, worth **advantage** plus an extra **1d4 magical bludgeoning** — Addison: "from fungal wood being like engraved right into your fists." Duration unstated.
+- ⚠️ **Her stat block is now on the record.** Addison: ***"She's a rothe, but she's an ancient rothe, so we're treating her as an oryx. There's also no rothe stat block."*** This is the origin of the campaign's **contextual oryx/rothe convention** — say "oryx" when the subject is the stat block or mechanics, "rothe" when the subject is the creature. **Never blanket-correct either word.**
+
 ## Related
 
 - [[Session 18 — Trust the Whirlpool]]
 - [[Session 19 — We Are Split in Two]]
 - [[Session 20 — Not My Circus, Not My Demogorgon]]
 - [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[The Bone Teeth]]
 - [[The Sheltered Cove]]
 - [[04-World-Lore/Locations/The Darklake]]

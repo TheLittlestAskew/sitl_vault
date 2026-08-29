@@ -46,6 +46,13 @@ A kuo-toa scholar-priest of the [[Society of Brilliance]], encountered at the Da
 - Confirmed the **chaotic energies are worsening** and that studying their origin is the Society of Brilliance's primary goal (he suspects demonic origin; the party hinted at a **fey** dimension / archfey patron [[Silofirst]] and a death/undeath imbalance).
 - Proposed a **mutual-aid bargain**: escort him to [[Sloobludop]] and help the village against the chaos, in exchange for knowledge and aid. Gave the party a **village-access bead** (to [[Blarg]]) as a show of trust.
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- ⭐ **HE IS ALIVE. The S18 cliffhanger is resolved.** Last seen staying behind to hold off two more green hags so the party could escape through the whirlpool, fate unconfirmed across S19–S21. **[[Indigo]] found and extracted him from inside the fog** at [[The Mermaid Cove]], **"very, very weakened."**
+- **He had evidently been taken by [[Nanny Plunk]]**, along with the **High Priest of the merfolk** — the two figures Indigo went into the fog specifically to save before the witch could convert them. How he came to be here, days north of where he was last seen, is **unstated**. `[Unknown/Ambiguous]`
+- **He immediately spent himself again.** Weak as he is, he emerged at the top of the cove **concentrating through his staff** to hold a containment trap of ice shards and glowing water bubbles over the surviving charmed merfolk, jointly with [[Indigo]].
+- ⚠️ **He is kuo-toa, not merfolk.** [[Indigo]]'s telepathic relay groups him with them — "the High Priest of the merfolk as well as Sloopidoop" — but that reflects who he was rescued *alongside*, not his affiliation. **Do not record him as merfolk-affiliated.**
+- ⚠️ Nothing has been resolved with him: no conversation, no exchange, no renewal of the S17 mutual-aid bargain. He is alive, present, and spent.
+
 ## Relationships
 
 - **Party** — First working relationship with the [[Society of Brilliance]]; explicitly transactional ("you help us, we help you"). Respects the party's competence (they killed a chuul he would not have faced alone).
@@ -67,6 +74,7 @@ A kuo-toa scholar-priest of the [[Society of Brilliance]], encountered at the Da
 ## Related
 
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Society of Brilliance]]
 - [[Wazalax]]
 - [[Shuushar]]

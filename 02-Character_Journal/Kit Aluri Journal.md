@@ -972,4 +972,74 @@ I'm holding three weapons that don't belong to me and I have no idea which one m
 
 </details>
 
+## Session 22 — Blind Faith in a Hunter's Mark
+
+<details><summary>Same day as the fall of Sloobludop — the Mermaid Cove, the witch, and the worst thing I've done on purpose</summary>
+
+**THE THINGS WE CARRIED IN THE DARK: A SOLDIER'S MEMOIR**
+
+**Day — the same day we lost the fish-town. Two hours of water and we were already somewhere worse.**
+
+The cove was beautiful and I hated it on sight.
+
+I count exits. That's the first thing I do. There weren't any. One way in around the bend, rock walls, fog thick enough to lean on, and a witch standing fifteen feet above us on an outcropping with her hand out over the water like she was warming it. Bioluminescent crystal in the sand. Plankton glowing in the shallows. Very pretty. Nowhere to go.
+
+She said fate delivered us to her. She said she'd have her revenge and turn us into her own sisters. I've heard grander speeches from worse people, but she meant it, and that's the part that counts.
+
+[[Indigo]] knew her name. Of course he did. He talked to her the way you talk to a rival you've been undercutting for years, all flourish and courtesy, and I stood there dripping and thought about the last time I traded with people like her. You don't purge hags. You deal with them and you watch your hands afterward.
+
+Then he mentioned — after the banter, after the accent, after the whole performance — that this cove belongs to his people, that there are merfolk here, that they're innocents. He buries the lead every single time. I've told him. I'll tell him again.
+
+[[Amanita de'Champignon]] put the spores through us before anyone could argue about it, and six heads shared one thought at once, and I still haven't decided how I feel about that.
+
+We fought.
+
+[[Stool]] went first, and I will never get used to that little mushroom being the fastest thing on the field. He hopped off the boat, blinked across the water with the waterskin over his head, landed on the witch's skull and shook [[Glabbagool]] out onto her like a man emptying a bucket. She never saw it coming. Green light poured down her face. I would have applauded if I hadn't been busy.
+
+[[Aeolus]] pulled a cat out of nowhere. A large one, ginger, grinning with too many teeth, furious about it. He screamed at it to attack and it did. That's a fine trade — scream, and something with claws goes where you point.
+
+Then the fog started throwing things at us. Cold, mostly. Snowballs the size of a man that hit [[Aeolus]] hard enough to frost him over. [[Blarg]] pulled moonlight out of his hands and put him back together, and I noted where the throwers were and could not see a single one of them, which I did not enjoy.
+
+[[Topsy]] and [[Turvy]] set foot on the sand and lost themselves.
+
+I want to be careful about this part. They went over into the rat shape, both of them, and they were in pain, and they were scared, and they couldn't hold onto their own heads. [[Blarg]] got the moon into them and steadied them. But I stood there in the shallows and watched [[Topsy]] struggle against her own body, and I have a crowbar on my belt that used to be an ordinary crowbar, and there's nothing useful to say about that so I'm not going to say it.
+
+[[Indigo]] vanished into the fog. Went to pull his people out before the witch could finish them. I reached for him — not the way I reached that other time, just enough to feel whether he was dying — and I felt him. A pulse buried in stone and sand, deep, and not dying. In danger, but not the kind that pulls at you.
+
+I put my mark on the witch and hit her. The sword's still short, still shaped the way I left it in the last fight, and it fought me a little when I asked it to hold that shape. It gave. I hooked her leg out from under her and she caught herself. Fine. There'd be time.
+
+The dark rumbled while we were catching our breath. The whole cave lit up in that sick faerzress glow, all of us feeling something enormous roll over in the water somewhere behind the world. We held together anyway.
+
+And then we learned what she was actually doing.
+
+The other hags in the fog were not hags. They were merfolk. Charmed, hollowed, rebuilt, and the storm she was raising would have put all of us in a sleep we don't wake from and made us into the next set of sisters. That's the cycle. That's what [[Blarg]] saw in her posture at the start and called grief. She loses her sisters and she makes new ones out of whoever the water brings her.
+
+I'd almost respect it if she'd picked anyone else.
+
+[[Amanita de'Champignon]] tore the fog open. Whole stretch of it just gone, and there they were — the singers with the staffs, the spear-throwers, the two hags. [[Darby Stonefeather]] got to one of the throwers and killed it, and it was a charmed thing that didn't know what it was doing, and she knew that, and the rage had her and she did it anyway. That mace of hers wants something. She's not going to like finding out what.
+
+Then the two hags smiled at the same time and everyone's eyes stopped working.
+
+I looked at where the witch had been standing and there was [[Binks Stonevein]] standing there instead. And [[Binks Stonevein]] was also behind me, where he'd been the whole time. Two of him. I asked him through the spores how many of him there were and both of them answered at once and I felt my own certainty slide sideways — because I *knew*, absolutely, in my chest, that the one in front of me was him. That's what she did. She didn't hide. She put my own conviction in my mouth and made me swallow it.
+
+The only thing that didn't lie was my mark. I put it on her myself, hours ago, before any of this. It sat on her and it did not care what my eyes were doing.
+
+So I stood there in front of my friend's face with my sword out and every part of me screaming, and I made a joke, because that's what I do when I'm about to do something unforgivable. I told him if I was stabbing him, he needed to yell *sunglasses*. He said *what the hell are you talking about*. He would have. He didn't say the word.
+
+I stabbed him.
+
+The first swing went through nothing — she'd already gone invisible and slipped a step, and my blade passed through a picture of a gnome I'd die for. Then she came apart back into herself, and I put her down.
+
+I turned around to the real one and said *your Binks*. He flipped me off. I've never been happier to see that hand.
+
+The fog died with her. The link between her and the thing in the lake snapped. The whole cove opened up — blue crystal, blue lichen, water like glass — and it was beautiful, and I registered that the way you register a wall you might have to climb. The merfolk collapsed where they stood. The other two hags screamed and ran north. [[Amanita de'Champignon]] caught one in a fist of fungus. The other got away carrying something of the witch inside it.
+
+[[Indigo]] came out of the water at the top of the cove holding up a half-dead kuo-toa priest who I last saw drowning a town to save us.
+
+And then it got me too.
+
+I can feel it sitting behind my eyes. The nearest living thing keeps looking like a target. Right now the nearest living thing is that cat.
+
+</details>
+
 **

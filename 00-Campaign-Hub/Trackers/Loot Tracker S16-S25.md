@@ -124,7 +124,7 @@ _Note: No new permanent loot this session — the party is spending goodwill and
 |[[Kit Aluri]]|Stealth cloak (Cloak of Elvenkind)|Used for the alleyway flank ("I've only used it once" prior); grants advantage on Dex/stealth and disadvantage on checks to perceive her. **DM lowered the stealth DC 17→15** in response.|Attuned — Worn|
 |[[Kit Aluri]]|Trident (S17 lair loot, claimed S18)|Carried on her back; shown to [[Indigo]] — "I picked this up and I thought of you."|Carried|
 |[[Kit Aluri]]|Dagger (+1, drow)|Bonus-action Dual Wielder attacks: 9 damage on the kuo-toa B kill; 6 sneak-attack dice into the corpse afterward.|Equipped|
-|[[Amanita de'Champignon]]|Mithril war pick (enspelled)|Shillelagh-buffed; **cracked the stone base of the Deep Father altar**; 19 and 24 damage hits on [[Bloppblippodd]].|Equipped|
+|[[Amanita de'Champignon]]|Mithral war pick (enspelled)|Shillelagh-buffed; **cracked the stone base of the Deep Father altar**; 19 and 24 damage hits on [[Bloppblippodd]].|Equipped|
 |[[Indigo]]|Hand-made net|Thrown over two kuo-toa; **cut open by Kit's misfire** ("That took me weeks to make") — kuo-toa B nonetheless failed to escape it.|Damaged|
 |[[Hemeth]]|Confiscated weapons|Taken by the Deep Father cult before the session; **not recovered** — "When Hemeth gets his weapons back, you're all going to die."|Lost (unrecovered)|
 |[[Binks Stonevein]]|Spell slots|Down to **one slot + Ceremony** at session end — resource pressure flagged for the S21 escape.|—|
@@ -181,6 +181,38 @@ _Note: Both of the table's Heroic Inspirations (Kit, Amanita) were spent on the 
 |[[Darby Stonefeather]]|Heroic inspiration|**Spent** on the Religion + Animal Handling check that calmed [[Roxy]] (19)|Spent|
 
 _Note: The party is now **11 bodies across two damaged hulls** with ~3 days of water and 4–5 days of food, facing a **10–15 day crossing** to [[Mantol-Derith]]. Supply pressure is a live constraint. The Sloobludop treasure is the party's first substantial coin haul of the campaign and is earmarked for trade at Mantol-Derith._
+
+---
+
+## Session 22 — Blind Faith in a Hunter's Mark
+
+> ✅ DDB archive cross-referenced 2026-08-19 (68 rows). **No new loot was acquired this session** — the whole runtime is one continuous encounter. What follows is inventory *reconciliation* and item behaviour that changed in play.
+
+### Party Inventory (reconciled on D&D Beyond)
+
+|Character|Item|Properties / Notes|Status|
+|---|---|---|---|
+|Party|**1,800 gp total, including the platinum**|[[Binks Stonevein]] reconciled the party inventory on D&D Beyond between sessions. Deliberately **undivided** — "it's a communist party at this point. We're all sharing." Anyone may move items into their own inventory as needed. This is the [[Sloobludop]] archpriest's treasure from S21, now counted.|Party inventory|
+|Party|String of pearls|From the S21 Sloobludop treasure (~1,000 gp). Undivided.|Party inventory|
+|Party|Healing potions|Undivided. Count not stated — `[Unknown/Ambiguous]`|Party inventory|
+
+### Item Updates from This Session
+
+|Character|Item|Update|Status|
+|---|---|---|---|
+|[[Amanita de'Champignon]]|**Leathery fungal water skin**|**Identified.** Confirmed as a **dimensional container for [[Glabbagool]]** — "in a way symbiotic to a dimensional space… like a genie's lamp." Built by [[Amanita de'Champignon]] slowly channeling her own energy into it across the extended rest. Takes one round to release him in full form. [[Binks Stonevein]]: "it's a pokeball." Addison: "a fungal pokeball… just like [[Roxy]]'s horn." **Emptied for the last time this session.**|Attuned — identified|
+|[[Amanita de'Champignon]]|**Mithral war pick** (enspelled)|In hand and swung (missed, even after burning heroic inspiration on the reroll). Also used with **Shillelagh**. ⚠️ **Back with its owner with no scene explaining the handback** — it was one of the three weapons [[Kit Aluri]] borrowed at the end of S21. See Open Threads.|Equipped — returned, unexplained|
+|[[Kit Aluri]]|**Shape-shifting greatsword** (S18 homebrew)|**Never reverted from the last battle** — "Technically I never unshifted it from the last time we were in battle." Addison ruled it now requires a **Strength saving throw** to sustain a held shape across scenes (passed on 19), and that it **deals greatsword damage while in short-sword form**. Kit: "It's the great sword. That is actually a short sword."|Equipped — short-sword form|
+|[[Kit Aluri]]|**Hunter's Mark** (Fey Touched)|The session's decisive tool and the source of its title. Addison ruled the mark **overrides** two misleading Insight results, at the cost of restricting Kit to an action *or* a bonus action that turn. ⭐ The archive shows the Insight she overrode was a **natural 1** (`1d20+1 = 2`).|Used|
+|[[Darby Stonefeather]]|**Fire mace with feathers** (growth item)|**Turned on its wielder.** After the killing blow on a charmed Wave Bender the mace forced an **Intelligence saving throw**; [[Darby Stonefeather]] failed on a 7. Addison: "You feel a connection to this mace, but it's not one that entirely puts you at ease. There seems to be some kind of will to it. Not a sentience per se, but you feel something." Result: **madness level +1**, d100 of 70 → vivid hallucinations, disadvantage on ability checks.|Equipped — **hostile behaviour, unresolved**|
+|[[Darby Stonefeather]]|Fungal-wood knuckle reinforcement|**New.** Granted by Addison off [[Roxy]]'s Animal Handling nudge (13, advantage): an extra **1d4 magical bludgeoning** "from fungal wood being like engraved right into your fists." Duration not stated — `[Unknown/Ambiguous]`|Active|
+|[[Binks Stonevein]]|**Spiritual Weapon — a lute**|Established on-air as **an actual lute, played like an electric guitar**, not a pick. Addison: "It bangs onto the rock and just emits this… BANGING electrical riff." Missed in round one, hit for 8 in round two. ⚠️ Possible knock-on for the vault's **"Mind Shielding Loot Pick"** naming — **not renamed**, see Open Threads.|Feature|
+|[[Aeolus]]|**Summon Fey** (3rd level)|**Cast for the first time.** Form: **Grinning Cat** — large, ginger, fanged, bluish-violet, mood set to *Fuming*. Attack is a **Fey Blade** (+8 to hit, 2d6+3 force). One attack at 3rd level, two at 4th. Shares [[Aeolus]]'s initiative and acts immediately after him. He intends to "keep the big cat forever."|New spell in use|
+|[[Aeolus]]|Lucky physical dice|Used deliberately — "I'm going to use my lucky physical dice." This is why he has **zero** rows in the DDB archive.|In use|
+|[[Stool]]|—|**Levelled up between sessions: increased movement speed.** Addison used the new speed to let him reach Misty Step range and deliver [[Glabbagool]] onto the hag's head in round one.|Companion upgrade|
+|Party|**Heroic inspiration**|**Awarded:** [[Amanita de'Champignon]] (the in-character recap), [[Darby Stonefeather]] (leaning into the rage-kill), [[Kit Aluri]] (the Binks stab), [[Aeolus]] (petting the cat during the cliffhanger). **Spent:** [[Amanita de'Champignon]] on the war-pick reroll. 🛑 **Offered to and refused by [[Blarg]]** — he declined a reroll on [[Darby Stonefeather]]'s Hold Person break because the outcome fit her character better.|Mixed|
+
+_Note: **The first session of the campaign to end with the party's own equipment as a threat.** [[Darby Stonefeather]]'s mace inflicted the madness that made her kill a charmed victim and then attack [[Blarg]]; [[Kit Aluri]]'s sword is stuck in a shape she must save to hold. Set against that, [[Amanita de'Champignon]]'s waterskin resolves into something genuinely useful and [[Aeolus]] acquires a cat. The 1,800 gp is still unspent and still 10–15 days from a market._
 
 ---
 

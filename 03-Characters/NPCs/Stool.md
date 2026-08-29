@@ -58,6 +58,12 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - **[[Session 17 — The Big Fish Eat the Little Fish|Session 17]]:** Pitched into the chuul fight — a **Slam (19 to hit) for 1 poison damage**, the chip that brought the [[Chuul]] to 6 HP right before [[Derendil]] devoured it.
 - **[[Session 21 — The Shield and the Middle Finger|Session 21]]:** **Had the escape's single most improbable survival.** Acted third in the carried-over initiative order, "acting on Amanita's direction." Passed the tidal-wave Dex save at 14, then — facing [[Demogorgon]]'s tentacle at DC 10 while every larger creature around him was being flung thirty feet — rolled a **natural 20 Strength save** and survived by **latching onto [[Roxy]]'s horns.** Passed the DC 12 madness save at 20 (a natural 19 +1). Rode out the rest of the session aboard Roxy's ship-form. A tiny mushroom out-saved most of the party. ⚠️ His rolls were entered as **custom rolls on [[Amanita de'Champignon]]'s account** and appear unattributed in the DDB archive.
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- ⭐ **LEVELLED UP between sessions — increased movement speed.** Addison used the new speed directly: it is what let him reach **Misty Step** range in round one.
+- 🛑 **He arguably decided the encounter.** In round one he waded off [[Roxy]], **Misty Stepped onto [[Nanny Plunk]]'s head**, and **emptied the fungal waterskin over her** — she failed the Dexterity save on a **3** and was covered in glowing green ooze. She never saw it coming. [[Kit Aluri]]'s journal: *"I will never get used to that little mushroom being the fastest thing on the field."*
+- **Round two:** shook [[Glabbagool]] out of the waterskin for the last time, then spent the rest of his turn **assisting [[Kit Aluri]]** — the advantage that cancelled her disadvantage into the flat roll that killed the hag.
+- ⚠️ **Possibly the session's unattributed natural 20.** The archive holds a blank-character flat `1d20 = 20` at 12:37 ET, inside the initiative window. Consistent with Stool, but the blank `character` field means the mapping is a guess. `[Unknown/Ambiguous]`
+
 ## Key Quotes
 
 - "I'm just a mushroom. I don't know much about using appropriate pronouns." — S01 [Funny]
@@ -78,6 +84,7 @@ Innocent, earnest, increasingly aware. Early sessions: mostly silent, communicat
 - [[Session 12 — Return to Velkynvelve]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Roxy]]
 - [[Demogorgon]]
 - [[04-World-Lore/Locations/Velkynvelve]]

@@ -75,6 +75,15 @@ last_known_location: The bone teeth, [[04-World-Lore/Locations/The Darklake]] �
 - 🛑 **Named [[Nanny Plunk]]** at the session's hard cut — the last line of the session.
 - Reported that one expanse near the middle of [[04-World-Lore/Locations/The Darklake]] has **its own weather** and is elementally and magically infused.
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- **[[The Mermaid Cove]] is his people's home.** He recognised [[Nanny Plunk]] on sight, **named her aloud for the first time**, and bickered with her in what Addison plays as a "very suave Spanish accent" — a full *Princess Bride* homage, complete with *"I do not think it means what you think it means."*
+- **He buried the lead, again.** Only after the whole performance did he mention what actually mattered: *"This cove is not for you. This cove belongs to my people"* — **there are merfolk here, and other Tritons, and they are innocents** — and advised against parley on that basis. [[Binks Stonevein]]: *"you really buried the lead there."* [[Kit Aluri]]: *"It's like a thing that he does."*
+- **His relationship with the hag was commercial, not personal.** [[Aeolus]]'s Insight 18 placed them as long-running **business competitors** rather than nemeses — Addison's word, a "weird… business relationship." ⚠️ **This is the closest the session comes to explaining S21's "It is you," and it does not actually explain it.**
+- **He went into the fog alone.** Shouted in dismay in a language nobody understood and darted off — out of the party's hands but still active. [[Kit Aluri]] spent her **reaction** reaching for him through the faerzress and felt a pulse **hidden in stone and deep in the sand**: in danger, but not mortal danger.
+- ⭐ **He extracted the leadership.** Relayed telepathically that he had found the **High Priest of the merfolk** and **[[Sloopidoop]]**, both alive but weak; that there must always be a **triad** of hags; and that the storm was being cast by **charmed merfolk forced into it**. *"I needed to save the leaders before they became infected by the witch's magic… Work to slow the surge and keep their attention. I will work on the storm."* **That briefing is the session's central exposition** and gave the party its two-round deadline.
+- **Ended the session holding the line.** Emerged at the top of the cove with a very weakened [[Sloopidoop]], the two of them holding a containment trap of ice shards and glowing water bubbles over the surviving charmed merfolk.
+- 🛑 **He used force on a party member.** As [[Darby Stonefeather]] — raging and hallucinating — hunted a stunned merfolk, [[Indigo]] **shouted "Stop" in Aquan** and magically held her; she failed the Wisdom save on a 5. Her rage dropped; the hallucinations did not. She had already said *"I don't like him"* twice that session, and registered this before rolling: *"I do not like Indigo very much."* ⚠️ **The S21 friction is now a standing problem, and he has escalated it.**
+
 ## Relationships
 
 - **[[Kit Aluri]]:** The campaign's most guarded character names total trust in him out loud (S20), then in S21 shows the party *why* through the rapport spores — she once made the same blind prayer for him that she makes for [[Binks Stonevein]] here. Kit places him "on the same level as you guys." **Backstory of how they met still not detailed on-screen — open thread.**
@@ -99,7 +108,7 @@ last_known_location: The bone teeth, [[04-World-Lore/Locations/The Darklake]] �
 
 ## Related
 
-- [[Session 19 — We Are Split in Two]] · [[Session 20 — Not My Circus, Not My Demogorgon]] · [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 19 — We Are Split in Two]] · [[Session 20 — Not My Circus, Not My Demogorgon]] · [[Session 21 — The Shield and the Middle Finger]] · [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Kit Aluri]] · [[Jimjar]] · [[Ploop]] · [[Darby Stonefeather]] · [[Blarg]] · [[Nanny Plunk]]
 - [[Sloobludop]] · [[04-World-Lore/Locations/The Darklake]] · [[The Sheltered Cove]] · [[The Bone Teeth]] · [[04-World-Lore/Locations/Mantol-Derith]]
 #npc #ally

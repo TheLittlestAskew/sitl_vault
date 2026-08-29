@@ -31,10 +31,12 @@ region: Middledark — [[04-World-Lore/Locations/The Darklake]], north of the sh
   - **Damage taken:** 5 to [[Roxy]]'s port hull (25 → 20), **2 piercing to Roxy herself**, and 4 to the scavenged rowboat (25 → **19**).
   - **A final group Dexterity check at DC 12** cleared the stone teeth with two-thirds passing; [[Kit Aluri]] pulled everyone together and the party rounded the corner.
   - 🛑 **[[Nanny Plunk]].** Rounding into calmer water, the party sees a **green hag** — no illusion, older than the one they saw before — perched on a formation. She turns, is surprised, smiles, and says: *"It is you. It was fates that brought us back together."* [[Indigo]] answers by name: *"Nanny Plunk, we do not have time for your games."* **No initiative rolled. Hard cut. Unresolved into S22.**
+- [[Session 22 — Blind Faith in a Hunter's Mark]] — **the party passed back out through the teeth** and around the bend into [[The Mermaid Cove]], where [[Nanny Plunk]] made her stand. She died there. The teeth themselves were not re-contested.
 
 ## Related
 
 - [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[04-World-Lore/Locations/The Darklake]]
 - [[The Sheltered Cove]]
 - [[Sloobludop]]

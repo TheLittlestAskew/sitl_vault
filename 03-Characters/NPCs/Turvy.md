@@ -96,11 +96,20 @@ Deep gnome. Young by gnomish standards. In wererat hybrid form, was described as
 - **Expects a cool reception at [[04-World-Lore/Locations/Blingdenstone]]** as a wererat — he and [[Topsy]] haven't been since they were very young.
 - ⚠️ **His rolls were entered on [[Binks Stonevein]]'s DDB account** as composite `2d20` custom rolls paired with Topsy's. Attribute by transcript, not by the archive's `character` column. See [[Roll Statistics S16-S25]].
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- 🛑 **Setting foot on [[The Mermaid Cove]]'s sand forced him fully into wererat hybrid form**, in pain and effectively suffering short-term madness, exactly as [[Topsy]]. **Cause unstated.**
+- **[[Blarg]] steadied him** with moonlight, removing his disadvantage but not the form — and **[[Turvy]] bowed to him** for it before swinging at the Skirmisher and missing twice.
+- ⭐ **Broke the first Stormcaller's concentration**, which unravelled more of the fog and **revealed two more Skirmishers and a second Stormcaller.** One of the session's genuinely decisive NPC actions.
+- ⚔️ Helped [[Topsy]] take down the first merfolk Skirmisher.
+- ⚠️ **Still in hybrid form at session's end.** Steadied, not cured. Connects to his standing conditional terms with [[Kit Aluri]] and to the [[Open Threads & Mysteries|faerzress corruption]] thread.
+- 📌 **Roll-order note confirmed:** Matt rolls **[[Topsy]] first, [[Turvy]] second**, as a fixed composite `2d20` — independently corroborated this session by the archive's `2d20 [13, 2]` matching Addison's spoken "That was 13 and 2."
+
 ## Related
 - [[Topsy]]
 - [[Derendil]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
 - [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Roxy]]
 - [[Demogorgon]]
 - [[Selûne]]

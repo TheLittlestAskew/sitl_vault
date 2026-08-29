@@ -1,20 +1,21 @@
 ---
 created_on: 2026-08-16
-updated_on: 2026-08-16
+updated_on: 2026-08-29
 tags: [npc, sitl]
 aliases: []
 type: npc
-status: Alive
+status: Dead
 race: Green hag
-affiliations: Unknown — known personally to [[Indigo]]; named by [[Ploop]]
+affiliations: Her own coven of converted-merfolk "sisters"; drew power from the faerzress and [[Demogorgon]]; known personally to [[Indigo]]; named by [[Ploop]]
 first_appearance: "[[Session 21 — The Shield and the Middle Finger]]"
 first_named: "[[Session 19 — We Are Split in Two]]"
-last_known_location: A rock among the bone teeth, [[04-World-Lore/Locations/The Darklake]]
+death: "[[Session 22 — Blind Faith in a Hunter's Mark]] — killed by [[Kit Aluri]]"
+last_known_location: "[[The Mermaid Cove]] — her rock outcropping"
 ---
 
 # Nanny Plunk
 
-> **The session-21 cliffhanger.** A green hag who has been waiting, knows the party on sight, and is known by name to [[Indigo]]. No initiative was rolled — the session hard-cuts on her line.
+> 🛑 **DEAD (S22) — killed by [[Kit Aluri]], stabbed through an illusion of [[Binks Stonevein]] on the strength of Kit's own Hunter's Mark.** A green hag who had taken [[The Mermaid Cove]] from [[Indigo]]'s merfolk and was converting them into new "sisters." Her death cut the psychic faerzress link feeding her from [[Demogorgon]] and collapsed the storm ritual — but the essence of her soul escaped into a fleeing hag. ⚠️ **Her S21 question — "It is you" — was never answered.**
 
 ## Description / Appearance
 
@@ -47,6 +48,16 @@ last_known_location: A rock among the bone teeth, [[04-World-Lore/Locations/The 
 >
 > 🛑 **Attribution unresolved on the surrounding line.** Transcript line 2621 runs three voices together with no breaks, and the fragment **"Kit pulls out a shotgun"** sits between Nanny Plunk's line and Indigo's. It may be Addison narrating a joke or Taylor's OOC line captured inside the DM's segment — which determines whether [[Kit Aluri]] canonically drew a weapon here. **Needs Taylor's ear on the recording.**
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]]) — her death
+
+- **She had taken the cove.** [[The Mermaid Cove]] belongs to [[Indigo]]'s people; she had corrupted it and enthralled its **merfolk**. She stood on a rock outcropping ~15 ft above the shallows, **hand held out over the dark lake in a meditative ritual**, and greeted the party with "a mixture of both surprise and expectation": ***"Fate has delivered you unto me. I shall have my revenge and turn you into my own sisters."***
+- **Her actual project: manufacturing a coven.** There must always be a **triad** of hags. The two other "hags" in the fog were **charmed merfolk mid-conversion**, and the storm being raised by charmed **Stormcallers** would have put the entire party into a **dream state and coma**, their bodies charmed, used, and eventually turned into hags too. The party had **two rounds.**
+- **She was drawing power from the faerzress and from [[Demogorgon]]'s released chaotic aura.** Addison confirmed a **psychic faerzress connection** between her and the demon prince — **severed at her death.**
+- **The party read her before they fought her.** [[Blarg]] (Insight 21) saw **long-held grief** — an endless cycle of ritual reincarnation. [[Binks Stonevein]] (Insight 25) rated her threat very high, called her hurt and anger **a deliberate affect**, and noticed **she was alone**, which hags are not. [[Aeolus]] (Insight 18) placed her as a seasoned hag of this dark lake in an odd **business-competitor relationship with [[Indigo]]** — Addison's phrasing, and the closest thing to an explanation of S21's "It is you" that the session gives.
+- **The kill.** [[Stool]] opened round one by **Misty Stepping onto her head** and emptying [[Glabbagool]] over her (she failed the Dex save on a 3). She clawed Glabbagool twice, escaped his engulf attempt, and — as the party closed — **disguised herself and one of her sisters as [[Binks Stonevein]]**, then went **invisible and moved**. [[Kit Aluri]]'s Insight checks pointed at the wrong Binks (the deciding one a **natural 1**), but Kit had placed **Hunter's Mark** on her hours earlier and Addison ruled the mark overrides the illusion. Kit attacked at flat odds (21 to hit, 17 damage), **Action Surged**, landed a **Trip Attack** she failed this time, and struck again at 20. The first swing passed **through the illusory Binks**; her form coalesced for the second. **Dead.**
+- **What survived her.** ⚠️ **The essence of her soul went into the second converted hag and empowered it to escape north** — Addison suggested it is "likely another converted merfolk being made into a new Nanny Plunk." The other converted hag is **restrained but recoverable**. The cycle [[Blarg]] identified is already restarting.
+- ⚠️ **Contradiction on the record, not silently reconciled.** Addison said at 00:25 that the fog was *"a magical fog created by Nanny Plunk"*, and at 01:06 that *"she was not the origin"* — it is the Stormcallers' ritual, though her energy permeates it. **The session runs on the later ruling. Needs Taylor's call.**
+
 ## Relationships
 
 - **[[Indigo]]:** Knows her by name; visibly unimpressed rather than alarmed. The strongest open question about her.
@@ -62,6 +73,7 @@ last_known_location: A rock among the bone teeth, [[04-World-Lore/Locations/The 
 
 - [[Session 19 — We Are Split in Two]]
 - [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Indigo]]
 - [[Kit Aluri]]
 - [[Ploop]]

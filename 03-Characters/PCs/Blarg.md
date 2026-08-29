@@ -53,6 +53,7 @@ JSON slug / roll_name: blarg
 - (S21) **Identifies as "a goblin in spirit," not biologically** — *"I mean not like biologically, but like in spirit"* — and claims he could disguise himself as one, "maybe not right now." Formalizes the S11 goblin wild-shape homebrew as an actual piece of self-concept rather than a party trick. — [[Session 21 — The Shield and the Middle Finger|S21]]
 - (S21) **Cheerfully unsentimental about violence toward his adopted kin.** Told [[Indigo]] may have killed goblinoids: *"That's fine. We don't hold grudges… It's kill or be killed. Usually they get killed. I told them don't run everything. But they don't listen."* — [[Session 21 — The Shield and the Middle Finger|S21]]
 - (S21) **Openly frightened of [[Demogorgon]]** — a rare crack in his default unflappability, and the reason he reaches for [[Selûne]]. — [[Session 21 — The Shield and the Middle Finger|S21]]
+- (S22) **Refused a mechanical advantage because the outcome fit his friend's character better.** Offered heroic inspiration to reroll after [[Darby Stonefeather]] broke his Hold Person on a natural 20: *"No, I don't think… I think it's fine that she breaks through it in her rage. That makes sense to me."* Then put his bear body between her and the merfolk she was attacking and took **10 damage** for it. — [[Session 22 — Blind Faith in a Hunter's Mark|S22]]
 
 ## Abilities & Class Features
 
@@ -133,6 +134,9 @@ JSON slug / roll_name: blarg
 - **Guided and helped [[Binks Stonevein]]'s Survival 18** on the second-hull scavenge.
 - **Declared himself "a goblin in spirit"** to [[Indigo]], prompting a lecture on goblinoid tribes and an apology for any kin Indigo may have killed — which Blarg waved off entirely.
 - ⚠️ **Zero DDB archive rows this session.** Every roll above is transcript-confirmed only; Florian rolled entirely off-DDB. Per the standing S18 correction, this is *not* an expected pattern for him — it varies session to session.
+- **[[Session 22 — Blind Faith in a Hunter's Mark|Session 22]]:** **Blarg spends the session trying to save people from each other, and takes damage for it.** Read [[Nanny Plunk]] on **Insight 21** and saw past the monster: **long-held grief** — an endless cycle of ritual reincarnation in which the surviving hag keeps losing her sisters and keeps making new ones out of whoever the water brings her. That read is what reframes the entire encounter, and it lands before anyone knows the "hags" are converted merfolk.
+  Dodged a Wave Bender's storm, then healed [[Aeolus]] for **24** with a 2nd-level **Cure Wounds** he narrated as moonlight melting the frost off him — *"as this moonlight comes out of the hands and goes into your body, you feel warmth… and you feel fresh."* **Because he explicitly channeled the moon, Addison granted him moon-intuitive sight** of the wavelength around [[Topsy]] and [[Turvy]], who had just been forced into full wererat hybrid form; he **steadied both, removing their disadvantage.** [[Turvy]] bowed to him for it. He considered **Moonbeam** to force them out of rat form and **decided against it** — [[Binks Stonevein]] raised the open question, *"Would that clear like some of their corruption? I wonder."*
+  🛑 **Then he cast a control spell on his own party member.** Watching [[Darby Stonefeather]] kill a charmed victim and start hallucinating, he concluded she was *"a danger right now to her, to themselves and everyone"* and cast **Hold Person** on her. She rolled a **natural 20** and raged through it. ⭐ **Addison offered him heroic inspiration to reroll and Blarg refused it** — *"I think it's fine that she breaks through it in her rage. That makes sense to me."* He then closed the distance screaming ***"Darby, you gotta stop. Calm down. Please. Please,"*** **wild shaped into a bear** to absorb whatever came — *"I'm gonna give you the worst trip of your life right now. I'm sorry"* — and asked to **put his body between her and the merfolk she was trying to kill.** He took **10 damage** from his friend for it, and the merfolk lived. ⚠️ **Zero DDB archive rows again this session** — Florian rolled entirely off-DDB. Per the standing S18 correction, do not treat that as expected.
 
 ## Key Quotes
 
@@ -182,6 +186,7 @@ JSON slug / roll_name: blarg
 - [[Session 19 — We Are Split in Two]]
 - [[Session 20 — Not My Circus, Not My Demogorgon]]
 - [[Session 21 — The Shield and the Middle Finger]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Selûne]]
 - [[Demogorgon]]
 - [[Indigo]]

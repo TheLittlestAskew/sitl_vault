@@ -121,21 +121,45 @@ _Note: [[Aeolus]] (Sirius) was ill and effectively sidelined — zero profanity 
 
 ---
 
-## Running Totals (Through S21)
+## Session 22 — Blind Faith in a Hunter's Mark
+
+> ⚠️ The transcriber **censored some obscenities and transcribed others in full**, inconsistently and without a marker convention. Per the S20/S21 rule, elided instances are logged as `[censored by transcriber]` and are **NOT counted** in the word columns or totals. **This session's true count is higher than the table.** One row per speaker/word combination.
+
+| Speaker | Curse Word | Frequency | Context |
+|---|---|---|---|
+| Kit Aluri (Taylor) | "shit" | 2 | "there's no way I killed the shit out of that hag"; "I'm just gonna handle shit then" |
+| Kit Aluri (Taylor) | "fucked" | 1 | "How fucked up is [[Nanny Plunk]] right now?" |
+| Kit Aluri (Taylor) | "damn" | 2 | [[Aeolus]] taking 20 cold; the hag passing the Trip Attack save on exactly 15 |
+| Kit Aluri (Taylor) | "hell" | 1 | "I am also fighting something on my computer… What the hell?" |
+| Kit Aluri (Taylor) ⚠️ | `[censored by transcriber]` | 2 | Voicing [[Nanny Plunk]]: "what the ___ is going on here? None of you are talking. Gross."; and the sunglasses exchange: "What the ___ are you talking about?" ⚠️ the second may belong to [[Binks Stonevein]] *(logged, not counted)* |
+| Binks Stonevein (Matt) | "Jesus" | 2 | "Oh, Jesus" at [[Amanita de'Champignon]]'s Misty-Step plan; "With Faith, we'll meet again. Jesus. It's not that deep." |
+| Binks Stonevein (Matt) | "ass" | 1 | "the spores… Saved our ass enough times" |
+| Binks Stonevein (Matt) | "hell" | 1 | "Oh, hell yeah" — on getting hag powers |
+| Addison (DM) | "hell" | 3 | "Hell, yeah" at [[Roxy]]'s 19; "Hell yeah" at [[Aeolus]]'s 25; "Hell yeah" at [[Binks Stonevein]]'s lute |
+| Darby Stonefeather (Austin) | "hell" | 1 | "Hell yeah" — [[Roxy]]'s nudge granting advantage |
+| Darby Stonefeather (Austin) | "damn" | 1 | Addison telling [[Kit Aluri]] the wrong Binks was the true Binks |
+| Blarg (Florian) | "God damn it" | 1 | The DM's audio dropping out |
+| Aeolus (Sirius) | "hell" | 1 | "So hell yeah, I would have to go for that" — maximum temp HP on Refreshing Step |
+
+_Note: **[[Amanita de'Champignon]] (Hannah) logged none** despite carrying a large share of the session's dialogue — consistent with her running total of 1 across twenty-two sessions. **[[Aeolus]] (Sirius) reappears** at a single "hell" after being silent in S21 through illness. Addison's three are all the same word at three different players' good rolls. The striking pattern: **nobody swore at the hag, the storm, or the near-TPK.** The cursing lands on dice, on a laptop, and on a friend's phrasing._
+
+---
+
+## Running Totals (Through S22)
 
 | Speaker | shit | fuck/fucking | damn | hell | ass | Other | Total |
 |---|---|---|---|---|---|---|---|
-| Kit Aluri (Taylor) | 17 | 27 | 13 | 10 | 1 | 3 | 71 |
-| Addison (DM) | 5 | 7 | 7 | 1 | 2 | 2 | 24 |
-| Binks Stonevein (Matt) | 3 | 4 | 2 | 3 | 2 | — | 14 |
-| Darby Stonefeather (Austin) | — | 4 | 4 | 4 | 1 | — | 13 |
-| Blarg (Florian) | — | 1 | 1 | 1 | — | — | 3 |
-| Aeolus (Sirius) | — | 1 | — | 1 | — | — | 2 |
+| Kit Aluri (Taylor) | 19 | 28 | 15 | 11 | 1 | 3 | 77 |
+| Addison (DM) | 5 | 7 | 7 | 4 | 2 | 2 | 27 |
+| Binks Stonevein (Matt) | 3 | 4 | 2 | 4 | 3 | 2 | 18 |
+| Darby Stonefeather (Austin) | — | 4 | 5 | 5 | 1 | — | 15 |
+| Blarg (Florian) | — | 1 | 2 | 1 | — | — | 4 |
+| Aeolus (Sirius) | — | 1 | — | 2 | — | — | 3 |
 | Amanita de'Champignon (Hannah) | 1 | — | — | — | — | — | 1 |
 | Turvy (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 | Goblin Boss (Addison/NPC) | — | — | 1 | — | — | — | 1 |
 
-*Kit crosses **70** on a "God damn it," a "Jesus" and two disgusted "Gross"es — none of them at anything that happened to her. Addison jumps to 24 and opens a **hell** column he'd never used. Darby ties her own personal high across three different columns in one session. "Other" now carries the near-miss vocabulary (crap, Jesus, Gross) that the six main columns don't cover. Notably clean for a session that watched a town die: the swearing clustered on dice, not on the demon lord.*
+*Kit clears **77** and still accounts for more than half the ledger on her own. The real S22 movement is in the **hell** column — Addison, Binks, Darby and Aeolus all land one, which is what a table sounds like when the dice keep saving them. Binks opens an "Other" account with two Jesuses. [[Blarg]]'s only profanity across four sessions is aimed at Discord, never at a monster. ⚠️ Both S21 and S22 undercount: S21 dropped eight instances mid-word, S22 censored two.*
 
 ---
 

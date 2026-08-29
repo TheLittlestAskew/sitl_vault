@@ -68,6 +68,13 @@ Friendly, curious, childlike. Uses words like "curious" and "interesting" repeat
 
 ---
 
+### S22 Key Events ([[Session 22 — Blind Faith in a Hunter's Mark|Session 22]])
+- ⭐ **The waterskin is finally identified.** [[Amanita de'Champignon]]'s leathery fungal water skin is confirmed as a **dimensional container** for him, built by her slowly channeling her own energy into it across the extended rest — Addison: *"in a way symbiotic to a dimensional space… like a genie's lamp."* [[Binks Stonevein]]: *"So. Okay, it's a pokeball."* Addison: *"Yeah, it's a fungal pokeball. Yeah, just like [[Roxy]]'s horn."* Takes **one round** to release him in full form.
+- **Round one:** [[Stool]] Misty Stepped onto [[Nanny Plunk]]'s head and **emptied him over her** — she failed the Dex save on a 3 and was covered in glowing green ooze. [[Amanita de'Champignon]] cheering him on: *"go, go, go, go, go, go, go, Go, Glabbagool, go. You got this."*
+- **Round two:** shaken out for the last time and **manifested in full form**, attempting to **engulf [[Nanny Plunk]]** — she made the Dexterity save and escaped.
+- 🩸 **Took damage from both sides:** [[Nanny Plunk]] shrieked and **clawed him twice**, and a Wave Bender landed a massive hit on him. **Alive, damaged.**
+- ⚠️ **Emptied for the last time this session** — the waterskin is now spent as a delivery mechanism for this encounter.
+
 ## Key Quotes
 
 **S06:** "That tickles. Hi. Are you here to see me? Did you come for a visit?"
@@ -87,6 +94,7 @@ Friendly, curious, childlike. Uses words like "curious" and "interesting" repeat
 - [[Session 08 — The Whirlwind and the Depths]]
 - [[Session 09 —  Every Party Needs A Little Guy]]
 - [[Session 17 — The Big Fish Eat the Little Fish]]
+- [[Session 22 — Blind Faith in a Hunter's Mark]]
 - [[Amanita de'Champignon]]
 - [[Aeolus]]
 - [[Binks Stonevein]]

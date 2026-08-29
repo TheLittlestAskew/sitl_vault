@@ -572,5 +572,290 @@ updated_on: 2026-06-10
 
 ---
 
+## Session 22 — Blind Faith in a Hunter's Mark
+
+> ⚠️ [[Indigo]]'s and [[Nanny Plunk]]'s lines are embedded inside Addison's narration blocks in the transcript and are attributed to `ADDISON:` there. They are labelled by in-fiction speaker here only where Addison's framing is unambiguous.
+
+**[[Nanny Plunk]] (Addison) · [Serious / Important to Story]**
+"Fate has delivered you unto me. I shall have my revenge and turn you into my own sisters."
+
+**[[Indigo]] (Addison) · [Important to Story]**
+"Nanny Plunk, we don't have time for your games. What are you doing in this place?"
+
+**[[Indigo]] (Addison) · [Important to Story]**
+"This cove is not for you. This cove belongs to my people."
+
+**Addison (DM) · [DM Quip]**
+"I do not think it means what you think it means."
+
+**Addison (DM) · [DM Quip]**
+"My, my, my, my, my scratches are very long and jagged."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Nanny Plunk, who also seems groovy but maybe a little bit scary."
+
+**[[Kit Aluri]] · [Funny]**
+"I'm gonna change my file to say groovy but scary."
+
+**[[Binks Stonevein]] · [Funny]**
+"I think I was going to take. My idea was it's a communist party at this point. We're all sharing."
+
+**Addison (DM) · [Serious]**
+"This is not Stranger Things. Demogorgons are not beasts of the Upside Down, but a demon prince."
+
+**Addison (DM) · [Important to Story]**
+"You might think that dreams cannot hurt you physically or kill you physically, but a bit like the Matrix, if your mind thinks it's real, then it'll have real effects on your character's bodies."
+
+**[[Amanita de'Champignon]] · [Banter]**
+"This sea witch just seems so cool. Like, really, really frightening. But, like, she's got a lot of power and she's doing something in the fog. I really want to see what it is."
+
+**[[Binks Stonevein]] · [Funny]**
+"I mean, the spores want to see the fog. I kind of have to go with it at this point. Saved our ass enough times."
+
+**[[Kit Aluri]] · [Funny]**
+"No, there's no way I killed the shit out of that hag."
+
+**[[Indigo]] (Addison) · [Serious / Important to Story]**
+"Negotiation with hags is delicate at the best of times. And this hag has corrupted and taken over the cove of my people and my allies. There are merfolk here, innocents."
+
+**[[Binks Stonevein]] · [Funny]**
+"Okay, I'm sorry, but you really buried the lead there. If you would have just led with that, we would not been having this conversation."
+
+**[[Kit Aluri]] · [Funny]**
+"Oh, it'd be like. It's like a thing that he does. Like he really buries the lead."
+
+**[[Kit Aluri]] · [Banter]**
+"I prefer it this way. So my thought process is, if there's anything that I want to roll poorly on, initiative is the way to go."
+
+**Addison (DM) · [DM Quip / Important to Story]**
+"She's a rothe, but she's an ancient rothe, so we're treating her as an oryx. There's also no rothe stat block."
+
+**[[Binks Stonevein]] · [Funny]**
+"So. Okay, it's a pokeball."
+
+**Addison (DM) · [DM Quip]**
+"Yeah, yeah, it's a fungal pokeball. Yeah, just like Roxy's horn."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"It's like a little toadstool that's just splashing through the water a little bit… go, go, go, go, go, go, go, Go, Glabbagool, go. You got this."
+
+**[[Kit Aluri]] · [Funny]**
+"While you were gone, we had the most efficient plan ever, and Hag is dead crazy."
+
+**[[Blarg]] · [Funny]**
+"In the meantime, we killed the hag, by the way."
+
+**Addison (DM) · [DM Quip]**
+"Just a better place for you to have a dream that kills you. So it's good. It's good."
+
+**[[Aeolus]] · [Banter]**
+"Grinning Cat is a kind of a fey creature that I found on Beyond."
+
+**[[Aeolus]] · [Funny]**
+"A ginger cat who is just grinning with sharp fangs and claws. Just looking really, really angry right now. Because I have to choose its mood and I'm choosing Fuming."
+
+**[[Aeolus]] · [Funny]**
+"I am going to scream the command. Attack it. The hag."
+
+**[[Aeolus]] · [Funny]**
+"You know, he literally loves Fey."
+
+**[[Aeolus]] · [Funny]**
+"When I get level 4, so 13 damage, it's gonna be funny, and I'm going to keep the big cat forever."
+
+**Addison (DM) · [DM Quip]**
+"It's not a pick. It is an actual lute… so like an electric guitar."
+
+**Addison (DM) · [DM Quip]**
+"It bangs onto the rock and just emits this, like, sound. Ah, this BANGING electrical riff."
+
+**[[Amanita de'Champignon]] · [Important to Story]**
+"Dude, this guy's super high on something. I don't think they know what they're doing."
+
+**[[Darby Stonefeather]] · [Banter]**
+"Target acquired."
+
+**[[Blarg]] · [Poignant]**
+"As this moonlight comes out of the hands and goes into your body, you feel warmth. And like this, the rest of the snow that's still on you gets melted off, and you feel fresh."
+
+**Addison (DM) · [Serious]**
+"You're Kit. You're an orc. A really good fighter and a tactical commander."
+
+**Addison (DM) · [DM Quip]**
+"You're a cursing connoisseur."
+
+**[[Indigo]] (Addison) · [Important to Story]**
+"I needed to save the leaders before they became infected by the witch's magic… Work to slow the surge and keep their attention. I will work on the storm."
+
+**[[Binks Stonevein]] · [Funny]**
+"With Faith, we'll meet again. Jesus. It's not that deep."
+
+**[[Darby Stonefeather]] · [Serious]**
+"I don't like him."
+
+**[[Kit Aluri]] · [Funny]**
+"I will answer that question with a question. How fucked up is Nanny Plunk right now?"
+
+**[[Kit Aluri]] · [Funny]**
+"Okay, good deal. All right, then I'm just gonna handle shit then."
+
+**[[Kit Aluri]] · [Banter]**
+"It's the great sword. That is actually a short sword."
+
+**[[Binks Stonevein]] · [Serious / Important to Story]**
+"So we need to stop the ritual before they get the third hag."
+
+**[[Amanita de'Champignon]] · [Funny]**
+"Does anyone have use for gaseous form? Would anyone like to turn into a bit of mist and drift along above the fight for a while?"
+
+**Addison (DM) · [Serious / Important to Story]**
+"If the storm goes off, it's going to immediately send you all into a dream state, all into a coma where your bodies will be slowly charmed and used and eventually turned into hags."
+
+**[[Kit Aluri]] · [Funny]**
+"Sweet. We're all getting hag powers, you guys."
+
+**[[Binks Stonevein]] · [Funny]**
+"I don't want to be a hag."
+
+**[[Aeolus]] · [Funny]**
+"I mean, it's not unusual for him to use people as meat shields."
+
+**Addison (DM) · [DM Quip / Important to Story]**
+"You can do non-lethal damage anytime. You can just state that you're trying to put them down without killing them."
+
+**[[Binks Stonevein]] · [Serious]**
+"My goal is to kill Nanny Plunk."
+
+**[[Darby Stonefeather]] · [Serious]**
+"I'm sorry. It's gonna be seething rage, obviously. And it's gonna be a grab to the neck and then just the mace comes down."
+
+**[[Darby Stonefeather]] · [Poignant]**
+"Not by choice. This is not a 'I want to do this,' but I think this makes sense."
+
+**[[Kit Aluri]] · [Funny]**
+"But at what cost?"
+
+**Addison (DM) · [Important to Story]**
+"You feel a connection to this mace, but it's not one that entirely puts you at ease. There seems to be some kind of will to it. Not a sentience per se, but you feel something."
+
+**Addison (DM) · [Important to Story]**
+"Plunk is the focal point. Plunk is the one true hag who's been here."
+
+**[[Amanita de'Champignon]] · [Serious]**
+"Guys, we got to take out Nanny. Like, this one's not even a real hag. Just get the big guy."
+
+**[[Blarg]] · [Serious]**
+"Since I think Darby might be a danger right now to her, to themselves and everyone, I think I'm trying to cast Hold Person on Darby."
+
+**Addison (DM) · [DM Quip]**
+"Oh, how dare you. Wow."
+
+**Addison (DM) · [Serious]**
+"You completely raged and get through that person. You are not contained in the least."
+
+**[[Blarg]] · [Poignant]**
+"No, I don't think… I think it's fine that she breaks through it in her rage. That makes sense to me."
+
+**[[Blarg]] · [Poignant]**
+"Screaming Darby, you gotta stop. Calm down. Please. Please."
+
+**[[Darby Stonefeather]] · [Funny]**
+"You're gonna throw somebody who's experiencing hallucinations a bear?"
+
+**[[Blarg]] · [Funny]**
+"Yes. I'm gonna give you the worst trip of your life right now. I'm sorry."
+
+**[[Kit Aluri]] · [Banter]**
+"Okay, so then can I just take a minute to be like Binks? How many of you are there?"
+
+**[[Binks Stonevein]] · [Banter]**
+"Currently? There's two. The one behind the hag and the one me."
+
+**Addison (DM) · [Serious]**
+"Just to be clear here, where Binks currently is, Kit, you are absolutely certain that that is Nanny Plunk in disguise?"
+
+**[[Kit Aluri]] · [Funny]**
+"I don't want to use such an awesome turn on actual Binks."
+
+**[[Binks Stonevein]] · [Funny]**
+"Do it."
+
+**[[Blarg]] · [Important to Story]**
+"The hag had Hunter's Mark on her. Wouldn't you be able to tell that?"
+
+**[[Kit Aluri]] · [Serious / Important to Story]**
+"And then like the Hunter's Mark, I guess, will just be like the thing that's like, okay, oh, no. Yes, this is who this person is… she will probably visibly shake her head and she will. Realizing that she's wasting time, she will attack the Hunter's marked Binks."
+
+**Addison (DM) · [Serious]**
+"Everything, like all of your internals are screaming that this is your friend. So you have to roll with disadvantage on the attack."
+
+**[[Kit Aluri]] · [Funny / Important to Story]**
+"Binks. If I'm stabbing you, I need you to yell sunglasses right now."
+
+**Addison (DM) · [DM Quip]**
+"And then that's the code word for darkness."
+
+**Addison (DM) · [DM Quip]**
+"Weekend at Bernie's."
+
+**[[Kit Aluri]] · [Poignant / Important to Story]**
+"She's internally screaming so bad right now. And I think the only thing that's helping her is that Binks is not screaming sunglasses at this exact moment. So it's really just got to be, like, absolute blind faith in her Hunter's Mark."
+
+**Addison (DM) · [Important to Story]**
+"Your sword actually went through Binks? She was not there. She had cast invisibility on herself and had moved but hadn't gotten away."
+
+**[[Kit Aluri]] · [Poignant]**
+"Can I get a point of madness for this?"
+
+**[[Kit Aluri]] · [Funny]**
+"The moment that it's done, she's gonna turn around to the Binks behind her and be like, your Binks."
+
+**[[Binks Stonevein]] · [Funny]**
+"I just flip her off."
+
+**[[Kit Aluri]] · [Poignant]**
+"She really just did everything that she could. And if that had really been Binks, it would have been over. So, yeah, I fully deserve a point of madness for that turn."
+
+**Addison (DM) · [Important to Story]**
+"The Psychic faerzress connection between Nanny Plunk and Demogorgon is cut."
+
+**Addison (DM) · [Important to Story]**
+"You feel like the essence part of the soul of Nanny Plunk upon her death went into this other green hag and empowered it to get away."
+
+**[[Amanita de'Champignon]] · [Poignant]**
+"Come on, friend… look, you just need some water. You need like a little food. You gotta come down from there, man. You're not a hag. Come on, come back to me."
+
+**[[Darby Stonefeather]] · [Serious]**
+"I mean, from the pure rage of it all to me, I'm still in combat, so I'm looking for my next target."
+
+**[[Blarg]] · [Poignant]**
+"Would you allow me to try to get my body in between so just so it hits me instead of the merfolk?"
+
+**[[Darby Stonefeather]] · [Serious]**
+"I do not like Indigo very much."
+
+**[[Blarg]] · [Funny]**
+"Why does that keep happening, you guys?"
+
+**[[Darby Stonefeather]] · [Funny]**
+"Seriously, you and me, we're just kindred spirits."
+
+**[[Kit Aluri]] · [Funny]**
+"The cat. I'm gonna go after the cat."
+
+**[[Aeolus]] · [Funny]**
+"In the meantime, Aeolus was just petting the cat, you know?"
+
+**[[Kit Aluri]] · [Poignant]**
+"What you see in her face is like, confusion turn into utter exhaustion. Like what you see is the Kit who just saw Topsy — whichever one — come back to life. She's back. She's in a real bad place."
+
+**[[Binks Stonevein]] · [Funny / Poignant]**
+"Well, at least you got her. But I don't really like you not laughing about it. I'm gonna cast Tasha's Hideous Laughter on her."
+
+**Addison (DM) · [Important to Story]**
+"We're just gonna end session with Kit, like, wanting to attack her friend, who was also not her friend, and just killed the hag that was her friend, and then just erupts in the ridiculousness of it all… And that hysteria echoes throughout the Mermaid Cove as we close the curtain on the session."
+
+---
+
 ## Related
 [[Campaign Dashboard]]
