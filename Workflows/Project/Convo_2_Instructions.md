@@ -156,35 +156,25 @@ Existing (APPEND) / New (CREATE) → `04-World-Lore/Locations/`.
 ### 9. Flora & Fauna Updates
 New (CREATE) / existing (APPEND) → `07-Flora_Fauna/`. Skip if none.
 
-### 10. Website Session Sync (rectrixcaedere.com)
+### 10. Website Session Sync and Audio Publish (rectrixcaedere.com)
 
-The SITL site holds **TWO separate hardcoded `ARC` registries** in the **`rectrixcaedere`** repo (public, NOT the vault). A new session does NOT appear until added to **both** — they have different shapes and must stay in lockstep (same `n` / `d` / `lbl` / `t`). Deploy per the `rectrix-caedere-site` skill (SHA-verify the push).
+**The vault frontmatter is now the source of truth for S20 onward.** `Public Session Index.json` is generated from each completed session note and both Rectrix pages fetch it live. Do not manually add new-session records to the two legacy `ARC` arrays. S01-S19 remain curated in the site; S20 onward is automatic.
 
-**(a) `sky-is-the-limit/session.html` → the session reader's `ARC`.** Append:
-```js
-{n:'##',d:'YYYY-MM-DD',lbl:'Month D, YYYY',
- f:'01-Sessions/Session%20##%20%E2%80%94%20<URL-encoded title>.md',
- t:'<display title>',
- rec:'<recording filename in R2>.mp3'},
+Before running the publish command, ensure the completed session note has `site_region`, `site_arc`, and a 2-4 item `site_events` list in frontmatter. `site_waypoint` is optional. This editorial data is what makes the archive card and the session reader appear.
+
+When the recording is ready and the full Convo 2 propagation has Taylor's approval, run this one command from the vault root:
+```powershell
+node Workflows/scripts/publish_sitl_session_media.mjs --session ## --file "Session_Sources/Recordings/<recording filename>.mp3" --upload
 ```
-- `f` must be the **exact** `01-Sessions/` filename, URL-encoded (`%20` for space, `%E2%80%94` for the em dash). Mismatch = the note body fails to load.
-- `t` is a curated display title (may differ from the note title). `rec` is the audio filename in the R2 `Recordings/sitl/` bucket; omit if none.
 
-**(b) `sky-is-the-limit/archive.html` → the "Descent" timeline's `ARC`** (a *different* array, richer fields). Append:
-```js
-{n:'##',d:'YYYY-MM-DD',lbl:'Mon D, YYYY',t:'<display title>',
- r:'<region / locale label>',
- arc:'<journey this session, e.g. "A → B">',
- wp:'<waypoint label>',           // optional — milestone marker on the descent
- ev:["<key event 1>","<key event 2>","..."]},   // 2-4 short past-tense beats
-```
-- Each archive card **links to `session.html?n=##`** — so if (a) is missing, the card dead-links to an "Unknown session" error. Always do (a) and (b) together.
-- Mark `fin:true` on the entry if it's a finale/arc-closing card (styles the card gold).
-- **Also bump the hardcoded header stats** in `archive.html`: the `<div class="v">N</div>` **Sessions** count, and **Deepest Reach** if the party reached a new deepest locale this session. (Rolls Logged / Nat 20s / Nat 1s are computed live from Supabase — leave those.)
+It performs this exact sequence: uploads the MP3 to R2 using multipart upload when necessary, checks R2's object size, checks the public audio URL, writes `site_recording: <recording filename>.mp3` into the matching session note only after both checks pass, then rebuilds `00-Campaign-Hub/Public Session Index.json`.
 
-> **Backlog flag (live as of this writing):** the two registries are **out of sync** — `archive.html` is current through **S17** but `session.html` stops at **S15**. So **S16 ("Zone of Truth", 2026-05-24)** and **S17 ("The Big Fish Eat the Little Fish", 2026-06-07)** have archive cards that **dead-link** because they're absent from `session.html`'s `ARC`. Catch `session.html` up (and verify both arrays match) when wiring the next session.
+- The command is safe to rerun. An existing same-size object is verified and reported as `already-published`.
+- It refuses to overwrite a different-size object. Investigate first; use `--replace` only for an intentional correction.
+- R2 credentials are loaded from the ignored `.env`: `CLOUDFLARE_R2_ACCOUNT_ID`, `CLOUDFLARE_R2_ACCESS_KEY_ID`, and `CLOUDFLARE_R2_SECRET_ACCESS_KEY`. Never put them in a note, Git, chat output, or the website.
+- The Rectrix site must be deployed after the first loader change, but future session cards and audio links need only the vault commit and push because the site reads the raw GitHub index.
 
-> Note: the site fetches the note body from `raw.githubusercontent.com/.../sitl_vault/main`. That requires `sitl_vault` to be public-readable; if it's private, the body silently fails to the "Failed to load" state. Confirm vault visibility if a session renders empty.
+> Note: the site fetches the note body and public index from `raw.githubusercontent.com/.../sitl_vault/main`. That requires `sitl_vault` to be public-readable; if it is private, the body silently fails to the "Failed to load" state. Confirm vault visibility if a session renders empty.
 
 ### 11. Vault Sync Status
 `00-Campaign-Hub/Vault Sync Status.md` (EDIT — always last) — matrix row (✅/➖) + change-log entry.
@@ -233,7 +223,7 @@ A session is fully synced when ALL of the following are ✅ (or ➖ if N/A):
 | 12 | Flora/Fauna | `07-Flora_Fauna/` | New created, existing updated |
 | 13 | Mechanics | `00-Campaign-Hub/House Rules & Rulings.md` | New rulings (if any) |
 | 14 | Session Registry | `ddb_sessions` (Supabase) | Row exists for this session_date, campaign_id 1 — **if absent, run the Convo 1 Step 7 upsert** (the only Supabase write Convo 2 makes) |
-| 15 | Website ARC | `rectrixcaedere` → `session.html` **and** `archive.html` (both `ARC`s + archive header stats) | New entry added to **both** registries (matching `n`/`d`/`lbl`/`t`) + deployed. Catch up the session.html S16/S17 backlog so archive cards stop dead-linking |
+| 15 | Website session and audio | `Public Session Index.json` + R2 + Rectrix | Index builds without error; session appears in both Rectrix pages; if audio exists, R2 object size and public URL are verified before `site_recording` is written |
 
 Vault Sync Status updated LAST.
 

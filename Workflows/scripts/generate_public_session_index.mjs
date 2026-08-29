@@ -35,6 +35,16 @@ const FIRST_PUBLISHED = 20;
 const NOTE_PATTERN = /^Session\s+(\d+(?:\.\d+)?)\s+—\s+(.+)\.md$/;
 const REQUIRED_SITE_KEYS = ['site_region', 'site_arc', 'site_events'];
 
+/** Only an R2 object filename may be published from note frontmatter. */
+function recordingName(value) {
+  const name = String(value).trim();
+  if (!name) return null;
+  if (name !== path.basename(name) || !/\.mp3$/i.test(name)) {
+    throw new Error(`site_recording must be an MP3 filename, received: ${value}`);
+  }
+  return name;
+}
+
 function normalizeSessionNumber(value) {
   const raw = String(value).trim();
   if (!/^\d+(?:\.\d+)?$/.test(raw)) throw new Error(`Invalid session number: ${value}`);
@@ -110,6 +120,7 @@ function buildEntry(file, note) {
   if (missing.length) throw new Error(`frontmatter is missing ${missing.join(', ')}`);
   if (!Array.isArray(fm.site_events)) throw new Error('site_events must be a YAML list');
   const date = sessionDate(fm.session_date);
+  const rec = fm.site_recording ? recordingName(fm.site_recording) : null;
   return {
     n,
     t: fm.title,
@@ -120,6 +131,7 @@ function buildEntry(file, note) {
     r: fm.site_region,
     arc: fm.site_arc,
     ...(fm.site_waypoint ? { wp: fm.site_waypoint } : {}),
+    ...(rec ? { rec } : {}),
     ev: fm.site_events,
   };
 }
@@ -149,6 +161,9 @@ function selfTest() {
   assert.equal(normalizeSessionNumber('22'), '22');
   assert.equal(normalizeSessionNumber('04.5'), '04.5');
   assert.throws(() => normalizeSessionNumber('twenty'));
+  assert.equal(recordingName('081626 Sky Is The Limit Recording.mp3'), '081626 Sky Is The Limit Recording.mp3');
+  assert.throws(() => recordingName('../unsafe.mp3'));
+  assert.throws(() => recordingName('recording.wav'));
 
   // The whole point of the UTC handling: an ET session date must not roll back a day.
   assert.equal(sessionDate('2026-08-16').iso, '2026-08-16');
@@ -165,11 +180,12 @@ function selfTest() {
   assert.throws(() => frontmatter('no frontmatter here'));
   assert.throws(() => unquote('"has a \\\\ backslash"'));
 
-  const note = '---\nsession_number: 22\nsession_date: 2026-08-16\ntitle: Blind Faith\nsite_region: The Mermaid Cove\nsite_waypoint: The Mermaid Cove\nsite_arc: "Into the fog → the shallows"\nsite_events:\n  - "a beat"\n---\n';
+  const note = '---\nsession_number: 22\nsession_date: 2026-08-16\ntitle: Blind Faith\nsite_region: The Mermaid Cove\nsite_waypoint: The Mermaid Cove\nsite_arc: "Into the fog → the shallows"\nsite_recording: 081626 Sky Is The Limit Recording.mp3\nsite_events:\n  - "a beat"\n---\n';
   const entry = buildEntry('Session 22 — Blind Faith.md', note);
   assert.equal(entry.n, '22');
   assert.equal(entry.d, '2026-08-16');
   assert.equal(entry.wp, 'The Mermaid Cove');
+  assert.equal(entry.rec, '081626 Sky Is The Limit Recording.mp3');
   assert.equal(entry.f, '01-Sessions/Session%2022%20%E2%80%94%20Blind%20Faith.md');
   assert.deepEqual(entry.ev, ['a beat']);
 
