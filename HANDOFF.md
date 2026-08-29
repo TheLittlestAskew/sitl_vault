@@ -108,7 +108,7 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 ### 2026-08-29 18:26 ET · Codex
 - **Changed:** Added the verified SITL audio publish command: multipart R2 upload, object-size and public-URL checks, then automatic `site_recording` frontmatter and public-index update.
 - **Changed:** The public-index generator now emits recording metadata, and Convo 2 documents the single post-approval command instead of manual website edits.
-- **Commit:** pending
+- **Commit:** `f0ba82f`
 - **Next:** Add the three R2 S3 credentials to the ignored `.env`, then run the first verified publish for an approved session recording.
 - **Watch out:** The existing R2 public endpoint remains public; do not use it for future DM-only audio.
 
