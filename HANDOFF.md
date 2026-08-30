@@ -125,7 +125,7 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 
 ### 2026-08-30 15:14 ET · Codex (083026 session audio-quality note)
 - **Changed:** Recorded the source limitation for the 083026 session: Audacity failed and its recovery left missing dialogue in a couple of places; Addison's mic was especially spotty. Context may recover most missing content, but inferred dialogue must not be treated as verbatim.
-- **Commit:** pending
+- **Commit:** `70fb78b`
 - **Next:** Preserve the limitation when transcribing or documenting the 083026 session.
 
 ### 2026-08-30 16:25 ET · Claude Code (S22 roll-log tags re-derived — the stale-tag flag is CLOSED)
@@ -229,12 +229,5 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 - **Commit:** `1130281`
 - **Next:** Re-derive the per-row archive tags, then run Convo 2 from `_pipeline/S22/handoff.md`.
 - **Watch out:** 🛑 **The narrative Full Roll Log's per-row `✅ archive` / `transcript-only` tags are stale and were deliberately NOT auto-flipped.** They were assigned against the old 11-row pull, so some of the **44 rows tagged `transcript-only` now have archive rows**. Flipping them on a character-and-total match alone would be a guess, and asserting `✅ archive` on a guess breaks the vault's no-invention rule — so a warning was written into both the roll-log header and Archivist Notes §1 naming the **Archive Cross-Reference as authoritative** instead. Re-derive them properly with timestamps before trusting that column. ⚠️ Rolls stop at **15:06 ET** while the recording runs to ~15:30; the transcript shows no rolls in that tail either, so it is wrap-up, not a second gap. ⚠️ The 13 `physical dice roll` tags are unaffected — [[Aeolus]] and [[Blarg]] have zero archive rows across the full window.
-
-### 2026-08-19 ET · Claude Code (S22 Convo 1 banked; registered; sync gap root-caused)
-- **Changed:** Verified and banked the Phase B output rather than trusting its self-report. Confirmed independently: **zero `SPEAKER x` labels remain** (1,176 lines relabelled to KIT/BINKS/AMANITA/ADDISON/DARBY/BLARG/AEOLUS, matching Taylor's hand-built convention exactly); **all four RULED-no-change rows survive verbatim** (281 "So, Star", 413 "riotous turvy", 931 "Oops. Logger", 1929 "I got 10, not 20"); all ten approved corrections applied with their pre-fix forms at zero occurrences; **"oryx" ×2 survives** alongside "rothe" ×3, per the contextual rule; and the note carries all 8 required headings at 104 KB. Committed as **`4373b81`** and pushed. Then **registered S22 in `ddb_sessions` as id 23** via a retargeted `register_session.js`. ⭐ **Root-caused the "new sync gap": it isn't a pipeline fault.** The 11 archived rolls span **12:22–12:43 PM ET**, and the final timestamp is the exact moment the DDB sync was triggered on the 16th — *while S22 was still being played*. Nothing after that was ever captured. A re-run now that the session is over is the entire fix.
-- **Commit:** `4373b81`
-- **Next:** Re-sync the S22 rolls, backfill the Archive Cross-Reference, then run Convo 2.
-- **Watch out:** 📌 **Sync DDB rolls *after* a session ends, not during** — that single habit is the whole cause of this gap, and the same mistake would silently truncate any future session's roll log. ⚠️ Cloning `register_session.js` for a title containing an apostrophe breaks the single-quoted JS string; use double quotes and `node --check` first. ⚠️ Phase B was again run **outside** `Approve-SITL.cmd`, deliberately — its 20-minute `runClaude()` cap false-failed S21 on a smaller transcript than this one. ⚠️ `git commit` was permission-blocked in the non-interactive run for the third time running (Phase A, Convo 2, now Phase B); assume it will be and plan to bank by hand.
-
 
 > Older entries archived to `handoff-archive/2026-08.md`, `handoff-archive/2026-07.md` and `handoff-archive/2026-06.md`
