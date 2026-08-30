@@ -20,6 +20,7 @@ Most Recent Session: 2026-08-16
 
 ## Quick References
 
+- [[Where We Stand|🎯 **Where We Stand** — board state at the end of S22, read before play]]
 - [[00-Campaign-Hub/Trackers/Roll Statistics S16-S25|📊 Roll Statistics (active)]] · [[00-Campaign-Hub/Trackers/Roll Statistics S01-S15|S01-S15 archive]]
 - [[00-Campaign-Hub/Trackers/Quote Board S16-S25|💬 Quote Board (active)]] · [[00-Campaign-Hub/Trackers/Quote Board S01-S15|S01-S15 archive]]
 - [[00-Campaign-Hub/Trackers/Profanity Ledger S16-S25|🤬 Profanity Ledger (active)]] · [[00-Campaign-Hub/Trackers/Profanity Ledger S01-S15|S01-S15 archive]]
