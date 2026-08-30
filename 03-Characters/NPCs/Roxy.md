@@ -66,7 +66,25 @@ Docile when fed. No memories of past life. Responsive to food (especially mushro
 - **[[Session 16 — Zone of Truth|Session 16]]:** Subject of the horn ritual at the Fungal Cavern camp — stopped eating, lay down next to Darby, partially dissolved into spores and entered the horn before reconstituting. Then **manifested her shelter form for the first time**: saddlebags opened, stored matter flooded out and congealed into a Zurkhwood tent-cabin that housed the whole party for the night.
 - **[[Session 17 — The Big Fish Eat the Little Fish|Session 17]]:** In **Combat 1**, Darby controlled her for a **17-damage gore** (21 to hit) on the [[Chuul]], helping bring it down. Too buoyant to dive into the pool afterward, so the party **finally stored her fully in the horn** (second ritual attempt — Aeolus Arcana 22 → Darby success) before descending to the submerged lair. She is now transportable through water and narrow spaces.
 
-> ⚠️ **Gap — S18, S19 and S20 are not written up on this page.** Notable missing beats: the S18 twin-raft form (two zurkhwood rafts, 20 HP each), the S19 shrine "offering," and S20's building demolition. Backfill in a catch-up pass. *Recorded 2026-08-16 during the S21 sync.*
+> ✅ **Gap CLOSED 2026-08-29** — backfilled from the session notes below.
+
+### S18 Key Events ([[Session 18 — Trust the Whirlpool|Session 18]])
+
+- ⭐ **She became the party’s boat.** With the current too strong to pass and no [[Zurkhwood]] to harvest, [[Darby Stonefeather]] coaxed her to transform (Survival 17): fungal "wings" of bone and root spread from her dimensional saddlebags and hardened into **two large rafts, one on either side of her**. The DM ruled **each raft has 20 HP**.
+- **Too buoyant to control at first** — she immediately started drifting while the party scrambled aboard in a comedic low-stakes initiative.
+- **Took 8 bludgeoning** when the raft struck the mid-channel boulder, throwing [[Topsy]], [[Turvy]], [[Amanita de'Champignon]] and [[Stool]] into the water.
+- [[Kit Aluri]] fought from her **horns** — it is the footing Kit used for the natural-20 leap that killed the green [[Sea Hag]].
+- **Dissolved back into spores and the horn** at the session’s end so the party could be flushed down [[Sloopidoop]]’s whirlpool to [[Sloobludop]].
+
+### S19 Key Events ([[Session 19 — We Are Split in Two|Session 19]])
+
+- Made **slow progress toward shore** with [[Darby Stonefeather]] through the difficult water after the whirlpool arrival.
+- ⭐ **The shrine "offering."** At Darby’s suggestion Roxy was to make an offering at the **Shrine of the Sea Mother** — but a botched Animal Handling (**3**) had her **defecate in front of the shrine** instead of vomiting, which is the customary kuo-toa offering. Darby owned it (*"I’m a farmer, I can handle it"*) and **reframed it as fertilizer on a 12**, earning genuine approval from [[Ploop]] — *"a fine offering indeed from such a noble creature"* — and **an audible, disembodied feminine giggle from the shrine itself.** ⭐ One of the only times an NPC companion’s botched roll has produced a *boon*.
+
+### S20 Key Events ([[Session 20 — Not My Circus, Not My Demogorgon|Session 20]])
+
+- 🛑 **Spooked and stampeded.** [[Darby Stonefeather]]’s Animal Handling came up **8** in the chaos of the altar battle, and Roxy **bolted in a random direction and demolished a building**.
+- ⚠️ **Her initiative was DM-moved from 14 to 11** mid-round-1; the session note’s initiative table reflects the final 11.
 
 ### S21 Key Events ([[Session 21 — The Shield and the Middle Finger|Session 21]])
 
