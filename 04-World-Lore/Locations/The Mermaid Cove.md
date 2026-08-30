@@ -26,7 +26,7 @@ status: Liberated but not secured — the charmed survivors are contained, not f
 ## Notable Features
 
 - **The fog.** Unnatural, magical, thick enough to hide an entire enemy force — Stormcallers, Wave Benders, Skirmishers and two green hags were all inside it. It thickened into a **storm cloud** with ozone and blue arcs as the ritual neared completion. Destroyed by [[Amanita de'Champignon]]'s **3rd-level Dispel Magic** (cleared a 19).
-  - 🛑 **Its origin is stated two different ways by Addison and was not reconciled.** At **00:25**: *"You are aware that this is a magical fog created by Nanny Plunk."* At **01:06**: *"the fog that you're currently in is not harnessed or channeled or created by Nanny Plunk, although her energy is definitely permeating… she was not the origin."* **The session runs on the later ruling** — it is the merfolk Stormcallers' storm ritual — but both are on the record. **Needs Taylor's call before this is written as settled.**
+  - ✅ **RULED (Taylor, 2026-08-30): the fog is the charmed merfolk Stormcallers' storm ritual.** [[Nanny Plunk]]'s energy permeates it and she is drawing on it, but **she is not its origin.** This is the reading the session actually ran on — the two-round deadline, [[Amanita de'Champignon]]'s Dispel Magic reveal and the whole shape of the encounter depend on it. ⚠️ *For the record: Addison said the opposite at 00:25 ("a magical fog created by Nanny Plunk") before correcting himself at 01:06 ("she was not the origin"). The later line is canon; the earlier one is noted here only so it is not re-litigated.*
 - **Azure crystal.** Bright blue crystal outcrops revealed when the fog died. [[Amanita de'Champignon]]'s **Plant Growth** burst mycelial tendrils out of the nearest azure crystal to pin a fleeing hag — so it supports fungal growth.
 - **Blue lichen.** Revealed with the crystal. No properties established. `[Unknown/Ambiguous]`
 - **The sand.** 🛑 **Setting foot on it forced [[Topsy]] and [[Turvy]] fully into wererat hybrid form**, in pain and effectively under short-term madness. Whether that is the cove, the ritual, the faerzress or the twins' own corruption is **unstated**.
@@ -51,7 +51,7 @@ status: Liberated but not secured — the charmed survivors are contained, not f
 
 ## Open Questions
 
-- ⚠️ **The fog's origin** — see the contradiction above. **Taylor's call.**
+- ✅ ~~The fog's origin~~ — **RULED 2026-08-30: the Stormcallers' ritual.** No longer open. See the Notable Features entry above.
 - ⚠️ **The High Priest and the unnamed priest** — one NPC or two?
 - ⚠️ **Why the sand breaks lycanthropes.** Unstated.
 - ⚠️ **What the party owes this place.** They have inherited a cove of victims, two priests, one restrained hag and a manhunt up the north coast — and they are still 10–15 days from [[04-World-Lore/Locations/Mantol-Derith]].

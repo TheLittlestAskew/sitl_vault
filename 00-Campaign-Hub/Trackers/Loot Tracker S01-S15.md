@@ -132,7 +132,7 @@ _Note: Kit's armor AC penalty is permanent per DM ruling. Darby's mace damage up
 |Character|Item|Properties / Notes|Status|
 |---|---|---|---|
 |[[Darby Stonefeather]]|Carved Trinket (empowered)|Darby's wood/charcoal carving from her father. Empowered during Feydark vision — glowed with magical energy when father's myconid avatar folded her hand around it. Exact properties TBD by DM.|**Empowered** — Carried|
-|[[Binks Stonevein]]|Loot Pick (empowered)|Binks's loot pick. Empowered during Feydark vision — fungal tendril pushed it up, started spinning, buzzing, glowing. Grandfather said "Take it now with our blessing." Exact properties TBD by DM.|**Empowered** — Carried|
+|[[Binks Stonevein]]|Lute Pick (empowered)|Binks's lute pick. Empowered during Feydark vision — fungal tendril pushed it up, started spinning, buzzing, glowing. Grandfather said "Take it now with our blessing." Exact properties TBD by DM.|**Empowered** — Carried|
 |[[Darby Stonefeather]]|Clementine (spider — grew)|Pet tarantula grew slightly in size when Darby's father-vision gave it a scritch. May have gained minor enhancement.|Companion|
 |No new physical loot|—|Session focused on Feydark visions and Myconid Sovereign trial. DM teased: "All of your trinkets are going to become empowered in various ways" — remaining trinkets will be empowered next session.|—|
 
@@ -148,7 +148,7 @@ _Note: Kit's armor AC penalty is permanent per DM ruling. Darby's mace damage up
 |[[Amanita de'Champignon]]|Enhanced Pipe|Upgraded by Psilofyr. Enables rapport spores (3/day, 1hr each, 30ft initial emanation → unlimited range on same plane for duration). Growth item.|**Empowered** — Carried|
 |[[Amanita de'Champignon]]|Enspelled Warpick|+1 INT. Earth Tremor spell. Can cast Shillelagh on it (DM homebrew). Future necrotic damage component teased. Previously the mithral pickaxe. Growth item.|**Empowered** — Equipped|
 |[[Darby Stonefeather]]|Enhanced Totem Carving|+1 CHA. Shifts between father's face and axe beak form. Fourth rage option: Axe Beak (50ft movement, +D4 slashing on all hit attacks). Growth item.|**Empowered** — Carried|
-|[[Binks Stonevein]]|Enhanced Loot Pick|+1 STR. Ring of Mind Shielding properties (immune to thought-reading, lie detection, alignment/type detection; telepathy only by permission). Growth item.|**Empowered** — Carried|
+|[[Binks Stonevein]]|Enhanced Lute Pick|+1 STR. Ring of Mind Shielding properties (immune to thought-reading, lie detection, alignment/type detection; telepathy only by permission). Growth item.|**Empowered** — Carried|
 |All PCs|Fey Touched feat|Granted by Psilofyr. Burning roots wrapped around arms. Standard Fey Touched feat. Individual 1st-level spell choices TBD.|Active|
 
 ---

@@ -69,7 +69,7 @@ After a chaotic sequence involving a spooked [[Roxanne]] (failed animal handling
 
 On the other side, thick fog separates the party into three groups: [[Binks Stonevein]] alone, [[Aeolus]]/[[Blarg]]/[[Amanita de'Champignon]] on Roxanne, and [[Kit Aluri]]/[[Darby Stonefeather]] together. Each group except Kit's experiences a personalized vision:
 
-- **Binks** sees his deceased grandfather and two brothers around a table. They share stories, warn of a great evil threatening the Underdark tied to the myconids, and empower his loot pick with a magical glow.
+- **Binks** sees his deceased grandfather and two brothers around a table. They share stories, warn of a great evil threatening the Underdark tied to the myconids, and empower his lute pick with a magical glow.
 - **Darby** sees her father at an axe beak farm. He delivers a similar warning about a chaotic entity threatening life and death, and empowers her carved trinket. Clementine (spider) grows slightly when the father gives it a scritch.
 - **Aeolus/Blarg/Amanita** are guided by Roxanne (who instinctively recognizes the path) and encounter Echo, Aeolus's patron raven, who explains they are in the Feydark — the realm of [[Psilofyr]] (the Carrion King, Archfey of Myconids), near the Court of Stars. Echo warns something is wrong in their future before departing due to fae rules.
 - **Kit** experiences no vision. She closes her eyes, draws her greatsword, and enters a defensive warrior meditation. She hears running water, rustling leaves, and wet gliding sounds. No comfort, no guidance, no empowered trinket.
@@ -100,7 +100,7 @@ Fungal Pond / Portal Room → [[04-World-Lore/Locations/The Feydark]]. Party beg
 - **Heed the Warnings of Psilofyr (New — In Progress):** Both Binks's and Darby's visions warned of a great evil — a chaotic/demonic entity threatening the Underdark and possibly the whole world, tied to the balance of life and death and the myconid/mycelial network.
 - **Aeolus and Echo's Unfinished Business (Ongoing):** Echo appeared, confirmed Aeolus was "meant to be here, but not yet." Aeolus still wants to kill Echo. Echo left before the trial, citing fae rules.
 - **Rescue/Locate Missing NPCs (Ongoing):** [[Turvy]] and [[Eldeth]] went through the portal but have not been seen in the Feydark. Addison confirmed he "did not forget about them."
-- **Trinket Empowerment (Teased — Next Session):** Addison stated that all trinkets will become empowered in the Feydark. Darby's carving and Binks's loot pick were empowered this session; others will follow.
+- **Trinket Empowerment (Teased — Next Session):** Addison stated that all trinkets will become empowered in the Feydark. Darby's carving and Binks's lute pick were empowered this session; others will follow.
 
 ### Scene / Timeline Breakdown
 
@@ -108,7 +108,7 @@ Fungal Pond / Portal Room → [[04-World-Lore/Locations/The Feydark]]. Party beg
 - **Scene 2: Chaos at the Portal.** Blarg stabilizes the portal (arcana 25-2=23). Aeolus leaps onto Roxanne (acrobatics 17). Amanita stops the charge with food (animal handling 17). Binks is oblivious (perception 2+4-2=4). Marching order established.
 - **Scene 3: The Claw.** Kit's passive perception 13 isn't enough to beat the ambush. A large insectoid creature with tentacles reaches from the pool — nat 1 attack, misses. Kit screams "Go now!" and the party rushes through the portal.
 - **Scene 4: Arrival in the Feydark.** Thick fog. Party separated into three groups. Constitution saves made (no one affected). Perception checks determine visibility: Amanita (20) and Darby (19) lightly obscured; others heavily obscured/blinded.
-- **Scene 5: Binks's Vision.** Binks hears laughter, goes stealth (18 with Guidance), finds his grandfather and two brothers at a table. Religion check (12) reveals divine connection is blocked — not on the material plane. Grandfather warns of coming evil, hints at the Feydark's nature. Binks's loot pick glows with new power.
+- **Scene 5: Binks's Vision.** Binks hears laughter, goes stealth (18 with Guidance), finds his grandfather and two brothers at a table. Religion check (12) reveals divine connection is blocked — not on the material plane. Grandfather warns of coming evil, hints at the Feydark's nature. Binks's lute pick glows with new power.
 - **Scene 6: Darby's Vision.** Darby hears her father's axe beak call and sprints into the fog. Finds her dad at a farm. Wisdom check (14) reveals it feels dreamlike but increasingly normal. Father warns of a great evil, empowers her carved trinket with a magical glow. Clementine (spider) grows slightly. The illusion fades — "father" is a myconid.
 - **Scene 7: Aeolus/Blarg/Amanita on Roxanne.** Roxanne follows a path she instinctively recognizes. Aeolus hears a crow call. Blarg hears goblin voices. Amanita senses spores guiding her. Lesser Restoration cures Aeolus's blindness. Echo (the raven) lands and explains: they are in the Feydark, realm of [[Psilofyr]] (the Carrion King, Archfey of Myconids). Echo warns something is coming before departing due to fae rules.
 - **Scene 8: Kit's Warrior Meditation.** Kit closes her eyes, draws her greatsword, enters a defensive stance. Perception (11-2=9) picks up running water, rustling leaves, and wet gliding sounds. No vision. No danger sense. She waits.
@@ -175,7 +175,7 @@ Fungal Pond / Portal Room → [[04-World-Lore/Locations/The Feydark]]. Party beg
 | Character / Owner | Item / Artifact | State / Context |
 |---|---|---|
 | [[Darby Stonefeather]] | Carved trinket (empowered) | Glowed with magical energy during father-vision. Exact properties TBD |
-| [[Binks Stonevein]] | Loot pick (empowered) | Glowed, spun, buzzed during grandfather-vision. Exact properties TBD |
+| [[Binks Stonevein]] | Lute pick (empowered) | Glowed, spun, buzzed during grandfather-vision. Exact properties TBD |
 | [[Darby Stonefeather]] | Clementine (spider) | Grew slightly when Darby's father-vision gave it a scritch |
 | DM tease | All trinkets | "All of your trinkets are going to become empowered in various ways" — remaining trinkets next session |
 

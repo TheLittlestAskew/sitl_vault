@@ -63,7 +63,7 @@ Session 11 picks up immediately after the Feydark forced long rest and level-up 
 
 [[Darby Stonefeather]]'s trinket empowerment happens during the "morning" transition. Her carved totem shifts between her father's face and an axe beak. She receives +1 CHA and a fourth rage option: **Axe Beak** (movement increases to 50ft; all attacks add an extra D4 slashing damage on hit).
 
-[[Binks Stonevein]] tries to go back to sleep, believing he's dead. While dozing, he attunes to his loot pick and hears his grandfather's voice: "A wise Goliath once told me that your strength comes from your friends." Binks gains +1 STR and his loot pick gains **Ring of Mind Shielding** properties (immune to thought-reading magic, lie detection, alignment/creature type detection; telepathy only by permission).
+[[Binks Stonevein]] tries to go back to sleep, believing he's dead. While dozing, he attunes to his lute pick and hears his grandfather's voice: "A wise Goliath once told me that your strength comes from your friends." Binks gains +1 STR and his lute pick gains **Ring of Mind Shielding** properties (immune to thought-reading magic, lie detection, alignment/creature type detection; telepathy only by permission).
 
 **Act 2 — Reunion, Topsy's Resurrection, and the Nexus Pools:**
 
@@ -109,7 +109,7 @@ The Feydark — Cliffside Clearing and Nexus Pools glade. The party's Feydark vi
 
 ### Quests / Objectives
 
-- **Trinket Empowerment** — (Completed This Session): All six PCs received empowered trinkets/items from Psilofyr/the Feydark. Kit: Doll of the Fallen Soldier. Aeolus: Ring of Spell Storing. Blarg: Goblin Family Carving. Amanita: Enhanced pipe + enspelled warpick. Darby: Axe Beak Totem. Binks: Mind Shielding Loot Pick.
+- **Trinket Empowerment** — (Completed This Session): All six PCs received empowered trinkets/items from Psilofyr/the Feydark. Kit: Doll of the Fallen Soldier. Aeolus: Ring of Spell Storing. Blarg: Goblin Family Carving. Amanita: Enhanced pipe + enspelled warpick. Darby: Axe Beak Totem. Binks: Mind Shielding Lute Pick.
 - **Fey Touched Feat** — (Completed This Session): All PCs granted Fey Touched by Psilofyr.
 - **Topsy Resurrection** — (Completed This Session): The Carrion King retrieved Topsy's body and resurrected her via mycelial fibers. Topsy is alive but weak.
 - **Eldeth's Departure** — (Completed This Session): Eldeth departs through the Gauntlgrym portal to warn the dwarven kings.
@@ -127,7 +127,7 @@ The Feydark — Cliffside Clearing and Nexus Pools glade. The party's Feydark vi
 - Scene 4: Amanita's Trance. Deep elven trance to the mycelial network's center. Psilofyr shows four possible future forms. Pipe and warpick empowered. Rapport spores massively upgraded. Fist bump with casual Psilofyr avatar.
 - Scene 5: Bio-break / OOC Discussion. Players discuss their new items, spell interactions, and Ring of Spell Storing strategies above the table.
 - Scene 6: Darby's Morning. Wakes early, wanders camp, observes sleeping party. Trinket empowered (+1 CHA, Axe Beak rage). Makes small talk with Eldeth and goblins.
-- Scene 7: Binks's Attunement. Tries to go back to sleep. Hears grandfather's voice during attunement. Loot pick empowered (Ring of Mind Shielding + STR).
+- Scene 7: Binks's Attunement. Tries to go back to sleep. Hears grandfather's voice during attunement. Lute pick empowered (Ring of Mind Shielding + STR).
 - Scene 8: Topsy Alive. Turvy brings Binks to the tent. Topsy is wrapped in mycelial fibers, alive but weak. Binks makes healing salve (medicine 24). Kit sees Topsy and breaks down sobbing. Emotional climax.
 - Scene 9: Party Reunion. Kit wakes from nightmare, Darby standing over her, instinctive punch. Binks brings Kit to see Topsy. Blarg in goblin form. Aeolus on his rock with the ring. Amanita activates rapport spores — telepathic party chat.
 - Scene 10: Psilofyr and the Nexus Pools. Zurkhwood huts sink into earth. Psilofyr leads party to the Nexus Pools. Seven destinations revealed. Fey Touched feat granted. Eldeth departs through Gauntlgrym portal.
@@ -191,7 +191,7 @@ The Feydark — Cliffside Clearing and Nexus Pools glade. The party's Feydark vi
 | [[Amanita de'Champignon]] | Enhanced Pipe | Upgraded by Psilofyr. Enables rapport spores (3/day, 1hr each, 30ft emanation → unlimited range on same plane for duration). |
 | [[Amanita de'Champignon]] | Enspelled Warpick | +1 INT. Earth Tremor spell. Can cast Shillelagh on the warpick (DM homebrew — normally staves/clubs only). Future necrotic damage component teased. |
 | [[Darby Stonefeather]] | Enhanced Totem Carving | +1 CHA. Shifts between father's face and axe beak form. Fourth rage option: Axe Beak (50ft movement, +D4 slashing on all attacks that hit). |
-| [[Binks Stonevein]] | Enhanced Loot Pick | +1 STR. Ring of Mind Shielding properties: immune to thought-reading magic, lie detection, alignment/creature type knowledge. Telepathy only by permission. |
+| [[Binks Stonevein]] | Enhanced Lute Pick | +1 STR. Ring of Mind Shielding properties: immune to thought-reading magic, lie detection, alignment/creature type knowledge. Telepathy only by permission. |
 | All PCs | Fey Touched feat | Granted by Psilofyr. Burning roots wrapped around arms. Standard Fey Touched feat mechanics. |
 
 ---
@@ -388,7 +388,7 @@ Kit's nightmare was deliberately unwinnable. DM confirmed post-session: "There w
 | Topsy's condition | Topsy is "alive but weak" — what are her mechanical stats? Can she fight? | Topsy resurrection scene | Pending DM clarification |
 | Corrupted entity's name | Naos said he "dare not speak her name" — likely Zuggtmoy but unconfirmed | Naos exposition | Open — do not metagame |
 | Amanita's future forms | Four paths shown (arch druid, shield-bearer, barbarian sovereign, patron champion) — when does she choose? | Psilofyr trance scene | Open — future session |
-| Binks's loot pick vs Ring of Mind Shielding | Binks already has a Ring of Mind Shielding (pre-campaign). The loot pick now grants the same properties. Are they redundant or do they stack? | Binks attunement scene | Needs DM clarification |
+| Binks's lute pick vs Ring of Mind Shielding | Binks already has a Ring of Mind Shielding (pre-campaign). The lute pick now grants the same properties. Are they redundant or do they stack? | Binks attunement scene | Needs DM clarification |
 | Kit's Action Surge timing | Kit asked to Action Surge before the multi-attacks; DM said no because she didn't declare it earlier. This is a minor rules tension — RAW, Action Surge should be usable on your turn. | Kit nightmare scene | DM ruling stands (nightmare was scripted) |
 | Blarg's goblin wild shape duration | DM said "Wild shape lasts for an hour" — but 2024 Moon Druid wild shape has different duration rules | Blarg scene | Confirm with DM |
 | Carbra | Blarg's adoptive goblin shaman — first named in transcript. Chris knew Carbra. Location unknown. | Blarg/Chris scene | New NPC to track |
