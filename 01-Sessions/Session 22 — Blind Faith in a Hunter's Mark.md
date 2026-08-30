@@ -348,7 +348,11 @@ Tactically the encounter was decided by three plays: [[Stool]]'s round-one Misty
 
 ### Full Roll Log
 
-🛑 **The `✅ archive` / `transcript-only` tags in this table are STALE** — they were assigned against the original 11-row pull, before the 2026-08-19 re-sync brought the archive to 68 rolls. Several rows tagged `transcript-only` almost certainly have archive rows now. **The Archive Cross-Reference below this table is authoritative**; these per-row tags are not, until re-derived. See Archivist Notes §1.
+✅ **The per-row tags were RE-DERIVED against the full 68-row archive on 2026-08-30 and are now authoritative.**
+
+The method: the archive stores wall-clock ET while the transcript stores elapsed audio time, so the two were calibrated on the **initiative rolls**, which are unambiguous in both (transcript `00:34` = archive `12:37 ET`, putting the session's audio start at ~**12:03 ET**). With that offset every narrative row maps to a time window in the archive, and a row was only flipped where **character, roll type, total and time window all agree** — never on character-and-total alone, which is what made the earlier pass unsafe.
+
+**36 rows flipped to `✅ archive`**, each carrying its archive timestamp. **Two rows were recovered outright** ([[Binks Stonevein]]'s first lute swing, [[Kit Aluri]]'s Trip Attack superiority die) and **two previously-unknown results were resolved** ([[Darby Stonefeather]]'s interlude Wisdom save, [[Amanita de'Champignon]]'s "NAT20"). ⚠️ **Two wrap-up rows are left flagged as genuine archive/transcript conflicts** rather than reconciled on a guess.
 
 Combat rounds are shaded by the **Round** column. `✅ archive` = confirmed in the D&D Beyond archive. `transcript-only` = confirmed in the transcript but absent from the archive. `physical dice roll` = the player rolled physical dice ([[Aeolus]] and [[Blarg]] throughout; [[Binks Stonevein]] intermittently).
 
@@ -372,73 +376,75 @@ Combat rounds are shaded by the **Round** column. `✅ archive` = confirmed in t
 | Initiative | [[Aeolus]] | Initiative | **18** — physical dice roll | |
 | Initiative | [[Blarg]] | Initiative | [Unknown/Ambiguous] — never stated | Addison was interrupted mid-callout |
 | **R1** | [[Nanny Plunk]] | Dexterity save vs. [[Stool]]'s drop | **3** (+1) — **failed** | DM roll. She does not spot [[Stool]] teleporting onto her head; [[Glabbagool]] is emptied over her |
-| **R1** | [[Roxy]] | Wisdom check ×2 (advantage via [[Darby Stonefeather]]'s reaction) | **9** — both low | transcript-only. Stressed by the chaotic magic; the current pins her against the shore |
+| **R1** | [[Roxy]] | Wisdom check ×2 (advantage via [[Darby Stonefeather]]'s reaction) | **4** and **9** — ✅ archive (12:55 and 12:56, blank-`character` rows on Austin's account) | Stressed by the chaotic magic; the current pins her against the shore |
 | **R1** | [[Aeolus]] | Performance w/ spellcasting modifier | **25** (17 + 8) — physical dice roll | Commanding the Grinning Cat; Addison grants **+1d6** damage |
 | **R1** | Grinning Cat | Fey Blade to hit (advantage) | **21 / 23** — hit | physical dice roll |
 | **R1** | Grinning Cat | Fey Blade damage (3d6+6) | **13** to [[Nanny Plunk]] | physical dice roll. Split roughly 3 force / 10 piercing |
-| **R1** | [[Amanita de'Champignon]] | Arcana | **22** — transcript-only | Traces a mycelial line to a hidden point in the fog. Addison: the fog is **not** [[Nanny Plunk]]'s creation |
-| **R1** | Party | Perception (group) | [[Darby Stonefeather]] **13**; others not stated — transcript-only | Above 10 sees the spore line; above 15 also sees the endpoint and intuits a hag is there |
+| **R1** | [[Amanita de'Champignon]] | Arcana | **22** — ✅ archive (13:11) | Traces a mycelial line to a hidden point in the fog. Addison: the fog is **not** [[Nanny Plunk]]'s creation |
+| **R1** | Party | Perception (group) | [[Darby Stonefeather]] **13**, [[Kit Aluri]] **11**, [[Binks Stonevein]] **23** — ✅ archive (13:13, all three) | ⭐ Only Darby's was stated aloud; the other two are recovered from the archive. Above 10 sees the spore line; above 15 also sees the endpoint and intuits a hag is there |
 | **R1** | Merfolk Skirmisher | Attack vs. [[Amanita de'Champignon]] | **19** — hit; 3 piercing + 2 cold | DM roll. Ice-rimed jagged spear |
-| **R1** | [[Amanita de'Champignon]] | Chill Touch (opportunity attack) | **16** — hit; **8 necrotic** | transcript-only. The Skirmisher's veins lace with necrosis |
-| **R1** | [[Amanita de'Champignon]] | Insight (free, granted by DM) | **17** — transcript-only | **The merfolk is charmed.** Broadcast to the party through the spores |
+| **R1** | [[Amanita de'Champignon]] | Chill Touch (opportunity attack) | **16** — hit; **8 necrotic** — ✅ archive (13:21, both rows) | The Skirmisher's veins lace with necrosis |
+| **R1** | [[Amanita de'Champignon]] | Insight (free, granted by DM) | **17** — ✅ archive (13:22) | **The merfolk is charmed.** Broadcast to the party through the spores |
 | **R1** | Wave Bender A | Attack vs. [[Aeolus]] | Hit — **20 cold damage** | DM roll. Unseen; a massive snowball out of the fog |
 | **R1** | Wave Bender B | Attack vs. [[Blarg]] | Miss | DM roll |
-| **R1** | [[Darby Stonefeather]] | Survival | **21** — transcript-only | Triangulates a Wave Bender; Addison clears the fog for her alone and shows a whirlwind of ethereal ax beak feathers around it |
+| **R1** | [[Darby Stonefeather]] | Survival | **21** — ✅ archive (13:26) | Triangulates a Wave Bender; Addison clears the fog for her alone and shows a whirlwind of ethereal ax beak feathers around it |
 | **R1** | [[Nanny Plunk]] | Claw ×2 vs. [[Glabbagool]] | Both hit | DM roll. "Real low AC" |
-| **R1** | [[Blarg]] | Cure Wounds (2nd level) on [[Aeolus]] | **24 HP** restored — transcript-only | "You're probably back to full." Moonlight melts the frost off him |
+| **R1** | [[Binks Stonevein]] | Spiritual Weapon (the lute) to hit | **13** — **miss** — ✅ archive (13:17) | ⭐ Recovered 2026-08-30 — the lute's first swing, which "bangs off the rock" in the narrative but was never given a number |
+| **R1** | [[Blarg]] | Cure Wounds (2nd level) on [[Aeolus]] | **24 HP** restored — physical dice roll | "You're probably back to full." Moonlight melts the frost off him |
 | **R1** | [[Turvy]] | Claw multiattack vs. Skirmisher | Two 6s — **both miss** | DM roll. "Still a little groggy from this messing with his mind" |
 | **R1** | [[Kit Aluri]] | Reaction — sense [[Indigo]] through the faerzress | No number stated — transcript-only | "A pulse in faerzress… hidden in the stone, hidden deep in the sand. He's not an immediate mortal danger" |
-| **R1** | [[Kit Aluri]] | Strength saving throw (sustaining the sword's short-sword shape) | **19** — passed | transcript-only. Addison then rules it deals greatsword damage |
-| **R1** | [[Kit Aluri]] | Short sword to hit | **21** — hit | transcript-only |
-| **R1** | [[Kit Aluri]] | Damage + Hunter's Mark | 7 + 5 = **12** to [[Nanny Plunk]] | transcript-only |
+| **R1** | [[Kit Aluri]] | Strength saving throw (sustaining the sword's short-sword shape) | **19** — passed — ✅ archive (13:48) | Addison then rules it deals greatsword damage |
+| **R1** | [[Kit Aluri]] | Short sword to hit | **21** — hit — ✅ archive (13:48, logged as `Greatsword, +1`) | ⚠️ The archive also holds a `Shortsword` to-hit of **19** at 13:47, immediately prior; the 21 that landed is the Greatsword entry, consistent with Addison's ruling that the shifted blade deals greatsword damage |
+| **R1** | [[Kit Aluri]] | Damage + Hunter's Mark | 7 + 5 = **12** to [[Nanny Plunk]] — ✅ archive (13:49; `2d6+5 = 7` plus `1d6 = 5`) | |
 | **R1** | [[Nanny Plunk]] | Strength save DC 15 vs. Trip Attack | **exactly 15** — **passed** | DM roll. "Damn. Okay. All right. All good." |
-| Interlude | [[Aeolus]] | Wisdom save (group madness check) | **21** — transcript-only | ⚠️ Reported by [[Blarg]]'s player — attribution flagged |
-| Interlude | [[Binks Stonevein]] | Wisdom save (group madness check) | **21** — transcript-only | ⚠️ Reported by [[Blarg]]'s player — attribution flagged |
-| Interlude | [[Blarg]] | Wisdom save (group madness check) | **21** — transcript-only | ⚠️ Reported by [[Amanita de'Champignon]]'s player — attribution flagged |
-| Interlude | [[Amanita de'Champignon]] | Wisdom save (group madness check) | **12** — transcript-only | ⚠️ Same flagged callout |
-| Interlude | [[Kit Aluri]] | Wisdom save (group madness check) | **14** — transcript-only | Addison read it back: "Anybody I miss? 14, Kit" |
-| Interlude | [[Darby Stonefeather]] | Wisdom save (group madness check) | [Unknown/Ambiguous] — never stated | All six passed; initiative held |
+| Interlude | [[Aeolus]] | Wisdom save (group madness check) | **21** — physical dice roll | ⚠️ Reported by [[Blarg]]'s player — attribution still open. [[Aeolus]] has zero archive rows all session, so this one cannot be confirmed either way |
+| Interlude | [[Binks Stonevein]] | Wisdom save (group madness check) | **21** — ✅ archive (14:07) | ⭐ **Attribution confirmed 2026-08-30** — the archive puts this roll on [[Binks Stonevein]]'s own account, closing the flag that it was only ever reported by [[Blarg]]'s player |
+| Interlude | [[Blarg]] | Wisdom save (group madness check) | **21** — physical dice roll | ⚠️ Reported by [[Amanita de'Champignon]]'s player — attribution still open. [[Blarg]] has zero archive rows all session, so this one cannot be confirmed either way |
+| Interlude | [[Amanita de'Champignon]] | Wisdom save (group madness check) | **12** — ✅ archive (14:07) | ⚠️ Same flagged callout |
+| Interlude | [[Kit Aluri]] | Wisdom save (group madness check) | **14** — ✅ archive (14:07) | Addison read it back: "Anybody I miss? 14, Kit" |
+| Interlude | [[Darby Stonefeather]] | Wisdom save (group madness check) | **20** — ✅ archive (14:08) | ⭐ **RESOLVED 2026-08-30.** Never stated at the table; recovered from the archive. All six passed; initiative held |
 | **R2** | [[Nanny Plunk]] | Dexterity save vs. [[Glabbagool]]'s Engulf | **Passed** | DM roll. She escapes to the nearest unoccupied space; [[Glabbagool]] is fully manifested |
-| **R2** | [[Darby Stonefeather]] | Animal Handling ([[Roxy]]'s nudge) | **13** — transcript-only | Advantage on her next attack plus **1d4** magical bludgeoning |
+| **R2** | [[Darby Stonefeather]] | Animal Handling ([[Roxy]]'s nudge) | **13** — ✅ archive (14:16) | Advantage on her next attack plus **1d4** magical bludgeoning |
 | **R2** | [[Aeolus]] | Refreshing Step temp HP (1d10) | **10** — maximum — physical dice roll | |
 | **R2** | [[Aeolus]] | Eldritch Blast — beam 1 to hit | **19** — hit | physical dice roll |
 | **R2** | [[Aeolus]] | Eldritch Blast — beam 2 to hit | "dirty 20" — hit | physical dice roll |
 | **R2** | [[Aeolus]] | Eldritch Blast damage, both beams | **24** total | physical dice roll |
 | **R2** | Grinning Cat | Fey Blade to hit | **22 / 23** — hit | physical dice roll |
 | **R2** | Grinning Cat | Fey Blade damage | [Unknown/Ambiguous] — transcribed as "Nine at three, 12 at 15" | Addison: "he's starting to look pretty hurt." See **Continuity Flags** |
-| **R2** | [[Amanita de'Champignon]] | Dispel Magic (3rd level) check | **19** — success — transcript-only | **The whole fog section clears.** Reveals a Stormcaller channelling a staff, three merfolk, and the Green Hag |
-| **R2** | [[Amanita de'Champignon]] | Mithral war pick to hit | **7** → heroic inspiration reroll → **13** — **miss** | transcript-only |
+| **R2** | [[Amanita de'Champignon]] | Dispel Magic (3rd level) check | **19** — success — ✅ archive (14:23, logged as a `wis` check) | **The whole fog section clears.** Reveals a Stormcaller channelling a staff, three merfolk, and the Green Hag |
+| **R2** | [[Amanita de'Champignon]] | Mithral war pick to hit | **7** → heroic inspiration reroll → **13** — **miss** — ✅ archive (14:26, both rows) | |
 | **R2** | Merfolk Skirmisher | Opportunity attack vs. [[Amanita de'Champignon]] | **Fails** — she dodges | DM roll |
 | **R2** | [[Topsy]] | Attack vs. Skirmisher | Hit — **Skirmisher goes down** | DM roll. "The twins work together to take down the first Skirmisher" |
-| **R2** | [[Binks Stonevein]] | Guiding Bolt (2nd level) on [[Nanny Plunk]] | Damage not stated — transcript-only | "My goal is to kill [[Nanny Plunk]]" |
-| **R2** | [[Binks Stonevein]] | Spiritual Weapon (the lute) to hit | **18** — hit; **8 damage** | transcript-only. Addison: "definitely looking hurt" |
+| **R2** | [[Binks Stonevein]] | Guiding Bolt (2nd level) on [[Nanny Plunk]] | **14** to hit — ✅ archive (14:27); **damage still not stated in either source** | "My goal is to kill [[Nanny Plunk]]" |
+| **R2** | [[Binks Stonevein]] | Spiritual Weapon (the lute) to hit | **18** — hit; **8 damage** — ✅ archive (14:27, both rows) | Addison: "definitely looking hurt" |
 | **R2** | Wave Bender | Attack vs. [[Glabbagool]] | **Massive hit** | DM roll |
 | **R2** | Wave Bender | Attack vs. [[Amanita de'Champignon]] | 13 + 7 = "dirty 20" — hit; **20 cold + knocked prone** | DM roll |
-| **R2** | [[Darby Stonefeather]] | Attack vs. Wave Bender (advantage) | **19** — hit | transcript-only |
-| **R2** | [[Darby Stonefeather]] | Damage (mace + 1d4 + ax beak form) | 14 + 2 + 4 — **kills the Wave Bender** | transcript-only. Totals partly garbled in the callout |
-| **R2** | [[Darby Stonefeather]] | Intelligence saving throw (the mace) | **7** — **failed** | transcript-only. Madness level +1 |
-| **R2** | [[Darby Stonefeather]] | Short-term madness (d100) | **70** — **vivid hallucinations, disadvantage on ability checks** | transcript-only |
-| **R2** | Party | Dexterity saves vs. the Stormcaller's lightning | [[Kit Aluri]] and [[Amanita de'Champignon]] below 10; [[Binks Stonevein]] "rolling hot"; [[Darby Stonefeather]] rolled with advantage and "still not great" | transcript-only. Fail = 10 lightning + 10 cold; success = half |
+| **R2** | [[Darby Stonefeather]] | Attack vs. Wave Bender (advantage) | **19** — hit — ✅ archive (14:30) | ⭐ Logged as `2d20+8`, independently confirming the advantage |
+| **R2** | [[Darby Stonefeather]] | Damage (mace + 1d4 + ax beak form) | 14 + 2 + 4 — **kills the Wave Bender** — ✅ archive (14:30 `1d6+8 = 14`; 14:31 `1d4 = 2`) | Totals partly garbled in the callout; the archive confirms the 14 and the 2 |
+| **R2** | [[Darby Stonefeather]] | Intelligence saving throw (the mace) | **7** — **failed** — ✅ archive (14:33) | Madness level +1 |
+| **R2** | [[Darby Stonefeather]] | Short-term madness (d100) | **70** — **vivid hallucinations, disadvantage on ability checks** — ✅ archive (14:42) | |
+| **R2** | Party | Dexterity saves vs. the Stormcaller's lightning | ✅ archive (14:34–14:35): [[Amanita de'Champignon]] **9** (failed), [[Kit Aluri]] **12**, [[Binks Stonevein]] **21**, [[Darby Stonefeather]] **13** (`2d20+3`, advantage confirmed). [[Aeolus]] and [[Blarg]] rolled physical dice — unrecoverable. 🛑 **Amanita's 9 is the only sub-10 roll, yet [[Kit Aluri]] answered "yes" when Addison asked who was below 10** — see **Continuity Flags** | Fail = 10 lightning + 10 cold; success = half |
 | **R2** | [[Amanita de'Champignon]] | Absorb Elements (reaction) | Lessens the lightning damage | transcript-only |
-| **R2** | [[Darby Stonefeather]] | Stone's Endurance (1d12 + 3) | **1** on the die → 4 reduction | transcript-only. "Because why not just… it was a one" |
-| **R2** | [[Kit Aluri]] | Insight on [[Nanny Plunk]] (small group check) | **10** | transcript-only. 🛑 Recorded verbatim per Taylor's standing ruling: Kit stated "I got 10, not 20" |
-| **R2** | [[Amanita de'Champignon]] | Insight on the second Green Hag | Addison credits a **"NAT20"** — the roll itself never appears in the transcript | [Unknown/Ambiguous]; **not present in the D&D Beyond archive either.** Result: the hag is certainly a converted merfolk and is recoverable |
+| **R2** | [[Darby Stonefeather]] | Stone's Endurance (1d12 + 3) | **1** on the die → 4 reduction — ✅ archive (14:37) | "Because why not just… it was a one" |
+| **R2** | [[Kit Aluri]] | Insight on [[Nanny Plunk]] (small group check) | **10** — ✅ archive (14:37) | 🛑 Recorded verbatim per Taylor's standing ruling: Kit stated "I got 10, not 20" |
+| **R2** | [[Amanita de'Champignon]] | Insight on the second Green Hag | **25** (nat 20 + 5) — ✅ archive (14:37) | ⭐ **RESOLVED 2026-08-30.** Addison's "NAT20" is real and mechanically confirmed as `1d20+5 = 25`. The roll never appears in the *transcript*, which is why the pre-re-sync note recorded it as present in neither source; the 68-row re-sync holds it. Result: the hag is certainly a converted merfolk and is recoverable |
 | **R2** | Merfolk Skirmisher | Attack vs. [[Darby Stonefeather]] | **18** — hit; 6 piercing (halved to 3) + 4 cold = **7** | DM roll |
 | **R2** | Merfolk Skirmisher | Attack vs. [[Darby Stonefeather]] | Hit; 4 piercing (halved to 2) + 4 cold = **6** | DM roll |
 | **R2** | [[Blarg]] | Hold Person on [[Darby Stonefeather]] (DC 16 Wisdom) | Cast — transcript-only | "Darby might be a danger right now to herself and everyone" |
-| **R2** | [[Darby Stonefeather]] | Wisdom save vs. Hold Person | **natural 20** — **passed** | transcript-only. "You completely raged and get through that person. You are not contained in the least" |
+| **R2** | [[Darby Stonefeather]] | Wisdom save vs. Hold Person | **natural 20** — **passed** — ✅ archive (14:43, logged as a flat `1d20 = 20`) | "You completely raged and get through that person. You are not contained in the least" |
 | **R2** | [[Turvy]] | Attack vs. Stormcaller | Hit — **concentration broken** | DM roll. Fog unravels, revealing two more Skirmishers and another Stormcaller |
-| **R2** | [[Kit Aluri]] | Insight — which Binks? | **Failed** — memory of the hag's position "blackened out" | transcript-only |
-| **R2** | [[Kit Aluri]] | Insight (second, lower DC) | Result: **"Binks is the true Binks"** — actively wrong | transcript-only. Both Binkses answered her telepathically at once |
-| **R2** | [[Kit Aluri]] | Attack vs. the disguised [[Nanny Plunk]] | **21** — hit | transcript-only. Disadvantage (her own instincts) cancelled by [[Stool]]'s advantage → flat roll |
-| **R2** | [[Kit Aluri]] | Damage | 10 + 3 Hunter's Mark + 4 sneak attack = **17** | transcript-only. Allies within 5 ft: [[Glabbagool]], the cat, [[Stool]] |
+| **R2** | [[Kit Aluri]] | Insight — which Binks? | **6** (nat 5 + 1) — **failed** — ✅ archive (14:46) | Memory of the hag's position "blackened out." ⭐ The number was never stated at the table |
+| **R2** | [[Kit Aluri]] | Insight (second, lower DC) | **2** (**natural 1** + 1) — ✅ archive (14:49) | 🛑 Result: **"Binks is the true Binks"** — actively wrong. ⭐ **The decisive check was a natural 1**, three minutes before the killing blow; the sequence is **10 → 6 → 2 → attack**. The session's title is mechanically earned. Both Binkses answered her telepathically at once |
+| **R2** | [[Kit Aluri]] | Attack vs. the disguised [[Nanny Plunk]] | **21** — hit — ✅ archive (14:52) | Disadvantage (her own instincts) cancelled by [[Stool]]'s advantage → flat roll |
+| **R2** | [[Kit Aluri]] | Damage | 10 + 3 Hunter's Mark + 4 sneak attack = **17** — ✅ archive (14:53) | ⚠️ The archive logs `2d6+5 = 10` plus **two** `1d6 = 3` rolls. The 10 and the Hunter's Mark 3 match; the sneak attack reads **3** in the archive against **4** in the transcript callout — a 1-point discrepancy, unresolved. Allies within 5 ft: [[Glabbagool]], the cat, [[Stool]] |
+| **R2** | [[Kit Aluri]] | Maneuver: Trip Attack — superiority die (1d8) | **6** — ✅ archive (14:55) | ⭐ Recovered 2026-08-30 — the die was expended on-screen but its value was never stated |
 | **R2** | [[Nanny Plunk]] | Strength save DC 15 vs. Trip Attack | **Failed** | DM roll. Superiority die expended |
-| **R2** | [[Kit Aluri]] | Second attack (Action Surge) | **20** — hit — **killing blow** | transcript-only. "Kit, how do you want to do this?" |
-| **R2** | [[Kit Aluri]] | Short-term madness (d100) | **55** — **must use her action each round to attack the nearest creature** | transcript-only. Requested the madness point herself |
+| **R2** | [[Kit Aluri]] | Second attack (Action Surge) | **20** — hit — **killing blow** — ✅ archive (14:55) | "Kit, how do you want to do this?" |
+| **R2** | [[Kit Aluri]] | Short-term madness (d100) | **55** — **must use her action each round to attack the nearest creature** — ✅ archive (14:57) | Requested the madness point herself |
 | Wrap-up | [[Amanita de'Champignon]] | Plant Growth (150 ft range, 100 ft sphere) | Auto-success per Addison | transcript-only. Mycelial tendrils from the azure crystal pin the first fleeing hag; the second escapes |
-| Wrap-up | [[Darby Stonefeather]] | Attack vs. Skirmisher through [[Blarg]]'s bear body | **19** — flat check — hit | transcript-only. [[Blarg]] interposed himself |
-| Wrap-up | [[Darby Stonefeather]] | Damage (halved by Addison) | 14 + 2 + 4 = 20 → **10 to [[Blarg]], 10 to the Skirmisher** | transcript-only. The Skirmisher collapses but survives |
-| Wrap-up | [[Darby Stonefeather]] | Wisdom save vs. [[Indigo]]'s Aquan "Stop" | **5** — **failed** | transcript-only. Held magically in place; rage drops, hallucinations remain |
+| Wrap-up | [[Darby Stonefeather]] | Attack vs. Skirmisher through [[Blarg]]'s bear body | **19** — flat check — hit | transcript-only. [[Blarg]] interposed himself. ⚠️ **Archive conflict:** the 15:05 rows hold two `Fire Mace` to-hits of **27** and **10**, neither of which is 19. Addison converted the attack into a flat check, so the archived to-hits may be the pre-conversion rolls — unresolved, deliberately not reconciled |
+| Wrap-up | [[Darby Stonefeather]] | Damage (halved by Addison) | 14 + 2 + 4 = 20 → **10 to [[Blarg]], 10 to the Skirmisher** | transcript-only. The Skirmisher collapses but survives. ⚠️ **Archive conflict:** 15:05 logs `1d6+8 = 12` and `1d4 = 2`, against the transcript's 14 + 2 + 4. The `1d4 = 2` matches; the mace die does not — unresolved, deliberately not reconciled |
+| Wrap-up | [[Darby Stonefeather]] | Wisdom save vs. [[Indigo]]'s Aquan "Stop" | **5** — **failed** — ✅ archive (15:06) | Held magically in place; rage drops, hallucinations remain |
 | Wrap-up | [[Binks Stonevein]] | Tasha's Hideous Laughter on [[Kit Aluri]] | Cast — transcript-only | Closes the session |
 
 **Archive Cross-Reference.**
@@ -448,6 +454,7 @@ Combat rounds are shaded by the **Round** column. `✅ archive` = confirmed in t
 - The **blank-character rows are resolvable by `user_id`**: `117527745` (Hannah) rolling a flat d20 = 20 is **[[Stool]]'s initiative**, and `123535156` (Austin) rolling a flat d20 = 18 is **[[Roxy]]'s initiative** (19 with her +1). Both match the transcript exactly.
 - ⭐ The **2d20 `[13, 2]`** on [[Binks Stonevein]]'s account at 16:43:52 is the [[Topsy]]/[[Turvy]] initiative pair, and Addison's line "who did you roll for first? That was 13 and 2" makes it an **independent confirmation of the Topsy-first ruling** on transcript line 413.
 - ⚠️ [[Aeolus]] and [[Blarg]] still have **zero** archive rolls across the full covered window. That is their known physical-dice habit, not a gap — [[Aeolus]] says so explicitly three times. Per the standing S18 correction, never treat a player's DDB absence as expected without checking.
+- ⚠️ **Four archive rows matched no narrative row** in the 2026-08-30 re-derivation and stay unexplained: [[Amanita de'Champignon]]'s `1d6 = 4` at **14:39**; an unattributed `1d20 = 14` at **14:35**, almost certainly [[Roxy]]'s or [[Stool]]'s Dexterity save against the storm (it sits in the same 14:34–14:35 window as the party's); and the two conflicting `Fire Mace` to-hits of **27** and **10** at **15:05**, which do not reconcile with the transcript's flat check of 19.
 - ⚠️ Rolls stop at **15:06 ET** while the recording runs to roughly 15:30. The tail is wrap-up and out-of-character discussion with no rolls in the transcript either, so this is not a second gap.
 
 Queried 2026-08-19 against `sitl_session_rolls` for `session_date = 2026-08-16`. **68 archived rolls.** These are the raw D&D Beyond entries, listed separately from the narrative log above because the archive records the mechanical roll while the log records what it *did*. Times are ET.
@@ -703,12 +710,12 @@ Queried 2026-08-19 against `sitl_session_rolls` for `session_date = 2026-08-16`.
 
 1. ✅ **Partial roll sync — RESOLVED 2026-08-19.** The original pull returned only **11 rolls**, ending at `2026-08-16T16:43:52.926Z`. That was never a pipeline fault: the timestamp is the exact moment the D&D Beyond sync was triggered, **while this session was still being played**, so nothing rolled afterwards had been captured yet. Taylor re-synced after the session and the archive now holds **68 rolls** spanning **12:22–15:06 ET** ([[Kit Aluri]] 20, [[Darby Stonefeather]] 15, [[Amanita de'Champignon]] 13, [[Binks Stonevein]] 11, blank-character 9). The Archive Cross-Reference under the Full Roll Log has been rebuilt against the full set. 📌 **Standing lesson: sync DDB rolls after a session ends, never during.**
 
-   🛑 **But the per-row markers in the narrative Full Roll Log above are STALE.** Its `✅ archive` / `transcript-only` tags were assigned against the original **11-row** pull, so of the **44 rows currently tagged `transcript-only`, an unknown number now have archive rows** and are mislabelled. They have deliberately **not** been auto-flipped: matching a narrative row to an archive row on character-and-total alone is a guess, and asserting `✅ archive` on a guess would break the no-invention rule. **Treat only the Archive Cross-Reference as authoritative on what is in the archive until the per-row tags are re-derived.** The 13 `physical dice roll` tags are unaffected ([[Aeolus]] and [[Blarg]] have zero archive rows across the full window).
-2. ⚠️ [[Amanita de'Champignon]]'s **"NAT20" insight** on the second green hag (credited by Addison at 02:34) appears **neither in the transcript nor in the archive**. Recorded as `[Unknown/Ambiguous]`. Per the S21 precedent, "nat 20" at this table sometimes means a *total* of 20.
+   ✅ **The per-row markers were RE-DERIVED on 2026-08-30 and the flag is CLOSED.** They had been assigned against the original 11-row pull, leaving 44 rows tagged `transcript-only` that were an unknown mix of correct and mislabelled. Rather than flip them on character-and-total (a guess, and a no-invention violation), the archive clock was calibrated against transcript-elapsed time using the initiative rolls, and each row matched on **character + roll type + total + time window**. **36 rows flipped to `✅ archive`** with timestamps; three [[Aeolus]]/[[Blarg]] rows were retagged `physical dice roll` where they belonged; five rows correctly keep `transcript-only` because **no roll was ever made** (a reaction with no number, an Absorb Elements reaction, a Hold Person cast, an auto-success Plant Growth, a Tasha's cast); and **two wrap-up rows are flagged as genuine archive/transcript conflicts**, left unreconciled. The 13 `physical dice roll` tags were unaffected, as predicted.
+2. ✅ **[[Amanita de'Champignon]]'s "NAT20" insight — RESOLVED 2026-08-30.** Credited by Addison at 02:34 and absent from the transcript, it was recorded as present in neither source against the old 11-row pull. The full archive holds it: **`1d20+5 = 25` at 14:37 ET**, a genuine natural 20. The S21 caution about "nat 20" meaning a *total* of 20 does not apply here — the dice string settles it.
 
 **Attribution**
 
-3. ⚠️ **Wisdom-save callouts are attributed backwards.** [[Blarg]]'s player reports "21 for [[Aeolus]], 21 for [[Binks Stonevein]]" and [[Amanita de'Champignon]]'s player reports "21 Blarg, 12 Amanita." Either the transcriber merged overlapping audio, or players were reading the D&D Beyond feed aloud for each other. **Not reassigned without audio.**
+3. ⚠️ **Wisdom-save callouts are attributed backwards.** [[Blarg]]'s player reports "21 for [[Aeolus]], 21 for [[Binks Stonevein]]" and [[Amanita de'Champignon]]'s player reports "21 Blarg, 12 Amanita." Either the transcriber merged overlapping audio, or players were reading the D&D Beyond feed aloud for each other. **Not reassigned without audio.** ⭐ **Partly resolved 2026-08-30:** the archive puts the **21 at 14:07 on [[Binks Stonevein]]'s own account**, so his value and attribution are both confirmed, and [[Amanita de'Champignon]]'s **12** and [[Kit Aluri]]'s **14** are confirmed at the same minute. ⚠️ [[Aeolus]]'s and [[Blarg]]'s 21s stay open — both roll physical dice and have zero archive rows all session, so nothing can confirm or refute who rolled what.
 4. ⚠️ **[[Indigo]]'s and [[Nanny Plunk]]'s dialogue is buried inside Addison's narration blocks** and could not be split into separate `INDIGO:` / `NANNY PLUNK:` script lines without guessing boundaries. Affected: the opening block (four voices in one paragraph — DM narration, Nanny Plunk's declaration, Indigo's reply, an out-of-character aside, and a performed *Princess Bride* quote), Indigo's telepathic warning about the merfolk, his answer to Kit, his High Priest/[[Sloopidoop]] relay, and his Aquan "Stop." **The corrected transcript attributes all of them to `ADDISON:` as spoken.** Quotes in this note are labelled with the in-fiction speaker where Addison's framing makes it unambiguous.
 5. ⚠️ **"What the ___ are you talking about?"** sits inside [[Kit Aluri]]'s speaker turn during the sunglasses exchange, but reads as [[Binks Stonevein]]'s actual reply. Logged under Kit as transcribed; flagged for correction if the audio disagrees.
 
