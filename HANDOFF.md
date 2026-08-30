@@ -118,6 +118,13 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-08-30 12:20 ET · Claude Code (all_sessions for the dashboard)
+- **Changed:** `generate_public_session_index.mjs` now also emits **`all_sessions`** — every session, **number and date only**. The curated `sessions` list stays limited to S20+ (earlier vault titles disagree with the published ones), but the roll dashboard needs the *complete* session list for its count, date range and per-session chart. Carrying no title means `all_sessions` can span S01+ with **zero risk** of overwriting curated site content.
+- **Commit:** `15b1b67`
+- **Verification:** ✓ Self-test passes; index emits **22 all_sessions (S01–S22)** alongside the 3 curated. ✓ `dashboard.html?c=1` on the live domain now reads **1,330 rolls / 22 sessions**, was 946 / 15.
+- **Watch out:** ⚠️ **90 rolls in `sitl_session_rolls` sit on 17 dates that are not sessions** — including **52 before the campaign's first session** (Aug–Oct 2025, character building) and clusters on **2026-07-15 (21), 07-18 (8), 06-28 (5)**. The site now excludes them everywhere, which is why every page agrees on **1,330** rather than the view's raw 1,420. Not an error to fix, just worth knowing the raw table is larger than the campaign.
+- **Next:** Unchanged.
+
 ### 2026-08-30 11:05 ET · Claude Code (Taylor's two rulings applied)
 - **Changed:** Applied both long-standing rulings. **(1) Fog origin — RULED:** the fog is the **charmed merfolk Stormcallers' storm ritual**; [[Nanny Plunk]]'s energy permeates it but she is **not its origin**. Addison said both (00:25 "created by Nanny Plunk", 01:06 "she was not the origin"); the **later line is canon** because it is what the session actually ran on — the two-round deadline and the Dispel Magic reveal both depend on it. Propagated to [[The Mermaid Cove]] (feature + open-questions list), [[Nanny Plunk]], and the S22 note's Continuity Flag §6, each keeping a one-line record of the earlier line so it is not re-litigated. **(2) "Loot Pick" → "Lute Pick" — RULED and renamed**, **27 instances across 8 files**.
 - **Commit:** see below.
