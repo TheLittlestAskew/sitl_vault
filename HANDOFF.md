@@ -125,7 +125,7 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 
 ### 2026-08-30 16:17 ET · Codex (083026 Aeolus dream-sequence audio gap)
 - **Changed:** Added the specific missing-audio cause for [[Aeolus]]'s dream sequence: Taylor's headset died and had to be swapped, so part of that sequence is absent from the recording.
-- **Commit:** pending
+- **Commit:** `1911970`
 - **Next:** Preserve the limitation when transcribing or documenting the 083026 session.
 
 ### 2026-08-30 15:14 ET · Codex (083026 session audio-quality note)
