@@ -139,21 +139,42 @@ function buildEntry(file, note) {
 async function buildIndex() {
   const files = (await readdir(sessionsDir)).filter((file) => NOTE_PATTERN.test(file));
   const sessions = [];
+  const allSessions = [];
   const failures = [];
   for (const file of files.sort()) {
     const [, rawNumber] = NOTE_PATTERN.exec(file);
     const n = normalizeSessionNumber(rawNumber);
+    const note = await readFile(path.join(sessionsDir, file), 'utf8');
+
+    // Every session, number and date only — for the roll dashboard's session count,
+    // date range and per-session chart. Deliberately carries NO title, so it can
+    // cover S01+ without risking the S09/S10 title divergence that keeps the
+    // curated `sessions` list below limited to S20 onward.
+    try {
+      allSessions.push({ n, d: sessionDate(frontmatter(note).session_date).iso });
+    } catch (error) {
+      failures.push(`S${n} (all_sessions): ${error.message}.`);
+    }
+
     if (Number.parseFloat(n) < FIRST_PUBLISHED) continue;
     try {
-      sessions.push(buildEntry(file, await readFile(path.join(sessionsDir, file), 'utf8')));
+      sessions.push(buildEntry(file, note));
     } catch (error) {
       failures.push(`S${n}: ${error.message}.`);
     }
   }
   if (failures.length) throw new Error(`Public session index not written:\n- ${failures.join('\n- ')}`);
   if (!sessions.length) throw new Error(`No publishable session notes found at or after S${FIRST_PUBLISHED}.`);
-  sessions.sort((a, b) => Number.parseFloat(a.n) - Number.parseFloat(b.n));
-  return { version: 1, generated_at: new Date().toISOString(), first_published_session: normalizeSessionNumber(FIRST_PUBLISHED), sessions };
+  const byNumber = (a, b) => Number.parseFloat(a.n) - Number.parseFloat(b.n);
+  sessions.sort(byNumber);
+  allSessions.sort(byNumber);
+  return {
+    version: 1,
+    generated_at: new Date().toISOString(),
+    first_published_session: normalizeSessionNumber(FIRST_PUBLISHED),
+    all_sessions: allSessions,
+    sessions,
+  };
 }
 
 function selfTest() {
