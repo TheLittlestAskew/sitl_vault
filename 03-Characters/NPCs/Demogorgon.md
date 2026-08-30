@@ -3,7 +3,7 @@ created_on: 2026-07-19
 updated_on: 2026-08-16
 type: npc
 tags: [npc, sitl, antagonist, demon-lord]
-aliases: [Limu Gugun, The Deep Father, Prince of Demons]
+aliases: [Limu Gugun, The Deep Father, Prince of Demons, Aameul and Hethradiah, Aameul, Hethradiah]
 status: Active threat
 race: Demon lord (Prince of Demons)
 affiliations: The Deep Father cult (worshipped as "Limu Gugun")
