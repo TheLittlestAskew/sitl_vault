@@ -6,6 +6,8 @@
 
 ## Status
 
+⚠️ **083026 session audio caveat:** Audio issues run throughout the session. Audacity failed and took time to bring back up, leaving missing dialogue in a couple of places. Addison's mic was particularly spotty; most missing content should be recoverable from context clues, but do not present inferred dialogue as verbatim.
+
 ✅ **THE S20 BACKLOG IS FULLY CLOSED (`c345e81`).** Its antagonist changes are finally on the Dashboard — [[Bloppblippodd]] had been sitting there as a *live* S19 antagonist despite dying in S20. 🔴 **New finding: 22 actively-linked concept pages do not exist** (`Lolth`, `faerzress`, `Blibdoolpoolp`, `Bregan D'aerthe` and 18 more). Verified by direct lookup; **not created unilaterally** — see Next Steps.
 
 🛑 **EVERY `⚠️ **Gap` MARKER IN THE VAULT IS NOW CLOSED** (outside the session notes themselves). The S20 backlog is down to one item — S20's own antagonist/thread changes on the Dashboard. ⭐ **Three of the flagged "gaps" turned out not to be gaps:** [[Kit Aluri]]'s S11 was **merged into her S12 entry**, not missing (split back out); [[Binks Stonevein]] has no S01 entry because **he was absent from Session 01**; and **S20 accrued no exhaustion at all** — audited, not omitted. ⚠️ Also repaired **seven broken `[[Aplopod]]` wikilinks** — that page does not exist; she is [[Bloppblippodd]].
@@ -120,6 +122,11 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
+
+### 2026-08-30 15:14 ET · Codex (083026 session audio-quality note)
+- **Changed:** Recorded the source limitation for the 083026 session: Audacity failed and its recovery left missing dialogue in a couple of places; Addison's mic was especially spotty. Context may recover most missing content, but inferred dialogue must not be treated as verbatim.
+- **Commit:** pending
+- **Next:** Preserve the limitation when transcribing or documenting the 083026 session.
 
 ### 2026-08-30 16:25 ET · Claude Code (S22 roll-log tags re-derived — the stale-tag flag is CLOSED)
 - **Changed:** Re-derived every per-row tag in the S22 **Full Roll Log** against the full **68-row** archive, closing the 🛑 standing flag that the tags were assigned against the old 11-row pull. Method: **calibrate the archive's wall-clock ET against transcript-elapsed time on the initiative rolls** (transcript `00:34` = archive `12:37 ET`, audio start ~`12:03 ET`), then match on **character + roll type + total + time window** rather than character-and-total, which is what made the earlier pass unsafe. **36 rows flipped to `✅ archive`** with timestamps; **3 retagged `physical dice roll`** ([[Aeolus]]/[[Blarg]]); **5 correctly keep `transcript-only`** because no roll was ever made. Ran as three guarded scripts with exact-string pairs, so a mismatch aborts the write instead of silently passing — which it did once, catching a wording drift on the NAT20 row before anything was written.
