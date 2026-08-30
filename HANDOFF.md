@@ -6,7 +6,7 @@
 
 ## Status
 
-⚠️ **083026 session audio caveat:** Audio issues run throughout the session. Audacity failed and took time to bring back up, leaving missing dialogue in a couple of places. Addison's mic was particularly spotty; most missing content should be recoverable from context clues, but do not present inferred dialogue as verbatim.
+⚠️ **083026 session audio caveat:** Audio issues run throughout the session. Audacity failed and took time to bring back up, leaving missing dialogue in a couple of places. During [[Aeolus]]'s dream sequence, Taylor's headset died and required a hardware swap, leaving part of that sequence missing too. Addison's mic was particularly spotty; most missing content should be recoverable from context clues, but do not present inferred dialogue as verbatim.
 
 ✅ **THE S20 BACKLOG IS FULLY CLOSED (`c345e81`).** Its antagonist changes are finally on the Dashboard — [[Bloppblippodd]] had been sitting there as a *live* S19 antagonist despite dying in S20. 🔴 **New finding: 22 actively-linked concept pages do not exist** (`Lolth`, `faerzress`, `Blibdoolpoolp`, `Bregan D'aerthe` and 18 more). Verified by direct lookup; **not created unilaterally** — see Next Steps.
 
@@ -123,6 +123,11 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-08-30 16:17 ET · Codex (083026 Aeolus dream-sequence audio gap)
+- **Changed:** Added the specific missing-audio cause for [[Aeolus]]'s dream sequence: Taylor's headset died and had to be swapped, so part of that sequence is absent from the recording.
+- **Commit:** pending
+- **Next:** Preserve the limitation when transcribing or documenting the 083026 session.
+
 ### 2026-08-30 15:14 ET · Codex (083026 session audio-quality note)
 - **Changed:** Recorded the source limitation for the 083026 session: Audacity failed and its recovery left missing dialogue in a couple of places; Addison's mic was especially spotty. Context may recover most missing content, but inferred dialogue must not be treated as verbatim.
 - **Commit:** `70fb78b`
@@ -223,11 +228,5 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 - **Commit:** `ee23b75`
 - **Next:** Unchanged. See the Next Steps block above this log.
 - **Watch out:** ⚠️ Filed under its raw screenshot filename, **not renamed and not linked from any note** — what it depicts is Taylor's to say, and guessing (S22 introduced the [[Grinning Cat]], and several PCs could fit) would put an unsourced attribution into a public vault. Rename and wikilink it once she confirms.
-
-### 2026-08-19 ET · Claude Code (S22 roll re-sync backfilled)
-- **Changed:** Taylor re-ran the DDB sync now that S22 has ended, and the archive went from **11 rolls to 68** — coverage **12:22–15:06 ET** instead of a 21-minute window ([[Kit Aluri]] 20, [[Darby Stonefeather]] 15, [[Amanita de'Champignon]] 13, [[Binks Stonevein]] 11, blank-character 9). Rebuilt the note's **Archive Cross-Reference** against the full set with `_pipeline/S22/build_rollref.js` (cloned from S21's), and corrected all three places that still described a partial sync: the Session Metadata "Total Rolls Logged" row, the cross-reference block itself, and Archivist Notes §1. Confirmed the eight required headings survived the edit.
-- **Commit:** `1130281`
-- **Next:** Re-derive the per-row archive tags, then run Convo 2 from `_pipeline/S22/handoff.md`.
-- **Watch out:** 🛑 **The narrative Full Roll Log's per-row `✅ archive` / `transcript-only` tags are stale and were deliberately NOT auto-flipped.** They were assigned against the old 11-row pull, so some of the **44 rows tagged `transcript-only` now have archive rows**. Flipping them on a character-and-total match alone would be a guess, and asserting `✅ archive` on a guess breaks the vault's no-invention rule — so a warning was written into both the roll-log header and Archivist Notes §1 naming the **Archive Cross-Reference as authoritative** instead. Re-derive them properly with timestamps before trusting that column. ⚠️ Rolls stop at **15:06 ET** while the recording runs to ~15:30; the transcript shows no rolls in that tail either, so it is wrap-up, not a second gap. ⚠️ The 13 `physical dice roll` tags are unaffected — [[Aeolus]] and [[Blarg]] have zero archive rows across the full window.
 
 > Older entries archived to `handoff-archive/2026-08.md`, `handoff-archive/2026-07.md` and `handoff-archive/2026-06.md`
