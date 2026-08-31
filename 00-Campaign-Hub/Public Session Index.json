@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T08:35:53.747Z",
+  "generated_at": "2026-08-31T16:38:35.237Z",
   "first_published_session": "20",
   "all_sessions": [
     {
@@ -90,6 +90,10 @@
     {
       "n": "22",
       "d": "2026-08-16"
+    },
+    {
+      "n": "23",
+      "d": "2026-08-30"
     }
   ],
   "sessions": [
@@ -140,6 +144,24 @@
         "Amanita’s Dispel Magic collapses the fog, revealing the Stormcallers, the Wave Benders, and a second green hag who was a merfolk hours ago.",
         "Darby knowingly kills a charmed Wave Bender, fails an Intelligence save against her own mace, and takes her first level of madness.",
         "The hags shimmer and Kit sees two Binkses — she trusts her own Hunter’s Mark over her Insight, stabs through the illusion, and kills Nanny Plunk."
+      ]
+    },
+    {
+      "n": "23",
+      "t": "Gods Above, Abyss Below",
+      "d": "2026-08-30",
+      "lbl": "August 30, 2026",
+      "lbl_short": "Aug 30, 2026",
+      "f": "01-Sessions/Session%2023%20%E2%80%94%20Gods%20Above,%20Abyss%20Below.md",
+      "r": "The Mermaid Cove",
+      "arc": "The cleared shallows → the merfolk bastion → six soul realms",
+      "wp": "The Starlit Grotto",
+      "ev": [
+        "Combat ends in a single round — Aeolus's fey calm washes the madness off the beach and Amanita talks Darby down out of a hallucinated sea of Stools.",
+        "The unnamed Merfolk Stormcaller High Priest opens the Starlit Grotto to the party and asks them to help build it into a true bastion against Demogorgon.",
+        "The merfolk pantheon takes notice while the party sleeps; each PC is given their own soul realm, and a shared dream in Amanita's ocean stops a corrupt tidal wave.",
+        "Kit meets her ghost army at peace, her Doll made flesh, and learns her family's deity is the Wild Mother — gaining understanding of Sylvan and Druidic.",
+        "Waking changes the physical bastion: Amanita's food forest, Blarg's goblin moon-shrine, Darby's axe beak hippogriff, Aeolus's stolen archfey plot in the Feydark."
       ]
     }
   ]

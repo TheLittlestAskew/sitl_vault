@@ -842,7 +842,7 @@
         "weightMultiplier": 1,
         "capacity": null,
         "capacityWeight": 0,
-        "type": "",
+        "type": "Light Armor",
         "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>",
         "canAttune": false,
         "attunementDescription": null,
@@ -4972,7 +4972,7 @@
     },
     {
       "level": 3,
-      "used": 1,
+      "used": 2,
       "available": 0
     },
     {
@@ -5017,7 +5017,8 @@
     41,
     42,
     43,
-    45
+    45,
+    47
   ],
   "spells": {
     "race": [
@@ -8526,6 +8527,7 @@
           4496888,
           4496889,
           4496890,
+          5712421,
           4496869
         ],
         "tagConstraints": []
@@ -8560,6 +8562,7 @@
           4496888,
           4496889,
           4496890,
+          5712421,
           4496872
         ],
         "tagConstraints": []
@@ -8594,6 +8597,7 @@
           4496888,
           4496889,
           4496890,
+          5712421,
           4496891
         ],
         "tagConstraints": []
@@ -8657,7 +8661,12 @@
           14615,
           14618,
           14878,
+          241983,
+          83532,
+          416808,
           718568,
+          2196500,
+          2294147,
           2618834,
           2618839,
           2618840,
@@ -8692,9 +8701,75 @@
           2619204,
           2619216,
           2619217,
+          2468866,
+          2515106,
+          2515116,
+          2515119,
+          2515127,
+          2515144,
+          2515160,
+          2515168,
+          2533545,
+          2533546,
+          2533547,
+          2721765,
+          2721769,
+          2796991,
+          2857522,
+          2857524,
+          2857542,
+          2857543,
+          2857553,
+          2840661,
+          2840667,
+          2840671,
+          2840673,
+          2840679,
+          2840680,
+          2872690,
+          2872694,
+          2952580,
+          2952594,
+          2952595,
+          2952608,
+          2939320,
+          2943204,
+          2984808,
+          2984813,
+          2984814,
+          2984825,
+          3014221,
+          3014240,
+          3014244,
+          3014245,
+          3014246,
+          3014277,
+          3221135,
+          3221139,
+          3221152,
+          3221153,
+          3221157,
+          3221162,
+          3221164,
+          3221166,
+          3221167,
           3170517,
           3170519,
           3170520,
+          3274598,
+          3312019,
+          3312020,
+          3321991,
+          3321993,
+          3321994,
+          3321995,
+          3322001,
+          3332211,
+          3332215,
+          3332216,
+          3444,
+          30770,
+          974452,
           3216860
         ],
         "tagConstraints": []
@@ -8758,7 +8833,12 @@
           14615,
           14618,
           14878,
+          241983,
+          83532,
+          416808,
           718568,
+          2196500,
+          2294147,
           2618834,
           2618839,
           2618840,
@@ -8793,9 +8873,75 @@
           2619204,
           2619216,
           2619217,
+          2468866,
+          2515106,
+          2515116,
+          2515119,
+          2515127,
+          2515144,
+          2515160,
+          2515168,
+          2533545,
+          2533546,
+          2533547,
+          2721765,
+          2721769,
+          2796991,
+          2857522,
+          2857524,
+          2857542,
+          2857543,
+          2857553,
+          2840661,
+          2840667,
+          2840671,
+          2840673,
+          2840679,
+          2840680,
+          2872690,
+          2872694,
+          2952580,
+          2952594,
+          2952595,
+          2952608,
+          2939320,
+          2943204,
+          2984808,
+          2984813,
+          2984814,
+          2984825,
+          3014221,
+          3014240,
+          3014244,
+          3014245,
+          3014246,
+          3014277,
+          3221135,
+          3221139,
+          3221152,
+          3221153,
+          3221157,
+          3221162,
+          3221164,
+          3221166,
+          3221167,
           3170517,
           3170519,
           3170520,
+          3274598,
+          3312019,
+          3312020,
+          3321991,
+          3321993,
+          3321994,
+          3321995,
+          3322001,
+          3332211,
+          3332215,
+          3332216,
+          3444,
+          30770,
+          974452,
           3216860
         ],
         "tagConstraints": []
@@ -8859,7 +9005,12 @@
           14615,
           14618,
           14878,
+          241983,
+          83532,
+          416808,
           718568,
+          2196500,
+          2294147,
           2618834,
           2618839,
           2618840,
@@ -8894,9 +9045,75 @@
           2619204,
           2619216,
           2619217,
+          2468866,
+          2515106,
+          2515116,
+          2515119,
+          2515127,
+          2515144,
+          2515160,
+          2515168,
+          2533545,
+          2533546,
+          2533547,
+          2721765,
+          2721769,
+          2796991,
+          2857522,
+          2857524,
+          2857542,
+          2857543,
+          2857553,
+          2840661,
+          2840667,
+          2840671,
+          2840673,
+          2840679,
+          2840680,
+          2872690,
+          2872694,
+          2952580,
+          2952594,
+          2952595,
+          2952608,
+          2939320,
+          2943204,
+          2984808,
+          2984813,
+          2984814,
+          2984825,
+          3014221,
+          3014240,
+          3014244,
+          3014245,
+          3014246,
+          3014277,
+          3221135,
+          3221139,
+          3221152,
+          3221153,
+          3221157,
+          3221162,
+          3221164,
+          3221166,
+          3221167,
           3170517,
           3170519,
           3170520,
+          3274598,
+          3312019,
+          3312020,
+          3321991,
+          3321993,
+          3321994,
+          3321995,
+          3322001,
+          3332211,
+          3332215,
+          3332216,
+          3444,
+          30770,
+          974452,
           3216860
         ],
         "tagConstraints": []
@@ -8940,7 +9157,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -8983,7 +9210,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -9017,6 +9254,7 @@
           4496888,
           4496889,
           4496890,
+          5712421,
           4496892
         ],
         "tagConstraints": []
@@ -9051,6 +9289,7 @@
           4496888,
           4496889,
           4496890,
+          5712421,
           4496887
         ],
         "tagConstraints": []
@@ -9378,7 +9617,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -9421,7 +9670,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -9464,7 +9723,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -9507,7 +9776,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -9550,7 +9829,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -9593,7 +9882,17 @@
           2619173,
           2619180,
           2619209,
-          2619222
+          2619222,
+          2857544,
+          2872685,
+          2872693,
+          3014205,
+          3014248,
+          3274636,
+          3322010,
+          36186,
+          138563,
+          189379
         ],
         "tagConstraints": []
       },
@@ -9932,34 +10231,29 @@
         "itemDefinitionKey": null,
         "options": [],
         "optionIds": [
-          2035,
-          2064,
-          2065,
-          2066,
-          2149,
-          2152,
-          2258,
-          2370,
-          2618993,
-          2619059,
-          2619090,
-          2619093,
-          2619097,
-          2619166,
-          2619180,
           1993,
           2009,
           2016,
           2025,
           2032,
+          2035,
+          2064,
+          2065,
+          2066,
           2144,
           2145,
+          2149,
+          2152,
           2254,
+          2258,
           2313,
           2314,
           2317,
           2320,
+          2370,
+          176233,
           1239804,
+          2294144,
           2618847,
           2618900,
           2618933,
@@ -9967,11 +10261,34 @@
           2618985,
           2618988,
           2618990,
+          2618993,
+          2619059,
           2619064,
+          2619090,
+          2619093,
+          2619097,
           2619104,
           2619132,
           2619151,
+          2619166,
+          2619180,
+          2515121,
+          2857538,
+          2840676,
+          2872685,
+          2872693,
+          2872698,
+          2952579,
+          3014204,
+          3014205,
+          3014290,
+          3221159,
+          3274616,
+          3274627,
           3269309,
+          36186,
+          138563,
+          189379,
           2796075
         ],
         "tagConstraints": []
@@ -10257,6 +10574,12 @@
             "label": "Pact of the Chain",
             "description": "<p>You learn the Find Familiar spell and can cast it as a Magic action without expending a spell slot.</p>\r\n<p>When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: Imp, Pseudodragon, Quasit, Skeleton, Slaad Tadpole, Sphinx of Wonder, Sprite, or Venomous Snake.</p>\r\n<p>Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.</p>",
             "sourceId": 148
+          },
+          {
+            "id": 5712421,
+            "label": "Heliana's Guide to Monster Hunting: Parasitic Leech",
+            "description": "<p><em>Eldritch Invocation (Prerequisite: Parasite patron):</em></p>\r\n<p>When you score a critical hit with your parasitic weapon or reduce a creature to 0 hit points with it, you gain a number of temporary hit points equal to the number rolled on the weapon’s damage dice. If you later gain the <a href=\"https://draft.dndbeyond.com/classes/7-warlock#PactBoon-389\">Pact of the Blade</a> feature, you gain this benefit to critical hits scored with your pact weapon.</p>",
+            "sourceId": 224
           },
           {
             "id": 4496869,
@@ -10552,10 +10875,40 @@
             "sourceId": 27
           },
           {
+            "id": 241983,
+            "label": "Caleb's Produce Flame",
+            "description": "<p>A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.</p>\r\n<p>You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.</p>\r\n<p>This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+            "sourceId": 30
+          },
+          {
+            "id": 83532,
+            "label": "Encode Thoughts",
+            "description": "<p class=\"Core-Styles_Core-Body\">Putting a finger to your head, you pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast this spell again. The thought strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless, semisolid object that can be held and carried like a ribbon. It is otherwise stationary.</p>\r\n<p class=\"Core-Styles_Core-Body\">If you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as <span class=\"Serif-Character-Style_Italic-Serif\">detect thoughts</span>&nbsp;or&nbsp;<span class=\"Serif-Character-Style_Italic-Serif\">modify memory</span>), you can transform the thoughts or memories you read, rather than your own, into a thought strand.</p>\r\n<p class=\"Core-Styles_Core-Body\">Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting&nbsp;<span class=\"Serif-Character-Style_Italic-Serif\">detect thoughts</span>&nbsp;on the strand has the same effect.)</p>",
+            "sourceId": 38
+          },
+          {
+            "id": 416808,
+            "label": "Sapping Sting",
+            "description": "<p>You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take 1d4 necrotic damage and fall prone.</p>\r\n<p>This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).</p>",
+            "sourceId": 59
+          },
+          {
             "id": 718568,
             "label": "Mind Sliver",
             "description": "<p>You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.</p>\r\n<p>This spell’s damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>",
             "sourceId": 67
+          },
+          {
+            "id": 2196500,
+            "label": "Hunter Sense",
+            "description": "<p>You touch one willing creature. While this spell is active, the target’s senses are heightened. If the target rolls a 9 or below on the die when making a Wisdom (Perception) check, they instead act as if they rolled a 10.</p>\r\n<blockquote>\r\n<p><span style=\"color: red; text-transform: uppercase;\"><strong>This is Partnered Content</strong></span></p>\r\n<p>This content is available in your campaign with your DM’s permission and is published by Ghostfire Gaming. To use this content, enable <strong>Grim Hollow</strong> in the character builder.</p>\r\n</blockquote>",
+            "sourceId": 130
+          },
+          {
+            "id": 2294147,
+            "label": "Gust Barrier",
+            "description": "<p>You spread your arms wide, allowing yourself to become enveloped by the air around you. Until the end of your next turn, any ranged attack against you is made with disadvantage.</p>\r\n<p>Melee attackers who successfully hit you must make a Constitution saving throw against your spell save DC. On a failure, the attacker is flung away from you up to 10 feet and is knocked prone.</p>",
+            "sourceId": 133
           },
           {
             "id": 2618834,
@@ -10762,6 +11115,318 @@
             "sourceId": 145
           },
           {
+            "id": 2468866,
+            "label": "Holy Word",
+            "description": "<p>You mutter a word of the divine under your breath, being careful not to speak it any louder, for such celestial power is not for the tainted and unworthy. Make a ranged spell attack against the target. On a hit, the target takes 1d8 radiant damage. If you hit an undead, fiend, or fey, then its speed is reduced by 10 feet and it cannot take reactions until the end of its next turn.</p>\r\n<p><em><strong>At Higher Levels.</strong> </em>This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+            "sourceId": 150
+          },
+          {
+            "id": 2515106,
+            "label": "Bright Sparks",
+            "description": "<p>Sparks fly from your fingers for a moment, generating bright blue light. This illuminates the region around you to a distance of 60 feet until the start of your next turn. Wisdom (Perception) checks have advantage to spot creatures hidden in shadows.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2515116,
+            "label": "Drayfn's Bane of Excellence",
+            "description": "<p>A creature of your choice within range must make a Charisma saving throw. On a failed save, the next ability check, attack roll, or saving throw the target makes, within the duration, that results in a roll of 20 on a d20, fails to have any effect. The number of times this cantrip can turn a natural 20 into a failure increases by one when you reach 5th level (two natural 20s), 11th level (three natural 20s), and 17th level (four natural 20s).</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2515119,
+            "label": "Drizzle",
+            "description": "<p>You conjure up a very light rain, enough to dampen the ground in a 20-foot square but not enough to drink or to put out a fire of any size larger than a candle or match. If sustained for 1 minute, the ground is wet to the touch, and if sustained for 10 minutes, the affected area is slightly muddy or slippery, though not enough to impede movement. In freezing weather, this may generate a coating of thin ice.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2515127,
+            "label": "Flowering",
+            "description": "<p>You call forth fragrant flowers from an inanimate object. If the object is held by an unwilling creature, that creature can make a Dexterity saving throw to negate the effect. If sustained for 1 minute, the flowers give forth a pleasing scent and may attract bees, hummingbirds, or other pollinators.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2515144,
+            "label": "Obfuscate Object",
+            "description": "<p>While you are in dim light, you cause an object in range to become unobtrusively obscured from the sight of other creatures. For the duration, you have advantage on Dexterity (Sleight of Hand) checks to hide the object. The object can’t be larger than a shortsword, and it must be on your person, held in your hand, or otherwise unattended.</p>\r\n<p>You can affect two objects when you reach 5th level, three objects at 11th level, and four objects at 17th level.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2515160,
+            "label": "Douse Light",
+            "description": "<p>With a simple gesture, you can put out a single small source of light within range. This spell extinguishes a torch, a candle, a lantern, or a light or dancing lights cantrip.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2515168,
+            "label": "Word of Misfortune",
+            "description": "<p>You hiss a word of void speech. Choose one creature you can see within range. The next time the creature makes a saving throw during the spell’s duration, it must roll a d4 and subtract the result from the total of the saving throw. The spell then ends.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2533545,
+            "label": "Claws of Darkness",
+            "description": "<p>You shape shadows into claws that grow from your fingers and drip inky blackness. The claws have a reach of 10 feet. While the spell lasts, you can make a melee spell attack with them that deals 1d10 cold damage.</p>",
+            "sourceId": 152
+          },
+          {
+            "id": 2533546,
+            "label": "Shadow Bite",
+            "description": "<p>You create a momentary needle of cold, sharp pain in a creature within range. The target must make a successful Constitution saving throw or take 1d6 necrotic damage immediately and have its speed halved until the start of your next turn.</p>\r\n<p>This spell’s damage increases to 2d6 when you reach 5th level, 3d6 when you reach 11th level, and 4d6 when you reach 17th level.</p>",
+            "sourceId": 152
+          },
+          {
+            "id": 2533547,
+            "label": "Shadow Blindness",
+            "description": "<p>You make a melee spell attack against a creature you touch that has darkvision as an innate ability; on a hit, the target’s darkvision is negated until the spell ends. This spell has no effect against darkvision that derives from a spell or a magic item. The target retains all its other senses.</p>",
+            "sourceId": 152
+          },
+          {
+            "id": 2721765,
+            "label": "Hellfire",
+            "description": "<p>You create an eruption of smoldering hellfire around a creature you can see within range. The target must succeed on a Charisma saving throw or take 1d4 fire damage plus 1d4 necrotic damage.</p>\r\n<p><strong>At Higher Levels.</strong> Both of the spell’s damage types increase by 1d4 when you reach 5th level (2d4 each), 11th level (3d4 each), and 17th level (4d4 each).</p>",
+            "sourceId": 155
+          },
+          {
+            "id": 2721769,
+            "label": "Vengeful Blade",
+            "description": "<p>You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects and then radiates a dark aura of energy until the start of your next turn. If the target makes an attack or casts a spell before then, the target takes 1d8 necrotic damage and the spell ends.</p>\r\n<p>This spell’s damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 necrotic damage to the target on a hit, and the damage the target takes for making an attack or casting a spell increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).</p>",
+            "sourceId": 155
+          },
+          {
+            "id": 2796991,
+            "label": "Mend Plants",
+            "description": "<p>Drawing on primordial magic, you instill vitality in nearby plants to create one of the following effects within range:</p>\r\n<ul>\r\n<li>You instantly repair a single break or tear in a living plant you touch, such as torn foliage, a scorched branch, a scar cut into bark, or two pieces of a plant that have been broken apart. As long as the damage is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former destruction.</li>\r\n<li>You instantly cause a defoliated plant to grow foliage, cause a planted seed to sprout, or restore the ability to sprout to a dead seed pod.</li>\r\n<li>You can cause a 5-foot cube of living plants to flourish with foliage such as leaves and grass. This area can become thick enough to conceal a Medium or smaller creature, or become overgrown enough to become difficult terrain (your choice when you cast the spell).</li>\r\n<li>You can touch a living plant or plant creature to grant it 1d4 temporary hit points.</li>\r\n</ul>",
+            "sourceId": 158
+          },
+          {
+            "id": 2857522,
+            "label": "Jolt",
+            "description": "<p>A jolt of electricity springs from your hand towards a creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 lightning damage.</p>\r\n<p>Alternatively, you can target a machine within range and temporarily turn it on, allowing it to function as if it were whelmed by a spirit or permanently enchanted. Machines targeted by this spell stay powered for 18 seconds before turning back off. For a machine to function using this spell, it must still be in working condition.</p>\r\n<p>The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2857524,
+            "label": "Resilient Friendship",
+            "description": "<p>You magically assist a creature within range, granting it the benefits of the Help action. If the target you helped successfully accomplishes the task by the start of your next turn, you gain 1d4 temporary hit points, which last for 1 hour.</p>\r\n<p>The number of temporary hit points you gain increases when you reach 5th level (1d6), 11th level (1d8), and 17th level (1d10).</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2857542,
+            "label": "Retrieve",
+            "description": "<p>You cause an object within range that isn’t being worn or carried to fly to your open hand. The object must weigh no more than 10 pounds or the spell fails.</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2857543,
+            "label": "Root Grab",
+            "description": "<p>You cause roots to reach out and grasp at the creature that provoked the opportunity attack, hindering its movement. The creature’s speed is reduced by 10 feet until the start of your next turn.</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2857553,
+            "label": "Task",
+            "description": "<p>With a flick of your wrist, you magically complete a small and simple task, such as flipping a book page, buttering bread, or heating a cup of tea, without any physical interaction. The task can’t include anything that is intended to inflict a harmful effect on a creature and must be something you’d normally be able to accomplish without the use of magic. The spell fails if the target of the task has total cover from you.</p>\r\n<p>If you cast this spell multiple times, you can have up to three tasks active at a time, and you can dismiss one of them as a bonus action.</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2840661,
+            "label": "Water Whip",
+            "description": "<p>Choose a source of water that you can see within range that has a volume of at least 4 pints. Make a melee spell attack against a creature within 30 feet of the source of water. On a hit, the target takes 1d6 slashing damage and, if the creature is Large or smaller, you can force it to make a Strength saving throw, pulling it up to 10 feet towards the source of water on a failure.</p>\r\n<p>The spell’s damage increases by 1d6 and the distance it can pull a target increases by 5 feet when you reach 5th level (2d6 and 15 feet), 11th level (3d6 and 20 feet), and 17th level (4d6 and 25 feet).</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840667,
+            "label": "Swarm",
+            "description": "<p>Choose a target within range; a cloud of minuscule poisonous spiders floats on gossamer strands towards it. The target must succeed on a Dexterity saving throw to avoid the spiders or become poisoned until the end of its next turn.</p>\r\n<p>This spell deals poison damage on a failed saving throw when you reach certain levels. When you reach 5th level, a creature takes 1d10 poison damage; at 11th level this increases to 2d10; and at 17th level this increases to 3d10.</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840671,
+            "label": "Pins & Needles",
+            "description": "<p>You momentarily shut down a small part of the nervous system of a creature you can see within range, before overstimulating it and causing crippling pain. The creature must succeed on a Constitution saving throw or take 1d8 psychic damage. If the target fails its saving throw by 5 or more, it has disadvantage on the next attack roll it makes before the end of its next turn as it temporarily loses full control of a part of its body.</p>\r\n<p>This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840673,
+            "label": "Magnetobolt",
+            "description": "<div class=\"page\" title=\"Page 513\">\r\n<div class=\"layoutArea\">\r\n<div class=\"column\">\r\n<p>A near-invisible pulse of arcanomagnetic energy shoots towards a creature within range. Make a ranged spell attack against the target . On a hit, the target takes 1d6 force damage and must succeed on a Strength saving throw or be knocked prone. A creature made of ferrous metal or wearing ferrous armour has disadvantage on this saving throw.</p>\r\n<p>This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</p>\r\n</div>\r\n</div>\r\n</div>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840679,
+            "label": "Concussion",
+            "description": "<p>With a <em>thdoom</em> that can be heard 100 feet away, you cause a sudden increase in the air pressure surrounding a creature you can see within range. The target must succeed on a Constitution saving throw or take 1d8 thunder damage and become deafened until the start of your next turn.</p>\r\n<p>This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2840680,
+            "label": "Can'trip",
+            "description": "<p>You temporarily tangle the Weave around a creature within range that you can see. Until the start of your next turn, each time the creature tries to cast a cantrip whilst this spell affects it, it must succeed on a spellcasting ability check against your spell save DC or waste its action (but not a spell slot). The spell ends if the target moves out of the spell’s range.</p>\r\n<p>The maximum level of spell inhibited by this cantrip increases when you reach 5th level (1st-level spells), 11th level (2nd-level spells), and 17th level (3rd-level spells).</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2872690,
+            "label": "Finger Guns",
+            "description": "<p>You extend your forefinger and thumb, a dangerous gesture mimicking a gun. For the duration, your hand counts as a Simple Ranged weapon with a range of 60/240 feet and the Slow mastery property. You can use your spellcasting ability instead of Dexterity for the attack rolls of this weapon. On a hit, the weapon deals 2d6 Force damage and doesn’t add your ability modifier to damage.</p>\r\n<p><em><strong>Cantrip Upgrade.</strong></em> The weapon’s normal range increases by 30 feet and its long range increases by 120 feet when you reach levels 5 (90/360 feet), 11 (120/480 feet), and 17 (150/600 feet).</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 2872694,
+            "label": "Moment to Think",
+            "description": "<p>When you cast this spell, you briefly stop time for everyone but yourself. You can take one additional action and move around in your space while no time passes for other creatures. That action can be used only to take the Search, Study, or Utilize action. Furthermore, you can’t affect or damage any creature or object, other than objects you are wearing or carrying. If an object leaves your hand, it also becomes frozen in time.</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 2952580,
+            "label": "Blood Bolt",
+            "description": "<p>You hurl a twisting bolt of blood at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 Necrotic damage, and you gain a number of Temporary Hit Points equal to your Proficiency Bonus.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 2952594,
+            "label": "Dissolution",
+            "description": "<p>You touch a creature or nonmagical object and break the target’s substance down into its most fundamental components. Make a melee spell attack. On a hit, the target takes 1d8 Force damage, and its AC is reduced by 1 against the next attack roll made against it before the end of your next turn.</p>\r\n<p><em><strong>Cantrip Upgrade.</strong></em> The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 2952595,
+            "label": "Eye Burn",
+            "description": "<p>You sting the eyes of a creature attacking you. The target must make a Constitution saving throw (a creature with Blindsight or Immunity to the Blinded condition succeeds automatically). On a failed save, the target has the Blinded condition until the end of the turn. On a successful save, it must subtract 1d4 from the triggering attack roll. The target automatically succeeds on its saves against your subsequent casting of this spell for 24 hours.</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 2952608,
+            "label": "Mysterious Presence",
+            "description": "<p>You touch a willing creature and shroud its presence. Until the spell ends, other creatures must subtract 1d4 from any Wisdom (Insight or Perception) checks made against the target.</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 2939320,
+            "label": "Bacterial Barrage",
+            "description": "<p>You attack a creature in range with a quick spreading infection that takes advantage of existing conditions. Make a ranged spell attack against a target, on a hit the infection does 1d8 necrotic damage to the target. If the target is suffering from the poisoned condition or a disease, it instead takes 1d12 necrotic damage.</p>\r\n<p>The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).</p>",
+            "sourceId": 196
+          },
+          {
+            "id": 2943204,
+            "label": "Concealed Shot",
+            "description": "<p>A Ranged weapon you touch is made supernaturally subtle. For the duration, when you make a ranged attack using the weapon, the weapon or ammunition you’re using becomes invisible while in flight and the weapon becomes silent. If the weapon produces smoke or light, the spell suppresses these effects. The weapon or projectile you’re using becomes visible again after the attack hits or misses. If you are hidden and the target is 80 feet or further from you, the attack doesn’t reveal your location.</p>",
+            "sourceId": 197
+          },
+          {
+            "id": 2984808,
+            "label": "Confounding Shadows",
+            "description": "<p>You create an orb of writhing shadows and hurl it at a creature within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and it is unable to see you until the end of your next turn.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).</p>",
+            "sourceId": 200
+          },
+          {
+            "id": 2984813,
+            "label": "Cat's Spring",
+            "description": "<p>You jump up to 10 feet to an unoccupied space you can see and deliver a spectral claw attack that deals Slashing or Force damage (you choose when you cast the spell). Make a melee spell attack against a target. On a hit, the target takes 1d8 damage of the chosen type, and the next attack roll you make against it before the end of your next turn has Advantage.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>",
+            "sourceId": 200
+          },
+          {
+            "id": 2984814,
+            "label": "Chant of Thoth",
+            "description": "<p>The first time you fail an Intelligence check during the spell’s duration, you may automatically succeed on the check if the DC is less than your spell save DC. Otherwise, you gain a +2 bonus to that check. Once you use this benefit, you cannot use it again until you finish a Short Rest.</p>",
+            "sourceId": 200
+          },
+          {
+            "id": 2984825,
+            "label": "Evil Eye",
+            "description": "<p>You glare at a creature that you can see within range, imposing a baleful hex on it. The target takes 1d4+2 Psychic damage, and attack rolls and Unarmed Strikes against it can score a Critical Hit on a roll of 19 or 20 on the d20.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong>The damage increases by 1d4+2 when you reach levels 5 (2d4+4), 11 (3d4+6), and 17 (4d4+8).</p>",
+            "sourceId": 200
+          },
+          {
+            "id": 3014221,
+            "label": "Calling Card",
+            "description": "<p>You touch a corpse and leave a magical mark. You can choose to make it a visible mark that appears as a rune or word written on the flesh, or you can choose to make the mark Invisible. A creature that takes the Study action to specifically examine a corpse automatically detects it, whether visible or Invisible.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014240,
+            "label": "Frightful Start",
+            "description": "<p>You twist your visage to scare a creature that you can see within range. The creature must succeed on a Wisdom saving throw or have the Frightened condition until the start of your next turn.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014244,
+            "label": "Holy Word",
+            "description": "<p>You whisper a divine word under your breath, careful not to speak loudly, for such celestial power isn’t for the unworthy. Make a ranged spell attack against a target within range. On a hit, the target takes 1d8 Radiant damage. If the target is a Fey, Fiend, or an Undead, its Speed is reduced by 10 feet and it can’t take Reactions until the end of its next turn.</p>\r\n<p><em><strong>Cantrip Upgrade.</strong></em> The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014245,
+            "label": "Hunter Sense",
+            "description": "<p>You touch a willing creature. For the duration, the target’s senses are heightened. Whenever the target makes a Wisdom (Perception) check, it can treat a d20 roll of 9 or lower as a 10.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014246,
+            "label": "Illusory Instrument",
+            "description": "<p>You create an illusionary copy of a mundane musical instrument. The copy of the instrument takes on the shape of your fondest memory of the instrument, such as the first flute you owned or the half harp gifted to you by a loved one. This illusion moves as its physical counterpart would, but it is weightless and is tangible only to you. This instrument can be used as a Spellcasting Focus. This illusory instrument dissipates if you move 10 feet away from it or choose to end the spell (no action required by you).</p>\r\n<p>As a Bonus Action, you can command your instrument to create one of the following effects:</p>\r\n<ul>\r\n<li>Mimic basic sounds heard on a daily basis, such as a bird chirping, footsteps, or a slamming door.</li>\r\n<li>Automatically play a basic beat at the tempo of your choice.</li>\r\n<li>Record anything played on it, and play it back on a loop.</li>\r\n<li>Record and playback any noise that it could pick up within 15 feet, such as conversation, a royal decree, or a snoring party member who swears that they don’t snore.</li>\r\n</ul>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014277,
+            "label": "Preserve",
+            "description": "<p>Food and other perishable items weighing 5 pounds or less that you place in a sack don’t age or decay for the duration.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3221135,
+            "label": "Ferocious Strike",
+            "description": "<p>With a pulse of adrenaline, a tremendous ferocity comes upon you. Make one weapon attack against a target within your reach or range. If this attack hits, the target takes additional 1d4 damage of the weapon’s damage type.</p>\r\n<p>This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4) and 17th level (4d4).</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221139,
+            "label": "Flare",
+            "description": "<p>You launch a pulse of radiant energy at a target within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 radiant damage. On a critical hit, the target is covered in glittering mystical light, granting advantage on attack rolls against the target until the end of your next turn.</p>\r\n<p>Alternatively, you can launch the pulse at a point in the air within range where it slowly falls towards the ground. Until the end of your next turn, the flare sheds bright light in a 20-foot radius and dim light for an additional 20 feet.</p>\r\n<p>This spell’s damage increases by 1d8 and the radius of the bright and dim light both increase by 10 feet when you reach 5th level (2d8, 30 feet), 11th level (3d8, 40 feet), and 17th level (4d8, 50 feet).</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221152,
+            "label": "Spore Cloud",
+            "description": "<p>You produce a cloud of virulent spores. Each creature within 5 feet of you, other than you, must succeed on a Constitution saving throw or take 1d4 poison damage. A creature that fails the saving throw by 5 or more is poisoned until the end of its next turn.</p>\r\n<p>The spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221153,
+            "label": "Spark",
+            "description": "<p>A spark of bright light arcs from you to a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 lightning damage. On a critical hit, the target is also blinded until the end of its next turn.</p>\r\n<p>The spell creates more than one spark when you reach higher levels: two sparks at 5th level, three sparks at 11th level, and four sparks at 17th level. You can direct the sparks at the same target or at different ones. Make a separate attack roll for each spark.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221157,
+            "label": "Stalker’s Eye",
+            "description": "<p>A willing creature you touch gains a preternatural ability to perceive the weaknesses in a creature’s defences. The first time the creature makes an attack while under the effect of this spell, it makes the attack with advantage. After it makes an attack, the spell ends.</p>\r\n<p>This spell augments the creature’s ability to strike at vital points when you reach certain levels. When you reach 5th level, the augmented attack scores a critical hit on a roll of 19 or 20. At 11th level, this range is increased to 18 to 20, and at 17th level, this range becomes 17 to 20.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221162,
+            "label": "Primal Scent",
+            "description": "<p>You inhale deeply, magically enhancing the scents that surround you. You have advantage on the next ability check you make that relies on smell, and you can treat a roll of 4 or lower as a 5.</p>\r\n<p>When you reach higher levels, this spell gives you an increasingly astute ability to identify the source of the scents around you. When you reach 5th level, whenever you make an ability check that relies on smell, you can treat a d20 roll of 7 or lower as an 8. At 11th level, a roll of 10 or lower is treated as an 11, and at 17th level, a roll of 13 or lower is treated as a 14.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221164,
+            "label": "Smokescreen",
+            "description": "<p>You spew a thick cloud of dense black smoke that forms a 5-foot-diameter, 10-foot-high cylinder centred on you that lasts until the start of your next turn. The smoke heavily obscures its area. When you cast the spell, you can choose whether the cloud remains in the location where you cast it or if it moves with you, centred on you.</p>\r\n<p>When you reach higher levels, the size of the cloud you can create with this spell increases. When you reach 5th level, the cloud has a maximum diameter and height of 15 feet; at 11th level this increases to 25 feet; and at 17th level this increases to 40 feet. You choose how big the cloud is in each dimension up to this maximum each time that you cast it.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221166,
+            "label": "Howl",
+            "description": "<p>You utter a bestial, magically-augmented howl that can be heard for 1,000 feet. The howl can manifest as any animal call you’ve heard, such as the screech of a hawk or trumpet of an elephant. Choose one creature with whom you are familiar as the recipient: if it can hear your howl, it understands your meaning and can respond in a likewise manner.</p>\r\n<p>Creatures other than your recipient that hear the howl and that are under the effects of the comprehend languages spell or similar magic, or that can understand beasts, can understand the howl’s meaning. Otherwise, the howl is unintelligible to creatures that can hear it.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3221167,
+            "label": "Can’t Trip",
+            "description": "<p>Choose a willing creature within range that you can see. Until the end of your next turn, that creature is immune to the prone condition. If it is already prone and is not restrained, this spell sets it on its feet.</p>\r\n<p>The number of creatures you can simultaneously target with this spell increases by 1 when you reach 5th level (2 creatures), 11th level (3 creatures), and 17th level (4 creatures).</p>",
+            "sourceId": 224
+          },
+          {
             "id": 3170517,
             "label": "Aundair’s Silent Sanctum",
             "description": "<p>You surround yourself with an invisible bubble of energy in a 5-foot Emanation. The sphere muffles sound in both directions. Creatures outside of the Emanation have Disadvantage on Wisdom (Perception) checks made to hear any sounds from within the Emanation, and creatures inside the Emanation have Disadvantage on Wisdom (Perception) checks made to hear sounds outside of the Emanation.</p>\r\n<p>In addition, creatures have Advantage on saving throws against effects that require them to hear a sound from the other side of the Emanation, such as the Command spell.</p>",
@@ -10778,6 +11443,90 @@
             "label": "Magecraft",
             "description": "<p>You channel your arcane talent through a set of tools. Choose an Artisan’s Tool or Herbalism Kit. Until the spell ends, you add 1d6 to ability checks you make when you take the Utilize action with the chosen tool.</p>",
             "sourceId": 225
+          },
+          {
+            "id": 3274598,
+            "label": "Aegir’s Breath",
+            "description": "<p>You blow a cloud of frigid air at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Cold damage, or 1d12 if the target is at least partially submerged in water.</p>\r\n<p><em><strong>Cantrip Upgrade.</strong></em> The spell creates two clouds at level 5, three clouds at level 11, and four clouds at level 17. You can direct the clouds at the same target or at different ones. Make a separate attack roll for each cloud.</p>",
+            "sourceId": 238
+          },
+          {
+            "id": 3312019,
+            "label": "Brittle Bone Throw",
+            "description": "<p>You hurl a splintered bone fragment at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Piercing damage. On a miss, you can shatter the bone mid-air and redirect the remnant towards another creature within 15 feet of the original target. Make another ranged spell attack. On a hit, the new target takes 1d4 Piercing damage.</p>\r\n<p><em><strong>Cantrip Upgrade. </strong></em>The damage increases by 1d8 and 1d4, respectively, when you reach levels 5 (2d8, 2d4), 11 (3d8, 3d4), and 17 (4d8, 4d4).</p>",
+            "sourceId": 249
+          },
+          {
+            "id": 3312020,
+            "label": "Gravity Spike",
+            "description": "<p>You create a localized gravitational field that temporarily shifts the landscape to impale a creature. Choose a creature on the ground you can see within range. The creature must make a Dexterity saving throw. On a failed save, the target takes 1d4 Piercing damage and has the Prone condition. On a successful save, the target takes half as much damage only.</p>\r\n<p><em><strong>Cantrip Upgrade. </strong></em>The damage increases by 1d4 when you reach levels 5 (2d4), 11 (3d4), and 17 (4d4).</p>",
+            "sourceId": 249
+          },
+          {
+            "id": 3321991,
+            "label": "Arc Blade",
+            "description": "<p>As lightning surges through the weapon used in the spell’s casting, you make one attack. This attack can be a melee attack or ranged spell attack using the weapon with a range of 15 feet, as a wave of energy extends from the weapon. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If it is a ranged attack, it deals Lightning damage. Otherwise, it can deal Lightning damage or the weapon’s normal damage type (your choice).</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> Whether you deal Lightning damage or the weapon’s normal damage type, the attack deals extra Lightning damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).</p>",
+            "sourceId": 281
+          },
+          {
+            "id": 3321993,
+            "label": "Burning Blade",
+            "description": "<p>Encasing the weapon used in the spell’s casting in flames, you make one melee attack. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Fire damage or the weapon’s normal damage type (your choice). If the weapon’s damage die or any of the spell’s damage dice roll the highest number, you can roll that die again and add it to the damage, rolling again if it is the highest number, and so on. You can add a maximum number of dice to the damage roll equal to your spellcasting ability modifier.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> Whether you deal Fire damage or the weapon’s normal damage type, the attack deals extra Fire damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).</p>",
+            "sourceId": 281
+          },
+          {
+            "id": 3321994,
+            "label": "Candy Blast",
+            "description": "<p>You summon a handful of hard candy&mdash;boiled sweets, mints, jelly beans, etc.&mdash;and hurl them at a creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Force damage and the candy forms a pile on the ground in its space, causing a 5-foot-square area of your choice in the target’s space to become Difficult Terrain. The candy produced by this spell is edible but has no nutritional value, and vanishes after 1 minute, ending any Difficult Terrain.</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>",
+            "sourceId": 281
+          },
+          {
+            "id": 3321995,
+            "label": "Cheat",
+            "description": "<p>You twist your fingers and fate seems to follow suit. Until the end of your next turn, you can reroll any ability check you make to play nonmagical games of skill and must use the new roll. Therefore, this spell could influence a game of poker, but not the result of a Deck of Many Things.</p>",
+            "sourceId": 281
+          },
+          {
+            "id": 3322001,
+            "label": "Frigid Blade",
+            "description": "<p>Encasing the weapon used in the spell’s casting in ice, you make one melee attack. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. The weapon’s damage die increases by 1 step (d4 &rarr; d6 &rarr; d8 &rarr; d10 &rarr; d12 or 2d6, your choice). The weapon’s damage dice don’t increase if it has more than one weapon damage die. If the attack deals damage, it can be Cold damage or the weapon’s normal damage type (your choice).</p>\r\n<p><strong><em>Cantrip Upgrade.</em></strong> Whether you deal Cold damage or the weapon’s normal damage type, the attack deals extra Cold damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).</p>",
+            "sourceId": 281
+          },
+          {
+            "id": 3332211,
+            "label": "Gray Gaze",
+            "description": "<p>You turn your gaze on one creature you can see within range. If the target can see your eyes, their body stiffens and cracks as if it were turning to stone. The target must succeed on a Constitution saving throw or take Necrotic damage equal to your Proficiency Bonus and have Disadvantage on the next Dexterity saving throw it makes before the end of its next turn.</p>",
+            "sourceId": 300
+          },
+          {
+            "id": 3332215,
+            "label": "Mold Earth (Frontiers of Eberron)",
+            "description": "<p>You manipulate a portion of dirt or stone that fits within a 5-foot Cube that you can see within range. You create one of the following effects.</p>\r\n<ul>\r\n<li>If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn't involve enough force to cause damage.</li>\r\n<li>You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.</li>\r\n<li>If the dirt or stone you target is on the ground, you cause it to become Difficult Terrain. Alternatively, you can cause the ground to become normal terrain if it is already Difficult Terrain. The change lasts for 1 hour.</li>\r\n</ul>\r\n<p>If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as a Magic action.</p>",
+            "sourceId": 300
+          },
+          {
+            "id": 3332216,
+            "label": "Orien Step",
+            "description": "<p>You teleport up to five feet to an unoccupied space you can see. You cannot teleport through solid objects or out of manacles and similar restraints.</p>",
+            "sourceId": 300
+          },
+          {
+            "id": 3444,
+            "label": "Academic Anguish",
+            "description": "<p>You force information into a creature's mind. Choose one creature within range. That creature must succeed on an Intelligence saving throw or take 1d12 psychic damage. A creature that passes its saving throw gains proficiency in a skill or learns a language of the DM's choice. The creature retains this knowledge for 1 minute. A creature cannot gain more than one skill or language from subsequent successful saving throws against this spell.</p>\r\n<p>This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).</p>",
+            "sourceId": null
+          },
+          {
+            "id": 30770,
+            "label": "Kiss It Better",
+            "description": "<p>This spell&nbsp;harnesses the firmly held beliefs of childhood, sometimes seated deep in the subconscious, to soothe the pain of minor wounds.&nbsp;&nbsp;Though effective, this spell may be unwelcome by more mature recipients due to its belittling, bizarre, or humiliating implications.</p>\r\n<p>You kiss a target's ouchies to make&nbsp;everything all better.</p>\r\n<p>One creature of your choice within range must make a Dexterity saving throw; a creature can choose to fail this saving throw if it wishes.&nbsp; If&nbsp;the target succeeds on its saving throw, the spell fails and you provoke an opportunity attack from that creature.</p>\r\n<p>On a failed save,&nbsp;the target gains 1d4 temporary hit points.&nbsp; If the target did not willing fail its save, it is&nbsp;embarrassed until the end of its next turn.&nbsp; While&nbsp;embarrassed, a creature has disadvantage on all attack roles and Charisma checks.</p>\r\n<p>This spell has no effect on undead, constructs, or creatures that have an Intelligence score of&nbsp;4 or lower.</p>",
+            "sourceId": null
+          },
+          {
+            "id": 974452,
+            "label": "Annoyance",
+            "description": "<p><em>* adapted from Annoyance Version 2 by&nbsp;TheMageKing3001</em></p>\r\n<p>You cast a minor spell to slightly inconvenience a single creature that you can see within the spell's range. The target must make a CHA saving throw.&nbsp; On a successful save, the spell has no effect.&nbsp; On a failed save, your choice of one of the following happens.:</p>\r\n<ul>\r\n<li>You make the creature stumble &ndash; not enough that they trip or are slowed, but enough that others notice.</li>\r\n<li>You make the creature accidentally bite their tongue or the inside of their cheek.</li>\r\n<li>You make the creature temporarily forget one word and have it be on the tip of their tongue. They will remember it after 1 minute.</li>\r\n<li>If the creature is eating or drinking, you make them get their food or drink on their clothes.</li>\r\n<li>You make a small rock appear in their shoe.&nbsp; The sensation of having a stone in their shoe will continue for 1 minute regardless of whether the shoe is removed and shaken.</li>\r\n<li>You magically summon a harmless fly to buzz around the creature’s head. No matter how hard the creature tries, it cannot kill the fly. After 1 minute, the fly disappears.</li>\r\n</ul>\r\n<p>This spell is not intended to cause damage, apply conditions to the target, nor will it prevent or impair spellcasting.</p>",
+            "sourceId": null
           },
           {
             "id": 3216860,
@@ -10928,6 +11677,66 @@
             "label": "Alarm",
             "description": "<p>You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is audible or mental:</p>\r\n<p><strong>Audible Alarm.</strong> The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.</p>\r\n<p><strong>Mental Alarm.</strong> You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.</p>",
             "sourceId": 145
+          },
+          {
+            "id": 2857544,
+            "label": "Sand Structure",
+            "description": "<p>A wall of sand that is 5 feet tall, 5 feet wide, and 1 foot thick materializes from the ground up in an unoccupied space that you can see within range. The sand functions as solid stone while in its wall form. The wall has AC 13 and 10 hit points. Reducing the wall to 0 hit points destroys it and might cause connected walls to collapse at the GM’s discretion. You can end the spell early by using an action to dismiss it. When the spell ends, the wall crumbles back into sand.</p>\r\n<p>If you cast the spell as a ritual, the wall lasts until it is destroyed or dismissed.</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2872685,
+            "label": "Clue",
+            "description": "<p>When you cast this spell, all footprints and fingerprints within a 30-foot Emanation originating from you become highlighted and glow faintly for the duration. When you cast the spell, choose any point in time up to 10 days ago. Only footprints and fingerprints left between that time and the present will be highlighted. Each creature that leaves footprints and fingerprints is assigned a unique color, but are not otherwise identified. Any creature that moves or touches objects within the Emanation will also leave colorful footprints and fingerprints, which might reveal invisible creatures in the area.</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 2872693,
+            "label": "Memorize",
+            "description": "<p>When you cast this spell, your eyes pass over a page of written text that is committed to your memory. For the next year, you remember the exact details of all information on the page. After that time, you have Advantage on all Intelligence checks you make to recall this information.</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 3014205,
+            "label": "Binding Pledge",
+            "description": "<p>When you cast the spell, a willing creature within range makes a promise, swears an oath, or enters into a contract. For the duration of the spell, you immediately know if the creature breaks that promise, oath, or contract. If this happens, for the remainder of the duration of the spell, you know the distance and direction to the creature. If this spell is dispelled, you immediately know it but don’t learn the distance and direction to the creature.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> The duration becomes 30 days (level 3-4 slot) or 1 year (level 5-6 slot). If you use a level 7+ spell slot, the spell lasts until dispelled.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014248,
+            "label": "Intaglio",
+            "description": "<p>You transform a piece of parchment into a duplicate of a text or symbol. During the spell’s duration, you can take a Magic action to trace your hand over any non-magical text or imagery on a surface within range. You imprint the text or imagery onto the parchment you provide, choosing how to resize or crop it. This spell copies a single page with each Magic action. When copying a spellbook, you can do so using the same method as you would replace a spellbook, except the time and GP requirements are both halved.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3274636,
+            "label": "Icewalker",
+            "description": "<p>For the duration, you radiate an aura in a 30-foot Emanation. While in the aura, you and creatures of your choice gain the following benefits:</p>\r\n<ul>\r\n<li>Treat slippery ice as normal terrain</li>\r\n<li>Treat your weight as one-tenth normal for the purpose of breaking through thin ice</li>\r\n</ul>",
+            "sourceId": 238
+          },
+          {
+            "id": 3322010,
+            "label": "Transient Bulwark",
+            "description": "<p>A fragile, invisible shield protects you for the duration. The next attack roll against you has a &minus;10 penalty to hit, and the spell ends.</p>",
+            "sourceId": 281
+          },
+          {
+            "id": 36186,
+            "label": "Speed Read",
+            "description": "<p>Knowledge almost seems to leap directly from the page and into your brain.&nbsp; For the duration,you gain the ability to read non-magical texts at a rate of 100 pages per minute. You also have perfect recall of any knowledge gained through this spell during it's duration.&nbsp; After the spell has ended you can remember the details of what you read as if you had read it normally.</p>\r\n<p>You must be able to comprehend the language in which a text is written in order to utilize this spell.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+            "sourceId": null
+          },
+          {
+            "id": 138563,
+            "label": "Knowledge Extraction",
+            "description": "<p>You concentrate psionic power in the palm of your hand and make a melee attack to&nbsp;try to grab the forehead of&nbsp;your victim. If&nbsp;you fail the spell is retained in your hand.</p>\r\n<p>On a &nbsp;hit you do 1d10&nbsp;psychic damage + your spell attack modifier and for the rest of the day you gain knowledge from the victims mind, this is to the DM to decide but generally it will be proficiency in a skill o tool that the target had proficiency with, secrets the victim was holding, a language, memories or even simple spells if it the victim was a spellcaster. While you hold the knowledge of your victim he loses the ability to speak that language or the proficiency in that skill or&nbsp;is unable to recall the stolen memory, depending on what effect the spell had. At the end of the day, the piece of knowledge returns to its original&nbsp;owner.</p>\r\n<p>&nbsp;When you cast this spell using a spell slot of 2nd or higher, you can obtain an additional piece of knowledge from your victim for each level above 1th.</p>",
+            "sourceId": null
+          },
+          {
+            "id": 189379,
+            "label": "Arcane Mark",
+            "description": "<p><strong>Choose one creature or object.</strong> You establish a permanent link the subject in your mind, and leave your sigil or mark upon it. <strong>At your option</strong>, the mark may be invisible, but any creature that can cast spells can always see the mark. An unwilling creature cannot have this mark placed upon it.</p>\r\n<p>You can at any time spend an action to determine the direction and general distance of the subject, as well its physical condition. More information can be learned, depending upon the nature of the subject. If the subject is a coin, you know whose possession it's in. If a door, you know the last person to have touched it. If a living creature, you learn its current mental state (angry, frightened, happy, asleep, etc). More information may be available at the DM's discretion.</p>\r\n<p>You can mark a maximum number of subjects equal to 3 + your spellcaster ability modifier. You can <strong>as an action</strong> dismiss any mark you have placed regardless of distance.</p>",
+            "sourceId": null
           }
         ]
       },
@@ -11822,34 +12631,64 @@
             "sourceId": 145
           },
           {
-            "id": 2064,
-            "label": "Detect Evil and Good",
-            "description": "<p>For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.</p>\r\n<p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
-            "sourceId": 1
+            "id": 2857544,
+            "label": "Sand Structure",
+            "description": "<p>A wall of sand that is 5 feet tall, 5 feet wide, and 1 foot thick materializes from the ground up in an unoccupied space that you can see within range. The sand functions as solid stone while in its wall form. The wall has AC 13 and 10 hit points. Reducing the wall to 0 hit points destroys it and might cause connected walls to collapse at the GM’s discretion. You can end the spell early by using an action to dismiss it. When the spell ends, the wall crumbles back into sand.</p>\r\n<p>If you cast the spell as a ritual, the wall lasts until it is destroyed or dismissed.</p>",
+            "sourceId": 160
           },
           {
-            "id": 2149,
-            "label": "Hunter's Mark",
-            "description": "<p>You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.</p>",
-            "sourceId": 1
+            "id": 2872685,
+            "label": "Clue",
+            "description": "<p>When you cast this spell, all footprints and fingerprints within a 30-foot Emanation originating from you become highlighted and glow faintly for the duration. When you cast the spell, choose any point in time up to 10 days ago. Only footprints and fingerprints left between that time and the present will be highlighted. Each creature that leaves footprints and fingerprints is assigned a unique color, but are not otherwise identified. Any creature that moves or touches objects within the Emanation will also leave colorful footprints and fingerprints, which might reveal invisible creatures in the area.</p>",
+            "sourceId": 164
           },
           {
-            "id": 2370,
-            "label": "Beast Bond",
-            "description": "<p>You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.</p>",
-            "sourceId": 4
+            "id": 2872693,
+            "label": "Memorize",
+            "description": "<p>When you cast this spell, your eyes pass over a page of written text that is committed to your memory. For the next year, you remember the exact details of all information on the page. After that time, you have Advantage on all Intelligence checks you make to recall this information.</p>",
+            "sourceId": 164
           },
           {
-            "id": 2619090,
-            "label": "Detect Evil and Good",
-            "description": "<p>For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the Hallow spell is active there and, if so, where.</p>\r\n<p>The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.</p>",
-            "sourceId": 145
+            "id": 3014205,
+            "label": "Binding Pledge",
+            "description": "<p>When you cast the spell, a willing creature within range makes a promise, swears an oath, or enters into a contract. For the duration of the spell, you immediately know if the creature breaks that promise, oath, or contract. If this happens, for the remainder of the duration of the spell, you know the distance and direction to the creature. If this spell is dispelled, you immediately know it but don’t learn the distance and direction to the creature.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> The duration becomes 30 days (level 3-4 slot) or 1 year (level 5-6 slot). If you use a level 7+ spell slot, the spell lasts until dispelled.</p>",
+            "sourceId": 207
           },
           {
-            "id": 2619166,
-            "label": "Hunter's Mark",
-            "description": "<p>You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.</p>\r\n<p>If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> Your Concentration can last longer with a spell slot of level 3&ndash;4 (up to 8 hours) or 5+ (up to 24 hours).</p>",
-            "sourceId": 145
+            "id": 3014248,
+            "label": "Intaglio",
+            "description": "<p>You transform a piece of parchment into a duplicate of a text or symbol. During the spell’s duration, you can take a Magic action to trace your hand over any non-magical text or imagery on a surface within range. You imprint the text or imagery onto the parchment you provide, choosing how to resize or crop it. This spell copies a single page with each Magic action. When copying a spellbook, you can do so using the same method as you would replace a spellbook, except the time and GP requirements are both halved.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3274636,
+            "label": "Icewalker",
+            "description": "<p>For the duration, you radiate an aura in a 30-foot Emanation. While in the aura, you and creatures of your choice gain the following benefits:</p>\r\n<ul>\r\n<li>Treat slippery ice as normal terrain</li>\r\n<li>Treat your weight as one-tenth normal for the purpose of breaking through thin ice</li>\r\n</ul>",
+            "sourceId": 238
+          },
+          {
+            "id": 3322010,
+            "label": "Transient Bulwark",
+            "description": "<p>A fragile, invisible shield protects you for the duration. The next attack roll against you has a &minus;10 penalty to hit, and the spell ends.</p>",
+            "sourceId": 281
+          },
+          {
+            "id": 36186,
+            "label": "Speed Read",
+            "description": "<p>Knowledge almost seems to leap directly from the page and into your brain.&nbsp; For the duration,you gain the ability to read non-magical texts at a rate of 100 pages per minute. You also have perfect recall of any knowledge gained through this spell during it's duration.&nbsp; After the spell has ended you can remember the details of what you read as if you had read it normally.</p>\r\n<p>You must be able to comprehend the language in which a text is written in order to utilize this spell.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+            "sourceId": null
+          },
+          {
+            "id": 138563,
+            "label": "Knowledge Extraction",
+            "description": "<p>You concentrate psionic power in the palm of your hand and make a melee attack to&nbsp;try to grab the forehead of&nbsp;your victim. If&nbsp;you fail the spell is retained in your hand.</p>\r\n<p>On a &nbsp;hit you do 1d10&nbsp;psychic damage + your spell attack modifier and for the rest of the day you gain knowledge from the victims mind, this is to the DM to decide but generally it will be proficiency in a skill o tool that the target had proficiency with, secrets the victim was holding, a language, memories or even simple spells if it the victim was a spellcaster. While you hold the knowledge of your victim he loses the ability to speak that language or the proficiency in that skill or&nbsp;is unable to recall the stolen memory, depending on what effect the spell had. At the end of the day, the piece of knowledge returns to its original&nbsp;owner.</p>\r\n<p>&nbsp;When you cast this spell using a spell slot of 2nd or higher, you can obtain an additional piece of knowledge from your victim for each level above 1th.</p>",
+            "sourceId": null
+          },
+          {
+            "id": 189379,
+            "label": "Arcane Mark",
+            "description": "<p><strong>Choose one creature or object.</strong> You establish a permanent link the subject in your mind, and leave your sigil or mark upon it. <strong>At your option</strong>, the mark may be invisible, but any creature that can cast spells can always see the mark. An unwilling creature cannot have this mark placed upon it.</p>\r\n<p>You can at any time spend an action to determine the direction and general distance of the subject, as well its physical condition. More information can be learned, depending upon the nature of the subject. If the subject is a coin, you know whose possession it's in. If a door, you know the last person to have touched it. If a living creature, you learn its current mental state (angry, frightened, happy, asleep, etc). More information may be available at the DM's discretion.</p>\r\n<p>You can mark a maximum number of subjects equal to 3 + your spellcaster ability modifier. You can <strong>as an action</strong> dismiss any mark you have placed regardless of distance.</p>",
+            "sourceId": null
           },
           {
             "id": 1993,
@@ -11882,6 +12721,12 @@
             "sourceId": 1
           },
           {
+            "id": 2064,
+            "label": "Detect Evil and Good",
+            "description": "<p>For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.</p>\r\n<p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+            "sourceId": 1
+          },
+          {
             "id": 2144,
             "label": "Heroism",
             "description": "<p>A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.</p>\r\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</p>",
@@ -11891,6 +12736,12 @@
             "id": 2145,
             "label": "Hideous Laughter",
             "description": "<p>A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.</p>\r\n<p>At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.</p>",
+            "sourceId": 1
+          },
+          {
+            "id": 2149,
+            "label": "Hunter's Mark",
+            "description": "<p>You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.</p>",
             "sourceId": 1
           },
           {
@@ -11924,10 +12775,28 @@
             "sourceId": 2
           },
           {
+            "id": 2370,
+            "label": "Beast Bond",
+            "description": "<p>You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.</p>",
+            "sourceId": 4
+          },
+          {
+            "id": 176233,
+            "label": "Gift of Alacrity",
+            "description": "<p>You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.</p>",
+            "sourceId": 59
+          },
+          {
             "id": 1239804,
             "label": "Silvery Barbs",
             "description": "<p>You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.</p>\r\n<p>You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.</p>",
             "sourceId": 80
+          },
+          {
+            "id": 2294144,
+            "label": "Elevated Sight",
+            "description": "<p>You cast your eyes skyward, granting you sight from a higher vantage point. You project your vision to see through an invisible sensor which appears in a spot up to 120 feet above you.</p>\r\n<p>You can see through the sensor as if you were flying, granting a full 360 degree view from its location.</p>\r\n<p>The sensor moves with you, retaining its height in relation to you. You can use a bonus action to adjust the sensor’s height, but only to a maximum of 120 feet above you.</p>\r\n<p>While looking through this sensor you are blind, though you can switch between seeing through the sensor or through your own eyes at any time during your turn.</p>",
+            "sourceId": 133
           },
           {
             "id": 2618847,
@@ -11978,6 +12847,12 @@
             "sourceId": 145
           },
           {
+            "id": 2619090,
+            "label": "Detect Evil and Good",
+            "description": "<p>For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the Hallow spell is active there and, if so, where.</p>\r\n<p>The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.</p>",
+            "sourceId": 145
+          },
+          {
             "id": 2619104,
             "label": "Dissonant Whispers",
             "description": "<p>One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> The damage increases by 1d6 for each spell slot level above 1.</p>",
@@ -11994,6 +12869,72 @@
             "label": "Heroism",
             "description": "<p>A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> You can target one additional creature for each spell slot level above 1.</p>",
             "sourceId": 145
+          },
+          {
+            "id": 2619166,
+            "label": "Hunter's Mark",
+            "description": "<p>You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.</p>\r\n<p>If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.</p>\r\n<p><strong><em>Using a Higher-Level Spell Slot.</em></strong> Your Concentration can last longer with a spell slot of level 3&ndash;4 (up to 8 hours) or 5+ (up to 24 hours).</p>",
+            "sourceId": 145
+          },
+          {
+            "id": 2515121,
+            "label": "Elf Shot",
+            "description": "<p>You pretend to shoot an arrow with a tiny bow. Make a ranged spell attack against a creature within range. On a hit, the target creature stumbles (is pushed) 5 feet in a random direction (roll a d8 and assign a direction to each die face), and its speed is 0 until the end of its next turn. Until the spell ends, you can make the attack again on each of your turns as an action.</p>",
+            "sourceId": 151
+          },
+          {
+            "id": 2857538,
+            "label": "Pacify Person",
+            "description": "<p>You attempt to pacify a humanoid you can see within range.</p>\r\n<p>The target must make a Wisdom saving throw. If it fails the save, it is pacified by you until the spell ends. A pacified creature can’t attack, cast a spell that affects an enemy, or deal damage to another creature. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional humanoid for each slot level above 1st. The humanoids must be within 30 feet of each other when you target them.</p>",
+            "sourceId": 160
+          },
+          {
+            "id": 2840676,
+            "label": "Daydream",
+            "description": "<p>You float some mildly distracting thoughts into the mind of a humanoid you can see within range. The target must succeed on a Wisdom saving throw or have disadvantage on Wisdom (Perception) checks (taking a -5 penalty to its passive Perception as a result of this disadvantage) until the spell ends. A creature immune to being charmed is unaffected by this spell.</p>\r\n<p>A creature that succeeds on the saving throw by 5 or more is aware that an attempt was made to influence it with magic. Otherwise, the creature remains unaware of the magic that affected it.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st, or you can extend the range of the spell by 30 feet for each slot level above 1st.</p>",
+            "sourceId": 162
+          },
+          {
+            "id": 2872698,
+            "label": "Rumor",
+            "description": "<p>You magically spread a rumor of 10 words or less in a 100-foot Emanation originating from you. Any creature within the Emanation that can hear and understand three or more other creatures believes that they hear the rumor being repeated by someone nearby. Different creatures hear the rumor from different people, so a concrete origin is impossible to discern. Generally, creatures won’t become Hostile upon hearing even the most vicious rumors, but hearing a rumor can affect their attitude positively or negatively.</p>",
+            "sourceId": 164
+          },
+          {
+            "id": 2952579,
+            "label": "Ancestral Communion",
+            "description": "<p>You invoke the wisdom of your ancestors to gain insight into your trials. When you cast the spell, and at the start of each of your turns for the duration, you gain Heroic Inspiration if you don’t already have it.</p>",
+            "sourceId": 193
+          },
+          {
+            "id": 3014204,
+            "label": "Assisted Aim",
+            "description": "<p>You invigorate up to three creatures within range with improved accuracy. Each target gains a +1 bonus to attack rolls it makes with Ranged weapons. Additionally, the normal and long range of Ranged weapons wielded by a target are doubled for the spell’s duration.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You can target one additional creature for each slot level above 1.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3014290,
+            "label": "Somnolence",
+            "description": "<p>As part of casting this spell, you must expend one Hit Point Die or the spell automatically fails. Roll the Hit Point Die expended to cast the spell plus 2d12 and choose a creature within range. If the roll’s total is equal to or greater than the chosen creature’s current Hit Points, the creature falls into a magical slumber for 1 minute. If the roll’s total is equal to or greater than the chosen creature’s Hit Point maximum, the magical slumber lasts for 24 hours instead. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell’s effect. A creature woken early from this spell gains 1 Exhaustion level.</p>\r\n<p>Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You roll an additional 1d12 and can expend an additional two Hit Point Dice for every spell slot level above 1.</p>",
+            "sourceId": 207
+          },
+          {
+            "id": 3221159,
+            "label": "Initiative",
+            "description": "<p>As a reaction when initiative is rolled, choose a willing creature you can see within range; it begins to subtly jitter as its pupils dilate. If the target is surprised, it is no longer surprised, and takes its turn on the first round as normal. If the target is not surprised, it gains advantage on the initiative roll that prompted this spell.</p>\r\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, you may target one additional creature for each spell slot above 1st.</p>",
+            "sourceId": 224
+          },
+          {
+            "id": 3274616,
+            "label": "Drummer’s Cadence",
+            "description": "<p>For the duration, you radiate an aura in a 60-foot Emanation. Whenever an allied ship in this area moves by oar, its Speed increases by 10 ft. The vessel must be sufficiently crewed for this spell to have any effect.</p>",
+            "sourceId": 238
+          },
+          {
+            "id": 3274627,
+            "label": "Freyja’s Allure",
+            "description": "<p>One creature of your choice that you can see within range makes a Charisma saving throw. On a failed save, the target has Disadvantage on attack rolls and can’t willingly move farther away from you for the duration.</p>\r\n<p>At the end of each of its turns, the creature can make another Charisma saving throw. The target has Disadvantage on the save if it can see you and you are within 30 feet of it. On a successful save, the spell ends on it.</p>\r\n<p><em><strong>Using a Higher-Level Spell Slot.</strong></em> You can target one additional creature for each spell slot level above 1st.</p>",
+            "sourceId": 238
           },
           {
             "id": 3269309,
@@ -13862,7 +14803,7 @@
                   "typeId": 11,
                   "dice": null,
                   "value": 1,
-                  "details": "You can target one additional creature for each spell slot level about 1."
+                  "details": "You can target one additional creature for each spell slot level above 1."
                 }
               ],
               "additionalAttacks": [],
@@ -14725,8 +15666,8 @@
   "creatures": [],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-08-16T18:36:15.927833Z",
-  "providedFrom": "database",
+  "dateModified": "2026-08-30T16:40:40.273Z",
+  "providedFrom": "storage",
   "canEdit": false,
   "status": 0,
   "statusSlug": null,
