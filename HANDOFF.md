@@ -143,6 +143,12 @@ The corrected transcript supersedes the in-flight snapshot (`784c717`). All six 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-09-02 22:20 ET · Claude Code (TOOLS.md tool inventory added)
+- **Changed:** Added `TOOLS.md` (25 active rows, the largest of the 13) — Obsidian + its 9 plugins, AssemblyAI, the SITL Pipeline Watcher task, chokidar, BurntToast, Cloudflare R2 + `@aws-sdk/client-s3`, Supabase, the vault-scoped `supabase` MCP server, and the rest. `AGENTS.md` gained a `### TOOLS.md` subsection so Codex maintains it too. One of 13 project tables that `septentrion-sync` v4 rolls into the vault's new `The Toolbox.md`.
+- **Commit:** `a106d90`
+- **Next:** Unchanged. See the block above this log.
+- **Watch out:** ⚠️ This vault's MCP config file is `mcp.json`, **not** `.mcp.json` like ashfall and wtff — noted in the table because it's an easy thing to search for and miss. Also: five plugin rows carry `~` dates from ~2026-05 and will land in the master table's 90-day stale section; that's inferred-usage drift, not evidence they're unused.
+
 ### 2026-08-31 11:20 ET · Claude Code (S23 published; publish made deterministic)
 - **Changed:** Published **[[Session 23 — Gods Above, Abyss Below]]** and made the publish path deterministic. `Publish-SITL.cmd` now regenerates `Public Session Index.json` **before** committing and aborts if that fails; `sitl_pipeline_watch.js` gains a 5th **publish** stage that regenerates + commits + pushes in code at the end of `approve()`; `sitl_status_window.ps1` derives its step total instead of hardcoding "of 4".
 - **Commit:** `8684d4b` (S23 + index), `bfe6551` (publish wiring)
