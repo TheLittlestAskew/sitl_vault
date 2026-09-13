@@ -3115,7 +3115,7 @@
             "id": 10292216,
             "name": "Primal Order",
             "prerequisite": null,
-            "description": "<p>You have dedicated yourself to one of the following sacred roles of your choice.</p>",
+            "description": "<p>You have dedicated yourself to one of the following sacred roles of your choice.</p>\r\n<p><strong>Magician</strong><br /> You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).</p>\r\n<p><strong>Warden</strong><br /> Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.</p>",
             "requiredLevel": 1,
             "displayOrder": 4,
             "summary": "Choose a sacred role—a martial warden or a primal magician.",
@@ -3857,7 +3857,7 @@
             "id": 10292216,
             "name": "Primal Order",
             "prerequisite": null,
-            "description": "<p>You have dedicated yourself to one of the following sacred roles of your choice.</p>",
+            "description": "<p>You have dedicated yourself to one of the following sacred roles of your choice.</p>\r\n<p><strong>Magician</strong><br /> You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).</p>\r\n<p><strong>Warden</strong><br /> Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.</p>",
             "requiredLevel": 1,
             "displayOrder": 4,
             "summary": "Choose a sacred role—a martial warden or a primal magician.",
@@ -4491,7 +4491,7 @@
             "entityTypeId": 12168134,
             "displayOrder": 4,
             "name": "Primal Order",
-            "description": "<p>You have dedicated yourself to one of the following sacred roles of your choice.</p>",
+            "description": "<p>You have dedicated yourself to one of the following sacred roles of your choice.</p>\r\n<p><strong>Magician</strong><br /> You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).</p>\r\n<p><strong>Warden</strong><br /> Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.</p>",
             "snippet": "You have dedicated yourself to one of the sacred roles.",
             "activation": null,
             "multiClassDescription": "",
@@ -7750,7 +7750,7 @@
           "description": "<p>You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).</p>",
           "snippet": "You know one extra cantrip from the Druid spell list. You also gain a {{modifier:wis@min:1#signed}} bonus to Intelligence (Arcana or Nature) checks.",
           "activation": null,
-          "sourceId": null,
+          "sourceId": 145,
           "sourcePageNumber": null,
           "creatureRules": [],
           "spellListIds": []
@@ -8980,13 +8980,13 @@
             "id": 4496849,
             "label": "Warden",
             "description": "<p>Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.</p>",
-            "sourceId": null
+            "sourceId": 145
           },
           {
             "id": 4496848,
             "label": "Magician",
             "description": "<p>You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).</p>",
-            "sourceId": null
+            "sourceId": 145
           },
           {
             "id": 4496842,
@@ -15605,7 +15605,7 @@
   ],
   "optionalOrigins": [],
   "optionalClassFeatures": [],
-  "dateModified": "2026-08-30T19:15:05.96697Z",
+  "dateModified": "2026-09-13T18:40:02.80385Z",
   "providedFrom": "database",
   "canEdit": false,
   "status": 0,

@@ -19,19 +19,22 @@
 | **obsidian-local-rest-api** | Library | Local HTTP access into the vault | Obsidian plugin | ~2026-05-13 | Free | Paired with `mcp-tools` |
 | **mcp-tools** | MCP | Exposes the vault to Claude as MCP tools | Obsidian plugin | ~2026-05-13 | Free | Depends on `obsidian-local-rest-api` |
 | **script-launcher** | Library | Firing the pipeline scripts from inside Obsidian | Obsidian plugin | ~2026-06-13 | Free | — |
-| **AssemblyAI** | Service | mp3 → session transcript | api.assemblyai.com | ~2026-08-30 | Paid | `3-5-pro` model with `custom_spelling`; driven by `Workflows/sitl_transcribe.js` |
-| **SITL Pipeline Watcher** | Task | Watches for new session audio and starts the transcribe→spellcheck→toast flow | Task Scheduler → `start-watcher-hidden.vbs` | 2026-09-02 | Free | State: Running. Log at `_pipeline/watcher.log` |
+| **AssemblyAI** | Service | mp3 → session transcript | api.assemblyai.com | 2026-09-13 | Paid | `3-5-pro` model with `custom_spelling`; driven by `Workflows/sitl_transcribe.js`. ⚠️ S24's header reports `speech_model: unknown (missing from API response)` — the model field is not always returned |
+| **SITL Pipeline Watcher** | Task | Watches for new session audio and starts the transcribe→spellcheck→toast flow | Task Scheduler → `start-watcher-hidden.vbs` | 2026-09-13 | Free | State: Running. Log at `_pipeline/watcher.log`. Produced `_pipeline/S24/` + its Phase A prompt unattended |
+| **ddb_party_sync.js** | CLI | Pulls all six PC sheets from D&D Beyond into `03-Characters/PCs/Party Character Sheets/` (+ `_raw/*.json`) | `Workflows/` | 2026-09-13 | Free | Needs a fresh Cobalt/Bearer token from the browser. Writes a `synced:` frontmatter stamp — that stamp is how you date a run |
 | **chokidar** | Library | Filesystem watching inside `sitl_pipeline_watch.js` | `Workflows/scripts` `chokidar@^5.0.0` | 2026-09-02 | Free | — |
 | **BurntToast** | Library | Windows toast notifications with Review/Approve buttons | PowerShell module, `sitl_notify.ps1` | ~2026-08-31 | Free | The approval step of the pipeline |
 | **Cloudflare R2** | Service | Hosting published session recordings | `r2.cloudflarestorage.com` | 2026-08-29 | Free tier | Uploaded by `upload_sitl_recording_to_r2.mjs` |
 | **@aws-sdk/client-s3** | Library | S3-compatible client for the R2 upload | `Workflows/scripts` `^3.1121.0` + `lib-storage` | 2026-08-29 | Free | R2 speaks the S3 API |
-| **Supabase** | Service | `Rectrix_Caedere` — rolls, sessions, public session index | project `vtrtyagltwdrbastpppl` | 2026-08-30 | Free tier | ⚠️ PostgREST caps at 1000 rows; the S18+ fix paginates (948→1330 rolls) |
-| **supabase** | MCP | Vault-scoped MCP server for Supabase reads/writes | `mcp.json` at vault root | ~2026-08-30 | Free | Note: this vault's file is `mcp.json`, not `.mcp.json` like ashfall/wtff |
-| **Node.js + npm** | CLI | Running the watcher, publish, and index-generation scripts | local install | 2026-08-31 | Free | — |
+| **Supabase** | Service | `Rectrix_Caedere` — rolls, sessions, public session index | project `vtrtyagltwdrbastpppl` | 2026-09-13 | Free tier | ⚠️ PostgREST caps at 1000 rows; the S18+ fix paginates (948→1330 rolls). 📌 **The anon-key PostgREST path is the primary route for roll reads, not the MCP** — `_pipeline/S2x/query_rolls.js` has worked first try for S20–S24 |
+| **supabase** | MCP | Vault-scoped MCP server for Supabase reads/writes | `mcp.json` at vault root | ~2026-08-30 | Free | Note: this vault's file is `mcp.json`, not `.mcp.json` like ashfall/wtff. 🛑 **Unusable non-interactively** — `supabase-account2` and `supabase-cutter` were both **permission-blocked** again on 2026-09-13 (S24), same as S23. Date NOT bumped: it was invoked and denied, which is not a use |
+| **Node.js + npm** | CLI | Running the watcher, publish, party-sync and index-generation scripts | local install | 2026-09-13 | Free | — |
 | **Python 3** | CLI | Ad-hoc correction scripts in `_pipeline/` | local install | ~2026-06-14 | Free | e.g. `S18/correct_s18.py` |
-| **git** | CLI | Version control, handoff motion | `C:\Program Files\Git` | 2026-08-31 | Free | — |
-| **GitHub** | Service | Remote host for `TheLittlestAskew/sitl_vault` | github.com | 2026-08-31 | Free | — |
-| **Claude Code** | App | Transcription review, session notes, publish waves, handoffs | CLI / IDE extension | 2026-08-31 | Paid | — |
+| **git** | CLI | Version control, handoff motion | `C:\Program Files\Git` | 2026-09-13 | Free | 🛑 `git commit` has been permission-gated in non-interactive runs for **seven consecutive sessions** (Bash *and* PowerShell, `-m` / `-F` / `git -C`); `git add` / `git push` are allowed. Fix is `Bash(git commit *)` in `.claude/settings.local.json`. ⚠️ Also refuses **compound** invocations (`cd &&`, `git -C`, `$()`, redirection) — keep to one verb per call |
+| **GitHub** | Service | Remote host for `TheLittlestAskew/sitl_vault` | github.com | 2026-09-13 | Free | ⚠️ Public repo — keep DM medical details and personal contact info out of committed artifacts |
+| **Claude Code** | App | Transcription review, session notes, publish waves, handoffs | CLI / IDE extension | 2026-09-13 | Paid | — |
+| **/handoff** | Skill | Banking work, the DO NEXT pointer, friction log, this table | `~/.claude/skills/handoff` | 2026-09-13 | Free | Enforced here by the Stop hook `~/.claude/hooks/handoff-guard.ps1` |
+| **/kit-pov-journal** | Skill | Kit Aluri's in-character voice for Section 2 of the session notes | `~/.claude/skills/kit-pov-journal` | 2026-09-13 | Free | Read Kit's **Inner Life & Evolution** before writing. Hard Exclusions (no dice, spell names, stats, player names, session refs) are auditable — S24 scripted the check. Stated length band 600–1000 words, 1200 for heavy sessions |
 | **session-index-generator** | Skill | Builds the public session index | `Workflows/scripts/generate_public_session_index.mjs` | 2026-08-30 | Free | Ported here from aftermath-atlas |
 | **septentrion-sync** | Skill | Feeds handoff state to the vault + SystemHorizon heartbeat | `~/.claude/skills/septentrion-sync` | 2026-09-02 | Free | In both `REPOS` and `TOOLS_REPOS` |
 
