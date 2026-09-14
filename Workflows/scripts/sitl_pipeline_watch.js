@@ -244,32 +244,78 @@ function buildPrompt(templateName, vars) {
 const CLAUDE_TIMEOUT_MIN = Number(process.env.SITL_CLAUDE_TIMEOUT_MIN) || 90;
 const CLAUDE_TIMEOUT_MS  = CLAUDE_TIMEOUT_MIN * 60 * 1000;
 
-// Pipe a prompt file into headless Claude Code, running in the vault root
-function runClaude(promptFile) {
-  const cmd = `${catCmd} "${promptFile}" | claude -p ${CLAUDE_FLAGS}`;
-  const r = spawnSync(cmd, {
-    cwd: VAULT_ROOT, shell: true, stdio: 'inherit',
-    timeout: CLAUDE_TIMEOUT_MS, killSignal: 'SIGKILL',
-  });
-
-  // A timeout is NOT the same as a crash, and on Windows it is worse than it
-  // looks: spawnSync only kills the shell it started, so the `claude` process
-  // underneath survives and keeps writing to the vault. Say so plainly instead
-  // of reporting a generic failure.
-  if (r.error && r.error.code === 'ETIMEDOUT') {
-    log(`runClaude TIMED OUT after ${CLAUDE_TIMEOUT_MIN} min.`);
-    log('WARNING: the underlying `claude` process is probably STILL RUNNING and');
-    log('still writing to the vault. Check for orphans before re-running:');
-    log('  powershell -Command "Get-Process claude,node | Sort-Object StartTime"');
-    log(`Raise the limit with SITL_CLAUDE_TIMEOUT_MIN if this leg is legitimately slow.`);
-    return false;
+// Kill a process AND everything it spawned.
+//
+// This is the whole reason runClaude is async. `spawnSync`'s own timeout sends
+// a signal to the shell it started and nothing else, so on Windows the `claude`
+// process underneath survives, keeps running, and keeps writing to the vault
+// long after the watcher has declared the leg failed. S24 is the worked
+// example: the shell was killed at 15:31:47 and the orphan went on writing
+// until 15:44. `taskkill /T` walks the child tree, which `process.kill` cannot.
+function killTree(pid) {
+  if (!pid) return false;
+  if (isWin) {
+    const r = spawnSync('taskkill', ['/PID', String(pid), '/T', '/F'], { stdio: 'ignore' });
+    if (r.error) { log(`killTree: taskkill failed to run: ${r.error.message}`); return false; }
+    // 128 = "process not found", i.e. it exited on its own between the timeout
+    // firing and taskkill running. That is a success for our purposes.
+    if (r.status !== 0 && r.status !== 128) {
+      log(`killTree: taskkill exited ${r.status} for PID ${pid} — the tree may have survived.`);
+      return false;
+    }
+    return true;
   }
-  if (r.error) { log(`runClaude failed: ${r.error.message}`); return false; }
-  return r.status === 0;
+  // POSIX: negative pid signals the whole process group.
+  try { process.kill(-pid, 'SIGKILL'); return true; }
+  catch { try { process.kill(pid, 'SIGKILL'); return true; } catch { return false; } }
+}
+
+// Pipe a prompt file into headless Claude Code, running in the vault root.
+// Resolves true on a clean exit, false on failure or timeout. Never rejects —
+// every caller treats it as a boolean gate.
+function runClaude(promptFile) {
+  return new Promise((resolve) => {
+    const cmd = `${catCmd} "${promptFile}" | claude -p ${CLAUDE_FLAGS}`;
+    const child = spawn(cmd, { cwd: VAULT_ROOT, shell: true, stdio: 'inherit' });
+
+    let timedOut = false;
+    let killed = false;
+
+    const timer = setTimeout(() => {
+      timedOut = true;
+      log(`runClaude TIMED OUT after ${CLAUDE_TIMEOUT_MIN} min — killing the process tree.`);
+      killed = killTree(child.pid);
+    }, CLAUDE_TIMEOUT_MS);
+
+    child.on('error', (err) => {
+      clearTimeout(timer);
+      log(`runClaude failed to start: ${err.message}`);
+      resolve(false);
+    });
+
+    child.on('close', (code) => {
+      clearTimeout(timer);
+      if (timedOut) {
+        if (killed) {
+          log('The tree was killed. Nothing should still be writing to the vault,');
+          log('but the leg only got part-way, so its output is INCOMPLETE — treat');
+          log('any files it left in _pipeline/ as partial.');
+        } else {
+          log('WARNING: the tree could NOT be confirmed dead. A `claude` process may');
+          log('still be running and still writing to the vault. Check before re-running:');
+          log('  powershell -Command "Get-Process claude,node | Sort-Object StartTime"');
+        }
+        log(`Raise the limit with SITL_CLAUDE_TIMEOUT_MIN if this leg is legitimately slow.`);
+        resolve(false);
+        return;
+      }
+      resolve(code === 0);
+    });
+  });
 }
 
 // ── WATCH-MODE handler: new recording → transcribe → Phase A → stop ──
-function processRecording(mp3) {
+async function processRecording(mp3) {
   banner(`New recording: ${path.basename(mp3)}`);
 
   const sess = nextSession(mp3);
@@ -319,7 +365,7 @@ function processRecording(mp3) {
     TRANSCRIPT_PATH: transcript, NN: sess.nn, DATE: sess.mmddyy,
     ISO_DATE: sess.iso, PIPELINE_DIR: pdir,
   });
-  const ok = runClaude(prompt);
+  const ok = await runClaude(prompt);
 
   if (!ok) { setStage('phaseA', 'failed', 'See watcher.log'); return notify('Phase A FAILED — see _pipeline\\watcher.log.'); }
 
@@ -368,7 +414,7 @@ function publishToSite(nn) {
   return true;
 }
 
-function approve() {
+async function approve() {
   const statePath = path.join(PIPELINE_DIR, 'state.json');
   if (!fs.existsSync(statePath)) return log('No pending session to approve.');
   const st = JSON.parse(fs.readFileSync(statePath, 'utf8'));
@@ -406,7 +452,7 @@ function approve() {
     TRANSCRIPT_PATH: st.transcript, NN: st.nn, DATE: st.mmddyy,
     ISO_DATE: st.iso, PIPELINE_DIR: pdir,
   });
-  if (!runClaude(pB)) { setStage('phaseB', 'failed', 'See console output above'); process.exitCode = 1; return notify('Phase B FAILED — see console output above.'); }
+  if (!(await runClaude(pB))) { setStage('phaseB', 'failed', 'See console output above'); process.exitCode = 1; return notify('Phase B FAILED — see console output above.'); }
   setStage('phaseB', 'done');
 
   log('Convo 2: propagating across the vault + git push…');
@@ -414,7 +460,7 @@ function approve() {
   const p2 = buildPrompt('convo2_propagate.md', {
     NN: st.nn, ISO_DATE: st.iso, PIPELINE_DIR: pdir,
   });
-  if (!runClaude(p2)) { setStage('convo2', 'failed', 'See console output above'); process.exitCode = 1; return notify('Convo 2 FAILED — see console output above.'); }
+  if (!(await runClaude(p2))) { setStage('convo2', 'failed', 'See console output above'); process.exitCode = 1; return notify('Convo 2 FAILED — see console output above.'); }
   setStage('convo2', 'done', 'Synced + pushed');
 
   log('Publish: regenerating the site index + pushing…');
@@ -432,7 +478,16 @@ function approve() {
 }
 
 // ── MAIN ──
-if (process.argv.includes('--approve')) { approve(); process.exit(process.exitCode || 0); }
+// approve() is async now, so the exit has to wait on the promise. Exiting
+// synchronously here would have killed the approve leg the instant it started.
+// Top-level `return` is legal in a CommonJS module (Node wraps the file in a
+// function) and keeps the watch-mode setup below from running in approve mode.
+if (process.argv.includes('--approve')) {
+  approve()
+    .catch((e) => { log(`approve failed: ${e.stack || e.message}`); process.exitCode = 1; })
+    .finally(() => process.exit(process.exitCode || 0));
+  return;
+}
 
 fs.mkdirSync(PIPELINE_DIR, { recursive: true });
 banner('SITL Pipeline Watcher — Option B  (watching for new .mp3)');
@@ -450,7 +505,12 @@ chokidar
     if (!p.toLowerCase().endsWith('.mp3')) return; // chokidar v4 dropped globs — filter ourselves
     if (seen.has(p)) return;
     seen.add(p);
-    processRecording(p);
+    // processRecording is async; an unhandled rejection here would take the
+    // whole watcher down and it would stop noticing new recordings silently.
+    processRecording(p).catch((e) => {
+      log(`processRecording failed: ${e.stack || e.message}`);
+      notify(`Pipeline error on ${path.basename(p)}: ${e.message}`);
+    });
   })
   .on('error', (e) => {
     log(`Watcher error: ${e.message}`);
