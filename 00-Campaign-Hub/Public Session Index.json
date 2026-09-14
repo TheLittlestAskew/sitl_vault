@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T16:38:35.237Z",
+  "generated_at": "2026-09-14T18:05:25.254Z",
   "first_published_session": "20",
   "all_sessions": [
     {
@@ -94,6 +94,10 @@
     {
       "n": "23",
       "d": "2026-08-30"
+    },
+    {
+      "n": "24",
+      "d": "2026-09-13"
     }
   ],
   "sessions": [
@@ -162,6 +166,25 @@
         "The merfolk pantheon takes notice while the party sleeps; each PC is given their own soul realm, and a shared dream in Amanita's ocean stops a corrupt tidal wave.",
         "Kit meets her ghost army at peace, her Doll made flesh, and learns her family's deity is the Wild Mother — gaining understanding of Sylvan and Druidic.",
         "Waking changes the physical bastion: Amanita's food forest, Blarg's goblin moon-shrine, Darby's axe beak hippogriff, Aeolus's stolen archfey plot in the Feydark."
+      ]
+    },
+    {
+      "n": "24",
+      "t": "Go Away, Demogorgon",
+      "d": "2026-09-13",
+      "lbl": "September 13, 2026",
+      "lbl_short": "Sep 13, 2026",
+      "f": "01-Sessions/Session%2024%20%E2%80%94%20Go%20Away,%20Demogorgon.md",
+      "r": "The Starlit Grotto",
+      "arc": "Four dream sequences → the first Bastion turn → the first exploration east",
+      "wp": "The uncharted mushroom cove",
+      "ev": [
+        "Kit's dream is a battlefield of children; she reaches four levels of madness and takes her first long-term madness — thirty hours of compulsive repetition.",
+        "Blarg's dream reveals he was born a dwarf underground and carried out by the goblin shaman who raised him; the whole party joins the dream and pushes Demogorgon out of it.",
+        "Addison opens 2024 DMG Chapter 8 and grants the party their first bastion; the first Bastion turn doubles the grotto's food and medicine and raises a moon shrine to Selûne.",
+        "Echo bullies Aeolus awake to grow wine; Naos laughs at him from inside Aeolus's head.",
+        "Amanita cures Kit's madness with Lesser Restoration; Indigo asks Kit to stand beside him when he fights the Six Fingered man.",
+        "Exploring east, the party finds a homebrew fungus no one can control, Darby is caught in webbing, and a divine shrine is pinpointed but not reached — hard cliffhanger."
       ]
     }
   ]
