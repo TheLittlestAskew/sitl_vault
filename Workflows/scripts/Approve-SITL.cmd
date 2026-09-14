@@ -8,7 +8,7 @@ echo.
 "C:\Program Files\nodejs\node.exe" sitl_pipeline_watch.js --approve
 echo.
 if errorlevel 1 (
-  echo FAILED — see _pipeline\watcher.log for details.
+  echo FAILED - see _pipeline\watcher.log for details.
 ) else (
   echo Done. You can close this window.
 )

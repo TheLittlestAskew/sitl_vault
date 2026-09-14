@@ -66,8 +66,34 @@ const CLAUDE_FLAGS = '--permission-mode acceptEdits';
 const isWin  = process.platform === 'win32';
 const catCmd = isWin ? 'type' : 'cat';
 
+// Never swallow a logging failure. An orphaned run from a previous session can
+// hold watcher.log open indefinitely (seen 2026-09-13: the log silently froze on
+// 09-09 while every error message said "see watcher.log for details"). If the
+// primary log is unwritable, fall back to a per-run file and say so on console
+// ONCE, so the diagnostics still land somewhere.
+let logFallback = null;
+let logFallbackAnnounced = false;
+
 function fileLog(s) {
-  try { fs.mkdirSync(PIPELINE_DIR, { recursive: true }); fs.appendFileSync(LOG_FILE, s + '\r\n'); } catch {}
+  try { fs.mkdirSync(PIPELINE_DIR, { recursive: true }); } catch {}
+  try {
+    fs.appendFileSync(LOG_FILE, s + '\r\n');
+    return;
+  } catch (err) {
+    if (!logFallback) {
+      const stamp = new Date().toISOString().replace(/[:.]/g, '-');
+      logFallback = path.join(PIPELINE_DIR, `watcher-${stamp}.log`);
+    }
+    if (!logFallbackAnnounced) {
+      logFallbackAnnounced = true;
+      console.error(
+        `\n[!] Cannot write ${LOG_FILE}: ${err.message}\n` +
+        `[!] Usually a stale watcher/claude process is still holding it open.\n` +
+        `[!] Logging to ${logFallback} instead.\n`
+      );
+    }
+    try { fs.appendFileSync(logFallback, s + '\r\n'); } catch {}
+  }
 }
 const log    = (m) => { const s = `[${new Date().toLocaleTimeString()}] ${m}`; console.log(s); fileLog(s); };
 const banner = (m) => { const s = '\n' + '═'.repeat(64) + `\n  ${m}\n` + '═'.repeat(64); console.log(s + '\n'); fileLog(s); };
@@ -211,10 +237,33 @@ function buildPrompt(templateName, vars) {
   return out;
 }
 
+// How long a single headless Claude leg may run before we give up on it.
+// The old value was 20 minutes, which was simply too short: S24's Phase B ran
+// 32 minutes (3:11:47 -> 3:44) and was killed at exactly 20:00 even though it
+// went on to finish its work correctly. Override with SITL_CLAUDE_TIMEOUT_MIN.
+const CLAUDE_TIMEOUT_MIN = Number(process.env.SITL_CLAUDE_TIMEOUT_MIN) || 90;
+const CLAUDE_TIMEOUT_MS  = CLAUDE_TIMEOUT_MIN * 60 * 1000;
+
 // Pipe a prompt file into headless Claude Code, running in the vault root
 function runClaude(promptFile) {
   const cmd = `${catCmd} "${promptFile}" | claude -p ${CLAUDE_FLAGS}`;
-  const r = spawnSync(cmd, { cwd: VAULT_ROOT, shell: true, stdio: 'inherit', timeout: 20 * 60 * 1000, killSignal: 'SIGKILL' });
+  const r = spawnSync(cmd, {
+    cwd: VAULT_ROOT, shell: true, stdio: 'inherit',
+    timeout: CLAUDE_TIMEOUT_MS, killSignal: 'SIGKILL',
+  });
+
+  // A timeout is NOT the same as a crash, and on Windows it is worse than it
+  // looks: spawnSync only kills the shell it started, so the `claude` process
+  // underneath survives and keeps writing to the vault. Say so plainly instead
+  // of reporting a generic failure.
+  if (r.error && r.error.code === 'ETIMEDOUT') {
+    log(`runClaude TIMED OUT after ${CLAUDE_TIMEOUT_MIN} min.`);
+    log('WARNING: the underlying `claude` process is probably STILL RUNNING and');
+    log('still writing to the vault. Check for orphans before re-running:');
+    log('  powershell -Command "Get-Process claude,node | Sort-Object StartTime"');
+    log(`Raise the limit with SITL_CLAUDE_TIMEOUT_MIN if this leg is legitimately slow.`);
+    return false;
+  }
   if (r.error) { log(`runClaude failed: ${r.error.message}`); return false; }
   return r.status === 0;
 }
