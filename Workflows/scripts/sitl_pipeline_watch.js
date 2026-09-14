@@ -374,6 +374,18 @@ function approve() {
   const st = JSON.parse(fs.readFileSync(statePath, 'utf8'));
   const pdir = st.pendingFolder;
 
+  // Refuse to re-run a session that already finished. Phase B APPLIES the
+  // spell-check corrections to the transcript, so running it twice edits an
+  // already-corrected file. state.json is the only thing standing between a
+  // stray double-click of Approve-SITL.cmd and a corrupted transcript.
+  if (st.stage === 'complete' && !process.argv.includes('--force')) {
+    log(`Session ${st.nn} is already complete — nothing to approve.`);
+    log('Phase B re-applies corrections to the transcript, so this is a no-op by');
+    log('design. If you genuinely need to re-run it, pass --force (and be aware');
+    log('the transcript will be corrected a second time).');
+    return;
+  }
+
   // The window may have been closed, or this --approve run is a fresh process
   // whose status.json predates it / belongs to another session. Re-seed so the
   // earlier (already-finished) legs read as done before we light up Phase B.
